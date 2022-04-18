@@ -2,7 +2,7 @@ from scrapy import Request, Selector
 from scrapy.spiders.crawl import CrawlSpider
 
 
-# TODO: document this file
+# TODO: document this file (mypy & flake8 should complain more)
 class ReefLifeSurveySpider(CrawlSpider):
     name = "rls"
     allowed_domains = ["reeflifesurvey.com"]

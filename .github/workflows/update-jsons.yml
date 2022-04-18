@@ -49,12 +49,12 @@ jobs:
             --set USER_AGENT="Scrapy-RLS-API (+https://reeflifesurvey.com/)"
 
       - name: Create API files
-        run: poetry run rls-data create-api-files data/rls-site-crawl.json data/rls-surveys/ output-new/
+        run: poetry run rls-data create-api-jsons data/rls-site-crawl.json data/rls-surveys/ output-tmp/
 
       - name: Commit API files
         run: |
           mkdir -p output/
-          cp output-new/*.json output/
+          cp output-tmp/*.json output/
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
           git add output/

@@ -1,4 +1,3 @@
-# TODO: black and isort, etc. (in pre-commit + action check?)
 import json
 import logging
 from pathlib import Path
@@ -162,7 +161,6 @@ def _create_species_file(survey_data, species_id_to_name, crawl_data, dst_dir):
     _write_jsons(dst_dir, name_prefix="api-species", data=api_species, data_desc=f"{len(api_species)} species")
 
 
-# TODO: update expectations based on new server files
 def create_api_jsons(
     crawl_json_path: Path,
     survey_data_dir: Path,
