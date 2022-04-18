@@ -1,3 +1,4 @@
+"""Package CLI entry point."""
 import logging
 
 import defopt

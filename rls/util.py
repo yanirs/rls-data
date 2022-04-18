@@ -1,3 +1,4 @@
+"""Various utilities."""
 from pathlib import Path
 
 

@@ -67,6 +67,7 @@ repos:
         'flake8-class-attributes-order',
         'flake8-keyword-arguments',
         'dlint',
+        'flake8-docstrings',
       ]
 
 - repo: https://github.com/pre-commit/mirrors-mypy

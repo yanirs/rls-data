@@ -1,3 +1,5 @@
+"""Constants for use in other files."""
+
 # Cryptic fish families that are recorded on both M1 and M2.
 CRYPTIC_FAMILIES = {
     "Agonidae",

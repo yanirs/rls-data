@@ -1,3 +1,4 @@
+"""Survey data downloader."""
 import logging
 from pathlib import Path
 
