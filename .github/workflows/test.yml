@@ -1,32 +1,35 @@
-name: test
+name: Pre-commit checks & tests
 
-on: [push, pull_request]
+on:
+  pull_request:
+  push:
+    branches:
+      - master
 
 jobs:
   build:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        python-version: [3.10]
+        python-version: ["3.10"]
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       - name: Set up Python ${{ matrix.python-version }}
-        uses: actions/setup-python@v1
+        uses: actions/setup-python@v3
         with:
           python-version: ${{ matrix.python-version }}
 
       - name: Set up cache
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         id: cache
         with:
           path: |
             .venv
             ~/.poetry
             ~/.cache
-          key: venv-${{ matrix.python-version }}-${{ hashFiles('poetry.lock') }}
-
+          key: venv-${{ matrix.python-version }}-${{ hashFiles('poetry.lock', '.pre-commit-config.yaml') }}
 
       - name: Install poetry
         run: |
@@ -39,14 +42,12 @@ jobs:
           poetry config virtualenvs.in-project true
           poetry install
 
-      - name: Run checks
+      - name: Run pre-commit
+        run: |
+          source "$HOME/.poetry/env"
+          poetry run pre-commit run --all-files
+
+      - name: Run tests
         run: |
           source "$HOME/.poetry/env"
           poetry run pytest
-
-      # Uncomment this lines if you wish to upload coverage to codecov:
-      # https://codecov.io/
-      # - name: Upload coverage to Codecov
-      #   uses: codecov/codecov-action@v1
-      #   with:
-      #     file: ./coverage.xml
