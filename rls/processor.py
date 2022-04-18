@@ -1,6 +1,7 @@
 import json
 import logging
 from pathlib import Path
+from typing import Any
 
 import pandas as pd
 
@@ -16,7 +17,7 @@ class _DataTypeCode:
     BOTH = 2
 
 
-def _read_survey_data(survey_data_dir: Path) -> tuple[pd.DataFrame, dict]:
+def _read_survey_data(survey_data_dir: Path) -> tuple[pd.DataFrame, dict[int, str]]:
     """Read the RLS survey data from the files in survey_data_dir (as downloaded by rls.download_survey_data)."""
     survey_file_paths = list(survey_data_dir.glob("*.csv"))
     if len(survey_file_paths) != 3:
@@ -90,9 +91,9 @@ def _read_survey_data(survey_data_dir: Path) -> tuple[pd.DataFrame, dict]:
     return survey_data, species_id_to_name
 
 
-def _write_jsons(dst_dir, name_prefix, data, data_desc):
+def _write_jsons(dst_dir: Path, name_prefix: str, data: Any, data_desc: str) -> None:
     """Write the same data twice: As a pretty-printed JSON and a minified JSON."""
-    suffix_to_json_kwargs: dict[str, dict] = {
+    suffix_to_json_kwargs: dict[str, dict[str, Any]] = {
         ".json": dict(indent=2),
         ".min.json": dict(separators=(",", ":")),
     }
@@ -130,7 +131,9 @@ def _create_site_summaries(survey_data: pd.DataFrame, dst_dir: Path) -> None:
     _write_jsons(dst_dir, name_prefix="api-site-surveys", data=site_summaries, data_desc=f"{len(site_summaries)} sites")
 
 
-def _create_species_file(survey_data, species_id_to_name, crawl_data, dst_dir):
+def _create_species_file(
+    survey_data: pd.DataFrame, species_id_to_name: dict[int, str], crawl_data: dict[str, dict[str, Any]], dst_dir: Path
+) -> None:
     """
     Create the species summary from the given data and write them in API JSON format to dst_dir.
 
