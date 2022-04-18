@@ -12,17 +12,31 @@ jobs:
           repository: ${{ github.event.pull_request.head.repo.full_name }}
           ref: ${{ github.event.pull_request.head.ref }}
 
-      - name: Install poetry
-        run: pipx install poetry
-
       - name: Set up Python
         uses: actions/setup-python@v3
         with:
-          python-version: '3.10'
-          cache: poetry
+          python-version: "3.10"
+
+      - name: Set up cache
+        uses: actions/cache@v3
+        id: cache
+        with:
+          path: |
+            .venv
+            ~/.poetry
+            ~/.cache
+          key: venv-${{ hashFiles('poetry.lock', '.pre-commit-config.yaml') }}
+
+      - name: Install poetry
+        run: |
+          curl -sSL \
+            "https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py" | python
 
       - name: Install dependencies
-        run: poetry install
+        run: |
+          source "$HOME/.poetry/env"
+          poetry config virtualenvs.in-project true
+          poetry install
 
       - name: Download RLS survey data
         run: poetry run rls-data download-survey-data data/rls-surveys/
