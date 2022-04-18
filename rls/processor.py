@@ -93,14 +93,18 @@ def _read_survey_data(survey_data_dir: Path) -> tuple[pd.DataFrame, dict]:
 
 def _write_jsons(dst_dir, name_prefix, data, data_desc):
     """Write the same data twice: As a pretty-printed JSON and a minified JSON."""
-    for suffix, json_kwargs in [(".json", dict(indent=2)), (".min.json", dict(separators=(",", ":")))]:
+    suffix_to_json_kwargs: dict[str, dict] = {
+        ".json": dict(indent=2),
+        ".min.json": dict(separators=(",", ":")),
+    }
+    for suffix, json_kwargs in suffix_to_json_kwargs.items():
         out_path = dst_dir / f"{name_prefix}{suffix}"
         _logger.info("Writing %s to %s", data_desc, out_path)
         with open(out_path, "w") as fp:
             json.dump(data, fp, **json_kwargs)
 
 
-def _create_site_summaries(survey_data: pd.DataFrame, dst_dir: Path):
+def _create_site_summaries(survey_data: pd.DataFrame, dst_dir: Path) -> None:
     """
     Create the site summaries from survey_data and write them in API JSON format to dst_dir.
 
@@ -165,7 +169,7 @@ def create_api_jsons(
     dst_dir: Path,
     min_expected_crawl_items: int = 4_900,
     min_expected_survey_rows: int = 810_000,
-):
+) -> None:
     """Convert the crawl output to the API JSONs used by the RLS tools."""
     verify_empty_dir(dst_dir)
     _logger.info("Reading data.")

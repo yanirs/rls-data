@@ -74,3 +74,4 @@ repos:
   hooks:
     - id: mypy
       args: [--ignore-missing-imports, --check-untyped-defs, --disallow-incomplete-defs]
+      additional_dependencies: [types-requests==2.27.19]
