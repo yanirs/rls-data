@@ -1,0 +1,48 @@
+name: Update JSONs
+on: [pull_request]  # TODO: this should be a schedule once everything is ready
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v3
+        # See https://github.com/marketplace/actions/add-commit#working-with-prs
+        # TODO: remove when it becomes a scheduled action?
+        with:
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.event.pull_request.head.ref }}
+
+      - name: Install poetry
+        run: pipx install poetry
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.10'
+          cache: poetry
+
+      - name: Install dependencies
+        run: poetry install
+
+      - name: Download RLS survey data
+        run: poetry run rls-data download-survey-data data/rls-surveys/
+
+      - name: Crawl RLS species data
+        run: |
+          poetry run scrapy runspider rls/scraper.py \
+            --overwrite-output data/rls-site-crawl.json \
+            --loglevel INFO \
+            --set USER_AGENT="Scrapy-RLS-API (+https://reeflifesurvey.com/)"
+
+      - name: Create API files
+        run: poetry run rls-data create-api-files data/rls-site-crawl.json data/rls-surveys/ output-new/
+
+      - name: Commit API files
+        run: |
+          mkdir -p output/
+          cp output-new/*.json output/
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+          git add output/
+          git commit -m "Update API files"
+          git push
