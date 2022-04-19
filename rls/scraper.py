@@ -1,8 +1,7 @@
 """Scrapy-based scraper for the RLS website."""
-from typing import Generator
+from typing import Any, Generator
 
 import scrapy.http
-from pyasn1.type.univ import Any
 from scrapy import Request, Selector
 from scrapy.spiders.crawl import CrawlSpider
 
