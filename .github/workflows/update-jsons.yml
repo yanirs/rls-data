@@ -1,0 +1,73 @@
+name: Update JSONs
+on:
+  pull_request:
+  schedule:
+    - cron: '23 6 * * 2'  # At 06:23 on Tuesday UTC.
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # See https://github.com/marketplace/actions/add-commit#working-with-prs for why two steps are needed.
+      - name: Check out repository code (scheduled)
+        uses: actions/checkout@v3
+        if: ${{ github.event_name != 'pull_request' }}
+
+      - name: Check out repository code (PR)
+        uses: actions/checkout@v3
+        if: ${{ github.event_name == 'pull_request' }}
+        with:
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.event.pull_request.head.ref }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.10"
+
+      - name: Set up cache
+        uses: actions/cache@v3
+        id: cache
+        with:
+          path: |
+            .venv
+            ~/.poetry
+            ~/.cache
+          key: venv-${{ hashFiles('poetry.lock', '.pre-commit-config.yaml') }}
+
+      - name: Install poetry
+        run: |
+          curl -sSL \
+            "https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py" | python
+          echo $HOME/.poetry/bin >> $GITHUB_PATH
+
+      - name: Install dependencies
+        run: |
+          poetry config virtualenvs.in-project true
+          poetry install
+
+      - name: Download RLS survey data
+        run: poetry run rls-data download-survey-data data/rls-surveys/
+
+      - name: Crawl RLS species data
+        run: |
+          poetry run scrapy runspider rls/scraper.py \
+            --overwrite-output data/rls-site-crawl.json \
+            --loglevel INFO \
+            --set USER_AGENT="Scrapy-RLS-API (+https://reeflifesurvey.com/)"
+
+      - name: Create API files
+        run: poetry run rls-data create-api-jsons data/rls-site-crawl.json data/rls-surveys/ output-tmp/
+
+      - name: Commit API files
+        run: |
+          mkdir -p output/
+          cp output-tmp/*.json output/
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "GitHub Actions Bot"
+            git config user.email "<>"
+            git add output/
+            git commit -m "Update API files"
+            git push
+          else
+            echo "The API files haven't changed"
+          fi

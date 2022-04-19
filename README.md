@@ -1,10 +1,18 @@
 # Reef Life Survey data processor
 
-## Installation
+Processing functionality to produce JSONs for [Reef Life Survey tools(https://yanirseroussi.com/tags/reef-life-survey/).
 
-Run
+## Setup
 
-```
-poetry install
-poetry run pre-commit install
-```
+Run:
+
+    $ poetry install
+    $ poetry run pre-commit install
+
+## Command line interface
+
+Run `rls-data` for available commands:
+
+    $ poetry run rls-data --help
+
+See `.github/workflows/update-jsons.yml` for the update flow example.
