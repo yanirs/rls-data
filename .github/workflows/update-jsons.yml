@@ -1,13 +1,20 @@
 name: Update JSONs
-on: [pull_request]  # TODO: this should be a schedule once everything is ready
+on:
+  pull_request:
+  schedule:
+    - cron: '23 6 * * 2'  # At 06:23 on Tuesday UTC.
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository code
+      # See https://github.com/marketplace/actions/add-commit#working-with-prs for why two steps are needed.
+      - name: Check out repository code (scheduled)
         uses: actions/checkout@v3
-        # See https://github.com/marketplace/actions/add-commit#working-with-prs
-        # TODO: remove when it becomes a scheduled action?
+        if: ${{ github.event_name != 'pull_request' }}
+
+      - name: Check out repository code (PR)
+        uses: actions/checkout@v3
+        if: ${{ github.event_name == 'pull_request' }}
         with:
           repository: ${{ github.event.pull_request.head.repo.full_name }}
           ref: ${{ github.event.pull_request.head.ref }}
@@ -55,8 +62,12 @@ jobs:
         run: |
           mkdir -p output/
           cp output-tmp/*.json output/
-          git config user.name "GitHub Actions Bot"
-          git config user.email "<>"
-          git add output/
-          git commit -m "Update API files"
-          git push
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "GitHub Actions Bot"
+            git config user.email "<>"
+            git add output/
+            git commit -m "Update API files"
+            git push
+          else
+            echo "The API files haven't changed"
+          fi
