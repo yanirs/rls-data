@@ -26,6 +26,7 @@ def _read_survey_data(survey_data_dir: Path) -> tuple[pd.DataFrame, dict[int, st
 
     subset_dfs = []
     for data_file_path in survey_file_paths:
+        # TODO: figure out why this messes up Bahía in CHILE2 and elsewhere
         subset_df = pd.read_csv(
             data_file_path,
             usecols=[
