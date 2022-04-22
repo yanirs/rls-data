@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: '23 6 * * 2'  # At 06:23 on Tuesday UTC.
 jobs:
-  build:
+  update-jsons:
     runs-on: ubuntu-latest
     steps:
       # See https://github.com/marketplace/actions/add-commit#working-with-prs for why two steps are needed.
