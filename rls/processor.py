@@ -28,49 +28,18 @@ def _read_survey_data(survey_data_dir: Path) -> tuple[pd.DataFrame, dict[int, st
     for data_file_path in survey_file_paths:
         subset_df = pd.read_csv(
             data_file_path,
-            header=0,
-            names=[
-                "fid",
-                "key",
-                "survey_id",
-                "country",
-                "ecoregion",
-                "realm",
-                "site_code",
-                "site",
-                "site_lat",
-                "site_long",
-                "survey_date",
-                "depth",
-                "species_phylum",
-                "species_class",
-                "species_family",
-                "species_taxon",
-                "block",
-                "total",
-                "diver",
-                "geom",
-            ],
             usecols=[
                 "survey_id",
                 "ecoregion",
                 "realm",
                 "site_code",
-                "site",
-                "species_class",
-                "species_family",
-                "species_taxon",
-                "geom",
+                "site_name",
+                "class",
+                "family",
+                "species_name",
+                "latitude",
+                "longitude",
             ],
-        )
-        subset_df.rename(
-            columns={
-                "site": "site_name",
-                "species_class": "class",
-                "species_family": "family",
-                "species_taxon": "species_name",
-            },
-            inplace=True,
         )
         _logger.info("Read %d rows from %s", len(subset_df), data_file_path)
         if data_file_path.name.startswith("m2_invert"):
@@ -112,17 +81,17 @@ def _create_site_summaries(survey_data: pd.DataFrame, dst_dir: Path) -> None:
 
     Two files will be created, api-site-surveys.json and api-site-surveys.min.json, where the latter is the same JSON
     as the former but without pretty-printing whitespace. The content of the files is the same mapping from site code
-    to [realm: str, ecoregion: str, site_name: str, lon: float, lat: float, num_surveys: int,
+    to [realm: str, ecoregion: str, site_name: str, longitude: float, latitude: float, num_surveys: int,
     species_id_to_num_surveys: dict[int, int]]
     """
     site_survey_counts = survey_data.groupby("site_code")["survey_id"].nunique()
     site_survey_counts.name = "num_surveys"
     site_infos = (
-        survey_data[["site_code", "realm", "ecoregion", "site_name", "geom"]].drop_duplicates().set_index("site_code")
+        survey_data[["site_code", "realm", "ecoregion", "site_name", "longitude", "latitude"]]
+        .drop_duplicates()
+        .set_index("site_code")
+        .join(site_survey_counts)
     )
-    site_coords = site_infos["geom"].str.replace(r"(POINT )|\(|\)", "", regex=True).str.split(expand=True).astype(float)
-    site_coords.columns = ["lon", "lat"]
-    site_infos = site_infos.join([site_coords, site_survey_counts]).drop(columns="geom")
     site_survey_species_counts = (
         survey_data.drop_duplicates(["survey_id", "species_id"]).groupby(["site_code", "species_id"]).size()
     )
