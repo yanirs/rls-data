@@ -1,6 +1,6 @@
 # Reef Life Survey data processor
 
-Processing functionality to produce JSONs for [Reef Life Survey tools(https://yanirseroussi.com/tags/reef-life-survey/).
+Processing functionality to produce JSONs for [Reef Life Survey tools](https://yanirseroussi.com/tags/reef-life-survey/).
 
 ## Setup
 
