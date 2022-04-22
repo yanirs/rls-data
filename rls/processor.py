@@ -63,6 +63,15 @@ def _read_survey_data(survey_data_dir: Path) -> tuple[pd.DataFrame, dict[int, st
                 "geom",
             ],
         )
+        subset_df.rename(
+            columns={
+                "site": "site_name",
+                "species_class": "class",
+                "species_family": "family",
+                "species_taxon": "species_name",
+            },
+            inplace=True,
+        )
         _logger.info("Read %d rows from %s", len(subset_df), data_file_path)
         if data_file_path.name.startswith("m2_invert"):
             subset_df["data_type_code"] = _DataTypeCode.M2
@@ -70,15 +79,15 @@ def _read_survey_data(survey_data_dir: Path) -> tuple[pd.DataFrame, dict[int, st
             subset_df["data_type_code"] = _DataTypeCode.M1
         subset_dfs.append(subset_df)
     survey_data = pd.concat(subset_dfs, ignore_index=True)
-    survey_data.dropna(subset=["species_taxon"], inplace=True)
-    species_id_to_name = dict(enumerate(sorted(survey_data["species_taxon"].unique())))
-    survey_data["species_id"] = survey_data["species_taxon"].map({v: k for k, v in species_id_to_name.items()})
+    survey_data.dropna(subset=["species_name"], inplace=True)
+    species_id_to_name = dict(enumerate(sorted(survey_data["species_name"].unique())))
+    survey_data["species_id"] = survey_data["species_name"].map({v: k for k, v in species_id_to_name.items()})
     survey_data.loc[
         (
-            survey_data["species_family"].isin(CRYPTIC_FAMILIES)
-            & ~survey_data["species_taxon"].str.match("^" + "|".join(M2_GENERA_EXCLUSIONS))
+            survey_data["family"].isin(CRYPTIC_FAMILIES)
+            & ~survey_data["species_name"].str.match("^" + "|".join(M2_GENERA_EXCLUSIONS))
         )
-        | survey_data["species_class"].isin(M1_INVERT_CLASSES),
+        | survey_data["class"].isin(M1_INVERT_CLASSES),
         "data_type_code",
     ] = _DataTypeCode.BOTH
     return survey_data, species_id_to_name
@@ -109,7 +118,7 @@ def _create_site_summaries(survey_data: pd.DataFrame, dst_dir: Path) -> None:
     site_survey_counts = survey_data.groupby("site_code")["survey_id"].nunique()
     site_survey_counts.name = "num_surveys"
     site_infos = (
-        survey_data[["site_code", "realm", "ecoregion", "site", "geom"]].drop_duplicates().set_index("site_code")
+        survey_data[["site_code", "realm", "ecoregion", "site_name", "geom"]].drop_duplicates().set_index("site_code")
     )
     site_coords = site_infos["geom"].str.replace(r"(POINT )|\(|\)", "", regex=True).str.split(expand=True).astype(float)
     site_coords.columns = ["lon", "lat"]
