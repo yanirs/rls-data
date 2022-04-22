@@ -127,7 +127,7 @@ def _create_site_summaries(survey_data: pd.DataFrame, dst_dir: Path) -> None:
     )
     site_summaries = {
         site_code: list(site_info.values()) + [site_survey_species_counts.loc[site_code].to_dict()]
-        for site_code, site_info in site_infos.to_dict("index").items()
+        for site_code, site_info in sorted(site_infos.to_dict("index").items())
     }
     _write_jsons(dst_dir, name_prefix="api-site-surveys", data=site_summaries, data_desc=f"{len(site_summaries)} sites")
 
