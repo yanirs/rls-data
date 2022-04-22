@@ -53,22 +53,14 @@ def _read_survey_data(survey_data_dir: Path) -> tuple[pd.DataFrame, dict[int, st
             ],
             usecols=[
                 "survey_id",
-                "country",
                 "ecoregion",
                 "realm",
                 "site_code",
                 "site",
-                "survey_date",
-                "depth",
-                "species_phylum",
                 "species_class",
                 "species_family",
                 "species_taxon",
-                "block",
-                "total",
                 "geom",
-                "survey_date",
-                "diver",
             ],
         )
         _logger.info("Read %d rows from %s", len(subset_df), data_file_path)
