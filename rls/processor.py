@@ -6,7 +6,7 @@ from typing import Any
 
 import pandas as pd
 
-from .constants import CRYPTIC_FAMILIES, M1_INVERT_CLASSES, M2_GENERA_EXCLUSIONS
+from .constants import CORRUPTED_SITE_NAME_CORRECTIONS, CRYPTIC_FAMILIES, M1_INVERT_CLASSES, M2_GENERA_EXCLUSIONS
 from .util import verify_empty_dir
 
 _logger = logging.getLogger("rls.processor")
@@ -60,6 +60,7 @@ def _read_survey_data(survey_data_dir: Path) -> tuple[pd.DataFrame, dict[int, st
         | survey_data["class"].isin(M1_INVERT_CLASSES),
         "data_type_code",
     ] = _DataTypeCode.BOTH
+    survey_data["site_name"].replace(CORRUPTED_SITE_NAME_CORRECTIONS, inplace=True)
     return survey_data, species_id_to_name
 
 
