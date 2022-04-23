@@ -6,7 +6,7 @@ from typing import Any
 
 import pandas as pd
 
-from .constants import CRYPTIC_FAMILIES, M1_INVERT_CLASSES, M2_GENERA_EXCLUSIONS
+from .constants import CORRUPTED_SITE_NAME_CORRECTIONS, CRYPTIC_FAMILIES, M1_INVERT_CLASSES, M2_GENERA_EXCLUSIONS
 from .util import verify_empty_dir
 
 _logger = logging.getLogger("rls.processor")
@@ -28,47 +28,17 @@ def _read_survey_data(survey_data_dir: Path) -> tuple[pd.DataFrame, dict[int, st
     for data_file_path in survey_file_paths:
         subset_df = pd.read_csv(
             data_file_path,
-            header=0,
-            names=[
-                "fid",
-                "key",
-                "survey_id",
-                "country",
-                "ecoregion",
-                "realm",
-                "site_code",
-                "site",
-                "site_lat",
-                "site_long",
-                "survey_date",
-                "depth",
-                "species_phylum",
-                "species_class",
-                "species_family",
-                "species_taxon",
-                "block",
-                "total",
-                "diver",
-                "geom",
-            ],
             usecols=[
                 "survey_id",
-                "country",
                 "ecoregion",
                 "realm",
                 "site_code",
-                "site",
-                "survey_date",
-                "depth",
-                "species_phylum",
-                "species_class",
-                "species_family",
-                "species_taxon",
-                "block",
-                "total",
-                "geom",
-                "survey_date",
-                "diver",
+                "site_name",
+                "class",
+                "family",
+                "species_name",
+                "latitude",
+                "longitude",
             ],
         )
         _logger.info("Read %d rows from %s", len(subset_df), data_file_path)
@@ -78,17 +48,18 @@ def _read_survey_data(survey_data_dir: Path) -> tuple[pd.DataFrame, dict[int, st
             subset_df["data_type_code"] = _DataTypeCode.M1
         subset_dfs.append(subset_df)
     survey_data = pd.concat(subset_dfs, ignore_index=True)
-    survey_data.dropna(subset=["species_taxon"], inplace=True)
-    species_id_to_name = dict(enumerate(sorted(survey_data["species_taxon"].unique())))
-    survey_data["species_id"] = survey_data["species_taxon"].map({v: k for k, v in species_id_to_name.items()})
+    survey_data.dropna(subset=["species_name"], inplace=True)
+    species_id_to_name = dict(enumerate(sorted(survey_data["species_name"].unique())))
+    survey_data["species_id"] = survey_data["species_name"].map({v: k for k, v in species_id_to_name.items()})
     survey_data.loc[
         (
-            survey_data["species_family"].isin(CRYPTIC_FAMILIES)
-            & ~survey_data["species_taxon"].str.match("^" + "|".join(M2_GENERA_EXCLUSIONS))
+            survey_data["family"].isin(CRYPTIC_FAMILIES)
+            & ~survey_data["species_name"].str.match("^" + "|".join(M2_GENERA_EXCLUSIONS))
         )
-        | survey_data["species_class"].isin(M1_INVERT_CLASSES),
+        | survey_data["class"].isin(M1_INVERT_CLASSES),
         "data_type_code",
     ] = _DataTypeCode.BOTH
+    survey_data["site_name"].replace(CORRUPTED_SITE_NAME_CORRECTIONS, inplace=True)
     return survey_data, species_id_to_name
 
 
@@ -111,17 +82,17 @@ def _create_site_summaries(survey_data: pd.DataFrame, dst_dir: Path) -> None:
 
     Two files will be created, api-site-surveys.json and api-site-surveys.min.json, where the latter is the same JSON
     as the former but without pretty-printing whitespace. The content of the files is the same mapping from site code
-    to [realm: str, ecoregion: str, site_name: str, lon: float, lat: float, num_surveys: int,
+    to [realm: str, ecoregion: str, site_name: str, longitude: float, latitude: float, num_surveys: int,
     species_id_to_num_surveys: dict[int, int]]
     """
     site_survey_counts = survey_data.groupby("site_code")["survey_id"].nunique()
     site_survey_counts.name = "num_surveys"
     site_infos = (
-        survey_data[["site_code", "realm", "ecoregion", "site", "geom"]].drop_duplicates().set_index("site_code")
+        survey_data[["site_code", "realm", "ecoregion", "site_name", "longitude", "latitude"]]
+        .drop_duplicates()
+        .set_index("site_code")
+        .join(site_survey_counts)
     )
-    site_coords = site_infos["geom"].str.replace(r"(POINT )|\(|\)", "", regex=True).str.split(expand=True).astype(float)
-    site_coords.columns = ["lon", "lat"]
-    site_infos = site_infos.join([site_coords, site_survey_counts]).drop(columns="geom")
     site_survey_species_counts = (
         survey_data.drop_duplicates(["survey_id", "species_id"]).groupby(["site_code", "species_id"]).size()
     )
