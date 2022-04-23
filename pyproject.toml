@@ -33,7 +33,6 @@ pre-commit = "^2.18.1"
 pytest = "^7.1.1"
 pytest-cov = "^3.0.0"
 pytest-mock = "^3.7.0"
-jupyter = "^1.0.0"
 
 [tool.poetry.scripts]
 rls-data = "rls:run_cli"
