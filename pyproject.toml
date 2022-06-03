@@ -27,6 +27,7 @@ defopt = "^6.3.0"
 pandas = "^1.4.2"
 requests = "^2.27.1"
 Scrapy = "^2.6.1"
+Pillow = "^9.1.1"
 
 [tool.poetry.dev-dependencies]
 pre-commit = "^2.18.1"

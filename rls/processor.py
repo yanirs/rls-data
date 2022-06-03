@@ -104,7 +104,11 @@ def _create_site_summaries(survey_data: pd.DataFrame, dst_dir: Path) -> None:
 
 
 def _create_species_file(
-    survey_data: pd.DataFrame, species_id_to_name: dict[int, str], crawl_data: dict[str, dict[str, Any]], dst_dir: Path
+    survey_data: pd.DataFrame,
+    species_id_to_name: dict[int, str],
+    crawl_data: dict[str, dict[str, Any]],
+    img_src_path: Path,
+    dst_dir: Path,
 ) -> None:
     """
     Create the species summary from the given data and write them in API JSON format to dst_dir.
@@ -113,6 +117,10 @@ def _create_species_file(
     former but without pretty-printing whitespace. The content of the files is the same mapping from the numeric species
     ID to [species_name: str, common_name: str, url: str, data_type_code: int (0 - M1, 1 - M2, 2 - both),
     image_urls: list[str]]
+
+    If the crawled species dicts contain an "images" key, it is assumed that the images were scraped to img_src_path.
+    In this case, the resulting image_urls will be of the form "/img/<species_slug>-<index>.<ext>". These paths will be
+    symlinked from dst_dir / "img" to the files in img_src_path.
     """
     # Sort the data by species_id and data_type_code and drop duplicates, so that species that have more than one data
     # type would get assigned 2 - both.
@@ -123,15 +131,27 @@ def _create_species_file(
         .set_index("species_id")["data_type_code"]
         .to_dict()
     )
+    dst_img_path = dst_dir / "img"
+    verify_empty_dir(dst_img_path)
     api_species = {}
     for species_id, species_name in species_id_to_name.items():
         species_dict = crawl_data.get(species_name, {})
+
+        if "images" in species_dict:
+            image_urls: list[str] = []
+            for image_dict in species_dict["images"]:
+                dst_img_filename = f"img/{species_dict['id_']}-{len(image_urls)}.{image_dict['path'].split('.')[-1]}"
+                (dst_dir / dst_img_filename).symlink_to(img_src_path / image_dict["path"])
+                image_urls.append(f"/{dst_img_filename}")
+        else:
+            image_urls = species_dict.get("image_urls", [])
+
         api_species[species_id] = [
             species_name,
             species_dict.get("common_name", ""),
             species_dict.get("url", None),
             species_id_to_data_type_code[species_id],
-            species_dict.get("image_urls", []),
+            image_urls,
         ]
     _write_jsons(dst_dir, name_prefix="api-species", data=api_species, data_desc=f"{len(api_species)} species")
 
@@ -145,16 +165,18 @@ def create_api_jsons(
 ) -> None:
     """Convert the crawl output to the API JSONs used by the RLS tools."""
     verify_empty_dir(dst_dir)
+    (dst_dir / "img").mkdir()
     _logger.info("Reading data.")
     with open(crawl_json_path) as fp:
         crawl_data = {species_dict["name"]: species_dict for species_dict in json.load(fp)}
     _logger.info("Read %d items from %s", len(crawl_data), crawl_json_path)
     if len(crawl_data) < min_expected_crawl_items:
         raise ValueError(f"Expected at least {min_expected_crawl_items} items, but found {len(crawl_data)}")
+    img_src_path = (crawl_json_path.parent / "img").resolve()
     survey_data, species_id_to_name = _read_survey_data(survey_data_dir)
     if len(survey_data) < min_expected_survey_rows:
         raise ValueError(f"Expected at least {min_expected_survey_rows} survey rows, but found {len(survey_data)}")
     _logger.info("Creating site summaries.")
     _create_site_summaries(survey_data, dst_dir)
     _logger.info("Creating species file.")
-    _create_species_file(survey_data, species_id_to_name, crawl_data, dst_dir)
+    _create_species_file(survey_data, species_id_to_name, crawl_data, img_src_path, dst_dir)
