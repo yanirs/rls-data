@@ -49,7 +49,8 @@ def _read_survey_data(survey_data_dir: Path) -> tuple[pd.DataFrame, dict[int, st
         subset_dfs.append(subset_df)
     survey_data = pd.concat(subset_dfs, ignore_index=True)
     survey_data.dropna(subset=["species_name"], inplace=True)
-    species_id_to_name = dict(enumerate(sorted(survey_data["species_name"].unique())))
+    survey_data.sort_values(["survey_id", "species_name"], inplace=True)
+    species_id_to_name = dict(enumerate(survey_data["species_name"].unique()))
     survey_data["species_id"] = survey_data["species_name"].map({v: k for k, v in species_id_to_name.items()})
     survey_data.loc[
         (
