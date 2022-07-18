@@ -4,10 +4,14 @@ Processing functionality to produce JSONs for [Reef Life Survey tools](https://y
 
 ## Setup
 
-Run:
+Develop locally:
 
     $ poetry install
     $ poetry run pre-commit install
+
+Or in a virtualbox:
+
+    $ vagrant up
 
 ## Command line interface
 
