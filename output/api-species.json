@@ -46,7 +46,7 @@
   "5": [
     "Loxorhynchus sp. [Puget]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/loxorhynchus-sp-puget/",
     1,
     []
   ],
@@ -3565,7 +3565,7 @@
   "367": [
     "Acanthodoris sp. [hudsoni]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/acanthodoris-sp-hudsoni/",
     1,
     []
   ],
@@ -11858,10 +11858,13 @@
   ],
   "1127": [
     "Hypoplectrodes sp. [Lord Howe]",
-    "",
-    null,
+    "Half-banded Perch",
+    "https://reeflifesurvey.com/species/hypoplectrodes-sp-lord-howe/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_30_573b074258f7f.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_e1_5aa229c6c6657.w1300.h866.jpg"
+    ]
   ],
   "1128": [
     "Ptereleotris zebra",
@@ -21849,9 +21852,13 @@
   "2111": [
     "Halichoeres sp. [brownfieldi]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/halichoeres-sp-brownfieldi/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_b9_5771ceb11b673.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_39_5745153766d0a.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_3e_574515333c1c6.w1300.h866.jpg"
+    ]
   ],
   "2112": [
     "Protoreaster nodulosus",
@@ -21879,9 +21886,12 @@
   "2115": [
     "Halichoeres sp. [orientalis]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/halichoeres-sp-orientalis/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_c9_574515caa4dd2.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_53_574515ce334d5.w1300.h866.jpg"
+    ]
   ],
   "2116": [
     "Chaetodon adiergastos",
@@ -22218,10 +22228,13 @@
   ],
   "2154": [
     "Elysia sp. [blue-lined]",
-    "",
-    null,
+    "Blue-lined Sea Slug, Blue spotted elysia",
+    "https://reeflifesurvey.com/species/elysia-sp-blue-lined/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_02_56fb25d5be8ba.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_de_5744c7db50d0c.w1300.h866.jpg"
+    ]
   ],
   "2155": [
     "Charybdis spp.",
@@ -24576,9 +24589,11 @@
   "2407": [
     "Enneapterygius sp. [Red Sea]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/enneapterygius-sp-red-sea/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_ba_5ae13db303c56.w1300.h866.jpg"
+    ]
   ],
   "2408": [
     "Plagiotremus townsendi",
@@ -24776,6 +24791,7 @@
     [
       "https://images.reeflifesurvey.com/0/species_74_5981e81b0e6d8.w1300.h866.jpg",
       "https://images.reeflifesurvey.com/0/species_a3_572815b1ba6c4.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/1/species_be_62ee5cd93ae65.w1300.h866.JPG",
       "https://images.reeflifesurvey.com/0/species_a1_572815c315333.w1300.h866.jpg",
       "https://images.reeflifesurvey.com/0/species_fd_57db52f0b4dcb.w1300.h866.JPG",
       "https://images.reeflifesurvey.com/0/species_dc_57adb44d524ed.w1300.h866.jpg"
@@ -26430,9 +26446,13 @@
   "2597": [
     "Apletodon sp. [dentatus]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/apletodon-sp-dentatus/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_ce_56f8b2aa836f1.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_7f_56f8b2cd4b6b1.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_7b_56f8b2d4c9b27.w1300.h866.jpg"
+    ]
   ],
   "2598": [
     "Galathea dispersa",
@@ -26602,9 +26622,13 @@
   "2615": [
     "Flabellina sp. [falklandica cf]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/flabellina-sp-falklandica-cf/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_53_57a145f5e3e2d.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/0/species_b6_57a145f91d8a3.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/0/species_7c_57a145fc1dcda.w1300.h866.JPG"
+    ]
   ],
   "2616": [
     "Loxechinus albus",
@@ -26711,7 +26735,7 @@
   "2625": [
     "Asteroidea sp. [red velvet]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/asteroidea-sp-red-velvet/",
     1,
     []
   ],
@@ -26904,9 +26928,11 @@
   "2642": [
     "Asteroidea sp. [grey five arms]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/asteroidea-sp-grey-five-arms/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_19_5753ad22b4aa0.w1300.h866.jpg"
+    ]
   ],
   "2643": [
     "Lithodes santolla",
@@ -26925,9 +26951,14 @@
   "2644": [
     "Nudibranchia sp. [white spots]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/nudibranchia-sp-white-spots/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_62_57a188f8bbbc5.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/0/species_be_57a188fd029c3.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/0/species_09_57a188f227eed.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/0/species_0e_57a188f562179.w1300.h866.JPG"
+    ]
   ],
   "2645": [
     "Austrolycus depressiceps",
@@ -26964,7 +26995,7 @@
   "2649": [
     "Holothuroidea sp. [white tentacles]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/holothuroidea-sp-white-tentacles/",
     1,
     []
   ],
@@ -26984,9 +27015,13 @@
   "2651": [
     "Patagonotothen sp. [wiltoni cf]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/patagonotothen-sp-wiltoni-cf/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_6a_57a27d890654c.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/0/species_d2_57a27d81af0a1.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/0/species_86_57a27d8570629.w1300.h866.JPG"
+    ]
   ],
   "2652": [
     "Adelomelon ancilla",
@@ -27031,9 +27066,11 @@
   "2656": [
     "Brachyura sp. [Puerto Williams]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/brachyura-sp-puerto-williams/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_30_57a125e213297.w1300.h866.JPG"
+    ]
   ],
   "2657": [
     "Lamellaria spp.",
@@ -33231,7 +33268,7 @@
   "3341": [
     "Corythoichthys sp. [5 RK]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/corythoichthys-sp-5-rk/",
     2,
     []
   ],
@@ -33529,9 +33566,11 @@
   "3375": [
     "Hypoplectrus sp. [tan]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/hypoplectrus-sp-tan/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_59_5757d0a2af86e.w1300.h866.jpg"
+    ]
   ],
   "3376": [
     "Stegastes fuscus",
@@ -33563,9 +33602,11 @@
   "3379": [
     "Hypoplectrus sp. [2]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/hypoplectrus-sp-2/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_db_5757d03923cd7.w1300.h866.jpg"
+    ]
   ],
   "3380": [
     "Voluta polypleura",
@@ -33780,9 +33821,12 @@
   "3406": [
     "Chromodoris sp. [reticulata]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/chromodoris-sp-reticulata/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_0d_57849eb447aa2.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_d3_57849eae1a99d.w1300.h866.jpg"
+    ]
   ],
   "3407": [
     "Brissidae spp.",
@@ -33904,9 +33948,14 @@
   "3420": [
     "Eviota sp. [green]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/eviota-sp-green/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_80_5757cfea7fd7c.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_8b_56ebc3df0f1a2.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_33_573b0b0945d5a.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_05_5770b77f96e5d.w1300.h866.jpg"
+    ]
   ],
   "3421": [
     "Plectorhinchus caeruleonothus",
@@ -33939,9 +33988,11 @@
   "3424": [
     "Chromodoris sp. [africana]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/chromodoris-sp-africana/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_f8_573b0b6ac523a.w1300.h866.jpg"
+    ]
   ],
   "3425": [
     "Protoreaster lincki",
@@ -34343,7 +34394,7 @@
   "3474": [
     "Muricid sp. [black spots]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/muricid-sp-black-spots/",
     1,
     []
   ],
@@ -34418,7 +34469,7 @@
   "3484": [
     "Chromodoris sp. [blue lined]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/chromodoris-sp-blue-lined/",
     1,
     []
   ],
@@ -34458,7 +34509,7 @@
   "3489": [
     "Calcinus sp. [orange]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/calcinus-sp-orange/",
     1,
     []
   ],
@@ -35838,9 +35889,11 @@
   "3643": [
     "Apogon sp. [izu]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/apogon-sp-izu/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_9d_5753ad88b4722.w1300.h866.jpg"
+    ]
   ],
   "3644": [
     "Canthigaster rivulata",
@@ -35965,7 +36018,7 @@
   "3658": [
     "Zygometrid sp. [Catoptometra rubroflava cf]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/zygometrid-sp-catoptometra-rubroflava-cf/",
     1,
     []
   ],
@@ -36136,7 +36189,7 @@
   "3680": [
     "Pseudoblennius sp. [zonostigma]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/pseudoblennius-sp-zonostigma/",
     2,
     []
   ],
@@ -36727,7 +36780,7 @@
   "3756": [
     "Pleuronectes sp. [herzensteini cf]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/pleuronectes-sp-herzensteini-cf/",
     2,
     []
   ],
@@ -36769,7 +36822,7 @@
   "3762": [
     "Stichopus sp. [japonicus]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/stichopus-sp-japonicus/",
     1,
     []
   ],
@@ -36904,7 +36957,7 @@
   "3781": [
     "Pagurus sp. [pectinatus cf]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/pagurus-sp-pectinatus-cf/",
     1,
     []
   ],
@@ -37225,9 +37278,12 @@
   "3816": [
     "Thecacera sp. [yellow striped]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/thecacera-sp-yellow-striped/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_13_579a90b75cb72.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/0/species_1e_579a90ba6874c.w1300.h866.JPG"
+    ]
   ],
   "3817": [
     "Polycladida spp.",
@@ -37343,7 +37399,7 @@
   "3832": [
     "Fissurella sp. [picta cf]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/fissurella-sp-picta-cf/",
     1,
     []
   ],
@@ -38857,9 +38913,12 @@
   "4017": [
     "Trimma sp. [Coral Sea]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/trimma-sp-coral-sea/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_c9_575d4acb10db2.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/0/species_34_575d4acf5139e.w1300.h866.JPG"
+    ]
   ],
   "4018": [
     "Pagurus novizealandiae",
@@ -39127,7 +39186,7 @@
   "4048": [
     "Coriocella sp. [kermadecs]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/coriocella-sp-kermadecs/",
     1,
     []
   ],
@@ -39271,9 +39330,12 @@
   "4067": [
     "Holothuria sp. [coalescent dark brown spots]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/holothuria-sp-coalescent-dark-brown-spots/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_41_575d41be501eb.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/0/species_e0_575d41b90d05a.w1300.h866.JPG"
+    ]
   ],
   "4068": [
     "Enigmapercis reducta",
@@ -40049,7 +40111,7 @@
   "4163": [
     "Helcogramma sp. [Fredrick Reef]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/helcogramma-sp-fredrick-reef/",
     2,
     []
   ],
@@ -40143,9 +40205,11 @@
   "4174": [
     "Thuridilla sp. [Colemans Thuridilla]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/thuridilla-sp-colemans-thuridilla/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_2b_5757d17a4807d.w1300.h866.jpg"
+    ]
   ],
   "4175": [
     "Siganus sp.",
@@ -40700,9 +40764,11 @@
   "4242": [
     "Fusigobius sp. [fine spots]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/fusigobius-sp-fine-spots/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_ad_5770d49657a5c.w1300.h866.jpg"
+    ]
   ],
   "4243": [
     "Cirripectes ?variolosus",
@@ -40795,9 +40861,11 @@
   "4253": [
     "Stichopus sp. [colemans]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/stichopus-sp-colemans/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_e2_5757cba595e72.w1300.h866.jpg"
+    ]
   ],
   "4254": [
     "Eviota readerae",
@@ -41113,7 +41181,7 @@
   "4291": [
     "Pagurus sp. [red stripe legs]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/pagurus-sp-red-stripe-legs/",
     1,
     []
   ],
@@ -41143,9 +41211,11 @@
   "4295": [
     "Echinaster (Othilia) tenuispinus",
     "",
-    null,
+    "https://reeflifesurvey.com/species/echinaster-othilia-tenuispinus/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_c6_5a02ae8244f8f.w1300.h866.jpg"
+    ]
   ],
   "4296": [
     "Malacoctenus hubbsi",
@@ -41404,9 +41474,11 @@
   "4329": [
     "Bohadschia sp. [brown]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/bohadschia-sp-brown/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_8b_5758e36dd0209.w1300.h866.JPG"
+    ]
   ],
   "4330": [
     "Cerithium columna",
@@ -41439,7 +41511,7 @@
   "4334": [
     "Gastropod sp. [purple aperture Red Sea]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/gastropod-sp-purple-aperture-red-sea/",
     1,
     []
   ],
@@ -41495,16 +41567,20 @@
   "4342": [
     "Corythoichthys sp. [10 RK]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/corythoichthys-sp-10-rk/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_26_575d3863b49f3.w1300.h866.jpg"
+    ]
   ],
   "4343": [
     "Helcogramma sp. [orange scales]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/helcogramma-sp-orange-scales/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_d8_575d405c3ff99.w1300.h866.JPG"
+    ]
   ],
   "4344": [
     "Fusigobius sp.",
@@ -41523,23 +41599,31 @@
   "4346": [
     "Diogenid sp. [white claw black blotch]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/diogenid-sp-white-claw-black-blotch/",
     1,
     []
   ],
   "4347": [
     "Cirripectes sp. [dark eye]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/cirripectes-sp-dark-eye/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_a4_575aaaa34e738.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/0/species_1b_575aaa8167856.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/0/species_87_575aaa84b3628.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/0/species_cc_575aaaa7cde78.w1300.h866.JPG"
+    ]
   ],
   "4348": [
     "Meiacanthus sp. [yellow tail]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/meiacanthus-sp-yellow-tail/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_3c_575d429654e55.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/0/species_3d_575d429bf2203.w1300.h866.JPG"
+    ]
   ],
   "4349": [
     "Hippocampus bargibanti",
@@ -41564,7 +41648,7 @@
   "4351": [
     "Tutufa (Tutufella) rubeta",
     "",
-    null,
+    "https://reeflifesurvey.com/species/tutufa-tutufella-rubeta/",
     1,
     []
   ],
@@ -41606,7 +41690,7 @@
   "4356": [
     "Paguroidea sp. [Longitudinal striped legs]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/paguroidea-sp-longitudinal-striped-legs/",
     1,
     []
   ],
@@ -41639,7 +41723,7 @@
   "4360": [
     "Calcinus sp. [NWS]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/calcinus-sp-nws/",
     1,
     []
   ],
@@ -42414,14 +42498,17 @@
   "4452": [
     "Gobiidae sp. [orange]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/gobiidae-sp-orange/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_c1_575d3f7fa36aa.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/0/species_19_575d3f768aa1a.w1300.h866.JPG"
+    ]
   ],
   "4453": [
     "Platyhelminth sp. [Elysia]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/platyhelminth-sp-elysia/",
     1,
     []
   ],
@@ -42684,7 +42771,7 @@
   "4483": [
     "Comanthus sp. [white thin]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/comanthus-sp-white-thin/",
     1,
     []
   ],
@@ -42763,9 +42850,12 @@
   "4492": [
     "Eviota sp. [translucent]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/eviota-sp-translucent/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_f6_5770b960aa2c5.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_82_5770b98b5e7da.w1300.h866.jpg"
+    ]
   ],
   "4493": [
     "Comatella spp.",
@@ -42908,7 +42998,7 @@
   "4509": [
     "Platyhelminth sp. [yellow spots white margin]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/platyhelminth-sp-yellow-spots-white-margin/",
     1,
     []
   ],
@@ -43097,16 +43187,23 @@
   "4532": [
     "Eviota sp. [atriventris]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/eviota-sp-atriventris/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_37_5770b511d1962.w1300.h866.jpg"
+    ]
   ],
   "4533": [
     "Eviota sp. [cf nigriventris]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/eviota-sp-cf-nigriventris/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_c1_573b0a519cd4b.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_90_5770b69e86778.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_eb_5ed497ee204c6.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_cf_5ed497f245013.w1300.h866.jpg"
+    ]
   ],
   "4534": [
     "Odontodactylus spp.",
@@ -43558,9 +43655,13 @@
   "4589": [
     "Tripterygiidae sp. [Ningaloo]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/tripterygiidae-sp-ningaloo/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_ac_5757cbb1d94fb.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_3f_5757cba116dfa.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_db_5da18cfa8fef5.w1300.h866.jpg"
+    ]
   ],
   "4590": [
     "Pastinachus atrus",
@@ -43817,9 +43918,11 @@
   "4620": [
     "Ancula sp. [gibbosa]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/ancula-sp-gibbosa/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_83_56f8b08f50d06.w1300.h866.jpg"
+    ]
   ],
   "4621": [
     "Asterina gibbosa",
@@ -43867,9 +43970,11 @@
   "4626": [
     "Eviota sp. [cf hosei]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/eviota-sp-cf-hosei/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_df_5770b5f6989eb.w1300.h866.jpg"
+    ]
   ],
   "4627": [
     "Gomophia spp.",
@@ -43881,9 +43986,16 @@
   "4628": [
     "Pomacentrus sp. [rhodonotus]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/pomacentrus-sp-rhodonotus/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_eb_56f32faabbac6.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_f2_58d8856ad74db.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_bf_577c50c1b4cc5.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/0/species_92_58d8856e02fab.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_8a_58d88571d1466.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_08_5c036eda05438.w1300.h866.jpg"
+    ]
   ],
   "4629": [
     "Scorpaena spp.",
@@ -44453,7 +44565,7 @@
   "4701": [
     "Platyhelminthes sp. [brown camo]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/platyhelminthes-sp-brown-camo/",
     1,
     []
   ],
@@ -44486,10 +44598,15 @@
   ],
   "4705": [
     "Gobiodon sp. [1 GA]",
-    "",
-    null,
+    ", Bluemaze Coralgoby",
+    "https://reeflifesurvey.com/species/gobiodon-sp-1-ga/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_d8_59829b5ae40ff.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_ad_59829b5fd90af.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_ae_590abca689fbf.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_55_590abca9797ba.w1300.h866.jpg"
+    ]
   ],
   "4706": [
     "Parioglossus interruptus",
@@ -45379,10 +45496,15 @@
   ],
   "4817": [
     "Pseudocaranx sp. [dentex]",
-    "",
-    null,
+    "LHI Trevally",
+    "https://reeflifesurvey.com/species/pseudocaranx-sp-dentex/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_8a_577cb3006e00e.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/0/species_36_577cb305d388f.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/1/species_f6_5dd08824d7485.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_08_5dd088292d642.w1300.h866.jpg"
+    ]
   ],
   "4818": [
     "Kaloplocamus acutus",
@@ -45455,7 +45577,7 @@
   "4826": [
     "Holothuria sp. [ETP]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/holothuria-sp-etp/",
     1,
     []
   ],
@@ -45751,36 +45873,38 @@
   ],
   "4865": [
     "Gobiodon sp. [3 GA]",
-    "",
-    null,
+    ", Blue-lined Coralgoby",
+    "https://reeflifesurvey.com/species/gobiodon-sp-3-ga/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_4e_590abcff6f286.w1300.h866.jpg"
+    ]
   ],
   "4866": [
     "Crinoidea sp. [1]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/crinoidea-sp-1/",
     1,
     []
   ],
   "4867": [
     "Crinoidea sp. [2]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/crinoidea-sp-2/",
     1,
     []
   ],
   "4868": [
     "Crinoidea sp. [3]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/crinoidea-sp-3/",
     1,
     []
   ],
   "4869": [
     "Goniobranchus sp. [WA roboi]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/goniobranchus-sp-wa-roboi/",
     1,
     []
   ],
@@ -45843,9 +45967,14 @@
   "4878": [
     "Emblemariopsis sp. [bottomei]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/emblemariopsis-sp-bottomei/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_dc_582e41101e934.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_c4_582e411658699.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_56_582e411a9e862.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_64_582e410c7bf1e.w1300.h866.jpg"
+    ]
   ],
   "4879": [
     "Mithracidae spp.",
@@ -45986,7 +46115,7 @@
   "4896": [
     "Holothuria (Semperothuria) cinerascens",
     "",
-    null,
+    "https://reeflifesurvey.com/species/holothuria-semperothuria-cinerascens/",
     1,
     []
   ],
@@ -46138,7 +46267,7 @@
   "4916": [
     "Blenniid sp. [cheek patch]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/blenniid-sp-cheek-patch/",
     2,
     []
   ],
@@ -46168,7 +46297,7 @@
   "4920": [
     "Eviota sp. [melasma]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/eviota-sp-melasma/",
     2,
     []
   ],
@@ -46198,7 +46327,7 @@
   "4924": [
     "Ecsenius sp. [black and green]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/ecsenius-sp-black-and-green/",
     2,
     []
   ],
@@ -46667,7 +46796,7 @@
   "4987": [
     "Corythoichthys sp. [2 RK]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/corythoichthys-sp-2-rk/",
     2,
     []
   ],
@@ -46715,9 +46844,13 @@
   "4993": [
     "Gobiodon sp. [prolixus]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/gobiodon-sp-prolixus/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_ec_5982aab3a166e.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/0/species_07_5982aab639bb1.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/0/species_cc_5982aab90e19f.w1300.h866.JPG"
+    ]
   ],
   "4994": [
     "Scorpaenopsis eschmeyeri",
@@ -46762,17 +46895,21 @@
   ],
   "4999": [
     "Janolus sp. [orange]",
-    "",
-    null,
+    ", Nudibranch",
+    "https://reeflifesurvey.com/species/janolus-sp-orange/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_9b_59599176b7765.w1300.h866.JPG"
+    ]
   ],
   "5000": [
     "Tritonia sp. [carijoa]",
-    "",
-    null,
+    ", Carijoa nudibranch, nudibranch",
+    "https://reeflifesurvey.com/species/tritonia-sp-carijoa/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_71_59598e0fc3171.w1300.h866.jpg"
+    ]
   ],
   "5001": [
     "Trapania aureopunctata",
@@ -47339,14 +47476,14 @@
   "5073": [
     "Paguroidea sp. [1]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/paguroidea-sp-1/",
     1,
     []
   ],
   "5074": [
     "Paguroidea sp. [2]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/paguroidea-sp-2/",
     1,
     []
   ],
@@ -47435,10 +47572,13 @@
   ],
   "5086": [
     "Polycera sp. [brown spots]",
-    "",
-    null,
+    ", Nudibranch",
+    "https://reeflifesurvey.com/species/polycera-sp-brown-spots/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_71_59acc8c3beb46.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/0/species_be_59acc8bbb6f4e.w1300.h866.JPG"
+    ]
   ],
   "5087": [
     "Acrosterigma cygnorum",
@@ -47651,14 +47791,17 @@
   "5114": [
     "Eviota sp. [trans white & red streaks]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/eviota-sp-trans-white-red-streaks/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_2a_5ed4a2c15106d.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/1/species_01_5ed4a2c4c029a.w1300.h866.JPG"
+    ]
   ],
   "5115": [
     "Pseudochromis spp. [black Middleton]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/pseudochromis-spp-black-middleton/",
     2,
     []
   ],
@@ -47730,21 +47873,23 @@
   "5124": [
     "Eviota sp. [punctulata]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/eviota-sp-punctulata/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_a6_5ed49d26020c3.w1300.h866.JPG"
+    ]
   ],
   "5125": [
     "Eviota sp. [nigriventris]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/eviota-sp-nigriventris/",
     2,
     []
   ],
   "5126": [
     "Eviota sp. [sigillata]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/eviota-sp-sigillata/",
     2,
     []
   ],
@@ -47858,9 +48003,13 @@
   "5141": [
     "Fusigobius sp. [humeralis]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/fusigobius-sp-humeralis/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_ca_5ed5cb0edadcc.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/1/species_9e_5ed5cb121e7ac.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/1/species_8c_5ed5cb16b7aed.w1300.h866.JPG"
+    ]
   ],
   "5142": [
     "Naso lopezi",
@@ -47926,7 +48075,7 @@
   "5150": [
     "Labracinus sp. [black tail]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/labracinus-sp-black-tail/",
     2,
     []
   ],
@@ -47986,9 +48135,11 @@
   "5157": [
     "Trimma sp. [red head]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/trimma-sp-red-head/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_2c_5ed722f03a5d5.w1300.h866.JPG"
+    ]
   ],
   "5158": [
     "Coryphopterus humeralis",
@@ -48039,7 +48190,7 @@
   "5164": [
     "Trimma sp. [speckled eyes]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/trimma-sp-speckled-eyes/",
     2,
     []
   ],
@@ -48280,7 +48431,7 @@
   "5195": [
     "Hologymnosus sp. [dark]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/hologymnosus-sp-dark/",
     0,
     []
   ],
@@ -48699,10 +48850,14 @@
   ],
   "5251": [
     "Nesogobius sp. 4 [groovedcheek]",
-    "",
-    null,
+    "Groovedcheek Sandgoby, Groovedcheek Sandgoby",
+    "https://reeflifesurvey.com/species/nesogobius-sp-4-groovedcheek/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_ef_5e291efb04708.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_eb_5e291f1cb9e9f.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/1/species_98_5e291f60b1289.w1300.h866.JPG"
+    ]
   ],
   "5252": [
     "Philippia lutea",
@@ -48836,7 +48991,7 @@
   "5270": [
     "Pseudoceros sp. [red mottled]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/pseudoceros-sp-red-mottled/",
     1,
     []
   ],
@@ -48892,9 +49047,14 @@
   "5277": [
     "Eviota sp. [storthynx gold shield]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/eviota-sp-storthynx-gold-shield/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_92_5ed49f8478cfa.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_8e_5ed49f87ca07f.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_ad_5ed49f8b0d15c.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_ac_5ed49f8e9ee7a.w1300.h866.jpg"
+    ]
   ],
   "5278": [
     "Fusigobius pallidus (cf)",
@@ -48913,7 +49073,7 @@
   "5280": [
     "Ctenochaetus sp. [white tail]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/ctenochaetus-sp-white-tail/",
     0,
     []
   ],
@@ -48940,7 +49100,7 @@
   "5283": [
     "Ecsenius sp. [black]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/ecsenius-sp-black/",
     2,
     []
   ],
@@ -48954,21 +49114,21 @@
   "5285": [
     "Trimma sp. [gold spots]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/trimma-sp-gold-spots/",
     2,
     []
   ],
   "5286": [
     "Eviota sp. [red eyes]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/eviota-sp-red-eyes/",
     2,
     []
   ],
   "5287": [
     "Tectus sp. [cf virgatus]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/tectus-sp-cf-virgatus/",
     1,
     []
   ],
@@ -49115,7 +49275,7 @@
   "5308": [
     "Calcinus sp. [Lesueur]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/calcinus-sp-lesueur/",
     1,
     []
   ],
@@ -49257,7 +49417,7 @@
   "5328": [
     "Scartichthys sp. [orange]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/scartichthys-sp-orange/",
     2,
     []
   ],
@@ -49715,8 +49875,8 @@
   ],
   "5389": [
     "Nesogobius sp. 3 [speckled]",
-    "",
-    null,
+    "Speckled Sandgoby",
+    "https://reeflifesurvey.com/species/nesogobius-sp-3-speckled/",
     2,
     []
   ],
@@ -49837,7 +49997,7 @@
   "5405": [
     "Corythoichthys sp. [1 RK]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/corythoichthys-sp-1-rk/",
     2,
     []
   ],
@@ -49858,7 +50018,7 @@
   "5408": [
     "Ostorhinchus sp. [cf cyanosoma]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/ostorhinchus-sp-cf-cyanosoma/",
     2,
     []
   ],
@@ -49879,7 +50039,7 @@
   "5411": [
     "Eviota sp. [guttata cf]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/eviota-sp-guttata-cf/",
     2,
     []
   ],
@@ -49900,7 +50060,7 @@
   "5414": [
     "Platycephalidae sp. [GBR]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/platycephalidae-sp-gbr/",
     2,
     []
   ],
@@ -50148,7 +50308,7 @@
   "5448": [
     "Holothuria (Halodeima) mexicana",
     "",
-    null,
+    "https://reeflifesurvey.com/species/holothuria-halodeima-mexicana/",
     1,
     []
   ],
@@ -50225,7 +50385,7 @@
   "5459": [
     "Holothuria (Platyperona) sanctori",
     "",
-    null,
+    "https://reeflifesurvey.com/species/holothuria-platyperona-sanctori/",
     1,
     []
   ],
@@ -50281,14 +50441,14 @@
   "5467": [
     "Trimma sp. [white nose]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/trimma-sp-white-nose/",
     2,
     []
   ],
   "5468": [
     "Phrikoceros sp. [Orange with white spots]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/phrikoceros-sp-orange-with-white-spots/",
     1,
     []
   ],
@@ -50316,7 +50476,7 @@
   "5472": [
     "Calcinus sp. [black white striped antennae]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/calcinus-sp-black-white-striped-antennae/",
     1,
     []
   ],
@@ -50372,7 +50532,7 @@
   "5480": [
     "Pleurosicya sp. [soft coral]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/pleurosicya-sp-soft-coral/",
     2,
     []
   ],
@@ -50477,7 +50637,7 @@
   "5495": [
     "Eviota sp. [Snowflake]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/eviota-sp-snowflake/",
     2,
     []
   ],
@@ -50498,7 +50658,7 @@
   "5498": [
     "Heteroclinus sp. [Norfolk]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/heteroclinus-sp-norfolk/",
     2,
     []
   ],
@@ -50521,7 +50681,7 @@
   "5501": [
     "Lethrinus sp. [punctulatus]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/lethrinus-sp-punctulatus/",
     0,
     []
   ],

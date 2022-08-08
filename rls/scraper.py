@@ -1,4 +1,5 @@
 """Scrapy-based scraper for the RLS website."""
+import re
 from typing import Any, Generator
 
 import scrapy.http
@@ -25,7 +26,7 @@ class ReefLifeSurveySpider(CrawlSpider):  # type: ignore[misc]
         common_name_elements = response.css(".fishname .commonname ::text")
         yield dict(
             id_=response.url.split("/")[-2],
-            name=response.css(".fishname h2 i ::text").extract()[0],
+            name=re.sub(r"\s+", " ", "".join(response.css(".fishname h2 ::text").extract())),
             common_name=common_name_elements.extract()[0] if common_name_elements else "",
             url=response.url,
             image_urls=response.css("#lightSlider img ::attr(src)").extract(),
