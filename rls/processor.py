@@ -136,7 +136,7 @@ def _create_species_file(
     verify_empty_dir(dst_img_path)
     api_species = {}
     for species_id, species_name in species_id_to_name.items():
-        species_dict = crawl_data.get(species_name, {})
+        species_dict = crawl_data.get(species_name.lower(), {})
 
         if "images" in species_dict:
             image_urls: list[str] = []
@@ -169,7 +169,7 @@ def create_api_jsons(
     (dst_dir / "img").mkdir()
     _logger.info("Reading data.")
     with open(crawl_json_path) as fp:
-        crawl_data = {species_dict["name"]: species_dict for species_dict in json.load(fp)}
+        crawl_data = {species_dict["name"].lower(): species_dict for species_dict in json.load(fp)}
     _logger.info("Read %d items from %s", len(crawl_data), crawl_json_path)
     if len(crawl_data) < min_expected_crawl_items:
         raise ValueError(f"Expected at least {min_expected_crawl_items} items, but found {len(crawl_data)}")
