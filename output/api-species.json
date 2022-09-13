@@ -50824,7 +50824,7 @@
     "Bolinopsis infundibulum",
     "",
     null,
-    0,
+    1,
     []
   ],
   "5522": [
@@ -51281,14 +51281,105 @@
     []
   ],
   "5586": [
+    "Calamus penna",
+    "",
+    null,
+    0,
+    []
+  ],
+  "5587": [
     "Turbo castanea",
     "",
     null,
     1,
     []
   ],
-  "5587": [
+  "5588": [
     "Lepsiella paivae",
+    "",
+    null,
+    1,
+    []
+  ],
+  "5589": [
+    "Fractolatirus normalis",
+    "",
+    null,
+    1,
+    []
+  ],
+  "5590": [
+    "Pandalus gurneyi",
+    "",
+    null,
+    1,
+    []
+  ],
+  "5591": [
+    "Dirona pellucida",
+    "",
+    null,
+    1,
+    []
+  ],
+  "5592": [
+    "Limacia cockerelli",
+    "",
+    null,
+    1,
+    []
+  ],
+  "5593": [
+    "Gibbonsia metzi",
+    "",
+    null,
+    2,
+    []
+  ],
+  "5594": [
+    "Cryptolithodes typicus",
+    "",
+    null,
+    1,
+    []
+  ],
+  "5595": [
+    "Pugettia richii",
+    "",
+    null,
+    1,
+    []
+  ],
+  "5596": [
+    "Leptasterias spp.",
+    "",
+    null,
+    1,
+    []
+  ],
+  "5597": [
+    "Pleurobrachia bachei",
+    "",
+    null,
+    0,
+    []
+  ],
+  "5598": [
+    "Petrolisthes eriomerus",
+    "",
+    null,
+    1,
+    []
+  ],
+  "5599": [
+    "Pugettia foliata",
+    "",
+    null,
+    1,
+    []
+  ],
+  "5600": [
+    "Phyllolithodes papillosus",
     "",
     null,
     1,
