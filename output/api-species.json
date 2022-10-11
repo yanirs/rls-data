@@ -17907,10 +17907,18 @@
   ],
   "1711": [
     "Pseudanthias tuka",
-    "",
-    null,
+    "Purple Queen, Purple Anthias, Purple Queen-basslet, Yellowstripe Anthias, Yellowstriped Fairy Basslet",
+    "https://reeflifesurvey.com/species/pseudanthias-tuka/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_b2_57297cc808c60.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_38_57297ccf07994.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_cc_57297cd40c308.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_a9_57297ce30402a.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/0/species_75_57297ceb36061.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/0/species_54_57297d4e3746a.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/0/species_ac_577cb199b83db.w1300.h866.JPG"
+    ]
   ],
   "1712": [
     "Taeniamia zosterophora",
@@ -21436,7 +21444,9 @@
     "https://reeflifesurvey.com/species/paristiopterus-gallipavo/",
     0,
     [
-      "https://images.reeflifesurvey.com/1/species_60_5cad5549977f7.w1300.h866.JPG"
+      "https://images.reeflifesurvey.com/1/species_c2_633e08dacf68c.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_60_5cad5549977f7.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/1/species_a3_633e08fd905c5.w1300.h866.jpg"
     ]
   ],
   "2068": [
@@ -22025,15 +22035,10 @@
   ],
   "2133": [
     "Gobiodon histrio",
-    "Maori Coralgoby, Actor Coral Goby, Broad-banded Goby, Broad-barred Goby, Broad-barred Maori Goby",
-    "https://reeflifesurvey.com/species/gobiodon-histrio/",
+    "",
+    null,
     2,
-    [
-      "https://images.reeflifesurvey.com/0/species_40_5983bdd438840.w1300.h866.JPG",
-      "https://images.reeflifesurvey.com/0/species_55_5981e12641e6a.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_cb_5981e12288a32.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_9a_5983bdd0c08cc.w1300.h866.JPG"
-    ]
+    []
   ],
   "2134": [
     "Goniodiscaster acanthodes",
@@ -33200,7 +33205,9 @@
     "Fire-coral Goby",
     "https://reeflifesurvey.com/species/bryaninops-erythrops/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_25_633e0577bffb5.w1300.h866.jpg"
+    ]
   ],
   "3340": [
     "Chlorurus atrilunula",
@@ -38195,9 +38202,7 @@
     "Ambon Emperor, Amboina Porgy, Ambon Emperor",
     "https://reeflifesurvey.com/species/lethrinus-amboinensis/",
     0,
-    [
-      "https://images.reeflifesurvey.com/0/species_67_573d1e5bf04e2.w1300.h866.jpg"
-    ]
+    []
   ],
   "3937": [
     "Thunnus spp.",
@@ -39929,7 +39934,9 @@
     "Spotcheek Emperor",
     "https://reeflifesurvey.com/species/lethrinus-rubrioperculatus/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_e3_633e05d9c8615.w1300.h866.jpg"
+    ]
   ],
   "4149": [
     "Epinephelus lanceolatus",
@@ -40605,14 +40612,14 @@
   "4229": [
     "Gobiodon ?histrio",
     "",
-    null,
+    "https://reeflifesurvey.com/species/gobiodon-histrio/",
     2,
     []
   ],
   "4230": [
     "Pseudanthias ?tuka",
     "",
-    "https://reeflifesurvey.com/species/pseudanthias-tuka/",
+    null,
     0,
     []
   ],
@@ -41958,7 +41965,9 @@
     "",
     "https://reeflifesurvey.com/species/gymnothorax-thyrsoideus/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_4d_633e51448e9c0.w1300.h866.JPG"
+    ]
   ],
   "4395": [
     "Chromodoris alternata",
@@ -45513,7 +45522,9 @@
     "Amethyst Olive",
     "https://reeflifesurvey.com/species/oliva-amethystina/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_6e_633e192016ffb.w1300.h866.jpg"
+    ]
   ],
   "4824": [
     "Stegastes lividus",
@@ -46348,7 +46359,9 @@
     "",
     "https://reeflifesurvey.com/species/vexillum-vulpecula/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_69_633e0d47c3f2b.w1300.h866.JPG"
+    ]
   ],
   "4933": [
     "Scabricola lugubris",
@@ -47260,7 +47273,8 @@
     "https://reeflifesurvey.com/species/paraplesiops-sinclairi/",
     2,
     [
-      "https://images.reeflifesurvey.com/1/species_1f_5caaee25ef230.w1300.h866.JPG"
+      "https://images.reeflifesurvey.com/1/species_1f_5caaee25ef230.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/1/species_a3_633e0888671db.w1300.h866.jpg"
     ]
   ],
   "5051": [
@@ -49168,7 +49182,9 @@
     "",
     "https://reeflifesurvey.com/species/sepia-pharaonis/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_ba_633e304e34c8d.w1300.h866.jpg"
+    ]
   ],
   "5300": [
     "Bursa cruentata",
