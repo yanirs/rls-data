@@ -16241,6 +16241,7 @@
     "https://reeflifesurvey.com/species/actinopyga-miliaris/",
     1,
     [
+      "https://images.reeflifesurvey.com/1/species_9f_6355de05a28de.w1300.h866.jpg",
       "https://images.reeflifesurvey.com/0/species_7c_57539cfd55bae.w1300.h866.jpg"
     ]
   ],
@@ -31757,13 +31758,10 @@
   ],
   "3168": [
     "Cirripectes variolosus",
-    "Red-speckled Blenny, Banded Fringe Blenny, Red-speckled Blenny, Red-tipped Fringe Blenny",
-    "https://reeflifesurvey.com/species/cirripectes-variolosus/",
+    "",
+    null,
     2,
-    [
-      "https://images.reeflifesurvey.com/0/species_db_5761fb2e7a34c.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_a2_5761fb3218026.w1300.h866.jpg"
-    ]
+    []
   ],
   "3169": [
     "Coris hewetti",
@@ -32381,10 +32379,12 @@
   ],
   "3243": [
     "Comanthus parvicirrus",
-    "",
-    null,
+    "[a Crinoid]",
+    "https://reeflifesurvey.com/species/comanthus-parvicirrus/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_97_59c86dba4694e.w1300.h866.JPG"
+    ]
   ],
   "3244": [
     "Salarias ceramensis",
@@ -40465,12 +40465,9 @@
   "4202": [
     "Comanthus ?parvicirrus",
     "",
-    "https://reeflifesurvey.com/species/comanthus-parvicirrus/",
+    null,
     1,
-    [
-      "https://images.reeflifesurvey.com/0/",
-      "https://images.reeflifesurvey.com/0/"
-    ]
+    []
   ],
   "4203": [
     "Pteria lata",
@@ -40600,8 +40597,8 @@
   ],
   "4218": [
     "Eviota punctulata",
-    "",
-    null,
+    "Finespot Eviota",
+    "https://reeflifesurvey.com/species/eviota-punctulata/",
     2,
     []
   ],
@@ -40817,7 +40814,7 @@
   "4243": [
     "Cirripectes ?variolosus",
     "",
-    null,
+    "https://reeflifesurvey.com/species/cirripectes-variolosus/",
     2,
     []
   ],
@@ -40835,12 +40832,9 @@
   "4245": [
     "Eviota ?punctulata",
     "",
-    "https://reeflifesurvey.com/species/eviota-punctulata/",
+    null,
     2,
-    [
-      "https://images.reeflifesurvey.com/1/species_94_634793c77ed39.w1300.h866.JPG",
-      "https://images.reeflifesurvey.com/1/species_b0_634793cacbaf4.w1300.h866.JPG"
-    ]
+    []
   ],
   "4246": [
     "Elysia atroviridis",
