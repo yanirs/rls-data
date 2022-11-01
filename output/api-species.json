@@ -17928,10 +17928,18 @@
   ],
   "1711": [
     "Pseudanthias tuka",
-    "",
-    null,
+    "Purple Queen, Purple Anthias, Purple Queen-basslet, Yellowstripe Anthias, Yellowstriped Fairy Basslet",
+    "https://reeflifesurvey.com/species/pseudanthias-tuka/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_b2_57297cc808c60.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_38_57297ccf07994.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_cc_57297cd40c308.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_a9_57297ce30402a.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/0/species_75_57297ceb36061.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/0/species_54_57297d4e3746a.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/0/species_ac_577cb199b83db.w1300.h866.JPG"
+    ]
   ],
   "1712": [
     "Taeniamia zosterophora",
@@ -40597,8 +40605,8 @@
   ],
   "4218": [
     "Eviota punctulata",
-    "Finespot Eviota",
-    "https://reeflifesurvey.com/species/eviota-punctulata/",
+    "",
+    null,
     2,
     []
   ],
@@ -40703,7 +40711,7 @@
   "4230": [
     "Pseudanthias ?tuka",
     "",
-    "https://reeflifesurvey.com/species/pseudanthias-tuka/",
+    null,
     0,
     []
   ],
@@ -40832,9 +40840,12 @@
   "4245": [
     "Eviota ?punctulata",
     "",
-    null,
+    "https://reeflifesurvey.com/species/eviota-punctulata/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_94_634793c77ed39.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/1/species_b0_634793cacbaf4.w1300.h866.JPG"
+    ]
   ],
   "4246": [
     "Elysia atroviridis",
@@ -51117,7 +51128,11 @@
     "A Cowrie Shell",
     "https://reeflifesurvey.com/species/cuspivolva-queenslandica/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_71_635edfa15c52d.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/1/species_fd_635edf417c208.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/1/species_4b_635edf43a2f06.w1300.h866.JPG"
+    ]
   ],
   "5540": [
     "Primovula tadashigei",
@@ -51360,7 +51375,10 @@
     "Double-ended Pipefish",
     "https://reeflifesurvey.com/species/trachyrhamphus-bicoarctatus/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_07_635eddd34e6aa.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/1/species_cf_635eddd51d2e6.w1300.h866.JPG"
+    ]
   ],
   "5574": [
     "Sclerodoris spp.",
