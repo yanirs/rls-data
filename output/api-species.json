@@ -3345,7 +3345,6 @@
     [
       "https://images.reeflifesurvey.com/0/species_dc_57031c56358e8.w1300.h866.jpg",
       "https://images.reeflifesurvey.com/0/species_04_56ef4ac398c05.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_0f_56ef4ae8d13d3.w1300.h866.jpg",
       "https://images.reeflifesurvey.com/0/species_97_56ef4aefe9df6.w1300.h866.jpg",
       "https://images.reeflifesurvey.com/0/species_1c_5785caf0eaf59.w1300.h866.JPG"
     ]
@@ -4289,7 +4288,8 @@
     [
       "https://images.reeflifesurvey.com/0/species_a9_574d5545d6945.w1300.h866.jpg",
       "https://images.reeflifesurvey.com/0/species_fe_574d551e45119.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_41_56e162f349698.w1300.h866.jpg"
+      "https://images.reeflifesurvey.com/0/species_41_56e162f349698.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_20_6361f2a5c4e31.w1300.h866.jpg"
     ]
   ],
   "437": [
@@ -5850,7 +5850,8 @@
       "https://images.reeflifesurvey.com/0/species_ec_57df6bcc317e3.w1300.h866.jpg",
       "https://images.reeflifesurvey.com/0/species_b1_5702f422d642d.w1300.h866.jpg",
       "https://images.reeflifesurvey.com/0/species_53_59d194ac20290.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_79_576879c9757ac.w1300.h866.jpg"
+      "https://images.reeflifesurvey.com/0/species_79_576879c9757ac.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_1f_63686803de866.w1300.h866.jpg"
     ]
   ],
   "570": [
@@ -7236,7 +7237,8 @@
     [
       "https://images.reeflifesurvey.com/0/species_25_57451abba48b7.w1300.h866.jpg",
       "https://images.reeflifesurvey.com/0/species_f4_56e22bfaca4b1.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_71_56e22bec21c23.w1300.h866.jpg"
+      "https://images.reeflifesurvey.com/0/species_71_56e22bec21c23.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_8d_6368662b357c1.w1300.h866.jpg"
     ]
   ],
   "692": [
@@ -7350,7 +7352,8 @@
     2,
     [
       "https://images.reeflifesurvey.com/0/species_95_56faf91540cb8.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_66_5777579261f23.w1300.h866.JPG"
+      "https://images.reeflifesurvey.com/0/species_66_5777579261f23.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/1/species_52_636869c966d41.w1300.h866.jpg"
     ]
   ],
   "702": [
@@ -9577,7 +9580,8 @@
     [
       "https://images.reeflifesurvey.com/0/species_76_56e2106358721.w1300.h866.jpg",
       "https://images.reeflifesurvey.com/0/species_d8_56e3b1c60c8c3.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_af_5769018621915.w1300.h866.jpg"
+      "https://images.reeflifesurvey.com/0/species_af_5769018621915.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_e2_63686452dbe65.w1300.h866.jpg"
     ]
   ],
   "912": [
@@ -17928,18 +17932,10 @@
   ],
   "1711": [
     "Pseudanthias tuka",
-    "Purple Queen, Purple Anthias, Purple Queen-basslet, Yellowstripe Anthias, Yellowstriped Fairy Basslet",
-    "https://reeflifesurvey.com/species/pseudanthias-tuka/",
+    "",
+    null,
     0,
-    [
-      "https://images.reeflifesurvey.com/0/species_b2_57297cc808c60.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_38_57297ccf07994.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_cc_57297cd40c308.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_a9_57297ce30402a.w1300.h866.JPG",
-      "https://images.reeflifesurvey.com/0/species_75_57297ceb36061.w1300.h866.JPG",
-      "https://images.reeflifesurvey.com/0/species_54_57297d4e3746a.w1300.h866.JPG",
-      "https://images.reeflifesurvey.com/0/species_ac_577cb199b83db.w1300.h866.JPG"
-    ]
+    []
   ],
   "1712": [
     "Taeniamia zosterophora",
@@ -21786,7 +21782,8 @@
     "https://reeflifesurvey.com/species/pseudoceros-ferrugineus/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_a3_57da25ecefa91.w1300.h866.jpg"
+      "https://images.reeflifesurvey.com/0/species_a3_57da25ecefa91.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_a0_63688237a3778.w1300.h866.JPG"
     ]
   ],
   "2102": [
@@ -22060,10 +22057,15 @@
   ],
   "2133": [
     "Gobiodon histrio",
-    "",
-    null,
+    "Maori Coralgoby, Actor Coral Goby, Broad-banded Goby, Broad-barred Goby, Broad-barred Maori Goby",
+    "https://reeflifesurvey.com/species/gobiodon-histrio/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_40_5983bdd438840.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/0/species_55_5981e12641e6a.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_cb_5981e12288a32.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_9a_5983bdd0c08cc.w1300.h866.JPG"
+    ]
   ],
   "2134": [
     "Goniodiscaster acanthodes",
@@ -24195,6 +24197,7 @@
     [
       "https://images.reeflifesurvey.com/1/species_95_5ebb882c3b8c5.w1300.h866.jpg",
       "https://images.reeflifesurvey.com/0/species_5e_5ae7b523d938d.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_41_6361cb5df13be.w1300.h866.jpg",
       "https://images.reeflifesurvey.com/1/species_d2_5ae7b58e2f414.w1300.h866.jpg",
       "https://images.reeflifesurvey.com/0/species_a4_57c1456553462.w1300.h866.jpg"
     ]
@@ -31631,7 +31634,7 @@
     "https://reeflifesurvey.com/species/aniculus-sp-elegans/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/"
+      "https://images.reeflifesurvey.com/1/species_68_6368673871647.w1300.h866.jpg"
     ]
   ],
   "3154": [
@@ -31766,10 +31769,13 @@
   ],
   "3168": [
     "Cirripectes variolosus",
-    "",
-    null,
+    "Red-speckled Blenny, Banded Fringe Blenny, Red-speckled Blenny, Red-tipped Fringe Blenny",
+    "https://reeflifesurvey.com/species/cirripectes-variolosus/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_db_5761fb2e7a34c.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_a2_5761fb3218026.w1300.h866.jpg"
+    ]
   ],
   "3169": [
     "Coris hewetti",
@@ -32387,12 +32393,10 @@
   ],
   "3243": [
     "Comanthus parvicirrus",
-    "[a Crinoid]",
-    "https://reeflifesurvey.com/species/comanthus-parvicirrus/",
+    "",
+    null,
     1,
-    [
-      "https://images.reeflifesurvey.com/0/species_97_59c86dba4694e.w1300.h866.JPG"
-    ]
+    []
   ],
   "3244": [
     "Salarias ceramensis",
@@ -40473,9 +40477,12 @@
   "4202": [
     "Comanthus ?parvicirrus",
     "",
-    null,
+    "https://reeflifesurvey.com/species/comanthus-parvicirrus/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/",
+      "https://images.reeflifesurvey.com/0/"
+    ]
   ],
   "4203": [
     "Pteria lata",
@@ -40704,14 +40711,14 @@
   "4229": [
     "Gobiodon ?histrio",
     "",
-    "https://reeflifesurvey.com/species/gobiodon-histrio/",
+    null,
     2,
     []
   ],
   "4230": [
     "Pseudanthias ?tuka",
     "",
-    null,
+    "https://reeflifesurvey.com/species/pseudanthias-tuka/",
     0,
     []
   ],
@@ -40822,7 +40829,7 @@
   "4243": [
     "Cirripectes ?variolosus",
     "",
-    "https://reeflifesurvey.com/species/cirripectes-variolosus/",
+    null,
     2,
     []
   ],
@@ -48957,7 +48964,9 @@
     "",
     "https://reeflifesurvey.com/species/aphelodoris-rossquicki/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_94_6368685ebf0db.w1300.h866.jpg"
+    ]
   ],
   "5248": [
     "Tosia neossia",
@@ -49304,7 +49313,9 @@
     "",
     "https://reeflifesurvey.com/species/pseudoceros-rubroanus/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_cf_6368837338f33.w1300.h866.JPG"
+    ]
   ],
   "5292": [
     "Salarias patzneri",
@@ -51392,7 +51403,9 @@
     "",
     "https://reeflifesurvey.com/species/bothus-lunatus/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_9e_6361e96658be6.w1300.h866.jpg"
+    ]
   ],
   "5576": [
     "Acanthemblemaria maria",
