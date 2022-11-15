@@ -21,7 +21,9 @@
     "https://reeflifesurvey.com/species/cymatogaster-aggregata/",
     0,
     [
-      "https://images.reeflifesurvey.com/0/species_f5_59d17d8fab12c.w1300.h866.JPG"
+      "https://images.reeflifesurvey.com/1/species_ad_636b35d150788.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_f5_59d17d8fab12c.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/1/species_c1_636b35d8bb73e.w1300.h866.JPG"
     ]
   ],
   "3": [
@@ -30,8 +32,10 @@
     "https://reeflifesurvey.com/species/dermasterias-imbricata/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_32_59d17fe2d8df4.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_bd_59db359b8e29a.w1300.h866.jpg"
+      "https://images.reeflifesurvey.com/1/species_86_636b24683e668.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_29_636b23be0f40d.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_bd_59db359b8e29a.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_32_59d17fe2d8df4.w1300.h866.jpg"
     ]
   ],
   "4": [
@@ -107,8 +111,10 @@
     "https://reeflifesurvey.com/species/rhinogobiops-nicholsii/",
     2,
     [
+      "https://images.reeflifesurvey.com/0/species_3e_59db3d203f80d.w1300.h866.jpg",
       "https://images.reeflifesurvey.com/0/species_ea_59db3cf6243d8.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_3e_59db3d203f80d.w1300.h866.jpg"
+      "https://images.reeflifesurvey.com/1/species_ae_636ad89bf089a.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_57_636ad8a500862.w1300.h866.jpg"
     ]
   ],
   "13": [
@@ -116,7 +122,9 @@
     "Brown Rockfish",
     "https://reeflifesurvey.com/species/sebastes-auriculatus/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_ad_636adcca8d04d.w1300.h866.jpg"
+    ]
   ],
   "14": [
     "Sebastes caurinus",
@@ -148,7 +156,10 @@
     "California Seahare",
     "https://reeflifesurvey.com/species/aplysia-californica/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_d1_636adfdf0c795.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_20_636adfa9f40c4.w1300.h866.jpg"
+    ]
   ],
   "18": [
     "Caulolatilus princeps",
@@ -167,7 +178,9 @@
     0,
     [
       "https://images.reeflifesurvey.com/0/species_a0_59db4b6ad3666.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_11_59db4b650aad8.w1300.h866.jpg"
+      "https://images.reeflifesurvey.com/1/species_3b_636b199ce32b4.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_11_59db4b650aad8.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_0a_636b199ee4785.w1300.h866.jpg"
     ]
   ],
   "20": [
@@ -212,8 +225,11 @@
     "https://reeflifesurvey.com/species/hypsypops-rubicundus/",
     0,
     [
+      "https://images.reeflifesurvey.com/1/species_4c_636b1d63beb41.w1300.h866.jpg",
       "https://images.reeflifesurvey.com/0/species_8b_59db4cf75f0e5.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_16_59db4cd2734a7.w1300.h866.jpg"
+      "https://images.reeflifesurvey.com/0/species_16_59db4cd2734a7.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_0d_636b1c730b85c.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_ea_636ae5b956421.w1300.h866.jpg"
     ]
   ],
   "25": [
@@ -221,14 +237,21 @@
     "Giant Keyhole Limpet",
     "https://reeflifesurvey.com/species/megathura-crenulata/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_48_636b1e2a43e0e.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_c8_636b1e2d74c13.w1300.h866.jpg"
+    ]
   ],
   "26": [
     "Mesocentrotus franciscanus",
     "Red Sea Urchin",
     "https://reeflifesurvey.com/species/mesocentrotus-franciscanus/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_87_636b33c18ff8f.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_4e_636b33be09e91.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_9e_636b33c4c9cf1.w1300.h866.jpg"
+    ]
   ],
   "27": [
     "Oxyjulis californica",
@@ -246,7 +269,9 @@
     0,
     [
       "https://images.reeflifesurvey.com/0/species_5c_59db4deed2480.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_f2_59db3bd409cf6.w1300.h866.jpg"
+      "https://images.reeflifesurvey.com/0/species_f2_59db3bd409cf6.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_08_636b2c841f4b3.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_8b_636b2c80c437f.w1300.h866.jpg"
     ]
   ],
   "29": [
@@ -257,7 +282,9 @@
     [
       "https://images.reeflifesurvey.com/0/species_a7_59db4e85728c6.w1300.h866.jpg",
       "https://images.reeflifesurvey.com/0/species_9f_59db4e7a96397.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_3d_59db4e7449acf.w1300.h866.jpg"
+      "https://images.reeflifesurvey.com/0/species_3d_59db4e7449acf.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_8e_636b21bf91f24.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_8b_636b21f250f04.w1300.h866.jpg"
     ]
   ],
   "30": [
@@ -272,21 +299,34 @@
     "Bat Star",
     "https://reeflifesurvey.com/species/patiria-miniata/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_e6_636acbac7697f.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/1/species_b5_636acb5a956e7.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_4e_636acb63bdb07.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_fc_636acb5f8b3e5.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_da_636acbc04a3ed.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_99_636ad7ea4c05a.w1300.h866.JPG"
+    ]
   ],
   "32": [
     "Pisaster giganteus",
     "Giant Spined Star",
     "https://reeflifesurvey.com/species/pisaster-giganteus/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_8b_636b1edc16e4d.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_2b_636b1edec4344.w1300.h866.jpg"
+    ]
   ],
   "33": [
     "Sebastes mystinus",
     "Blue Rockfish",
     "https://reeflifesurvey.com/species/sebastes-mystinus/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_b2_636ad985800f3.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_82_636ad980a2e2d.w1300.h866.jpg"
+    ]
   ],
   "34": [
     "Sebastes serriceps",
@@ -305,7 +345,9 @@
       "https://images.reeflifesurvey.com/0/species_26_59db4ad0bb8b3.w1300.h866.jpg",
       "https://images.reeflifesurvey.com/0/species_08_59db4ad783b2e.w1300.h866.jpg",
       "https://images.reeflifesurvey.com/0/species_ae_5965f81cf3c67.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_88_59db4ae32fd8b.w1300.h866.jpg"
+      "https://images.reeflifesurvey.com/0/species_88_59db4ae32fd8b.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_f0_636ae1c44095a.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_70_636ae291b8100.w1300.h866.jpg"
     ]
   ],
   "36": [
@@ -313,7 +355,10 @@
     "Purple Sea Urchin (?)",
     "https://reeflifesurvey.com/species/strongylocentrotus-purpuratus/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_7f_636b2eefc1534.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_8e_636b2eec34f7f.w1300.h866.jpg"
+    ]
   ],
   "37": [
     "Henricia leviuscula",
@@ -323,7 +368,9 @@
     [
       "https://images.reeflifesurvey.com/0/species_a2_59db4c9d36669.w1300.h866.jpg",
       "https://images.reeflifesurvey.com/0/species_9c_59db4c923d352.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_77_59db4c972a1d9.w1300.h866.jpg"
+      "https://images.reeflifesurvey.com/0/species_77_59db4c972a1d9.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_0c_636b2c131abb0.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_32_636b2c425def3.w1300.h866.jpg"
     ]
   ],
   "38": [
@@ -349,8 +396,11 @@
     "https://reeflifesurvey.com/species/sebastes-atrovirens/",
     0,
     [
+      "https://images.reeflifesurvey.com/0/species_4e_59db3e86d7105.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_af_636b224476945.w1300.h866.jpg",
       "https://images.reeflifesurvey.com/0/species_1a_59db3e9a2b29b.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_4e_59db3e86d7105.w1300.h866.jpg"
+      "https://images.reeflifesurvey.com/1/species_c4_636b223b17913.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_ad_636b223dda597.w1300.h866.jpg"
     ]
   ],
   "41": [
@@ -372,7 +422,10 @@
     "Stiff-footed Sea Cucumber",
     "https://reeflifesurvey.com/species/eupentacta-quinquesemita/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_46_636b3813c258e.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_00_636b38172a9dd.w1300.h866.jpg"
+    ]
   ],
   "44": [
     "Gibbonsia sp. (elegans)",
@@ -396,9 +449,11 @@
     "https://reeflifesurvey.com/species/hermissenda-crassicornis/",
     1,
     [
+      "https://images.reeflifesurvey.com/1/species_ec_636b2bad50ec8.w1300.h866.jpg",
       "https://images.reeflifesurvey.com/0/species_90_59db4c624cd32.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_a4_59db4c69719d8.w1300.h866.jpg",
       "https://images.reeflifesurvey.com/0/species_cc_59db3758714b7.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_a4_59db4c69719d8.w1300.h866.jpg"
+      "https://images.reeflifesurvey.com/1/species_a5_636b2bd20377e.w1300.h866.jpg"
     ]
   ],
   "47": [
@@ -407,7 +462,10 @@
     "https://reeflifesurvey.com/species/orthonopias-triacis/",
     2,
     [
-      "https://images.reeflifesurvey.com/0/species_01_59db4db671d4e.w1300.h866.jpg"
+      "https://images.reeflifesurvey.com/0/species_01_59db4db671d4e.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_75_636b36517b2b6.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_98_636b365465e1e.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_15_636b364e7d04d.w1300.h866.jpg"
     ]
   ],
   "48": [
@@ -429,7 +487,11 @@
     "Cabezon",
     "https://reeflifesurvey.com/species/scorpaenichthys-marmoratus/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_06_636adde09c7bf.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_5a_636add8c086ba.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_71_636add8391bc1.w1300.h866.jpg"
+    ]
   ],
   "51": [
     "Artedius corallinus",
@@ -489,7 +551,12 @@
     "Giant Kelpfish",
     "https://reeflifesurvey.com/species/heterostichus-rostratus/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_1e_636b12780528a.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_d8_636b1274d69b7.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_b6_636b127a7ab05.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_29_636b127cd9d7e.w1300.h866.jpg"
+    ]
   ],
   "59": [
     "Centrostephanus coronatus",
@@ -497,7 +564,8 @@
     "https://reeflifesurvey.com/species/centrostephanus-coronatus/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_92_577c8919b5358.w1300.h866.JPG"
+      "https://images.reeflifesurvey.com/0/species_92_577c8919b5358.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/1/species_54_636b3b33edf13.w1300.h866.jpg"
     ]
   ],
   "60": [
@@ -506,8 +574,10 @@
     "https://reeflifesurvey.com/species/diaulula-sandiegensis/",
     1,
     [
+      "https://images.reeflifesurvey.com/1/species_80_636b3423b991e.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_33_59d18098be980.w1300.h866.jpg",
       "https://images.reeflifesurvey.com/0/species_bb_59d180937c0a2.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_33_59d18098be980.w1300.h866.jpg"
+      "https://images.reeflifesurvey.com/1/species_71_636b341b6eb6d.w1300.h866.jpg"
     ]
   ],
   "61": [
@@ -523,7 +593,10 @@
     "https://reeflifesurvey.com/species/kelletia-kelletii/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_d9_59db4d4584cd3.w1300.h866.jpg"
+      "https://images.reeflifesurvey.com/1/species_2d_636b20f220929.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_d9_59db4d4584cd3.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_da_636b20f601a55.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_ef_636b20fa9f123.w1300.h866.jpg"
     ]
   ],
   "63": [
@@ -545,7 +618,11 @@
     "Wavy Turban Snail",
     "https://reeflifesurvey.com/species/megastraea-undosa/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_ea_636b391b7b74c.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_90_636b391e59684.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_4a_636b39229fa86.w1300.h866.jpg"
+    ]
   ],
   "66": [
     "Pisaster ochraceus",
@@ -685,7 +762,8 @@
     [
       "https://images.reeflifesurvey.com/0/species_0e_5a02b050e3044.w1300.h866.jpg",
       "https://images.reeflifesurvey.com/0/species_98_5a02b04d26aea.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_61_57848c103729c.w1300.h866.JPG"
+      "https://images.reeflifesurvey.com/0/species_61_57848c103729c.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/1/species_3d_636ada122cb07.w1300.h866.jpg"
     ]
   ],
   "81": [
@@ -700,7 +778,11 @@
     "Red Sea Cucumber",
     "https://reeflifesurvey.com/species/pachythyone-rubra/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_1c_636b2f81215c7.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_56_636b2f5ecbfb7.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_01_636b2f514c105.w1300.h866.jpg"
+    ]
   ],
   "83": [
     "Panulirus interruptus",
@@ -708,7 +790,10 @@
     "https://reeflifesurvey.com/species/panulirus-interruptus/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_7a_59db4e4cef47a.w1300.h866.jpg"
+      "https://images.reeflifesurvey.com/0/species_7a_59db4e4cef47a.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_46_636b1dd5ad050.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_e0_636ae0b3e7a69.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_9a_636ae0b08a38a.w1300.h866.jpg"
     ]
   ],
   "84": [
@@ -716,7 +801,10 @@
     "Harbour Seal",
     "https://reeflifesurvey.com/species/phoca-vitulina/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_be_636b1fe01f711.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_d5_636b1fb2b1410.w1300.h866.jpg"
+    ]
   ],
   "85": [
     "Rhacochilus toxotes",
@@ -724,7 +812,9 @@
     "https://reeflifesurvey.com/species/rhacochilus-toxotes/",
     0,
     [
-      "https://images.reeflifesurvey.com/0/species_00_59db4e426815d.w1300.h866.jpg"
+      "https://images.reeflifesurvey.com/0/species_00_59db4e426815d.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_d5_636b3463bbebc.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_7f_636b34660f658.w1300.h866.JPG"
     ]
   ],
   "86": [
@@ -747,8 +837,11 @@
     "https://reeflifesurvey.com/species/ceratostoma-foliatum/",
     1,
     [
+      "https://images.reeflifesurvey.com/1/species_d9_636b235858d52.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_e5_636b233085185.w1300.h866.jpg",
       "https://images.reeflifesurvey.com/0/species_7d_59db4226bfb9f.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_db_59db421631790.w1300.h866.jpg"
+      "https://images.reeflifesurvey.com/0/species_db_59db421631790.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_02_636b2335760c3.w1300.h866.jpg"
     ]
   ],
   "89": [
@@ -792,7 +885,12 @@
     "Spotted Kelpfish",
     "https://reeflifesurvey.com/species/gibbonsia-elegans/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_b0_636b376a3e58a.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_8d_636b375e944d6.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_01_636b377185c08.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_37_636b376685bcc.w1300.h866.jpg"
+    ]
   ],
   "94": [
     "Mediaster aequalis",
@@ -828,9 +926,11 @@
     "https://reeflifesurvey.com/species/linckia-columbiae/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_70_57e22b02690ae.w1300.h866.JPG",
       "https://images.reeflifesurvey.com/0/species_27_5a02b039b5908.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_7a_57e22b32a1cc3.w1300.h866.JPG"
+      "https://images.reeflifesurvey.com/1/species_74_636ae3e40e8d5.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_7a_57e22b32a1cc3.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/0/species_70_57e22b02690ae.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/1/species_7a_636ae3e09353b.w1300.h866.jpg"
     ]
   ],
   "99": [
@@ -873,7 +973,9 @@
     "Furry Hermit Crab",
     "https://reeflifesurvey.com/species/paguristes-ulreyi/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_85_636ae52db2ada.w1300.h866.jpg"
+    ]
   ],
   "105": [
     "Scorpaena guttata",
@@ -890,7 +992,11 @@
     "https://reeflifesurvey.com/species/alloclinus-holderi/",
     2,
     [
-      "https://images.reeflifesurvey.com/0/species_4b_59db417f87cfd.w1300.h866.jpg"
+      "https://images.reeflifesurvey.com/0/species_4b_59db417f87cfd.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_e5_636b207521785.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_3e_636b207893bbc.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_1e_636b207c53357.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_90_636b207fbdd43.w1300.h866.jpg"
     ]
   ],
   "107": [
@@ -937,7 +1043,12 @@
     "Sharpnose Crab",
     "https://reeflifesurvey.com/species/scyra-acutifrons/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_b1_636b34d6e559e.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_22_636b34da5ad71.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_d9_636b34e16d97c.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_70_636b35041b73e.w1300.h866.jpg"
+    ]
   ],
   "113": [
     "Anarrhichthys ocellatus",
@@ -1053,6 +1164,7 @@
     1,
     [
       "https://images.reeflifesurvey.com/0/species_5a_59d180b5196f7.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/1/species_6a_636b39f720727.w1300.h866.jpg",
       "https://images.reeflifesurvey.com/0/species_45_59d180baecae0.w1300.h866.jpg"
     ]
   ],
@@ -3544,7 +3656,10 @@
     "https://reeflifesurvey.com/species/norrisia-norrisii/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_ac_59db4dac0de89.w1300.h866.jpg"
+      "https://images.reeflifesurvey.com/0/species_ac_59db4dac0de89.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_cc_636b266d5660f.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_d0_636b2667a47fe.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_04_636b266a4fd2b.w1300.h866.jpg"
     ]
   ],
   "365": [
@@ -3640,7 +3755,10 @@
     "California Moray",
     "https://reeflifesurvey.com/species/gymnothorax-mordax/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_0c_636adf549efbe.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_e1_636adf57b056a.w1300.h866.jpg"
+    ]
   ],
   "378": [
     "Herbstia parvifrons",
@@ -3654,7 +3772,12 @@
     "California Two-spot Octopus",
     "https://reeflifesurvey.com/species/octopus-bimaculatus/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_7f_636b15eacae6a.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_53_636ae114bd299.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_fe_636ae11800ea2.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_10_636ae1116d1da.w1300.h866.jpg"
+    ]
   ],
   "380": [
     "Crossaster papposus",
@@ -30958,7 +31081,8 @@
     1,
     [
       "https://images.reeflifesurvey.com/0/species_b2_577c8c75c6d25.w1300.h866.JPG",
-      "https://images.reeflifesurvey.com/0/species_3c_577c8373a3387.w1300.h866.JPG"
+      "https://images.reeflifesurvey.com/0/species_3c_577c8373a3387.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/1/species_56_636b3729af48b.w1300.h866.jpg"
     ]
   ],
   "3078": [
@@ -31065,12 +31189,12 @@
   ],
   "3091": [
     "Chromis crusma",
-    "Valparaiso Chromis",
+    "Valparaiso Chromis, Valparaiso chromis",
     "https://reeflifesurvey.com/species/chromis-crusma/",
     0,
     [
-      "https://images.reeflifesurvey.com/1/species_44_5d8aeb864dfbc.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/1/species_26_5d8aebaad5b14.w1300.h866.jpg"
+      "https://images.reeflifesurvey.com/1/species_94_6372bcec1600b.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_98_6372bce437eba.w1300.h866.jpg"
     ]
   ],
   "3092": [
@@ -31769,13 +31893,10 @@
   ],
   "3168": [
     "Cirripectes variolosus",
-    "Red-speckled Blenny, Banded Fringe Blenny, Red-speckled Blenny, Red-tipped Fringe Blenny",
-    "https://reeflifesurvey.com/species/cirripectes-variolosus/",
+    "",
+    null,
     2,
-    [
-      "https://images.reeflifesurvey.com/0/species_db_5761fb2e7a34c.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_a2_5761fb3218026.w1300.h866.jpg"
-    ]
+    []
   ],
   "3169": [
     "Coris hewetti",
@@ -32152,10 +32273,14 @@
   ],
   "3214": [
     "Cirrhilabrus scottorum",
-    "",
-    null,
+    "Scotts Wrasse, Scott's Fairy-wrasse",
+    "https://reeflifesurvey.com/species/cirrhilabrus-scottorum/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_b2_57468cbdb4f1a.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_4e_57468c9d5a606.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/0/species_4a_57468cb0648b2.w1300.h866.jpg"
+    ]
   ],
   "3215": [
     "Chromis anadema",
@@ -32393,10 +32518,12 @@
   ],
   "3243": [
     "Comanthus parvicirrus",
-    "",
-    null,
+    "[a Crinoid]",
+    "https://reeflifesurvey.com/species/comanthus-parvicirrus/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_97_59c86dba4694e.w1300.h866.JPG"
+    ]
   ],
   "3244": [
     "Salarias ceramensis",
@@ -36377,15 +36504,10 @@
   ],
   "3702": [
     "Labracinus cyclophthalmus",
-    "Firetail Dottyback, Fire-tail Devil, Giant Dottyback, Red Dottyback, Spottysail Dottyback",
-    "https://reeflifesurvey.com/species/labracinus-cyclophthalmus/",
+    "",
+    null,
     2,
-    [
-      "https://images.reeflifesurvey.com/0/species_4e_572998ee8b650.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_0d_572998f371b1e.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_78_572998f9a6acb.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_d7_57a50d420a981.w1300.h866.jpg"
-    ]
+    []
   ],
   "3703": [
     "Myripristis kochiensis",
@@ -40116,7 +40238,7 @@
   "4159": [
     "Cirrhilabrus ?scottorum",
     "",
-    "https://reeflifesurvey.com/species/cirrhilabrus-scottorum/",
+    null,
     0,
     []
   ],
@@ -40477,12 +40599,9 @@
   "4202": [
     "Comanthus ?parvicirrus",
     "",
-    "https://reeflifesurvey.com/species/comanthus-parvicirrus/",
+    null,
     1,
-    [
-      "https://images.reeflifesurvey.com/0/",
-      "https://images.reeflifesurvey.com/0/"
-    ]
+    []
   ],
   "4203": [
     "Pteria lata",
@@ -40612,8 +40731,8 @@
   ],
   "4218": [
     "Eviota punctulata",
-    "",
-    null,
+    "Finespot Eviota",
+    "https://reeflifesurvey.com/species/eviota-punctulata/",
     2,
     []
   ],
@@ -40764,7 +40883,7 @@
   "4235": [
     "Nectamia ?luxuria",
     "",
-    null,
+    "https://reeflifesurvey.com/species/nectamia-luxuria/",
     2,
     []
   ],
@@ -40829,7 +40948,7 @@
   "4243": [
     "Cirripectes ?variolosus",
     "",
-    null,
+    "https://reeflifesurvey.com/species/cirripectes-variolosus/",
     2,
     []
   ],
@@ -40847,12 +40966,9 @@
   "4245": [
     "Eviota ?punctulata",
     "",
-    "https://reeflifesurvey.com/species/eviota-punctulata/",
+    null,
     2,
-    [
-      "https://images.reeflifesurvey.com/1/species_94_634793c77ed39.w1300.h866.JPG",
-      "https://images.reeflifesurvey.com/1/species_b0_634793cacbaf4.w1300.h866.JPG"
-    ]
+    []
   ],
   "4246": [
     "Elysia atroviridis",
@@ -41003,7 +41119,8 @@
     "https://reeflifesurvey.com/species/haliotis-fulgens/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_7c_59db4c35a691f.w1300.h866.jpg"
+      "https://images.reeflifesurvey.com/0/species_7c_59db4c35a691f.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_41_636b1f8bb22fa.w1300.h866.JPG"
     ]
   ],
   "4264": [
@@ -41044,7 +41161,11 @@
     "https://reeflifesurvey.com/species/apostichopus-parvimensis/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_f5_59db4ab601e8c.w1300.h866.jpg"
+      "https://images.reeflifesurvey.com/0/species_f5_59db4ab601e8c.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_73_636b3893400b4.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_72_636b38be619cc.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_70_636b389841f72.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_ea_636b389bb4fee.w1300.h866.jpg"
     ]
   ],
   "4269": [
@@ -41893,12 +42014,10 @@
   ],
   "4373": [
     "Eviota nigriventris",
-    "Red-and-black Eviota",
-    "https://reeflifesurvey.com/species/eviota-nigriventris/",
+    "",
+    null,
     2,
-    [
-      "https://images.reeflifesurvey.com/1/species_66_5ed498a8abc08.w1300.h866.JPG"
-    ]
+    []
   ],
   "4374": [
     "Bryaninops nexus",
@@ -42412,9 +42531,11 @@
   "4435": [
     "Labracinus ?cyclophthalmus",
     "",
-    null,
+    "https://reeflifesurvey.com/species/labracinus-cyclophthalmus/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/"
+    ]
   ],
   "4436": [
     "Pomacentrus smithi",
@@ -42481,7 +42602,7 @@
   "4442": [
     "Eviota ?nigriventris",
     "",
-    null,
+    "https://reeflifesurvey.com/species/eviota-nigriventris/",
     2,
     []
   ],
@@ -44873,7 +44994,7 @@
   "4725": [
     "Nectamia luxuria",
     "",
-    "https://reeflifesurvey.com/species/nectamia-luxuria/",
+    null,
     2,
     []
   ],
@@ -47497,7 +47618,10 @@
     "https://reeflifesurvey.com/species/calliostoma-ligatum/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_86_59dc57139a219.w1300.h866.jpg"
+      "https://images.reeflifesurvey.com/0/species_86_59dc57139a219.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_45_636adc31e1348.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_18_636adc36b9fb2.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_7b_636adc33edb21.w1300.h866.jpg"
     ]
   ],
   "5058": [
@@ -47513,7 +47637,11 @@
     "https://reeflifesurvey.com/species/pomaulax-gibberosus/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_9d_59db3bbc4cdcb.w1300.h866.jpg"
+      "https://images.reeflifesurvey.com/1/species_41_636b2fcd71a4f.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/1/species_70_636b2fca26332.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_53_636b2fd1563c0.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_9d_59db3bbc4cdcb.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_02_636b2fc6ad47c.w1300.h866.jpg"
     ]
   ],
   "5060": [
@@ -50976,14 +51104,19 @@
     "Maroon Hermit",
     "https://reeflifesurvey.com/species/pagurus-hemphilli/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_d4_636b24c6a2b19.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_a7_636b24c3aa593.w1300.h866.jpg"
+    ]
   ],
   "5517": [
     "Doris montereyensis",
     "Monterey Sea Lemon",
     "https://reeflifesurvey.com/species/doris-montereyensis/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_37_636b2630747bf.w1300.h866.jpg"
+    ]
   ],
   "5518": [
     "Henricia pumila",
@@ -50997,7 +51130,12 @@
     "",
     "https://reeflifesurvey.com/species/diodora-aspera/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_6e_636b22cbb8187.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_f8_636b22ce58997.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_65_636b22d1aa8fc.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_cf_636b22d510a49.w1300.h866.jpg"
+    ]
   ],
   "5520": [
     "Romaleon antennarium",
@@ -51573,7 +51711,10 @@
     "Foliate Kelp Crab",
     "https://reeflifesurvey.com/species/pugettia-foliata/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_b0_636ae35e981dc.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/1/species_73_636ae35bd974f.w1300.h866.jpg"
+    ]
   ],
   "5600": [
     "Phyllolithodes papillosus",
