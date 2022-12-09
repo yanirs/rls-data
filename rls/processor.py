@@ -18,7 +18,7 @@ class _DataTypeCode:
     BOTH = 2
 
 
-def _read_survey_data(survey_data_dir: Path) -> tuple[pd.DataFrame, dict[int, str]]:
+def _read_survey_data(survey_data_dir: Path) -> pd.DataFrame:
     """Read the RLS survey data from the files in survey_data_dir (as downloaded by rls.download_survey_data)."""
     survey_file_paths = list(survey_data_dir.glob("*.csv"))
     if len(survey_file_paths) != 3:
@@ -50,8 +50,6 @@ def _read_survey_data(survey_data_dir: Path) -> tuple[pd.DataFrame, dict[int, st
     survey_data = pd.concat(subset_dfs, ignore_index=True)
     survey_data.dropna(subset=["species_name"], inplace=True)
     survey_data.sort_values(["survey_id", "species_name"], inplace=True)
-    species_id_to_name = dict(enumerate(survey_data["species_name"].unique()))
-    survey_data["species_id"] = survey_data["species_name"].map({v: k for k, v in species_id_to_name.items()})
     survey_data.loc[
         (
             survey_data["family"].isin(CRYPTIC_FAMILIES)
@@ -61,7 +59,7 @@ def _read_survey_data(survey_data_dir: Path) -> tuple[pd.DataFrame, dict[int, st
         "data_type_code",
     ] = _DataTypeCode.BOTH
     survey_data["site_name"].replace(CORRUPTED_SITE_NAME_CORRECTIONS, inplace=True)
-    return survey_data, species_id_to_name
+    return survey_data
 
 
 def _write_jsons(dst_dir: Path, name_prefix: str, data: Any, data_desc: str) -> None:
@@ -84,7 +82,7 @@ def _create_site_summaries(survey_data: pd.DataFrame, dst_dir: Path) -> None:
     Two files will be created, api-site-surveys.json and api-site-surveys.min.json, where the latter is the same JSON
     as the former but without pretty-printing whitespace. The content of the files is the same mapping from site code
     to [realm: str, ecoregion: str, site_name: str, longitude: float, latitude: float, num_surveys: int,
-    species_id_to_num_surveys: dict[int, int]]
+    species_name_to_num_surveys: dict[str, int]]
     """
     site_survey_counts = survey_data.groupby("site_code")["survey_id"].nunique()
     site_survey_counts.name = "num_surveys"
@@ -95,7 +93,7 @@ def _create_site_summaries(survey_data: pd.DataFrame, dst_dir: Path) -> None:
         .join(site_survey_counts)
     )
     site_survey_species_counts = (
-        survey_data.drop_duplicates(["survey_id", "species_id"]).groupby(["site_code", "species_id"]).size()
+        survey_data.drop_duplicates(["survey_id", "species_name"]).groupby(["site_code", "species_name"]).size()
     )
     site_summaries = {
         site_code: list(site_info.values()) + [site_survey_species_counts.loc[site_code].to_dict()]
@@ -106,7 +104,6 @@ def _create_site_summaries(survey_data: pd.DataFrame, dst_dir: Path) -> None:
 
 def _create_species_file(
     survey_data: pd.DataFrame,
-    species_id_to_name: dict[int, str],
     crawl_data: dict[str, dict[str, Any]],
     img_src_path: Path,
     dst_dir: Path,
@@ -115,27 +112,27 @@ def _create_species_file(
     Create the species summary from the given data and write them in API JSON format to dst_dir.
 
     Two files will be created, api-species.json and api-species.min.json, where the latter is the same JSON as the
-    former but without pretty-printing whitespace. The content of the files is the same mapping from the numeric species
-    ID to [species_name: str, common_name: str, url: str, data_type_code: int (0 - M1, 1 - M2, 2 - both),
+    former but without pretty-printing whitespace. The content of the files is the same mapping from the species_name to
+    [species_name: str, common_name: str, url: str, data_type_code: int (0 - M1, 1 - M2, 2 - both),
     image_urls: list[str]]
 
     If the crawled species dicts contain an "images" key, it is assumed that the images were scraped to img_src_path.
     In this case, the resulting image_urls will be of the form "/img/<species_slug>-<index>.<ext>". These paths will be
     symlinked from dst_dir / "img" to the files in img_src_path.
     """
-    # Sort the data by species_id and data_type_code and drop duplicates, so that species that have more than one data
+    # Sort the data by species_name and data_type_code and drop duplicates, so that species that have more than one data
     # type would get assigned 2 - both.
-    species_id_to_data_type_code = (
-        survey_data[["species_id", "data_type_code"]]
-        .sort_values(["species_id", "data_type_code"])
-        .drop_duplicates(["species_id"], keep="last")
-        .set_index("species_id")["data_type_code"]
+    species_name_to_data_type_code = (
+        survey_data[["species_name", "data_type_code"]]
+        .sort_values(["species_name", "data_type_code"])
+        .drop_duplicates(["species_name"], keep="last")
+        .set_index("species_name")["data_type_code"]
         .to_dict()
     )
     dst_img_path = dst_dir / "img"
     verify_empty_dir(dst_img_path)
     api_species = {}
-    for species_id, species_name in species_id_to_name.items():
+    for species_name in sorted(survey_data["species_name"].unique()):
         species_dict = crawl_data.get(species_name.lower(), {})
 
         if "images" in species_dict:
@@ -147,11 +144,11 @@ def _create_species_file(
         else:
             image_urls = species_dict.get("image_urls", [])
 
-        api_species[species_id] = [
+        api_species[species_name] = [
             species_name,
             species_dict.get("common_name", ""),
             species_dict.get("url", None),
-            species_id_to_data_type_code[species_id],
+            species_name_to_data_type_code[species_name],
             image_urls,
         ]
     _write_jsons(dst_dir, name_prefix="api-species", data=api_species, data_desc=f"{len(api_species)} species")
@@ -174,10 +171,10 @@ def create_api_jsons(
     if len(crawl_data) < min_expected_crawl_items:
         raise ValueError(f"Expected at least {min_expected_crawl_items} items, but found {len(crawl_data)}")
     img_src_path = (crawl_json_path.parent / "img").resolve()
-    survey_data, species_id_to_name = _read_survey_data(survey_data_dir)
+    survey_data = _read_survey_data(survey_data_dir)
     if len(survey_data) < min_expected_survey_rows:
         raise ValueError(f"Expected at least {min_expected_survey_rows} survey rows, but found {len(survey_data)}")
     _logger.info("Creating site summaries.")
     _create_site_summaries(survey_data, dst_dir)
     _logger.info("Creating species file.")
-    _create_species_file(survey_data, species_id_to_name, crawl_data, img_src_path, dst_dir)
+    _create_species_file(survey_data, crawl_data, img_src_path, dst_dir)
