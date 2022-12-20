@@ -11337,7 +11337,7 @@
   "Cirrhilabrus ?scottorum": [
     "Cirrhilabrus ?scottorum",
     "",
-    "https://reeflifesurvey.com/species/cirrhilabrus-scottorum/",
+    null,
     0,
     []
   ],
@@ -11443,10 +11443,14 @@
   ],
   "Cirrhilabrus scottorum": [
     "Cirrhilabrus scottorum",
-    "",
-    null,
+    "Scotts Wrasse, Scott's Fairy-wrasse",
+    "https://reeflifesurvey.com/species/cirrhilabrus-scottorum/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_b2_57468cbdb4f1a.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_4e_57468c9d5a606.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/0/species_4a_57468cb0648b2.w1300.h866.jpg"
+    ]
   ],
   "Cirrhilabrus solorensis": [
     "Cirrhilabrus solorensis",
@@ -12099,20 +12103,19 @@
   ],
   "Colobometra perspinosa": [
     "Colobometra perspinosa",
-    "Black Feather Star",
-    "https://reeflifesurvey.com/species/colobometra-perspinosa/",
-    1,
-    [
-      "https://images.reeflifesurvey.com/0/species_71_5784b5d72de9d.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/1/species_a9_5e154d19b0e87.w1300.h866.JPG"
-    ]
-  ],
-  "Colobometra perspinosa?": [
-    "Colobometra perspinosa?",
     "",
     null,
     1,
     []
+  ],
+  "Colobometra perspinosa?": [
+    "Colobometra perspinosa?",
+    "",
+    "https://reeflifesurvey.com/species/colobometra-perspinosa/",
+    1,
+    [
+      "https://images.reeflifesurvey.com/0/"
+    ]
   ],
   "Colobometra spp.": [
     "Colobometra spp.",
@@ -12178,9 +12181,12 @@
   "Comanthus ?parvicirrus": [
     "Comanthus ?parvicirrus",
     "",
-    null,
+    "https://reeflifesurvey.com/species/comanthus-parvicirrus/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/",
+      "https://images.reeflifesurvey.com/0/"
+    ]
   ],
   "Comanthus alternans": [
     "Comanthus alternans",
@@ -12221,12 +12227,10 @@
   ],
   "Comanthus parvicirrus": [
     "Comanthus parvicirrus",
-    "[a Crinoid]",
-    "https://reeflifesurvey.com/species/comanthus-parvicirrus/",
+    "",
+    null,
     1,
-    [
-      "https://images.reeflifesurvey.com/0/species_97_59c86dba4694e.w1300.h866.JPG"
-    ]
+    []
   ],
   "Comanthus sp. (1 Unid - yellow stem with sparse black pinnae)": [
     "Comanthus sp. (1 Unid - yellow stem with sparse black pinnae)",
@@ -17389,7 +17393,7 @@
   "Elysia ?ornata": [
     "Elysia ?ornata",
     "",
-    null,
+    "https://reeflifesurvey.com/species/elysia-ornata/",
     1,
     []
   ],
@@ -17448,13 +17452,10 @@
   ],
   "Elysia ornata": [
     "Elysia ornata",
-    "Ornate Elysia, Ornate Elysia, sap sucker",
-    "https://reeflifesurvey.com/species/elysia-ornata/",
+    "",
+    null,
     1,
-    [
-      "https://images.reeflifesurvey.com/0/species_51_5744e753e6dca.w1300.h866.JPG",
-      "https://images.reeflifesurvey.com/0/species_c4_57da63970d55c.w1300.h866.jpg"
-    ]
+    []
   ],
   "Elysia sp. [blue-lined]": [
     "Elysia sp. [blue-lined]",
@@ -18720,7 +18721,7 @@
   "Eviota ?nigriventris": [
     "Eviota ?nigriventris",
     "",
-    null,
+    "https://reeflifesurvey.com/species/eviota-nigriventris/",
     2,
     []
   ],
@@ -18857,12 +18858,10 @@
   ],
   "Eviota nigriventris": [
     "Eviota nigriventris",
-    "Red-and-black Eviota",
-    "https://reeflifesurvey.com/species/eviota-nigriventris/",
+    "",
+    null,
     2,
-    [
-      "https://images.reeflifesurvey.com/1/species_66_5ed498a8abc08.w1300.h866.JPG"
-    ]
+    []
   ],
   "Eviota pellucida": [
     "Eviota pellucida",
@@ -20732,7 +20731,7 @@
   "Gobiodon ?histrio": [
     "Gobiodon ?histrio",
     "",
-    "https://reeflifesurvey.com/species/gobiodon-histrio/",
+    null,
     2,
     []
   ],
@@ -20773,10 +20772,15 @@
   ],
   "Gobiodon histrio": [
     "Gobiodon histrio",
-    "",
-    null,
+    "Maori Coralgoby, Actor Coral Goby, Broad-banded Goby, Broad-barred Goby, Broad-barred Maori Goby",
+    "https://reeflifesurvey.com/species/gobiodon-histrio/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_40_5983bdd438840.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/0/species_55_5981e12641e6a.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_cb_5981e12288a32.w1300.h866.jpg",
+      "https://images.reeflifesurvey.com/0/species_9a_5983bdd0c08cc.w1300.h866.JPG"
+    ]
   ],
   "Gobiodon oculolineatus": [
     "Gobiodon oculolineatus",
@@ -31909,6 +31913,13 @@
     1,
     []
   ],
+  "Nerita spp.": [
+    "Nerita spp.",
+    "",
+    null,
+    1,
+    []
+  ],
   "Nesogobius hinsbyi": [
     "Nesogobius hinsbyi",
     "Hinsbys Goby",
@@ -39057,7 +39068,7 @@
   "Pomacentrus ?australis": [
     "Pomacentrus ?australis",
     "",
-    null,
+    "https://reeflifesurvey.com/species/pomacentrus-australis/",
     0,
     []
   ],
@@ -39128,17 +39139,10 @@
   ],
   "Pomacentrus australis": [
     "Pomacentrus australis",
-    "Australian Damsel",
-    "https://reeflifesurvey.com/species/pomacentrus-australis/",
+    "",
+    null,
     0,
-    [
-      "https://images.reeflifesurvey.com/0/species_d8_56e89387d110f.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_f8_56e8938f95a77.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/1/species_3d_5fe316e7a5ce9.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_4f_56e894041e1b0.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/1/species_bb_5fe316e4e457d.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/1/species_1c_5fe316eb0e284.w1300.h866.jpg"
-    ]
+    []
   ],
   "Pomacentrus baenschi": [
     "Pomacentrus baenschi",
@@ -40153,7 +40157,7 @@
   "Pseudanthias ?tuka": [
     "Pseudanthias ?tuka",
     "",
-    null,
+    "https://reeflifesurvey.com/species/pseudanthias-tuka/",
     0,
     []
   ],
@@ -40372,18 +40376,10 @@
   ],
   "Pseudanthias tuka": [
     "Pseudanthias tuka",
-    "Purple Queen, Purple Anthias, Purple Queen-basslet, Yellowstripe Anthias, Yellowstriped Fairy Basslet",
-    "https://reeflifesurvey.com/species/pseudanthias-tuka/",
+    "",
+    null,
     0,
-    [
-      "https://images.reeflifesurvey.com/0/species_b2_57297cc808c60.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_38_57297ccf07994.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_cc_57297cd40c308.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_a9_57297ce30402a.w1300.h866.JPG",
-      "https://images.reeflifesurvey.com/0/species_75_57297ceb36061.w1300.h866.JPG",
-      "https://images.reeflifesurvey.com/0/species_54_57297d4e3746a.w1300.h866.JPG",
-      "https://images.reeflifesurvey.com/0/species_ac_577cb199b83db.w1300.h866.JPG"
-    ]
+    []
   ],
   "Pseudaphritis urvillii": [
     "Pseudaphritis urvillii",
@@ -44484,6 +44480,13 @@
     "Small European Locust Lobster ",
     "https://reeflifesurvey.com/species/scyllarus-arctus/",
     1,
+    []
+  ],
+  "Scyphozoa spp.": [
+    "Scyphozoa spp.",
+    "",
+    null,
+    2,
     []
   ],
   "Scyra acutifrons": [
