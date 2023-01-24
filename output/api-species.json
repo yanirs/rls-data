@@ -27604,6 +27604,13 @@
       "https://images.reeflifesurvey.com/0/species_9c_599a3c8a7b469.w1300.h866.JPG"
     ]
   ],
+  "Littorina littorea": [
+    "Littorina littorea",
+    "Common Periwinkle",
+    "https://reeflifesurvey.com/species/littorina-littorea/",
+    1,
+    []
+  ],
   "Littorina obtusata": [
     "Littorina obtusata",
     "Yellow Periwinkle",
@@ -28722,6 +28729,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_b7_5784207e484f7.w1300.h866.JPG"
     ]
+  ],
+  "Mallotus villosus": [
+    "Mallotus villosus",
+    "",
+    "https://reeflifesurvey.com/species/mallotus-villosus/",
+    0,
+    []
   ],
   "Mancinella alouina": [
     "Mancinella alouina",
