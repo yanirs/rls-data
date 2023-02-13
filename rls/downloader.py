@@ -18,7 +18,7 @@ def download_survey_data(survey_data_dir: Path) -> None:
         [
             (
                 "https://geoserver-portal.aodn.org.au/geoserver/ows?SERVICE=WFS&outputFormat=csv&REQUEST=GetFeature&"
-                f"VERSION=1.0.0&CQL_FILTER=(program%20LIKE%20'RLS')&typeName=imos:ep_{data_type}_public_data",
+                f"VERSION=1.0.0&typeName=imos:ep_{data_type}_public_data",
                 survey_data_dir / f"{data_type}.csv",
             )
             for data_type in ("m1", "m2_cryptic_fish", "m2_inverts")

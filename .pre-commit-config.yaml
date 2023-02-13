@@ -7,7 +7,7 @@ exclude: .idea/
 repos:
 
 - repo: https://github.com/pre-commit/pre-commit-hooks
-  rev: v4.2.0
+  rev: f71fa2c1f9cf5cb705f73dffe4b21f7c61470ba9  # frozen: v4.4.0
   hooks:
   - id: trailing-whitespace
   - id: end-of-file-fixer
@@ -20,14 +20,14 @@ repos:
   - id: debug-statements
   - id: check-merge-conflict
 
-- repo: https://github.com/ambv/black
-  rev: 22.3.0
+- repo: https://github.com/psf/black
+  rev: b0d1fba7ac3be53c71fb0d3211d911e629f8aecb  # frozen: 23.1.0
   hooks:
   - id: black
     language_version: python3
 
-- repo: https://github.com/myint/docformatter
-  rev: v1.4
+- repo: https://github.com/pycqa/docformatter
+  rev: 3c8dde140e0d2d4670aa2fbb706e1a96db593643  # frozen: v1.6.0.rc1
   hooks:
     - id: docformatter
       args: [
@@ -37,19 +37,19 @@ repos:
         --pre-summary-newline,
       ]
 
-- repo: https://github.com/humitos/mirrors-autoflake
-  rev: v1.1
+- repo: https://github.com/pycqa/autoflake
+  rev: a8074406bf785cb287dfe1809e79ac6856bf65b2  # frozen: v2.0.1
   hooks:
     - id: autoflake
       args: ['--in-place', '--remove-all-unused-imports', '--remove-unused-variable']
 
 - repo: https://github.com/pycqa/isort
-  rev: 5.10.1
+  rev: dbf82f2dd09ae41d9355bcd7ab69187a19e6bf2f  # frozen: 5.12.0
   hooks:
   - id: isort
 
-- repo: https://gitlab.com/pycqa/flake8
-  rev: 3.9.2
+- repo: https://github.com/pycqa/flake8
+  rev: c838a5e98878f17889cfce311e1406d252f87ec5  # frozen: 6.0.0
   hooks:
     - id: flake8
       additional_dependencies: [
@@ -59,13 +59,12 @@ repos:
         'flake8-pytest-style',
         'flake8-variables-names',
         'flake8-class-attributes-order',
-        'flake8-keyword-arguments',
         'dlint',
         'flake8-docstrings',
       ]
 
 - repo: https://github.com/pre-commit/mirrors-mypy
-  rev: v0.942
+  rev: dc6912646c561f16af711006e7615d52e9bf0968  # frozen: v1.0.0
   hooks:
     - id: mypy
       args: [--ignore-missing-imports, --check-untyped-defs, --disallow-incomplete-defs, --show-error-codes, --strict]
