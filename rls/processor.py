@@ -2,7 +2,7 @@
 import json
 import logging
 from pathlib import Path
-from typing import Any
+from typing import Any, Sequence
 
 import pandas as pd
 
@@ -30,15 +30,18 @@ def _read_survey_data(survey_data_dir: Path) -> pd.DataFrame:
             data_file_path,
             usecols=[
                 "survey_id",
+                "country",
                 "ecoregion",
                 "realm",
                 "site_code",
                 "site_name",
+                "program",
                 "class",
                 "family",
                 "species_name",
                 "latitude",
                 "longitude",
+                "total",
             ],
         )
         _logger.info("Read %d rows from %s", len(subset_df), data_file_path)
@@ -62,13 +65,21 @@ def _read_survey_data(survey_data_dir: Path) -> pd.DataFrame:
     return survey_data
 
 
-def _write_jsons(dst_dir: Path, name_prefix: str, data: Any, data_desc: str) -> None:
-    """Write the same data twice: As a pretty-printed JSON and a minified JSON."""
+def _write_jsons(
+    dst_dir: Path, name_prefix: str, data: Any, data_desc: str, suffixes: Sequence[str] = (".json", ".min.json")
+) -> None:
+    """
+    Write the same data twice: As a pretty-printed JSON and a minified JSON.
+
+    Suffixes can be skipped by specifying the suffixes argument.
+    """
     suffix_to_json_kwargs: dict[str, dict[str, Any]] = {
         ".json": dict(indent=2),
         ".min.json": dict(separators=(",", ":")),
     }
     for suffix, json_kwargs in suffix_to_json_kwargs.items():
+        if suffix not in suffixes:
+            continue
         out_path = dst_dir / f"{name_prefix}{suffix}"
         _logger.info("Writing %s to %s", data_desc, out_path)
         with open(out_path, "w") as fp:
@@ -154,6 +165,23 @@ def _create_species_file(
     _write_jsons(dst_dir, name_prefix="api-species", data=api_species, data_desc=f"{len(api_species)} species")
 
 
+def _create_summary_file(survey_data: pd.DataFrame, dst_dir: Path) -> None:
+    """Create the overall summary for the homepage, using only RLS surveys."""
+    rls_only_data = survey_data[survey_data["program"] == "RLS"]
+    unique_names = {
+        name
+        for name in rls_only_data["species_name"].unique()
+        if not name.startswith("Unidentified") and not (len(name.split()) == 2 and name.endswith("spp."))
+    }
+    summary = {
+        "animalsobserved": int(rls_only_data["total"].sum()),
+        "reefdwellingspecies": len(unique_names),
+        "surveycompleted": int(rls_only_data["survey_id"].nunique()),
+        "countriessurveyed": int(rls_only_data["country"].nunique()),
+    }
+    _write_jsons(dst_dir, name_prefix="summary", data=summary, data_desc=f"summary {summary}", suffixes=[".min.json"])
+
+
 def create_api_jsons(
     crawl_json_path: Path,
     survey_data_dir: Path,
@@ -178,3 +206,5 @@ def create_api_jsons(
     _create_site_summaries(survey_data, dst_dir)
     _logger.info("Creating species file.")
     _create_species_file(survey_data, crawl_data, img_src_path, dst_dir)
+    _logger.info("Creating summary file.")
+    _create_summary_file(survey_data, dst_dir)
