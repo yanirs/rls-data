@@ -70,7 +70,7 @@
   ],
   "Abudefduf saxatilis": [
     "Abudefduf saxatilis",
-    "Sergeant Major, P\u00c3\u00adntano, Pilotfish, Sergeant Major, Five Finger",
+    "Sergeant Major, Pilotfish, P\u00edntano, Sergeant Major, Five Finger",
     "https://reeflifesurvey.com/species/abudefduf-saxatilis/",
     0,
     [
@@ -172,7 +172,7 @@
   ],
   "Acanthaluteres brownii": [
     "Acanthaluteres brownii",
-    "Spiny Tailed Leatherjacket, Brown\u00e2\u20ac\u2122s leatherjacket",
+    "Spiny Tailed Leatherjacket, Brown\u2019s leatherjacket",
     "https://reeflifesurvey.com/species/acanthaluteres-brownii/",
     0,
     [
@@ -969,15 +969,15 @@
   ],
   "Acrosterigma cygnorum": [
     "Acrosterigma cygnorum",
-    "Oblique Southern Cockle",
-    "https://reeflifesurvey.com/species/acrosterigma-cygnorum/",
+    "",
+    null,
     1,
     []
   ],
   "Acrosterigma elongata": [
     "Acrosterigma elongata",
-    "[a Heart Cockle]",
-    "https://reeflifesurvey.com/species/acrosterigma-elongata/",
+    "",
+    null,
     1,
     []
   ],
@@ -3484,7 +3484,7 @@
   ],
   "Arctocephalus galapagoensis": [
     "Arctocephalus galapagoensis",
-    "Gal\u00e1pagos Fur Seal, Galapagos Islands Fur Seal, Gal\u00c3\u00a1pagos Fur Seal",
+    "Gal\u00e1pagos Fur Seal, Gal\u00e1pagos Fur Seal, Galapagos Islands Fur Seal",
     "https://reeflifesurvey.com/species/arctocephalus-galapagoensis/",
     0,
     [
@@ -4251,36 +4251,24 @@
   ],
   "Astroboa ernae": [
     "Astroboa ernae",
-    "Basket Star",
-    "https://reeflifesurvey.com/species/astroboa-ernae/",
+    "",
+    null,
     1,
-    [
-      "https://images.reeflifesurvey.com/0/species_3c_57fb1db4cc265.w1300.h866.JPG",
-      "https://images.reeflifesurvey.com/0/species_37_57fb1dba00e05.w1300.h866.JPG",
-      "https://images.reeflifesurvey.com/1/species_5c_6256b3f3d4ab1.w1300.h866.jpg"
-    ]
+    []
   ],
   "Astroboa granulatus": [
     "Astroboa granulatus",
-    "Granulate Basket Star",
-    "https://reeflifesurvey.com/species/astroboa-granulatus/",
+    "",
+    null,
     1,
-    [
-      "https://images.reeflifesurvey.com/0/species_ed_57834f9a1b995.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_d2_57834fab0ed1f.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_e9_57834f901d668.w1300.h866.jpg"
-    ]
+    []
   ],
   "Astrocladus euryale": [
     "Astrocladus euryale",
-    ", ",
-    "https://reeflifesurvey.com/species/astrocladus-euryale/",
+    "",
+    null,
     1,
-    [
-      "https://images.reeflifesurvey.com/0/species_bd_57871b32916a3.w1300.h866.JPG",
-      "https://images.reeflifesurvey.com/0/species_96_57871b39c2b75.w1300.h866.JPG",
-      "https://images.reeflifesurvey.com/0/species_55_57871b3fb79ab.w1300.h866.JPG"
-    ]
+    []
   ],
   "Astropecten armatus": [
     "Astropecten armatus",
@@ -4322,12 +4310,10 @@
   ],
   "Astrophyton muricatum": [
     "Astrophyton muricatum",
-    "Giant Basket Star",
-    "https://reeflifesurvey.com/species/astrophyton-muricatum/",
+    "",
+    null,
     1,
-    [
-      "https://images.reeflifesurvey.com/0/species_17_57d78fad0c213.w1300.h866.jpg"
-    ]
+    []
   ],
   "Astropyga pulvinata": [
     "Astropyga pulvinata",
@@ -5424,6 +5410,13 @@
       "https://images.reeflifesurvey.com/0/species_4e_574aba59d18b6.w1300.h866.jpg"
     ]
   ],
+  "Bolinopsis ashleyi": [
+    "Bolinopsis ashleyi",
+    "Comb Jelly",
+    "https://reeflifesurvey.com/species/bolinopsis-ashleyi/",
+    1,
+    []
+  ],
   "Bolinopsis infundibulum": [
     "Bolinopsis infundibulum",
     "Common Northern Comb Jelly",
@@ -5901,6 +5894,13 @@
       "https://images.reeflifesurvey.com/0/species_fc_57da36b0e1116.w1300.h866.jpg"
     ]
   ],
+  "Bunaster uniserialis": [
+    "Bunaster uniserialis",
+    "",
+    "https://reeflifesurvey.com/species/bunaster-uniserialis/",
+    1,
+    []
+  ],
   "Bunaster variegatus\u00a0[cf]": [
     "Bunaster variegatus\u00a0[cf]",
     "",
@@ -6175,7 +6175,7 @@
   ],
   "Caesio teres": [
     "Caesio teres",
-    "Blue Fusilier, Beautiful Fusilier, Blue & Gold Fusilier, Yellowback Fusilier, Yellowtail Fusilier",
+    "Blue Fusilier, Beautiful Fusilier, Blue and Gold Fusilier, Yellowback Fusilier, Yellowtail Fusilier",
     "https://reeflifesurvey.com/species/caesio-teres/",
     0,
     [
@@ -6335,6 +6335,13 @@
       "https://images.reeflifesurvey.com/0/species_0f_59574bba4b1de.w1300.h866.jpg"
     ]
   ],
+  "Calcinus guamensis": [
+    "Calcinus guamensis",
+    "Guam Hermit Crab",
+    "https://reeflifesurvey.com/species/calcinus-guamensis/",
+    1,
+    []
+  ],
   "Calcinus haigae": [
     "Calcinus haigae",
     "",
@@ -6422,6 +6429,13 @@
     "Calcinus sp. (St Kilda colored)",
     "",
     "https://reeflifesurvey.com/species/calcinus-sp-st-kilda-colored/",
+    1,
+    []
+  ],
+  "Calcinus sp. (purple legs)": [
+    "Calcinus sp. (purple legs)",
+    "Unidentified Hermit Crab",
+    "https://reeflifesurvey.com/species/calcinus-sp-purple-legs/",
     1,
     []
   ],
@@ -6767,7 +6781,7 @@
   ],
   "Campylonotus vagans": [
     "Campylonotus vagans",
-    "Painted Shrimp, Painted Shrimp,Camar\u00c3\u00b3n pintado",
+    "Painted Shrimp, Painted Shrimp,Camar\u00f3n pintado",
     "https://reeflifesurvey.com/species/campylonotus-vagans/",
     1,
     [
@@ -6965,7 +6979,7 @@
   ],
   "Canthigaster axiologus": [
     "Canthigaster axiologus",
-    "Crowned Toby, , Crowned Toby, Pacific Crowned Toby",
+    "Crowned Toby, Crowned Toby, Pacific Crowned Toby",
     "https://reeflifesurvey.com/species/canthigaster-axiologus/",
     0,
     [
@@ -7272,7 +7286,7 @@
   ],
   "Carangoides fulvoguttatus": [
     "Carangoides fulvoguttatus",
-    "Turrum, , Gold Spotted Trevally, Yellow Spotted Trevally",
+    "Turrum, Gold Spotted Trevally, Yellow Spotted Trevally",
     "https://reeflifesurvey.com/species/carangoides-fulvoguttatus/",
     0,
     [
@@ -7570,6 +7584,13 @@
     1,
     []
   ],
+  "Carpilius convexus": [
+    "Carpilius convexus",
+    "Marbled Stone Crab",
+    "https://reeflifesurvey.com/species/carpilius-convexus/",
+    1,
+    []
+  ],
   "Carpilius maculatus": [
     "Carpilius maculatus",
     "",
@@ -7794,7 +7815,7 @@
   ],
   "Centropyge bicolor": [
     "Centropyge bicolor",
-    "Blue And Gold Angelfish, Black And Gold Angel-fish, Blue & Gold Angelfish, Two-colored Angelfish",
+    "Blue And Gold Angelfish, Black And Gold Angel-fish, Blue and Gold Angelfish, Two-colored Angelfish",
     "https://reeflifesurvey.com/species/centropyge-bicolor/",
     0,
     [
@@ -8332,6 +8353,13 @@
     "Cerithium spp.",
     "",
     null,
+    1,
+    []
+  ],
+  "Cerithium tenellum": [
+    "Cerithium tenellum",
+    "A Creeper",
+    "https://reeflifesurvey.com/species/cerithium-tenellum/",
     1,
     []
   ],
@@ -10657,7 +10685,7 @@
   ],
   "Chromis margaritifer": [
     "Chromis margaritifer",
-    "Half-and-half Puller, Bicolour Chromis, Chocolate Dip, Half & Half Chromis, Whitetail Chromis",
+    "Half-and-half Puller, Bicolour Chromis, Chocolate Dip, Half and Half Chromis, Whitetail Chromis",
     "https://reeflifesurvey.com/species/chromis-margaritifer/",
     0,
     [
@@ -12854,19 +12882,10 @@
   ],
   "Conocladus australis": [
     "Conocladus australis",
-    "Basket Star",
-    "https://reeflifesurvey.com/species/conocladus-australis/",
+    "",
+    null,
     1,
-    [
-      "https://images.reeflifesurvey.com/0/species_bf_5716cfd0e19e9.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_38_574d7fe9651f1.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_9c_574d8154951a0.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_58_574d7f25172f7.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_8d_574d7f7ea8abc.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_3e_5784dcf3cebcb.w1300.h866.JPG",
-      "https://images.reeflifesurvey.com/0/species_e2_5784dcfb5269e.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_09_574d812e9477f.w1300.h866.jpg"
-    ]
+    []
   ],
   "Conomurex luhuanus": [
     "Conomurex luhuanus",
@@ -12992,6 +13011,13 @@
       "https://images.reeflifesurvey.com/1/species_9a_634784a91f29a.w1300.h866.JPG"
     ]
   ],
+  "Conus ferrugineus": [
+    "Conus ferrugineus",
+    "Cone Shell",
+    "https://reeflifesurvey.com/species/conus-ferrugineus/",
+    1,
+    []
+  ],
   "Conus figulinus": [
     "Conus figulinus",
     "Fig Cone",
@@ -13012,6 +13038,13 @@
     "Conus frigidus",
     "Frigid Cone",
     "https://reeflifesurvey.com/species/conus-frigidus/",
+    1,
+    []
+  ],
+  "Conus generalis": [
+    "Conus generalis",
+    "The General Cone",
+    "https://reeflifesurvey.com/species/conus-generalis/",
     1,
     []
   ],
@@ -13124,6 +13157,13 @@
     [
       "https://images.reeflifesurvey.com/1/species_5b_634787a34e056.w1300.h866.jpg"
     ]
+  ],
+  "Conus omaria": [
+    "Conus omaria",
+    "Omaria Cone",
+    "https://reeflifesurvey.com/species/conus-omaria/",
+    1,
+    []
   ],
   "Conus planorbis": [
     "Conus planorbis",
@@ -13825,7 +13865,7 @@
   ],
   "Corythoichthys conspicillatus": [
     "Corythoichthys conspicillatus",
-    "Reticulate Pipefish, ",
+    "Reticulate Pipefish",
     "https://reeflifesurvey.com/species/corythoichthys-conspicillatus/",
     2,
     [
@@ -16499,6 +16539,13 @@
     [
       "https://images.reeflifesurvey.com/1/species_fb_5c3e77761ef07.w1300.h866.jpg"
     ]
+  ],
+  "Dorometra spp.": [
+    "Dorometra spp.",
+    "",
+    null,
+    1,
+    []
   ],
   "Doryrhamphus excisus": [
     "Doryrhamphus excisus",
@@ -20053,8 +20100,8 @@
   ],
   "Fulvia tenuicostata": [
     "Fulvia tenuicostata",
-    "Common Southern Cockle",
-    "https://reeflifesurvey.com/species/fulvia-tenuicostata/",
+    "",
+    null,
     1,
     []
   ],
@@ -22509,6 +22556,13 @@
     [
       "https://images.reeflifesurvey.com/1/species_f2_5e082773e0520.w1300.h866.jpg"
     ]
+  ],
+  "Halgerda brunneomaculata": [
+    "Halgerda brunneomaculata",
+    "Brown-spotted Halgerda",
+    "https://reeflifesurvey.com/species/halgerda-brunneomaculata/",
+    1,
+    []
   ],
   "Halgerda brycei": [
     "Halgerda brycei",
@@ -25712,6 +25766,13 @@
       "https://images.reeflifesurvey.com/0/species_42_57de34bd86363.w1300.h866.jpg"
     ]
   ],
+  "Hypselodoris juniperae": [
+    "Hypselodoris juniperae",
+    "Nudibranch",
+    "https://reeflifesurvey.com/species/hypselodoris-juniperae/",
+    1,
+    []
+  ],
   "Hypselodoris maculosa": [
     "Hypselodoris maculosa",
     "",
@@ -27783,7 +27844,7 @@
   ],
   "Lithodes santolla": [
     "Lithodes santolla",
-    "Southern King Crab, Centolla del sur, Centolla patag\u00c3\u00b3nica, Southern King Crab",
+    "Southern King Crab, Centolla del sur, Centolla patag\u00f3nica, Southern King Crab",
     "https://reeflifesurvey.com/species/lithodes-santolla/",
     1,
     [
@@ -29073,10 +29134,24 @@
     1,
     []
   ],
+  "Mariaglaja inornata": [
+    "Mariaglaja inornata",
+    "Inornate Headshield Slug",
+    "https://reeflifesurvey.com/species/mariaglaja-inornata/",
+    1,
+    []
+  ],
   "Marianina rosea": [
     "Marianina rosea",
     "Rosy Nudibranch",
     "https://reeflifesurvey.com/species/marianina-rosea/",
+    1,
+    []
+  ],
+  "Marionia spp.": [
+    "Marionia spp.",
+    "",
+    null,
     1,
     []
   ],
@@ -29970,7 +30045,7 @@
   ],
   "Mimastrella cognata": [
     "Mimastrella cognata",
-    "Soft Tangerine Starfish, Soft Tangerine Star\u00ef\u00ac\u0081sh, Estrella mandarina blanda",
+    "Soft Tangerine Starfish, Soft Tangerine Starfish, Estrella mandarina blanda",
     "https://reeflifesurvey.com/species/mimastrella-cognata/",
     1,
     [
@@ -31821,7 +31896,7 @@
   ],
   "Neoglyphidodon nigroris": [
     "Neoglyphidodon nigroris",
-    "Black And Yellow Damsel, Behn's Damsel, Black & yellow Damsel, Scarface Damsel, Yellowfin Damsel, Yellowtail Damsel",
+    "Black And Yellow Damsel, Behn's Damsel, Black and yellow Damsel, Scarface Damsel, Yellowfin Damsel, Yellowtail Damsel",
     "https://reeflifesurvey.com/species/neoglyphidodon-nigroris/",
     0,
     [
@@ -32533,7 +32608,7 @@
   ],
   "Notodoris citrina": [
     "Notodoris citrina",
-    "Nudibranch, ",
+    "Nudibranch",
     "https://reeflifesurvey.com/species/notodoris-citrina/",
     1,
     [
@@ -33070,7 +33145,7 @@
   ],
   "Ogcocephalus darwini": [
     "Ogcocephalus darwini",
-    "Batfish, Gal\u00c3\u00a1pagos Batfish",
+    "Batfish, Gal\u00e1pagos Batfish",
     "https://reeflifesurvey.com/species/ogcocephalus-darwini/",
     0,
     [
@@ -33428,8 +33503,8 @@
   ],
   "Ophiomyxa vivipara": [
     "Ophiomyxa vivipara",
-    "Brooding Smooth Brittle Star",
-    "https://reeflifesurvey.com/species/ophiomyxa-vivipara/",
+    "",
+    null,
     1,
     []
   ],
@@ -34678,7 +34753,7 @@
   ],
   "Pagurus comptus": [
     "Pagurus comptus",
-    ", Common Hermit Crab, Ermita\u00c3\u00b1o com\u00c3\u00ban",
+    ", Common Hermit Crab, Ermita\u00f1o com\u00fan",
     "https://reeflifesurvey.com/species/pagurus-comptus/",
     1,
     [
@@ -35527,7 +35602,7 @@
   ],
   "Paranotothenia magellanica": [
     "Paranotothenia magellanica",
-    "Magellanic Rockcod, Magellanic Rockcod, Black Cod, Blue Notothenia, Orange Throat Notothen, Trama com\u00c3\u00ban",
+    "Magellanic Rockcod, Magellanic Rockcod, Black Cod, Blue Notothenia, Orange Throat Notothen, Trama com\u00fan",
     "https://reeflifesurvey.com/species/paranotothenia-magellanica/",
     2,
     [
@@ -36562,29 +36637,29 @@
   ],
   "Patella (Scutellastra) chapmani": [
     "Patella (Scutellastra) chapmani",
-    "Limpet",
-    "https://reeflifesurvey.com/species/patella-scutellastra-chapmani/",
+    "",
+    null,
     1,
     []
   ],
   "Patella aspera": [
     "Patella aspera",
-    "China Limpet",
-    "https://reeflifesurvey.com/species/patella-aspera/",
+    "",
+    null,
     1,
     []
   ],
   "Patella candei": [
     "Patella candei",
     "",
-    "https://reeflifesurvey.com/species/patella-candei/",
+    null,
     1,
     []
   ],
   "Patella laticostata": [
     "Patella laticostata",
-    "Limpet",
-    "https://reeflifesurvey.com/species/patella-laticostata/",
+    "",
+    null,
     1,
     []
   ],
@@ -41720,7 +41795,7 @@
   ],
   "Pseudolabrus guentheri": [
     "Pseudolabrus guentheri",
-    "Gunthers Wrasse, G\u00c3\u00bcnther's Rainbow-fish",
+    "Gunthers Wrasse, Gunther\u2019s Rainbow-fish",
     "https://reeflifesurvey.com/species/pseudolabrus-guentheri/",
     0,
     [
@@ -43176,6 +43251,13 @@
       "https://images.reeflifesurvey.com/0/species_63_57945583ca762.w1300.h866.jpg",
       "https://images.reeflifesurvey.com/0/species_2e_57945587a4ef7.w1300.h866.jpg"
     ]
+  ],
+  "Sagaminopteron psychedelicum": [
+    "Sagaminopteron psychedelicum",
+    "Psychedelic Batwing Slug",
+    "https://reeflifesurvey.com/species/sagaminopteron-psychedelicum/",
+    1,
+    []
   ],
   "Sagmariasus verreauxi": [
     "Sagmariasus verreauxi",
@@ -44967,15 +45049,15 @@
   ],
   "Scutellastra chapmani": [
     "Scutellastra chapmani",
-    "Star Limpet",
-    "https://reeflifesurvey.com/species/scutellastra-chapmani/",
+    "",
+    null,
     1,
     []
   ],
   "Scutellastra kermadecensis": [
     "Scutellastra kermadecensis",
     "",
-    "https://reeflifesurvey.com/species/scutellastra-kermadecensis/",
+    null,
     1,
     []
   ],
@@ -45004,7 +45086,7 @@
   ],
   "Scyllarides astori": [
     "Scyllarides astori",
-    "Gal\u00e1pagos Slipper Lobster, Gal\u00c3\u00a1pagos Slipper Lobster",
+    "Gal\u00e1pagos Slipper Lobster, Gal\u00e1pagos Slipper Lobster",
     "https://reeflifesurvey.com/species/scyllarides-astori/",
     1,
     [
@@ -45381,7 +45463,7 @@
   ],
   "Semicossyphus darwini": [
     "Semicossyphus darwini",
-    "Gal\u00e1pagos Sheephead Wrasse, Gal\u00c3\u00a1pagos Sheephead Wrasse, Goldspot Sheepshead",
+    "Gal\u00e1pagos Sheephead Wrasse, Gal\u00e1pagos Sheephead Wrasse, Goldspot Sheepshead",
     "https://reeflifesurvey.com/species/semicossyphus-darwini/",
     0,
     [
@@ -49754,7 +49836,7 @@
   ],
   "Tosia magnifica": [
     "Tosia magnifica",
-    "Magnificent Biscuit Star, ",
+    "Magnificent Biscuit Star",
     "https://reeflifesurvey.com/species/tosia-magnifica/",
     1,
     [
@@ -49987,7 +50069,7 @@
   "Trachycardium orbita": [
     "Trachycardium orbita",
     "",
-    "https://reeflifesurvey.com/species/trachycardium-orbita/",
+    null,
     1,
     []
   ],
@@ -51395,85 +51477,85 @@
   ],
   "Unidentified crab": [
     "Unidentified crab",
-    "Unidentified Crab",
-    "https://reeflifesurvey.com/species/unidentified-crab/",
+    "",
+    null,
     1,
     []
   ],
   "Unidentified crab (decorator)": [
     "Unidentified crab (decorator)",
-    "Crab (decorator)",
-    "https://reeflifesurvey.com/species/unidentified-crab-decorator/",
+    "",
+    null,
     1,
     []
   ],
   "Unidentified eel": [
     "Unidentified eel",
-    "Unidentified Eel",
-    "https://reeflifesurvey.com/species/unidentified-eel/",
+    "",
+    null,
     0,
     []
   ],
   "Unidentified fish (baitfish)": [
     "Unidentified fish (baitfish)",
-    "Baitfish",
-    "https://reeflifesurvey.com/species/unidentified-fish-baitfish/",
+    "",
+    null,
     0,
     []
   ],
   "Unidentified fish (cryptic)": [
     "Unidentified fish (cryptic)",
-    "Cryptic Fish",
-    "https://reeflifesurvey.com/species/unidentified-fish-cryptic/",
+    "",
+    null,
     0,
     []
   ],
   "Unidentified flatworm": [
     "Unidentified flatworm",
-    "Unidentified Flatworm",
-    "https://reeflifesurvey.com/species/unidentified-flatworm/",
+    "",
+    null,
     1,
     []
   ],
   "Unidentified gastropod": [
     "Unidentified gastropod",
-    "Gastropod",
-    "https://reeflifesurvey.com/species/unidentified-gastropod/",
+    "",
+    null,
     1,
     []
   ],
   "Unidentified gastropod (cowrie)": [
     "Unidentified gastropod (cowrie)",
-    "Cowrie",
-    "https://reeflifesurvey.com/species/unidentified-gastropod-cowrie/",
+    "",
+    null,
     1,
     []
   ],
   "Unidentified nudibranch": [
     "Unidentified nudibranch",
-    "Nudibranch",
-    "https://reeflifesurvey.com/species/unidentified-nudibranch/",
+    "",
+    null,
     1,
     []
   ],
   "Unidentified pipefish": [
     "Unidentified pipefish",
-    "Unidentified Pipefish",
-    "https://reeflifesurvey.com/species/unidentified-pipefish/",
+    "",
+    null,
     2,
     []
   ],
   "Unidentified pycnogonid": [
     "Unidentified pycnogonid",
-    "Pycnogonid",
-    "https://reeflifesurvey.com/species/unidentified-pycnogonid/",
+    "",
+    null,
     1,
     []
   ],
   "Unidentified shrimp": [
     "Unidentified shrimp",
-    "Unidentified Shrimp",
-    "https://reeflifesurvey.com/species/unidentified-shrimp/",
+    "",
+    null,
     1,
     []
   ],
@@ -51493,8 +51575,8 @@
   ],
   "Unidentified whelk": [
     "Unidentified whelk",
-    "Unidentified Whelk",
-    "https://reeflifesurvey.com/species/unidentified-whelk/",
+    "",
+    null,
     1,
     []
   ],
@@ -52059,6 +52141,13 @@
     1,
     []
   ],
+  "Vexillum virgo": [
+    "Vexillum virgo",
+    "Virgin Mitre",
+    "https://reeflifesurvey.com/species/vexillum-virgo/",
+    1,
+    []
+  ],
   "Vexillum vulpecula": [
     "Vexillum vulpecula",
     "",
@@ -52097,6 +52186,13 @@
       "https://images.reeflifesurvey.com/0/species_90_57f8295bc613d.w1300.h866.JPG",
       "https://images.reeflifesurvey.com/0/species_d3_57f8295f42fc2.w1300.h866.JPG"
     ]
+  ],
+  "Vitularia miliaris": [
+    "Vitularia miliaris",
+    "Miliaris Sea Snail",
+    "https://reeflifesurvey.com/species/vitularia-miliaris/",
+    1,
+    []
   ],
   "Voluta polypleura": [
     "Voluta polypleura",
