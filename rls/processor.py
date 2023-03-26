@@ -1,6 +1,7 @@
 """Data processing functionality."""
 import json
 import logging
+from collections import defaultdict
 from pathlib import Path
 from typing import Any, Sequence
 
@@ -31,6 +32,7 @@ def _read_survey_data(survey_data_dir: Path) -> pd.DataFrame:
             usecols=[
                 "survey_id",
                 "country",
+                "area",
                 "ecoregion",
                 "realm",
                 "site_code",
@@ -90,15 +92,21 @@ def _create_site_summaries(survey_data: pd.DataFrame, dst_dir: Path) -> None:
     """
     Create the site summaries from survey_data and write them in API JSON format to dst_dir.
 
-    Two files will be created, api-site-surveys.json and api-site-surveys.min.json, where the latter is the same JSON
+    Two legacy files are created, api-site-surveys.json and api-site-surveys.min.json, where the latter is the same JSON
     as the former but without pretty-printing whitespace. The content of the files is the same mapping from site code
     to [realm: str, ecoregion: str, site_name: str, longitude: float, latitude: float, num_surveys: int,
     species_name_to_num_surveys: dict[str, int]]
+
+    In addition, two new format files are created:
+      - sites.json: site data with keys 'rows' - array of arrays, and 'keys' - specifying the meaning of each array
+        value in 'rows'
+      - surveys.json: mapping from species_name (str) to site_code (str) to count (int), which is the number of
+        observations of the species at the site
     """
     site_survey_counts = survey_data.groupby("site_code")["survey_id"].nunique()
     site_survey_counts.name = "num_surveys"
     site_infos = (
-        survey_data[["site_code", "realm", "ecoregion", "site_name", "longitude", "latitude"]]
+        survey_data[["site_code", "country", "area", "realm", "ecoregion", "site_name", "longitude", "latitude"]]
         .drop_duplicates()
         .set_index("site_code")
         .join(site_survey_counts)
@@ -108,9 +116,34 @@ def _create_site_summaries(survey_data: pd.DataFrame, dst_dir: Path) -> None:
     )
     site_summaries = {
         site_code: list(site_info.values()) + [site_survey_species_counts.loc[site_code].to_dict()]
-        for site_code, site_info in sorted(site_infos.to_dict("index").items())
+        for site_code, site_info in sorted(site_infos.drop(columns=["country", "area"]).to_dict("index").items())
     }
-    _write_jsons(dst_dir, name_prefix="api-site-surveys", data=site_summaries, data_desc=f"{len(site_summaries)} sites")
+    _write_jsons(
+        dst_dir, name_prefix="api-site-surveys", data=site_summaries, data_desc=f"{len(site_summaries)} legacy sites"
+    )
+
+    new_site_infos = site_infos.drop(columns=["realm"])
+    new_site_summaries = dict(
+        keys=["site_code"] + new_site_infos.columns.tolist(),
+        rows=list(map(list, new_site_infos.sort_index().itertuples())),
+    )
+    _write_jsons(
+        dst_dir,
+        name_prefix="sites",
+        data=new_site_summaries,
+        data_desc=f"{len(new_site_infos)} new sites",
+        suffixes=[".json"],
+    )
+    new_counts: dict[str, dict[str, int]] = defaultdict(dict)
+    for (species_name, site_code), count in site_survey_species_counts.reorder_levels([1, 0]).sort_index().items():
+        new_counts[species_name][site_code] = count
+    _write_jsons(
+        dst_dir,
+        name_prefix="surveys",
+        data=new_counts,
+        data_desc=f"counts for {len(new_counts)} species",
+        suffixes=[".json"],
+    )
 
 
 def _create_species_file(
