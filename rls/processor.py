@@ -3,7 +3,7 @@ import json
 import logging
 from collections import defaultdict
 from pathlib import Path
-from typing import Any, Sequence
+from typing import Any
 
 import pandas as pd
 
@@ -67,25 +67,10 @@ def _read_survey_data(survey_data_dir: Path) -> pd.DataFrame:
     return survey_data
 
 
-def _write_jsons(
-    dst_dir: Path, name_prefix: str, data: Any, data_desc: str, suffixes: Sequence[str] = (".json", ".min.json")
-) -> None:
-    """
-    Write the same data twice: As a pretty-printed JSON and a minified JSON.
-
-    Suffixes can be skipped by specifying the suffixes argument.
-    """
-    suffix_to_json_kwargs: dict[str, dict[str, Any]] = {
-        ".json": dict(indent=2),
-        ".min.json": dict(separators=(",", ":")),
-    }
-    for suffix, json_kwargs in suffix_to_json_kwargs.items():
-        if suffix not in suffixes:
-            continue
-        out_path = dst_dir / f"{name_prefix}{suffix}"
-        _logger.info("Writing %s to %s", data_desc, out_path)
-        with open(out_path, "w") as fp:
-            json.dump(data, fp, **json_kwargs)
+def _write_json(out_path: Path, data: Any, data_desc: str) -> None:
+    _logger.info("Writing %s to %s", data_desc, out_path)
+    with open(out_path, "w") as fp:
+        json.dump(data, fp, indent=2)
 
 
 def _create_site_summaries(survey_data: pd.DataFrame, dst_dir: Path) -> None:
@@ -118,32 +103,18 @@ def _create_site_summaries(survey_data: pd.DataFrame, dst_dir: Path) -> None:
         site_code: list(site_info.values()) + [site_survey_species_counts.loc[site_code].to_dict()]
         for site_code, site_info in sorted(site_infos.drop(columns=["country", "area"]).to_dict("index").items())
     }
-    _write_jsons(
-        dst_dir, name_prefix="api-site-surveys", data=site_summaries, data_desc=f"{len(site_summaries)} legacy sites"
-    )
+    _write_json(dst_dir / "api-site-surveys.json", data=site_summaries, data_desc=f"{len(site_summaries)} legacy sites")
 
     new_site_infos = site_infos.drop(columns=["realm"])
     new_site_summaries = dict(
         keys=["site_code"] + new_site_infos.columns.tolist(),
         rows=list(map(list, new_site_infos.sort_index().itertuples())),
     )
-    _write_jsons(
-        dst_dir,
-        name_prefix="sites",
-        data=new_site_summaries,
-        data_desc=f"{len(new_site_infos)} new sites",
-        suffixes=[".json"],
-    )
+    _write_json(dst_dir / "sites.json", data=new_site_summaries, data_desc=f"{len(new_site_infos)} new sites")
     new_counts: dict[str, dict[str, int]] = defaultdict(dict)
     for (species_name, site_code), count in site_survey_species_counts.reorder_levels([1, 0]).sort_index().items():
         new_counts[species_name][site_code] = count
-    _write_jsons(
-        dst_dir,
-        name_prefix="surveys",
-        data=new_counts,
-        data_desc=f"counts for {len(new_counts)} species",
-        suffixes=[".json"],
-    )
+    _write_json(dst_dir / "surveys.json", data=new_counts, data_desc=f"counts for {len(new_counts)} species")
 
 
 def _create_species_file(
@@ -195,7 +166,7 @@ def _create_species_file(
             species_name_to_data_type_code[species_name],
             image_urls,
         ]
-    _write_jsons(dst_dir, name_prefix="api-species", data=api_species, data_desc=f"{len(api_species)} species")
+    _write_json(dst_dir / "api-species.json", data=api_species, data_desc=f"{len(api_species)} species")
 
 
 def _create_summary_file(survey_data: pd.DataFrame, dst_dir: Path) -> None:
@@ -212,7 +183,7 @@ def _create_summary_file(survey_data: pd.DataFrame, dst_dir: Path) -> None:
         "surveycompleted": int(rls_only_data["survey_id"].nunique()),
         "countriessurveyed": int(rls_only_data["country"].nunique()),
     }
-    _write_jsons(dst_dir, name_prefix="summary", data=summary, data_desc=f"summary {summary}", suffixes=[".min.json"])
+    _write_json(dst_dir / "summary.json", data=summary, data_desc=f"summary {summary}")
 
 
 def create_api_jsons(
