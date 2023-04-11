@@ -11920,6 +11920,13 @@
       "https://images.reeflifesurvey.com/0/species_75_57f1d5516c81f.w1300.h866.JPG"
     ]
   ],
+  "Clanculus flagellatus": [
+    "Clanculus flagellatus",
+    "",
+    "https://reeflifesurvey.com/species/clanculus-flagellatus/",
+    1,
+    []
+  ],
   "Clanculus philippii": [
     "Clanculus philippii",
     "Philippis Cone Shell",
@@ -36684,6 +36691,13 @@
     1,
     []
   ],
+  "Patelloida insignis": [
+    "Patelloida insignis",
+    "Maltese-cross Limpet",
+    "https://reeflifesurvey.com/species/patelloida-insignis/",
+    1,
+    []
+  ],
   "Patelloida latistrigata": [
     "Patelloida latistrigata",
     "Pied Limpet",
@@ -36693,6 +36707,13 @@
       "https://images.reeflifesurvey.com/0/species_c7_599a3f6a40d00.w1300.h866.JPG",
       "https://images.reeflifesurvey.com/0/species_cf_599a3f752c3a6.w1300.h866.JPG"
     ]
+  ],
+  "Patelloida victoriana": [
+    "Patelloida victoriana",
+    "Victorian Limpet",
+    "https://reeflifesurvey.com/species/patelloida-victoriana/",
+    1,
+    []
   ],
   "Pateobatis fai": [
     "Pateobatis fai",

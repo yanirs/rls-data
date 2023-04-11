@@ -311,6 +311,16 @@
       1
     ],
     [
+      "ADV",
+      "Australia",
+      "Tasmania",
+      "Bassian",
+      "Adventure Bay",
+      147.33,
+      -43.33,
+      4
+    ],
+    [
       "AH1",
       "Indonesia",
       "Banda Archipelago",
@@ -20591,6 +20601,16 @@
       29
     ],
     [
+      "LPN",
+      "Australia",
+      "Tasmania",
+      "Bassian",
+      "Low Point North",
+      147.7,
+      -43.13,
+      4
+    ],
+    [
       "MAL1",
       "Maldives",
       "Kaafu",
@@ -31491,6 +31511,16 @@
       40
     ],
     [
+      "RR",
+      "Australia",
+      "Tasmania",
+      "Bassian",
+      "Roaring",
+      147.68,
+      -43.1,
+      4
+    ],
+    [
       "RSA1",
       "South Africa",
       "Western Cape",
@@ -31659,6 +31689,186 @@
       166.89,
       11.16,
       1
+    ],
+    [
+      "SBIR02",
+      "Australia",
+      "Tasmania",
+      "Bassian",
+      "Iron Pot North",
+      147.42,
+      -43.06,
+      4
+    ],
+    [
+      "SBIR06",
+      "Australia",
+      "Tasmania",
+      "Bassian",
+      "One Tree Point",
+      147.39,
+      -43.1,
+      4
+    ],
+    [
+      "SBIR07",
+      "Australia",
+      "Tasmania",
+      "Bassian",
+      "Yellow Bluff",
+      147.4,
+      -43.13,
+      4
+    ],
+    [
+      "SBIR09",
+      "Australia",
+      "Tasmania",
+      "Bassian",
+      "Trumpeter Bay Mid",
+      147.39,
+      -43.16,
+      4
+    ],
+    [
+      "SBIR13",
+      "Australia",
+      "Tasmania",
+      "Bassian",
+      "Cape Queen Elizabeth North",
+      147.43,
+      -43.24,
+      4
+    ],
+    [
+      "SBIR14",
+      "Australia",
+      "Tasmania",
+      "Bassian",
+      "Moorina Bay",
+      147.42,
+      -43.25,
+      8
+    ],
+    [
+      "SBIR15",
+      "Australia",
+      "Tasmania",
+      "Bassian",
+      "Curio Bay",
+      147.71,
+      -43.19,
+      4
+    ],
+    [
+      "SBIR16",
+      "Australia",
+      "Tasmania",
+      "Bassian",
+      "Black Jack Rocks",
+      147.49,
+      -43.04,
+      4
+    ],
+    [
+      "SBIR17",
+      "Australia",
+      "Tasmania",
+      "Bassian",
+      "Lobster Point",
+      147.67,
+      -42.96,
+      4
+    ],
+    [
+      "SBIR18N",
+      "Australia",
+      "Tasmania",
+      "Bassian",
+      "Black Jack Bight",
+      147.62,
+      -43.02,
+      4
+    ],
+    [
+      "SBIR18S",
+      "Australia",
+      "Tasmania",
+      "Bassian",
+      "Mount Zion",
+      147.62,
+      -43.05,
+      4
+    ],
+    [
+      "SBIR19",
+      "Australia",
+      "Tasmania",
+      "Bassian",
+      "North Head",
+      147.63,
+      -43.07,
+      4
+    ],
+    [
+      "SBIR20",
+      "Australia",
+      "Tasmania",
+      "Bassian",
+      "Creeses",
+      147.69,
+      -43.1,
+      4
+    ],
+    [
+      "SBIR21",
+      "Australia",
+      "Tasmania",
+      "Bassian",
+      "North Wedge",
+      147.67,
+      -43.13,
+      4
+    ],
+    [
+      "SBIR22",
+      "Australia",
+      "Tasmania",
+      "Bassian",
+      "Outside Wedge",
+      147.67,
+      -43.14,
+      4
+    ],
+    [
+      "SBIR23",
+      "Australia",
+      "Tasmania",
+      "Bassian",
+      "Crooked Billet Bay",
+      147.7,
+      -43.15,
+      4
+    ],
+    [
+      "SBIR24",
+      "Australia",
+      "Tasmania",
+      "Bassian",
+      "North East Betsy 2",
+      147.49,
+      -43.05,
+      4
+    ],
+    [
+      "SBIR26",
+      "Australia",
+      "Tasmania",
+      "Bassian",
+      "South East Betsy",
+      147.49,
+      -43.06,
+      4
     ],
     [
       "SEY1",
@@ -33711,6 +33921,16 @@
       8
     ],
     [
+      "TAS158",
+      "Australia",
+      "Tasmania",
+      "Bassian",
+      "Variety Bay South ",
+      147.42,
+      -43.2,
+      4
+    ],
+    [
       "TAS159",
       "Australia",
       "Tasmania",
@@ -33741,6 +33961,26 @@
       6
     ],
     [
+      "TAS161",
+      "Australia",
+      "Tasmania",
+      "Bassian",
+      "Variety Bay",
+      147.41,
+      -43.19,
+      4
+    ],
+    [
+      "TAS162",
+      "Australia",
+      "Tasmania",
+      "Bassian",
+      "Trumpeter Bay South",
+      147.4,
+      -43.17,
+      4
+    ],
+    [
       "TAS163",
       "Australia",
       "Tasmania",
@@ -33749,6 +33989,16 @@
       147.87,
       -43.15,
       24
+    ],
+    [
+      "TAS164",
+      "Australia",
+      "Tasmania",
+      "Bassian",
+      "Trumpeter Bay North",
+      147.39,
+      -43.15,
+      4
     ],
     [
       "TAS165",
@@ -33811,6 +34061,16 @@
       1
     ],
     [
+      "TAS170",
+      "Australia",
+      "Tasmania",
+      "Bassian",
+      "Apex Point",
+      147.72,
+      -43.11,
+      4
+    ],
+    [
       "TAS171",
       "Australia",
       "Tasmania",
@@ -33829,6 +34089,26 @@
       147.71,
       -43.1,
       6
+    ],
+    [
+      "TAS173",
+      "Australia",
+      "Tasmania",
+      "Bassian",
+      "Bull Bay South",
+      147.37,
+      -43.09,
+      4
+    ],
+    [
+      "TAS174",
+      "Australia",
+      "Tasmania",
+      "Bassian",
+      "Bull Bay North",
+      147.37,
+      -43.07,
+      4
     ],
     [
       "TAS176",
@@ -33859,6 +34139,16 @@
       147.43,
       -43.25,
       12
+    ],
+    [
+      "TAS179",
+      "Australia",
+      "Tasmania",
+      "Bassian",
+      "Iron Pot",
+      147.42,
+      -43.06,
+      4
     ],
     [
       "TAS18",
@@ -33899,6 +34189,16 @@
       147.35,
       -43.05,
       5
+    ],
+    [
+      "TAS185",
+      "Australia",
+      "Tasmania",
+      "Bassian",
+      "Betsy Island North West",
+      147.47,
+      -43.04,
+      4
     ],
     [
       "TAS186",
@@ -36198,6 +36498,16 @@
       "Little Woody Island",
       146.05,
       -43.34,
+      4
+    ],
+    [
+      "TAS415",
+      "Australia",
+      "Tasmania",
+      "Bassian",
+      "South of One Tree Point",
+      147.39,
+      -43.11,
       4
     ],
     [
