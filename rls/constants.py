@@ -93,7 +93,8 @@ CRYPTIC_FAMILIES = {
     "Zoarcidae",
 }
 
-# Fish genera that are excluded from M2 despite being part of families specified in _CRYPTIC_FAMILIES.
+# Fish genera that are excluded from M2 despite being part of families specified in
+# _CRYPTIC_FAMILIES.
 M2_GENERA_EXCLUSIONS = {
     "Trachinops",
     "Caesioperca",
@@ -112,7 +113,8 @@ M1_INVERT_CLASSES = {
 }
 
 
-# Site names that are corrupted in AODN data, mapped to the correct name. This can be removed once the data is fixed.
+# Site names that are corrupted in AODN data, mapped to the correct name.
+# This can be removed once the data is fixed.
 CORRUPTED_SITE_NAME_CORRECTIONS = {
     "Cala del Pe��on": "Cala del Peñon",
     "El d��ez": "El díez",

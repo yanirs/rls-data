@@ -1,6 +1,7 @@
 """Scrapy-based scraper for the RLS website."""
 import re
-from typing import Any, Generator
+from collections.abc import Generator
+from typing import Any
 
 import scrapy.http
 from scrapy import Request, Selector
@@ -14,20 +15,28 @@ class ReefLifeSurveySpider(CrawlSpider):  # type: ignore[misc]
     allowed_domains = ["reeflifesurvey.com"]
     start_urls = ["https://reeflifesurvey.com/sitemap-species.xml"]
 
-    def parse_start_url(self, response: scrapy.http.Response, **_: Any) -> Generator[Request, None, None]:
+    def parse_start_url(
+        self, response: scrapy.http.Response, **_: Any
+    ) -> Generator[Request, None, None]:
         """Parse the sitemap and yield requests for each species page."""
         # response.css doesn't work for some reason...
         for link in Selector(text=response.body).css("loc ::text").extract():
             if not link.startswith("https://images.reeflifesurvey"):
                 yield Request(link, callback=self.parse_species_page)
 
-    def parse_species_page(self, response: scrapy.http.Response) -> Generator[dict[str, Any], None, None]:
+    def parse_species_page(
+        self, response: scrapy.http.Response
+    ) -> Generator[dict[str, Any], None, None]:
         """Parse a species page and yield a dictionary of species information."""
         common_name_elements = response.css(".fishname .commonname ::text")
         yield dict(
             id_=response.url.split("/")[-2],
-            name=re.sub(r"\s+", " ", "".join(response.css(".fishname h2 ::text").extract())),
-            common_name=common_name_elements.extract()[0] if common_name_elements else "",
+            name=re.sub(
+                r"\s+", " ", "".join(response.css(".fishname h2 ::text").extract())
+            ),
+            common_name=common_name_elements.extract()[0]
+            if common_name_elements
+            else "",
             url=response.url,
             image_urls=response.css("#lightSlider img ::attr(src)").extract(),
         )

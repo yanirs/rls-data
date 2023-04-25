@@ -1,6 +1,7 @@
 """Survey data downloader."""
 import logging
 from concurrent.futures import ThreadPoolExecutor
+from datetime import timedelta
 from pathlib import Path
 
 import requests
@@ -11,13 +12,14 @@ _logger = logging.getLogger("rls.processor")
 
 
 def download_survey_data(survey_data_dir: Path) -> None:
-    """Download RLS CSV data files to the given directory, creating it if it doesn't exist."""
+    """Download RLS CSV data files to the given directory, creating it if needed."""
     verify_empty_dir(survey_data_dir)
     ThreadPoolExecutor(max_workers=3).map(
         _download_survey_data_file,
         [
             (
-                "https://geoserver-portal.aodn.org.au/geoserver/ows?SERVICE=WFS&outputFormat=csv&REQUEST=GetFeature&"
+                "https://geoserver-portal.aodn.org.au/geoserver/ows?"
+                "SERVICE=WFS&outputFormat=csv&REQUEST=GetFeature&"
                 f"VERSION=1.0.0&typeName=imos:ep_{data_type}_public_data",
                 survey_data_dir / f"{data_type}.csv",
             )
@@ -32,6 +34,6 @@ def _download_survey_data_file(url_and_out_path: tuple[str, Path]) -> None:
     """Download a single survey data file."""
     url, out_path = url_and_out_path
     _logger.info("Downloading %s to %s", url, out_path)
-    with open(out_path, "w") as fp:
-        fp.write(requests.get(url).text)
+    with out_path.open("w") as fp:
+        fp.write(requests.get(url, timeout=timedelta(minutes=10).total_seconds()).text)
     _logger.info("Saved %s", out_path)

@@ -1,11 +1,4 @@
-# Read up on pre-commit
-# https://ljvmiranda921.github.io/notebook/2018/06/21/precommits-using-black-and-flake8/
-
-# Left pycharm settings untouched
-exclude: .idea/
-
 repos:
-
 - repo: https://github.com/pre-commit/pre-commit-hooks
   rev: f71fa2c1f9cf5cb705f73dffe4b21f7c61470ba9  # frozen: v4.4.0
   hooks:
@@ -20,52 +13,14 @@ repos:
   - id: debug-statements
   - id: check-merge-conflict
 
+- repo: https://github.com/charliermarsh/ruff-pre-commit
+  rev: '343c49ab887fa4e5724ceb86c9c3678e647c94c2'  # frozen: v0.0.262
+  hooks:
+    - id: ruff
+      args: [--fix, --exit-non-zero-on-fix]
+
 - repo: https://github.com/psf/black
-  rev: b0d1fba7ac3be53c71fb0d3211d911e629f8aecb  # frozen: 23.1.0
+  rev: bf7a16254ec96b084a6caf3d435ec18f0f245cc7  # frozen: 23.3.0
   hooks:
   - id: black
     language_version: python3
-
-- repo: https://github.com/pycqa/docformatter
-  rev: 3c8dde140e0d2d4670aa2fbb706e1a96db593643  # frozen: v1.6.0.rc1
-  hooks:
-    - id: docformatter
-      args: [
-        -i,
-        --wrap-summaries=120,
-        --wrap-descriptions=120,
-        --pre-summary-newline,
-      ]
-
-- repo: https://github.com/pycqa/autoflake
-  rev: a8074406bf785cb287dfe1809e79ac6856bf65b2  # frozen: v2.0.1
-  hooks:
-    - id: autoflake
-      args: ['--in-place', '--remove-all-unused-imports', '--remove-unused-variable']
-
-- repo: https://github.com/pycqa/isort
-  rev: dbf82f2dd09ae41d9355bcd7ab69187a19e6bf2f  # frozen: 5.12.0
-  hooks:
-  - id: isort
-
-- repo: https://github.com/pycqa/flake8
-  rev: c838a5e98878f17889cfce311e1406d252f87ec5  # frozen: 6.0.0
-  hooks:
-    - id: flake8
-      additional_dependencies: [
-        'pep8-naming',
-        'flake8-comprehensions',
-        'flake8-bugbear',
-        'flake8-pytest-style',
-        'flake8-variables-names',
-        'flake8-class-attributes-order',
-        'dlint',
-        'flake8-docstrings',
-      ]
-
-- repo: https://github.com/pre-commit/mirrors-mypy
-  rev: dc6912646c561f16af711006e7615d52e9bf0968  # frozen: v1.0.0
-  hooks:
-    - id: mypy
-      args: [--ignore-missing-imports, --check-untyped-defs, --disallow-incomplete-defs, --show-error-codes, --strict]
-      additional_dependencies: [types-requests==2.27.19]

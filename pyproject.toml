@@ -25,7 +25,7 @@ classifiers = [
 python = "^3.10"
 defopt = "^6.3.0"
 pandas = "^1.4.2"
-requests = "^2.27.1"
+requests = "^2.28.2"
 Scrapy = "^2.6.1"
 Pillow = "^9.1.1"
 
@@ -35,12 +35,13 @@ pre-commit = "^2.18.1"
 pytest = "^7.1.1"
 pytest-cov = "^3.0.0"
 pytest-mock = "^3.7.0"
+types-requests = "^2.28.11.17"
+mypy = "^1.2.0"
 
 [tool.poetry.scripts]
 rls-data = "rls:run_cli"
 
 [tool.black]
-line-length = 120
 include = '\.pyi?$'
 exclude = '''
 /(
@@ -53,10 +54,49 @@ exclude = '''
 )/
 '''
 
-[tool.isort]
-profile = "black"
-multi_line_output = 3
-line_length = 120
+[tool.ruff]
+select = [
+  "A",  # flake8-builtins
+  "ARG",  # flake8-unused-arguments
+  "B",  # flake8-bugbear
+  "C4",  # flake8-comprehensions
+  "D",  # pydocstyle
+  "DTZ",  # flake8-datetimez
+  "E",  # pycodestyle errors
+  "F",  # pyflakes
+  "G",  # flake8-logging-format
+  "I",  # isort
+  "ICN",  # flake8-import-conventions
+  "INP",  # flake8-no-pep420
+  "ISC",  # flake8-implicit-str-concat
+  "N",  # pep8-naming
+  "NPY",  # NumPy-specific rules
+  "PD",  # pandas-vet
+  "PIE",  # flake8-pie
+  "PT",  # flake8-pytest-style
+  "PTH",  # flake8-use-pathlib
+  "RET",  # flake8-return
+  "RUF",  # Ruff-specific rules
+  "S",  # flake8-bandit
+  "SIM",  # flake8-simplify
+  "UP",  # pyupgrade
+  "YTT",  # flake8-2020
+]
+ignore = [
+  "C408",  # unnecessary-collection-call
+  "D203",  # one-blank-line-before-class
+  "D212",  # multi-line-summary-first-line
+  "PD002",  # pandas-use-of-inplace-argument
+  "RUF001",  # ambiguous-unicode-character-string
+  "S101",  # assert
+]
+
+[tool.mypy]
+check_untyped_defs = true
+disallow_incomplete_defs = true
+ignore_missing_imports = true
+show_error_codes = true
+strict = true
 
 [tool.pytest.ini_options]
 # Directories that are not visited by pytest collector:
