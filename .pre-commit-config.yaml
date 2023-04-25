@@ -1,8 +1,4 @@
-# Left pycharm settings untouched
-exclude: .idea/
-
 repos:
-
 - repo: https://github.com/pre-commit/pre-commit-hooks
   rev: f71fa2c1f9cf5cb705f73dffe4b21f7c61470ba9  # frozen: v4.4.0
   hooks:
