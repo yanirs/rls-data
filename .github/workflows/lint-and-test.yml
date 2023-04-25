@@ -43,11 +43,6 @@ jobs:
       - name: Run mypy
         run: |
           poetry run mypy \
-            --ignore-missing-imports \
-            --check-untyped-defs \
-            --disallow-incomplete-defs \
-            --show-error-codes \
-            --strict \
             rls/ \
             tests/
 

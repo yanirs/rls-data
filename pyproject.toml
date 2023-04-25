@@ -54,10 +54,6 @@ exclude = '''
 )/
 '''
 
-[tool.isort]
-profile = "black"
-multi_line_output = 3
-
 [tool.ruff]
 select = [
   "A",  # flake8-builtins
@@ -94,6 +90,13 @@ ignore = [
   "RUF001",  # ambiguous-unicode-character-string
   "S101",  # assert
 ]
+
+[tool.mypy]
+check_untyped_defs = true
+disallow_incomplete_defs = true
+ignore_missing_imports = true
+show_error_codes = true
+strict = true
 
 [tool.pytest.ini_options]
 # Directories that are not visited by pytest collector:
