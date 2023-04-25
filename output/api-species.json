@@ -3054,21 +3054,6 @@
       "https://images.reeflifesurvey.com/0/species_db_57972da2832ba.w1300.h866.jpg"
     ]
   ],
-  "Apogon doederleini": [
-    "Apogon doederleini",
-    "Four-line Cardinalfish, Doederlein's Cardinalfish",
-    "https://reeflifesurvey.com/species/apogon-doederleini/",
-    2,
-    [
-      "https://images.reeflifesurvey.com/0/species_82_5981d86bc9bcc.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_2f_576888ecd1959.w1300.h866.JPG",
-      "https://images.reeflifesurvey.com/0/species_ca_56fb0ca10940e.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_0e_57517530d0b11.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_4e_5751753a57f81.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_a7_57691ff86a212.w1300.h866.jpg",
-      "https://images.reeflifesurvey.com/0/species_5e_576888f4c114d.w1300.h866.jpg"
-    ]
-  ],
   "Apogon dovii": [
     "Apogon dovii",
     "Tailspot Cardinalfish, Tailspot Cardinalfish",
@@ -9652,7 +9637,8 @@
     1,
     [
       "https://images.reeflifesurvey.com/0/species_97_59c8635597afc.w1300.h866.JPG",
-      "https://images.reeflifesurvey.com/0/species_86_59c8639e2f4cc.w1300.h866.JPG"
+      "https://images.reeflifesurvey.com/0/species_86_59c8639e2f4cc.w1300.h866.JPG",
+      "https://images.reeflifesurvey.com/1/species_03_643e4171e8870.w1300.h866.JPG"
     ]
   ],
   "Chelidonura electra": [
@@ -33874,6 +33860,13 @@
       "https://images.reeflifesurvey.com/0/species_49_57ad78e271817.w1300.h866.jpg",
       "https://images.reeflifesurvey.com/0/species_49_57972f2ead800.w1300.h866.jpg"
     ]
+  ],
+  "Ostorhinchus doederleini": [
+    "Ostorhinchus doederleini",
+    "",
+    null,
+    2,
+    []
   ],
   "Ostorhinchus fleurieu": [
     "Ostorhinchus fleurieu",
