@@ -11,13 +11,14 @@ _logger = logging.getLogger("rls.processor")
 
 
 def download_survey_data(survey_data_dir: Path) -> None:
-    """Download RLS CSV data files to the given directory, creating it if it doesn't exist."""
+    """Download RLS CSV data files to the given directory, creating it if needed."""
     verify_empty_dir(survey_data_dir)
     ThreadPoolExecutor(max_workers=3).map(
         _download_survey_data_file,
         [
             (
-                "https://geoserver-portal.aodn.org.au/geoserver/ows?SERVICE=WFS&outputFormat=csv&REQUEST=GetFeature&"
+                "https://geoserver-portal.aodn.org.au/geoserver/ows?"
+                "SERVICE=WFS&outputFormat=csv&REQUEST=GetFeature&"
                 f"VERSION=1.0.0&typeName=imos:ep_{data_type}_public_data",
                 survey_data_dir / f"{data_type}.csv",
             )

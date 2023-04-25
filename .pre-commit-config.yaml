@@ -20,25 +20,31 @@ repos:
   - id: debug-statements
   - id: check-merge-conflict
 
+- repo: https://github.com/charliermarsh/ruff-pre-commit
+  rev: '343c49ab887fa4e5724ceb86c9c3678e647c94c2'  # frozen: v0.0.262
+  hooks:
+    - id: ruff
+      args: [--fix, --exit-non-zero-on-fix]
+
 - repo: https://github.com/psf/black
-  rev: b0d1fba7ac3be53c71fb0d3211d911e629f8aecb  # frozen: 23.1.0
+  rev: bf7a16254ec96b084a6caf3d435ec18f0f245cc7  # frozen: 23.3.0
   hooks:
   - id: black
     language_version: python3
 
 - repo: https://github.com/pycqa/docformatter
-  rev: 3c8dde140e0d2d4670aa2fbb706e1a96db593643  # frozen: v1.6.0.rc1
+  rev: 403478c1e23468aff9889975b35a27d2c115a2e8  # frozen: v1.6.3
   hooks:
     - id: docformatter
       args: [
         -i,
-        --wrap-summaries=120,
-        --wrap-descriptions=120,
+        --wrap-summaries=88,
+        --wrap-descriptions=88,
         --pre-summary-newline,
       ]
 
 - repo: https://github.com/pycqa/autoflake
-  rev: a8074406bf785cb287dfe1809e79ac6856bf65b2  # frozen: v2.0.1
+  rev: 14befe706742a2e4abb2de241372bb2a0592e7e1  # frozen: v2.1.1
   hooks:
     - id: autoflake
       args: ['--in-place', '--remove-all-unused-imports', '--remove-unused-variable']
@@ -64,7 +70,7 @@ repos:
       ]
 
 - repo: https://github.com/pre-commit/mirrors-mypy
-  rev: dc6912646c561f16af711006e7615d52e9bf0968  # frozen: v1.0.0
+  rev: b84480de6124681d551749528ab4b42c2269df8c  # frozen: v1.2.0
   hooks:
     - id: mypy
       args: [--ignore-missing-imports, --check-untyped-defs, --disallow-incomplete-defs, --show-error-codes, --strict]
