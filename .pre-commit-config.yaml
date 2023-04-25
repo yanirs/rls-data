@@ -32,43 +32,6 @@ repos:
   - id: black
     language_version: python3
 
-- repo: https://github.com/pycqa/docformatter
-  rev: 403478c1e23468aff9889975b35a27d2c115a2e8  # frozen: v1.6.3
-  hooks:
-    - id: docformatter
-      args: [
-        -i,
-        --wrap-summaries=88,
-        --wrap-descriptions=88,
-        --pre-summary-newline,
-      ]
-
-- repo: https://github.com/pycqa/autoflake
-  rev: 14befe706742a2e4abb2de241372bb2a0592e7e1  # frozen: v2.1.1
-  hooks:
-    - id: autoflake
-      args: ['--in-place', '--remove-all-unused-imports', '--remove-unused-variable']
-
-- repo: https://github.com/pycqa/isort
-  rev: dbf82f2dd09ae41d9355bcd7ab69187a19e6bf2f  # frozen: 5.12.0
-  hooks:
-  - id: isort
-
-- repo: https://github.com/pycqa/flake8
-  rev: c838a5e98878f17889cfce311e1406d252f87ec5  # frozen: 6.0.0
-  hooks:
-    - id: flake8
-      additional_dependencies: [
-        'pep8-naming',
-        'flake8-comprehensions',
-        'flake8-bugbear',
-        'flake8-pytest-style',
-        'flake8-variables-names',
-        'flake8-class-attributes-order',
-        'dlint',
-        'flake8-docstrings',
-      ]
-
 - repo: https://github.com/pre-commit/mirrors-mypy
   rev: b84480de6124681d551749528ab4b42c2269df8c  # frozen: v1.2.0
   hooks:

@@ -1,6 +1,7 @@
 """Scrapy-based scraper for the RLS website."""
 import re
-from typing import Any, Generator
+from collections.abc import Generator
+from typing import Any
 
 import scrapy.http
 from scrapy import Request, Selector

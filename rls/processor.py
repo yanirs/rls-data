@@ -82,7 +82,7 @@ def _read_survey_data(survey_data_dir: Path) -> pd.DataFrame:
 
 def _write_json(out_path: Path, data: Any, data_desc: str) -> None:
     _logger.info("Writing %s to %s", data_desc, out_path)
-    with open(out_path, "w") as fp:
+    with out_path.open("w") as fp:
         json.dump(data, fp, indent=2)
 
 
@@ -127,8 +127,10 @@ def _create_site_summaries(survey_data: pd.DataFrame, dst_dir: Path) -> None:
         .size()
     )
     site_summaries = {
-        site_code: list(site_info.values())
-        + [site_survey_species_counts.loc[site_code].to_dict()]
+        site_code: [
+            *list(site_info.values()),
+            site_survey_species_counts.loc[site_code].to_dict(),
+        ]
         for site_code, site_info in sorted(
             site_infos.drop(columns=["country", "area"]).to_dict("index").items()
         )
@@ -141,7 +143,7 @@ def _create_site_summaries(survey_data: pd.DataFrame, dst_dir: Path) -> None:
 
     new_site_infos = site_infos.drop(columns=["realm"])
     new_site_summaries = dict(
-        keys=["site_code"] + new_site_infos.columns.tolist(),
+        keys=["site_code", *new_site_infos.columns.tolist()],
         rows=list(map(list, new_site_infos.sort_index().itertuples())),
     )
     _write_json(
@@ -253,7 +255,7 @@ def create_api_jsons(
     verify_empty_dir(dst_dir)
     (dst_dir / "img").mkdir()
     _logger.info("Reading data.")
-    with open(crawl_json_path) as fp:
+    with crawl_json_path.open() as fp:
         crawl_data = {
             species_dict["name"].lower(): species_dict for species_dict in json.load(fp)
         }

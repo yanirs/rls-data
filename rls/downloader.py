@@ -1,6 +1,7 @@
 """Survey data downloader."""
 import logging
 from concurrent.futures import ThreadPoolExecutor
+from datetime import timedelta
 from pathlib import Path
 
 import requests
@@ -33,6 +34,6 @@ def _download_survey_data_file(url_and_out_path: tuple[str, Path]) -> None:
     """Download a single survey data file."""
     url, out_path = url_and_out_path
     _logger.info("Downloading %s to %s", url, out_path)
-    with open(out_path, "w") as fp:
-        fp.write(requests.get(url).text)
+    with out_path.open("w") as fp:
+        fp.write(requests.get(url, timeout=timedelta(minutes=10).total_seconds()).text)
     _logger.info("Saved %s", out_path)
