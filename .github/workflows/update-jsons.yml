@@ -9,23 +9,23 @@ jobs:
     steps:
       # See https://github.com/marketplace/actions/add-commit#working-with-prs for why two steps are needed.
       - name: Check out repository code (scheduled)
-        uses: actions/checkout@v3
+        uses: actions/checkout@8e5e7e5ab8b370d6c329ec480221332ada57f0ab  # pin@v3.5.2
         if: ${{ github.event_name != 'pull_request' }}
 
       - name: Check out repository code (PR)
-        uses: actions/checkout@v3
+        uses: actions/checkout@8e5e7e5ab8b370d6c329ec480221332ada57f0ab  # pin@v3.5.2
         if: ${{ github.event_name == 'pull_request' }}
         with:
           repository: ${{ github.event.pull_request.head.repo.full_name }}
           ref: ${{ github.event.pull_request.head.ref }}
 
       - name: Set up Python
-        uses: actions/setup-python@v3
+        uses: actions/setup-python@57ded4d7d5e986d7296eab16560982c6dd7c923b  # pin@v4.6.0
         with:
           python-version: "3.10"
 
       - name: Set up cache
-        uses: actions/cache@v3
+        uses: actions/cache@88522ab9f39a2ea568f7027eddc7d8d8bc9d59c8  # pin@v3.3.1
         id: cache
         with:
           path: |
@@ -35,9 +35,7 @@ jobs:
           key: venv-${{ hashFiles('poetry.lock', '.pre-commit-config.yaml') }}
 
       - name: Install poetry
-        run: |
-          curl -sSL https://install.python-poetry.org | python -
-          echo $HOME/.poetry/bin >> $GITHUB_PATH
+        run: pipx install poetry==1.4.2
 
       - name: Install dependencies
         run: |

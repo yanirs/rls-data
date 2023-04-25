@@ -12,13 +12,16 @@ Vagrant.configure("2") do |config|
 
   config.vm.provision "shell", name: "apt dependencies", inline: <<-SHELL
     apt-get update
-    apt-get install -y python3-pip
+    apt-get install -y pipx
   SHELL
 
-  config.vm.provision "shell", name: "poetry env", privileged: false, inline: <<-SHELL
+  config.vm.provision "shell", name: "poetry", privileged: false, inline: <<-SHELL
+    pipx install poetry==1.4.2
+  SHELL
+
+  config.vm.provision "shell", name: "python dependencies", privileged: false, inline: <<-SHELL
     set -e
     cd /vagrant
-    pip install poetry==1.3.2
     poetry install
     poetry run pre-commit install
     echo "Running the CLI to verify everything works"
