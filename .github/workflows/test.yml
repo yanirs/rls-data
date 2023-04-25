@@ -1,4 +1,4 @@
-name: Pre-commit checks & tests
+name: Lint checks & tests
 
 on:
   pull_request:
@@ -7,7 +7,7 @@ on:
       - master
 
 jobs:
-  test:
+  lint-and-test:
     runs-on: ubuntu-latest
 
     steps:
@@ -39,6 +39,17 @@ jobs:
 
       - name: Run pre-commit
         run: poetry run pre-commit run --all-files
+
+      - name: Run mypy
+        run: |
+          poetry run mypy \
+            --ignore-missing-imports \
+            --check-untyped-defs \
+            --disallow-incomplete-defs \
+            --show-error-codes \
+            --strict \
+            rls/ \
+            tests/
 
       - name: Run tests
         run: poetry run pytest

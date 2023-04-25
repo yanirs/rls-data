@@ -1,6 +1,3 @@
-# Read up on pre-commit
-# https://ljvmiranda921.github.io/notebook/2018/06/21/precommits-using-black-and-flake8/
-
 # Left pycharm settings untouched
 exclude: .idea/
 
@@ -31,10 +28,3 @@ repos:
   hooks:
   - id: black
     language_version: python3
-
-- repo: https://github.com/pre-commit/mirrors-mypy
-  rev: b84480de6124681d551749528ab4b42c2269df8c  # frozen: v1.2.0
-  hooks:
-    - id: mypy
-      args: [--ignore-missing-imports, --check-untyped-defs, --disallow-incomplete-defs, --show-error-codes, --strict]
-      additional_dependencies: [types-requests==2.27.19]
