@@ -28,15 +28,25 @@ class ReefLifeSurveySpider(CrawlSpider):  # type: ignore[misc]
         self, response: scrapy.http.Response
     ) -> Generator[dict[str, Any], None, None]:
         """Parse a species page and yield a dictionary of species information."""
-        common_name_elements = response.css(".fishname .commonname ::text")
+        common_name_elements = response.css(
+            "span.MuiTypography-root.MuiTypography-subtitle1 ::text"
+        )
         yield dict(
             id_=response.url.split("/")[-2],
             name=re.sub(
-                r"\s+", " ", "".join(response.css(".fishname h2 ::text").extract())
+                r"\s+",
+                " ",
+                "".join(response.css("h1.MuiTypography-root ::text").extract()),
             ),
-            common_name=common_name_elements.extract()[0]
+            common_name=common_name_elements.extract()[0].replace(" |", ",")
             if common_name_elements
             else "",
             url=response.url,
-            image_urls=response.css("#lightSlider img ::attr(src)").extract(),
+            image_urls=[
+                image_url
+                for image_url in response.css(
+                    "div.swiper:nth-child(1) > div:nth-child(1) ::attr(src)"
+                ).extract()
+                if not image_url.endswith("defaultspecies.webp")
+            ],
         )
