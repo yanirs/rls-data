@@ -46,6 +46,7 @@ def _read_survey_data(survey_data_dir: Path) -> pd.DataFrame:
                 "area",
                 "ecoregion",
                 "realm",
+                "location",
                 "site_code",
                 "site_name",
                 "program",
@@ -90,11 +91,15 @@ def _create_site_summaries(survey_data: pd.DataFrame, dst_dir: Path) -> None:
     """
     Create site summaries from survey_data and write them in API JSON format to dst_dir.
 
-    Two legacy files are created, api-site-surveys.json and api-site-surveys.min.json,
-    where the latter is the same JSON as the former but without pretty-printing
-    whitespace. The content of the files is the same mapping from site code to
-    [realm: str, ecoregion: str, site_name: str, longitude: float, latitude: float,
-     num_surveys: int, species_name_to_num_surveys: dict[str, int]]
+    One legacy files is created, api-site-surveys.json, mapping from site code to an
+    array with elements:
+     - realm: str
+     - ecoregion: str
+     - site_name: str
+     - longitude: float
+     - latitude: float
+     - num_surveys: int
+     - species_name_to_num_surveys: dict[str, int]]
 
     In addition, two new format files are created:
       - sites.json: site data with keys 'rows' - array of arrays, and 'keys' -
@@ -111,6 +116,7 @@ def _create_site_summaries(survey_data: pd.DataFrame, dst_dir: Path) -> None:
                 "country",
                 "area",
                 "realm",
+                "location",
                 "ecoregion",
                 "site_name",
                 "longitude",
@@ -132,7 +138,9 @@ def _create_site_summaries(survey_data: pd.DataFrame, dst_dir: Path) -> None:
             site_survey_species_counts.loc[site_code].to_dict(),
         ]
         for site_code, site_info in sorted(
-            site_infos.drop(columns=["country", "area"]).to_dict("index").items()
+            site_infos.drop(columns=["country", "area", "location"])
+            .to_dict("index")
+            .items()
         )
     }
     _write_json(
@@ -172,11 +180,13 @@ def _create_species_file(
     """
     Create species summary from the data and write it in API JSON format to dst_dir.
 
-    Two files will be created, api-species.json and api-species.min.json, where the
-    latter is the same JSON as the former but without pretty-printing whitespace. The
-    content of the files is the same mapping from the species_name to
-    [species_name: str, common_name: str, url: str,
-     data_type_code: int (0 - M1, 1 - M2, 2 - both), image_urls: list[str]]
+    The created api-species.json file is a mapping from the species_name to an array
+    with elements:
+     - species_name: str
+     - common_name: str
+     - url: str
+     - data_type_code: int (0 - M1, 1 - M2, 2 - both)
+     - image_urls: list[str]
 
     If the crawled species dicts contain an "images" key, it is assumed that the images
     were scraped to img_src_path.In this case, the resulting image_urls will be of the
