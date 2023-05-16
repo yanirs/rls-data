@@ -4441,6 +4441,15 @@
     0,
     []
   ],
+  "Atherinopsis californiensis": [
+    "Atherinopsis californiensis",
+    "Jack silverside",
+    "https://reeflifesurvey.com/species/atherinopsis-californiensis/",
+    0,
+    [
+      "https://images.reeflifesurvey.com/0/species_2d_59db419311d1d.w1000.h666.jpg"
+    ]
+  ],
   "Athyonidium chilensis": [
     "Athyonidium chilensis",
     "",
@@ -4460,6 +4469,13 @@
     "",
     "https://reeflifesurvey.com/species/atractoscion-sp-nobilis/",
     0,
+    []
+  ],
+  "Atrimitra idae": [
+    "Atrimitra idae",
+    "Idas miter",
+    "https://reeflifesurvey.com/species/atrimitra-idae/",
+    1,
     []
   ],
   "Atrina spp.": [
@@ -6486,6 +6502,13 @@
       "https://images.reeflifesurvey.com/0/species_bd_56f8c1bfb3d36.w1000.h666.jpg"
     ]
   ],
+  "Californiconus californicus": [
+    "Californiconus californicus",
+    "Californian cone",
+    "https://reeflifesurvey.com/species/californiconus-californicus/",
+    1,
+    []
+  ],
   "Callanthias australis": [
     "Callanthias australis",
     "Splendid perch",
@@ -6553,6 +6576,13 @@
     "Calliostoma annulatum",
     "",
     "https://reeflifesurvey.com/species/calliostoma-annulatum/",
+    1,
+    []
+  ],
+  "Calliostoma canaliculatum": [
+    "Calliostoma canaliculatum",
+    "Channeled topsnail",
+    "https://reeflifesurvey.com/species/calliostoma-canaliculatum/",
     1,
     []
   ],
@@ -14242,8 +14272,8 @@
   ],
   "Crossata ventricosa": [
     "Crossata ventricosa",
-    "",
-    null,
+    "Swollen frog shell, Bursa californica",
+    "https://reeflifesurvey.com/species/crossata-ventricosa/",
     1,
     []
   ],
@@ -16283,6 +16313,13 @@
     1,
     []
   ],
+  "Discodoris paroa": [
+    "Discodoris paroa",
+    "Paroan discodoris",
+    "https://reeflifesurvey.com/species/discodoris-paroa/",
+    1,
+    []
+  ],
   "Discodoris rosi": [
     "Discodoris rosi",
     "",
@@ -17564,6 +17601,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_67_57f703ca27801.w1000.h666.jpg"
     ]
+  ],
+  "Elysia coodgeensis": [
+    "Elysia coodgeensis",
+    "Sea slug",
+    "https://reeflifesurvey.com/species/elysia-coodgeensis/",
+    1,
+    []
   ],
   "Elysia crispata": [
     "Elysia crispata",
@@ -19657,8 +19701,8 @@
   ],
   "Felimida macfarlandi": [
     "Felimida macfarlandi",
-    "",
-    null,
+    "Three strip doris, Chromodoris macfarlandi",
+    "https://reeflifesurvey.com/species/felimida-macfarlandi/",
     1,
     []
   ],
@@ -19866,8 +19910,8 @@
   ],
   "Flabellinopsis iodinea": [
     "Flabellinopsis iodinea",
-    "",
-    null,
+    "Spanish shawl, Flabellina iodinea",
+    "https://reeflifesurvey.com/species/flabellinopsis-iodinea/",
     1,
     []
   ],
@@ -20410,6 +20454,13 @@
     "Gaudichaudia gaudichaudii",
     "",
     "https://reeflifesurvey.com/species/gaudichaudia-gaudichaudii/",
+    1,
+    []
+  ],
+  "Geitodoris heathi": [
+    "Geitodoris heathi",
+    "Heaths dorid",
+    "https://reeflifesurvey.com/species/geitodoris-heathi/",
     1,
     []
   ],
@@ -27685,6 +27736,13 @@
     1,
     []
   ],
+  "Limacia mcdonaldi": [
+    "Limacia mcdonaldi",
+    "McDonalds Dorid",
+    "https://reeflifesurvey.com/species/limacia-mcdonaldi/",
+    1,
+    []
+  ],
   "Limnichthys fasciatus": [
     "Limnichthys fasciatus",
     "Tommyfish, Barred Sand Burrower, Striped Sand-diver",
@@ -28624,8 +28682,8 @@
   ],
   "Lytechinus pictus": [
     "Lytechinus pictus",
-    "",
-    null,
+    "Painted urchin, Lytechinus anamesus",
+    "https://reeflifesurvey.com/species/lytechinus-pictus/",
     1,
     []
   ],
@@ -31792,8 +31850,8 @@
   ],
   "Neobernaya spadicea": [
     "Neobernaya spadicea",
-    "",
-    null,
+    "Chestnut cowry, Cypraea spadicea",
+    "https://reeflifesurvey.com/species/neobernaya-spadicea/",
     1,
     []
   ],
@@ -32817,6 +32875,13 @@
       "https://images.reeflifesurvey.com/0/species_92_5a018e4d3acbc.w1000.h666.jpg"
     ]
   ],
+  "Nucella spp.": [
+    "Nucella spp.",
+    "",
+    null,
+    1,
+    []
+  ],
   "Nudibranchia sp. (white with yellow tips)": [
     "Nudibranchia sp. (white with yellow tips)",
     "",
@@ -32879,6 +32944,13 @@
   ],
   "Ocenebra inornata": [
     "Ocenebra inornata",
+    "",
+    null,
+    1,
+    []
+  ],
+  "Ocinebrina spp.": [
+    "Ocinebrina spp.",
     "",
     null,
     1,
@@ -39465,6 +39537,13 @@
       "https://images.reeflifesurvey.com/0/species_c4_5714134e142c2.w1000.h666.JPG"
     ]
   ],
+  "Polycera janjukia": [
+    "Polycera janjukia",
+    "Nudibranch",
+    "https://reeflifesurvey.com/species/polycera-janjukia/",
+    1,
+    []
+  ],
   "Polycera sp. (orange stripes)": [
     "Polycera sp. (orange stripes)",
     "",
@@ -40673,6 +40752,13 @@
     "Prothalotia lehmanni",
     "Lehmanns top shell, Prothalotia lehmani",
     "https://reeflifesurvey.com/species/prothalotia-lehmanni/",
+    1,
+    []
+  ],
+  "Prothalotia ramburi": [
+    "Prothalotia ramburi",
+    "Ramburs jewel top shell",
+    "https://reeflifesurvey.com/species/prothalotia-ramburi/",
     1,
     []
   ],
@@ -44885,16 +44971,6 @@
     2,
     []
   ],
-  "Scorpaenodes scaber": [
-    "Scorpaenodes scaber",
-    "Pygmy Scorpionfish",
-    "https://reeflifesurvey.com/species/scorpaenodes-scaber/",
-    2,
-    [
-      "https://images.reeflifesurvey.com/1/species_6c_6347ed6b34578.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_57_6347ed690bfc2.w1000.h666.jpg"
-    ]
-  ],
   "Scorpaenodes spp.": [
     "Scorpaenodes spp.",
     "",
@@ -48777,6 +48853,13 @@
     1,
     []
   ],
+  "Tegula brunnea": [
+    "Tegula brunnea",
+    "Brown turban",
+    "https://reeflifesurvey.com/species/tegula-brunnea/",
+    1,
+    []
+  ],
   "Tegula eiseni": [
     "Tegula eiseni",
     "Banded tegula",
@@ -48788,6 +48871,13 @@
     "Tegula funebralis",
     "Black top shell",
     "https://reeflifesurvey.com/species/tegula-funebralis/",
+    1,
+    []
+  ],
+  "Tegula gallina": [
+    "Tegula gallina",
+    "Speckled tegula",
+    "https://reeflifesurvey.com/species/tegula-gallina/",
     1,
     []
   ],
@@ -48889,13 +48979,6 @@
     "Temnopleurus spp.",
     "",
     null,
-    1,
-    []
-  ],
-  "Temnopleurus toreumaticus": [
-    "Temnopleurus toreumaticus",
-    "Striped spine sea urchin, Embossed Sea Urchin",
-    "https://reeflifesurvey.com/species/temnopleurus-toreumaticus/",
     1,
     []
   ],

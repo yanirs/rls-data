@@ -23518,7 +23518,7 @@
       "The Gantry Bawley Point",
       150.4,
       -35.5,
-      10
+      14
     ],
     [
       "NSW2",
@@ -29228,7 +29228,7 @@
       "Blairgowrie Pier",
       144.77,
       -38.36,
-      10
+      12
     ],
     [
       "PPB54",
@@ -29378,7 +29378,7 @@
       "Annulus (Popes Eye)",
       144.7,
       -38.28,
-      56
+      59
     ],
     [
       "PPH-S13",
@@ -29428,7 +29428,7 @@
       "Kelp Beds",
       144.64,
       -38.28,
-      50
+      52
     ],
     [
       "PPH-S18",
@@ -29468,7 +29468,7 @@
       "Sth Channel Fort",
       144.8,
       -38.31,
-      48
+      50
     ],
     [
       "PPH-S5",
@@ -29748,7 +29748,7 @@
       "Cottage by the Sea",
       144.65,
       -38.27,
-      19
+      20
     ],
     [
       "PPH41",
@@ -38438,7 +38438,7 @@
       "Cavern Point  Santa Cruz",
       -119.57,
       34.05,
-      5
+      7
     ],
     [
       "USWC12",
@@ -38448,7 +38448,7 @@
       "Little Scorpion  Santa Cruz",
       -119.54,
       34.04,
-      4
+      6
     ],
     [
       "USWC13",
@@ -38458,7 +38458,7 @@
       "Devils Peak Member  Santa Cruz",
       -119.6,
       34.04,
-      4
+      6
     ],
     [
       "USWC14",
@@ -38467,8 +38467,8 @@
       "Southern California Bight",
       "Devils Peak Member south  Santa Cruz",
       -119.61,
-      34.02,
-      1
+      34.03,
+      3
     ],
     [
       "USWC15",
@@ -38488,7 +38488,7 @@
       "Monterey Wharf  CA",
       -121.89,
       36.61,
-      1
+      2
     ],
     [
       "USWC17",
@@ -38528,7 +38528,7 @@
       "Scorpion Anchorage  Sta Cruz CA",
       -119.55,
       34.05,
-      3
+      5
     ],
     [
       "USWC20",
@@ -38638,7 +38638,7 @@
       "South Point  Sta Rosa CA",
       -120.12,
       33.89,
-      3
+      4
     ],
     [
       "USWC30",
@@ -38651,6 +38651,26 @@
       2
     ],
     [
+      "USWC31",
+      "United States",
+      "California",
+      "Northern California",
+      "Hopkins",
+      -121.9,
+      36.62,
+      2
+    ],
+    [
+      "USWC32",
+      "United States",
+      "California",
+      "Southern California Bight",
+      "Pelican Bay",
+      -119.7,
+      34.03,
+      2
+    ],
+    [
       "USWC4",
       "United States",
       "California",
@@ -38658,7 +38678,7 @@
       "Chickasaw  Sta Rosa CA",
       -120.14,
       33.9,
-      2
+      4
     ],
     [
       "USWC5",
@@ -38678,7 +38698,7 @@
       "Johnsons Lee North  Sta Rosa CA",
       -120.1,
       33.9,
-      2
+      4
     ],
     [
       "USWC7",
@@ -38688,7 +38708,7 @@
       "Pedro Reef  Santa Cruz",
       -119.53,
       34.04,
-      4
+      6
     ],
     [
       "USWC8",
@@ -38698,7 +38718,7 @@
       "Potato Pasture  Santa Cruz",
       -119.58,
       34.05,
-      2
+      4
     ],
     [
       "USWC9",
