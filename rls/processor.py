@@ -43,7 +43,6 @@ def _read_survey_data(survey_data_dir: Path) -> pd.DataFrame:
             usecols=[
                 "survey_id",
                 "country",
-                "area",
                 "ecoregion",
                 "realm",
                 "location",
@@ -114,7 +113,6 @@ def _create_site_summaries(survey_data: pd.DataFrame, dst_dir: Path) -> None:
             [
                 "site_code",
                 "country",
-                "area",
                 "realm",
                 "location",
                 "ecoregion",
@@ -138,9 +136,7 @@ def _create_site_summaries(survey_data: pd.DataFrame, dst_dir: Path) -> None:
             site_survey_species_counts.loc[site_code].to_dict(),
         ]
         for site_code, site_info in sorted(
-            site_infos.drop(columns=["country", "area", "location"])
-            .to_dict("index")
-            .items()
+            site_infos.drop(columns=["country", "location"]).to_dict("index").items()
         )
     }
     _write_json(
@@ -149,15 +145,14 @@ def _create_site_summaries(survey_data: pd.DataFrame, dst_dir: Path) -> None:
         data_desc=f"{len(site_summaries)} legacy sites",
     )
 
-    new_site_infos = site_infos.drop(columns=["realm"])
     new_site_summaries = dict(
-        keys=["site_code", *new_site_infos.columns.tolist()],
-        rows=list(map(list, new_site_infos.sort_index().itertuples())),
+        keys=["site_code", *site_infos.columns.tolist()],
+        rows=list(map(list, site_infos.sort_index().itertuples())),
     )
     _write_json(
         dst_dir / "sites.json",
         data=new_site_summaries,
-        data_desc=f"{len(new_site_infos)} new sites",
+        data_desc=f"{len(site_infos)} new sites",
     )
     new_counts: dict[str, dict[str, int]] = defaultdict(dict)
     for (species_name, site_code), count in (
