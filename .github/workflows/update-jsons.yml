@@ -1,6 +1,7 @@
 name: Update JSONs
 on:
   pull_request:
+  workflow_dispatch:
   schedule:
     - cron: '23 6 * * 2'  # At 06:23 on Tuesday UTC.
 jobs:
