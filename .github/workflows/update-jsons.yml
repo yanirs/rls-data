@@ -3,7 +3,7 @@ on:
   pull_request:
   workflow_dispatch:
   schedule:
-    - cron: '23 6 * * 2'  # At 06:23 on Tuesday UTC.
+    - cron: '23 0 * * *'  # Daily at 00:23 UTC.
 jobs:
   update-jsons:
     runs-on: ubuntu-latest
