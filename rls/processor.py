@@ -43,9 +43,9 @@ def _read_survey_data(survey_data_dir: Path) -> pd.DataFrame:
             usecols=[
                 "survey_id",
                 "country",
-                "area",
                 "ecoregion",
                 "realm",
+                "location",
                 "site_code",
                 "site_name",
                 "program",
@@ -90,11 +90,15 @@ def _create_site_summaries(survey_data: pd.DataFrame, dst_dir: Path) -> None:
     """
     Create site summaries from survey_data and write them in API JSON format to dst_dir.
 
-    Two legacy files are created, api-site-surveys.json and api-site-surveys.min.json,
-    where the latter is the same JSON as the former but without pretty-printing
-    whitespace. The content of the files is the same mapping from site code to
-    [realm: str, ecoregion: str, site_name: str, longitude: float, latitude: float,
-     num_surveys: int, species_name_to_num_surveys: dict[str, int]]
+    One legacy files is created, api-site-surveys.json, mapping from site code to an
+    array with elements:
+     - realm: str
+     - ecoregion: str
+     - site_name: str
+     - longitude: float
+     - latitude: float
+     - num_surveys: int
+     - species_name_to_num_surveys: dict[str, int]]
 
     In addition, two new format files are created:
       - sites.json: site data with keys 'rows' - array of arrays, and 'keys' -
@@ -109,8 +113,8 @@ def _create_site_summaries(survey_data: pd.DataFrame, dst_dir: Path) -> None:
             [
                 "site_code",
                 "country",
-                "area",
                 "realm",
+                "location",
                 "ecoregion",
                 "site_name",
                 "longitude",
@@ -132,7 +136,7 @@ def _create_site_summaries(survey_data: pd.DataFrame, dst_dir: Path) -> None:
             site_survey_species_counts.loc[site_code].to_dict(),
         ]
         for site_code, site_info in sorted(
-            site_infos.drop(columns=["country", "area"]).to_dict("index").items()
+            site_infos.drop(columns=["country", "location"]).to_dict("index").items()
         )
     }
     _write_json(
@@ -141,15 +145,14 @@ def _create_site_summaries(survey_data: pd.DataFrame, dst_dir: Path) -> None:
         data_desc=f"{len(site_summaries)} legacy sites",
     )
 
-    new_site_infos = site_infos.drop(columns=["realm"])
     new_site_summaries = dict(
-        keys=["site_code", *new_site_infos.columns.tolist()],
-        rows=list(map(list, new_site_infos.sort_index().itertuples())),
+        keys=["site_code", *site_infos.columns.tolist()],
+        rows=list(map(list, site_infos.sort_index().itertuples())),
     )
     _write_json(
         dst_dir / "sites.json",
         data=new_site_summaries,
-        data_desc=f"{len(new_site_infos)} new sites",
+        data_desc=f"{len(site_infos)} new sites",
     )
     new_counts: dict[str, dict[str, int]] = defaultdict(dict)
     for (species_name, site_code), count in (
@@ -172,11 +175,13 @@ def _create_species_file(
     """
     Create species summary from the data and write it in API JSON format to dst_dir.
 
-    Two files will be created, api-species.json and api-species.min.json, where the
-    latter is the same JSON as the former but without pretty-printing whitespace. The
-    content of the files is the same mapping from the species_name to
-    [species_name: str, common_name: str, url: str,
-     data_type_code: int (0 - M1, 1 - M2, 2 - both), image_urls: list[str]]
+    The created api-species.json file is a mapping from the species_name to an array
+    with elements:
+     - species_name: str
+     - common_name: str
+     - url: str
+     - data_type_code: int (0 - M1, 1 - M2, 2 - both)
+     - image_urls: list[str]
 
     If the crawled species dicts contain an "images" key, it is assumed that the images
     were scraped to img_src_path.In this case, the resulting image_urls will be of the
