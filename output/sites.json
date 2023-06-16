@@ -6345,7 +6345,7 @@
       "Nth of Pinnacles (662)",
       152.91,
       -31.68,
-      8
+      10
     ],
     [
       "CG10",
@@ -6356,7 +6356,7 @@
       "Steves Bommie (668)",
       152.91,
       -31.68,
-      4
+      6
     ],
     [
       "CG11",
@@ -6367,7 +6367,7 @@
       "SE lumps (66A)",
       152.91,
       -31.68,
-      3
+      5
     ],
     [
       "CG2",
@@ -6378,7 +6378,7 @@
       "Cod Gardens (CODGAR)",
       152.91,
       -31.68,
-      5
+      7
     ],
     [
       "CG3",
@@ -6389,7 +6389,7 @@
       "SW flats (66B)",
       152.91,
       -31.68,
-      4
+      6
     ],
     [
       "CG4",
@@ -6400,7 +6400,7 @@
       "Z - 3 (666)",
       152.9,
       -31.71,
-      2
+      4
     ],
     [
       "CG5",
@@ -6422,7 +6422,7 @@
       "Z - 1 - 28 (M2-28)",
       152.88,
       -31.72,
-      4
+      6
     ],
     [
       "CG7",
@@ -6444,7 +6444,7 @@
       "Cod Grounds Pinnacles",
       152.91,
       -31.68,
-      3
+      5
     ],
     [
       "CG9",
@@ -6455,7 +6455,7 @@
       "Geek Flats (667)",
       152.91,
       -31.68,
-      3
+      5
     ],
     [
       "CHILE1",
@@ -15200,7 +15200,7 @@
       "Wistari Reef south west",
       151.85,
       -23.47,
-      2
+      4
     ],
     [
       "GBR120",
@@ -17194,6 +17194,61 @@
       2
     ],
     [
+      "GBR285",
+      "Australia",
+      "Central Indo-Pacific",
+      "Capricorn-Bunker",
+      "Central and Southern Great Barrier Reef",
+      "Tenements 2",
+      151.93,
+      -23.43,
+      2
+    ],
+    [
+      "GBR286",
+      "Australia",
+      "Central Indo-Pacific",
+      "Capricorn-Bunker",
+      "Central and Southern Great Barrier Reef",
+      "Hole in Wall",
+      151.92,
+      -23.43,
+      1
+    ],
+    [
+      "GBR287",
+      "Australia",
+      "Central Indo-Pacific",
+      "Capricorn-Bunker",
+      "Central and Southern Great Barrier Reef",
+      "Westari",
+      151.86,
+      -23.46,
+      2
+    ],
+    [
+      "GBR288",
+      "Australia",
+      "Central Indo-Pacific",
+      "Capricorn-Bunker",
+      "Central and Southern Great Barrier Reef",
+      "Fourth Point",
+      151.98,
+      -23.44,
+      1
+    ],
+    [
+      "GBR289",
+      "Australia",
+      "Central Indo-Pacific",
+      "Capricorn-Bunker",
+      "Central and Southern Great Barrier Reef",
+      "East Yellow 1",
+      151.96,
+      -23.43,
+      2
+    ],
+    [
       "GBR29",
       "Australia",
       "Central Indo-Pacific",
@@ -17202,6 +17257,39 @@
       "Adelaide Reef",
       146.46,
       -17.66,
+      2
+    ],
+    [
+      "GBR290",
+      "Australia",
+      "Central Indo-Pacific",
+      "Capricorn-Bunker",
+      "Central and Southern Great Barrier Reef",
+      "Heron Bombie",
+      151.9,
+      -23.44,
+      2
+    ],
+    [
+      "GBR291",
+      "Australia",
+      "Central Indo-Pacific",
+      "Capricorn-Bunker",
+      "Central and Southern Great Barrier Reef",
+      "Wistari Reef 1",
+      151.91,
+      -23.45,
+      2
+    ],
+    [
+      "GBR292",
+      "Australia",
+      "Central Indo-Pacific",
+      "Capricorn-Bunker",
+      "Central and Southern Great Barrier Reef",
+      "Coral Gardens",
+      151.91,
+      -23.45,
       2
     ],
     [
