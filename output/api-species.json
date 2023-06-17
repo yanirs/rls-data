@@ -21232,8 +21232,8 @@
   ],
   "Goniistius vestitus": [
     "Goniistius vestitus",
-    "",
-    null,
+    "Crested morwong, Cheilodactylus vestitus",
+    "https://reeflifesurvey.com/species/goniistius-vestitus/",
     0,
     []
   ],
@@ -30566,8 +30566,8 @@
   ],
   "Morwong fuscus": [
     "Morwong fuscus",
-    "",
-    null,
+    "Red morwong, Cheilodactylus fuscus",
+    "https://reeflifesurvey.com/species/morwong-fuscus/",
     0,
     []
   ],
@@ -32650,10 +32650,14 @@
   ],
   "Notodoris minor": [
     "Notodoris minor",
-    "",
-    null,
+    "Banana nudibranch, Aegires minor",
+    "https://reeflifesurvey.com/species/notodoris-minor/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_0f_57da23bcc6b61.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_ad_5783256bbe952.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_f3_5783256fd9c89.w1000.h666.jpg"
+    ]
   ],
   "Notolabrus celidotus": [
     "Notolabrus celidotus",
@@ -33914,8 +33918,8 @@
   ],
   "Ostorhinchus doederleini": [
     "Ostorhinchus doederleini",
-    "",
-    null,
+    "Four lined cardinalfish, Apogon doederleini",
+    "https://reeflifesurvey.com/species/ostorhinchus-doederleini/",
     2,
     []
   ],
@@ -50742,6 +50746,13 @@
       "https://images.reeflifesurvey.com/0/species_63_5751663c7fce6.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_c8_5795f8bf5481f.w1000.h666.jpg"
     ]
+  ],
+  "Tripneustes kermadecensis": [
+    "Tripneustes kermadecensis",
+    "",
+    null,
+    1,
+    []
   ],
   "Tripneustes ventricosus": [
     "Tripneustes ventricosus",
