@@ -46,6 +46,12 @@ jobs:
       - name: Download RLS survey data
         run: poetry run rls-data download-survey-data data/rls-surveys/
 
+      # It's possible to extract the species data from species.json without scraping,
+      # but this approach acts as a monitor that tracks changes to species.json and
+      # verifies that they're reflected in pages that can be scraped.
+      - name: Download species.json
+        run: curl -sS "https://reeflifesurvey.com/species/api/species.json?v=$(date --utc +%s)" | jq > output/species.json
+
       - name: Crawl RLS species data
         run: |
           poetry run scrapy runspider rls/scraper.py \
