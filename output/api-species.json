@@ -26019,6 +26019,13 @@
     1,
     []
   ],
+  "Isara chalybeia": [
+    "Isara chalybeia",
+    "",
+    null,
+    1,
+    []
+  ],
   "Isara cornea": [
     "Isara cornea",
     "",
@@ -50750,7 +50757,7 @@
   "Tripneustes kermadecensis": [
     "Tripneustes kermadecensis",
     "",
-    null,
+    "https://reeflifesurvey.com/species/tripneustes-kermadecensis/",
     1,
     []
   ],
