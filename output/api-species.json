@@ -3132,7 +3132,9 @@
     "Many lined cardinalfish",
     "https://reeflifesurvey.com/species/apogon-multilineatus/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_7f_64925f48c3c64.w1000.h666.jpg"
+    ]
   ],
   "Apogon notatus": [
     "Apogon notatus",
@@ -14307,7 +14309,9 @@
     "",
     "https://reeflifesurvey.com/species/cryptocentrus-leptocephalus/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_c9_64925fa3dfbb4.w1000.h666.jpg"
+    ]
   ],
   "Cryptocentrus leucostictus": [
     "Cryptocentrus leucostictus",
@@ -17831,14 +17835,10 @@
   ],
   "Enneapterygius howensis": [
     "Enneapterygius howensis",
-    "Lord howe threefin, Lord Howe Island Triplefin, Enneapterygius howensis[?]",
-    "https://reeflifesurvey.com/species/enneapterygius-howensis/",
+    "",
+    null,
     2,
-    [
-      "https://images.reeflifesurvey.com/0/species_0e_56fb26f499f27.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_07_5aa228bb69ded.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_63_56fb26f8d6b5d.w1000.h666.jpg"
-    ]
+    []
   ],
   "Enneapterygius kermadecensis": [
     "Enneapterygius kermadecensis",
@@ -18992,7 +18992,10 @@
     "White line pygmy goby",
     "https://reeflifesurvey.com/species/eviota-mikiae/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_48_64925fd86cf1b.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_2d_64925fda3de16.w1000.h666.jpg"
+    ]
   ],
   "Eviota natalis": [
     "Eviota natalis",
@@ -19289,7 +19292,9 @@
     "Shoulderspot eviota",
     "https://reeflifesurvey.com/species/eviota-spilota/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_be_64926229aad5f.w1000.h666.jpg"
+    ]
   ],
   "Eviota spp.": [
     "Eviota spp.",
@@ -28283,12 +28288,10 @@
   ],
   "Lutjanus erythropterus": [
     "Lutjanus erythropterus",
-    "Crimson snapper, Crimson Seaperch, High-brow Sea-perch, Pink Snapper, Red Bream, Red Jew, Rounded Snapper, Saddletailed Sea Perch, Scarlet Snapper, Small-mouth Nannygai, Lutjanus ?erythropterus",
-    "https://reeflifesurvey.com/species/lutjanus-erythropterus/",
+    "",
+    null,
     0,
-    [
-      "https://images.reeflifesurvey.com/0/species_42_57316e2db3e58.w1000.h666.jpg"
-    ]
+    []
   ],
   "Lutjanus fulviflamma": [
     "Lutjanus fulviflamma",
@@ -31618,7 +31621,7 @@
   ],
   "Nectria pedicelligera": [
     "Nectria pedicelligera",
-    "Multi-spined seastar, Nectria ?multispina, Nectria multispina",
+    "Multi-spined seastar, Nectria multispina",
     "https://reeflifesurvey.com/species/nectria-pedicelligera/",
     1,
     [
