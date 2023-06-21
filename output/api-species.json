@@ -666,7 +666,7 @@
   "Acanthurus grammoptilus (cf)": [
     "Acanthurus grammoptilus (cf)",
     "",
-    "https://reeflifesurvey.com/species/acanthurus-grammoptilus-cf/",
+    null,
     0,
     []
   ],
@@ -1812,29 +1812,29 @@
   ],
   "Amblypneustes sp. (Cape Portland)": [
     "Amblypneustes sp. (Cape Portland)",
-    "Short-spined urchin",
-    "https://reeflifesurvey.com/species/amblypneustes-sp-cape-portland/",
+    "",
+    null,
     1,
     []
   ],
   "Amblypneustes sp. (KI - Black)": [
     "Amblypneustes sp. (KI - Black)",
     "",
-    "https://reeflifesurvey.com/species/amblypneustes-sp-ki-black/",
+    null,
     1,
     []
   ],
   "Amblypneustes sp. 2": [
     "Amblypneustes sp. 2",
-    "Purple egg urchin",
-    "https://reeflifesurvey.com/species/amblypneustes-sp-2/",
+    "",
+    null,
     1,
     []
   ],
   "Amblypneustes sp. 3": [
     "Amblypneustes sp. 3",
-    "White egg urchin",
-    "https://reeflifesurvey.com/species/amblypneustes-sp-3/",
+    "",
+    null,
     1,
     []
   ],
@@ -2375,7 +2375,7 @@
   "Angaria sp.": [
     "Angaria sp.",
     "",
-    "https://reeflifesurvey.com/species/angaria-sp-/",
+    null,
     1,
     []
   ],
@@ -2435,11 +2435,9 @@
   "Aniculus sp. (elegans)": [
     "Aniculus sp. (elegans)",
     "",
-    "https://reeflifesurvey.com/species/aniculus-sp-elegans/",
+    null,
     1,
-    [
-      "https://images.reeflifesurvey.com/1/species_68_6368673871647.w1000.h666.jpg"
-    ]
+    []
   ],
   "Aniculus spp.": [
     "Aniculus spp.",
@@ -3184,7 +3182,7 @@
   "Apogon sp. (very small)": [
     "Apogon sp. (very small)",
     "",
-    "https://reeflifesurvey.com/species/apogon-sp-very-small/",
+    null,
     2,
     []
   ],
@@ -4469,7 +4467,7 @@
   "Atractoscion sp. (nobilis)": [
     "Atractoscion sp. (nobilis)",
     "",
-    "https://reeflifesurvey.com/species/atractoscion-sp-nobilis/",
+    null,
     0,
     []
   ],
@@ -5149,14 +5147,14 @@
   "Blenniid sp. (Yellow head black body)": [
     "Blenniid sp. (Yellow head black body)",
     "",
-    "https://reeflifesurvey.com/species/blenniid-sp-yellow-head-black-body/",
+    null,
     2,
     []
   ],
   "Blenniid sp. (mottled brown)": [
     "Blenniid sp. (mottled brown)",
     "",
-    "https://reeflifesurvey.com/species/blenniid-sp-mottled-brown/",
+    null,
     2,
     []
   ],
@@ -5687,7 +5685,7 @@
   "Brachyura sp. (black crab)": [
     "Brachyura sp. (black crab)",
     "",
-    "https://reeflifesurvey.com/species/brachyura-sp-black-crab/",
+    null,
     1,
     []
   ],
@@ -6432,7 +6430,7 @@
   "Calcinus sp. (St Kilda colored)": [
     "Calcinus sp. (St Kilda colored)",
     "",
-    "https://reeflifesurvey.com/species/calcinus-sp-st-kilda-colored/",
+    null,
     1,
     []
   ],
@@ -7181,7 +7179,7 @@
   "Capillaster sp. (sentosus cf)": [
     "Capillaster sp. (sentosus cf)",
     "",
-    "https://reeflifesurvey.com/species/capillaster-sp-sentosus-cf/",
+    null,
     1,
     []
   ],
@@ -8518,7 +8516,7 @@
   "Chaetodon aureofasciatus (cf)": [
     "Chaetodon aureofasciatus (cf)",
     "",
-    "https://reeflifesurvey.com/species/chaetodon-aureofasciatus-cf/",
+    null,
     0,
     []
   ],
@@ -9018,7 +9016,7 @@
   "Chaetodon sp. (daedalma cf)": [
     "Chaetodon sp. (daedalma cf)",
     "",
-    "https://reeflifesurvey.com/species/chaetodon-sp-daedalma-cf/",
+    null,
     0,
     []
   ],
@@ -9551,7 +9549,7 @@
   "Cheilodipterus sp. (octolineatus)": [
     "Cheilodipterus sp. (octolineatus)",
     "",
-    "https://reeflifesurvey.com/species/cheilodipterus-sp-octolineatus/",
+    null,
     2,
     []
   ],
@@ -10773,7 +10771,7 @@
   "Chromis sp. (acares)": [
     "Chromis sp. (acares)",
     "",
-    "https://reeflifesurvey.com/species/chromis-sp-acares/",
+    null,
     0,
     []
   ],
@@ -10994,14 +10992,14 @@
   "Chromodoris sp. (purple lines)": [
     "Chromodoris sp. (purple lines)",
     "",
-    "https://reeflifesurvey.com/species/chromodoris-sp-purple-lines/",
+    null,
     1,
     []
   ],
   "Chromodoris sp. (strigata)": [
     "Chromodoris sp. (strigata)",
     "",
-    "https://reeflifesurvey.com/species/chromodoris-sp-strigata/",
+    null,
     1,
     []
   ],
@@ -11740,7 +11738,7 @@
   "Cirripectes sp. (chelomatus)": [
     "Cirripectes sp. (chelomatus)",
     "",
-    "https://reeflifesurvey.com/species/cirripectes-sp-chelomatus/",
+    null,
     2,
     []
   ],
@@ -12301,282 +12299,268 @@
   "Comanthus sp. (1 Unid - yellow stem with sparse black pinnae)": [
     "Comanthus sp. (1 Unid - yellow stem with sparse black pinnae)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-1-unid-yellow-stem-with-sparse-black-pinnae/",
+    null,
     1,
     []
   ],
   "Comanthus sp. (1)": [
     "Comanthus sp. (1)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-1/",
+    null,
     1,
     []
   ],
   "Comanthus sp. (13)": [
     "Comanthus sp. (13)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-13/",
+    null,
     1,
     []
   ],
   "Comanthus sp. (14)": [
     "Comanthus sp. (14)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-14/",
+    null,
     1,
     []
   ],
   "Comanthus sp. (2 Unid - yellow white and black)": [
     "Comanthus sp. (2 Unid - yellow white and black)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-2-unid-yellow-white-and-black/",
+    null,
     1,
     []
   ],
   "Comanthus sp. (2)": [
     "Comanthus sp. (2)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-2/",
+    null,
     1,
     []
   ],
   "Comanthus sp. (3 Unid - all black)": [
     "Comanthus sp. (3 Unid - all black)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-3-unid-all-black/",
+    null,
     1,
     []
   ],
   "Comanthus sp. (3)": [
     "Comanthus sp. (3)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-3/",
+    null,
     1,
     []
   ],
   "Comanthus sp. (4)": [
     "Comanthus sp. (4)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-4/",
+    null,
     1,
     []
   ],
   "Comanthus sp. (5)": [
     "Comanthus sp. (5)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-5/",
+    null,
     1,
     []
   ],
   "Comanthus sp. (9)": [
     "Comanthus sp. (9)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-9/",
+    null,
     1,
     []
   ],
   "Comanthus sp. (All black)": [
     "Comanthus sp. (All black)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-all-black/",
+    null,
     1,
     []
   ],
   "Comanthus sp. (Black sparse)": [
     "Comanthus sp. (Black sparse)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-black-sparse/",
+    null,
     1,
     []
   ],
   "Comanthus sp. (Multicolored)": [
     "Comanthus sp. (Multicolored)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-multicolored/",
+    null,
     1,
     []
   ],
   "Comanthus sp. (Thick brown pinnae)": [
     "Comanthus sp. (Thick brown pinnae)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-thick-brown-pinnae/",
+    null,
     1,
     []
   ],
   "Comanthus sp. (black orange)": [
     "Comanthus sp. (black orange)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-black-orange/",
+    null,
     1,
     []
   ],
   "Comanthus sp. (black w. orange tips)": [
     "Comanthus sp. (black w. orange tips)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-black-w-orange-tips/",
+    null,
     1,
     []
   ],
   "Comanthus sp. (black white speckled)": [
     "Comanthus sp. (black white speckled)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-black-white-speckled/",
+    null,
     1,
-    [
-      "https://images.reeflifesurvey.com/0/species_53_5757ce5d82bca.w1000.h666.jpg"
-    ]
+    []
   ],
   "Comanthus sp. (black white tips)": [
     "Comanthus sp. (black white tips)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-black-white-tips/",
+    null,
     1,
     []
   ],
   "Comanthus sp. (black)": [
     "Comanthus sp. (black)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-black/",
+    null,
     1,
-    [
-      "https://images.reeflifesurvey.com/0/species_fa_5757ce9c3e600.w1000.h666.jpg"
-    ]
+    []
   ],
   "Comanthus sp. (black/grey)": [
     "Comanthus sp. (black/grey)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-black-grey/",
+    null,
     1,
     []
   ],
   "Comanthus sp. (blue black)": [
     "Comanthus sp. (blue black)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-blue-black/",
+    null,
     1,
     []
   ],
   "Comanthus sp. (blue)": [
     "Comanthus sp. (blue)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-blue/",
+    null,
     1,
-    [
-      "https://images.reeflifesurvey.com/0/species_e5_5757ced5d0787.w1000.h666.jpg"
-    ]
+    []
   ],
   "Comanthus sp. (cf schlegeli)": [
     "Comanthus sp. (cf schlegeli)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-cf-schlegeli/",
+    null,
     1,
-    [
-      "https://images.reeflifesurvey.com/0/species_99_575d3705a3e45.w1000.h666.JPG"
-    ]
+    []
   ],
   "Comanthus sp. (dark olive green)": [
     "Comanthus sp. (dark olive green)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-dark-olive-green/",
+    null,
     1,
     []
   ],
   "Comanthus sp. (green brown)": [
     "Comanthus sp. (green brown)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-green-brown/",
+    null,
     1,
     []
   ],
   "Comanthus sp. (green yellow tips)": [
     "Comanthus sp. (green yellow tips)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-green-yellow-tips/",
+    null,
     1,
     []
   ],
   "Comanthus sp. (mirabilis cf)": [
     "Comanthus sp. (mirabilis cf)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-mirabilis-cf/",
+    null,
     1,
     []
   ],
   "Comanthus sp. (olive green)": [
     "Comanthus sp. (olive green)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-olive-green/",
+    null,
     1,
     []
   ],
   "Comanthus sp. (orange brown)": [
     "Comanthus sp. (orange brown)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-orange-brown/",
+    null,
     1,
     []
   ],
   "Comanthus sp. (orange)": [
     "Comanthus sp. (orange)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-orange/",
+    null,
     1,
-    [
-      "https://images.reeflifesurvey.com/0/species_7c_575d36929cf9f.w1000.h666.JPG"
-    ]
+    []
   ],
   "Comanthus sp. (parvicirrus cf)": [
     "Comanthus sp. (parvicirrus cf)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-parvicirrus-cf/",
+    null,
     1,
     []
   ],
   "Comanthus sp. (parvicirrus?)": [
     "Comanthus sp. (parvicirrus?)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-parvicirrus/",
+    null,
     1,
     []
   ],
   "Comanthus sp. (small white)": [
     "Comanthus sp. (small white)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-small-white/",
+    null,
     1,
     []
   ],
   "Comanthus sp. (suavia cf)": [
     "Comanthus sp. (suavia cf)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-suavia-cf/",
+    null,
     1,
     []
   ],
   "Comanthus sp. (white)": [
     "Comanthus sp. (white)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-white/",
+    null,
     1,
-    [
-      "https://images.reeflifesurvey.com/0/species_6a_575d378dc5c42.w1000.h666.JPG"
-    ]
+    []
   ],
   "Comanthus sp. (yellow tips)": [
     "Comanthus sp. (yellow tips)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-yellow-tips/",
+    null,
     1,
     []
   ],
   "Comanthus sp. (yellow)": [
     "Comanthus sp. (yellow)",
     "",
-    "https://reeflifesurvey.com/species/comanthus-sp-yellow/",
+    null,
     1,
-    [
-      "https://images.reeflifesurvey.com/0/species_d6_575d368bd8dfb.w1000.h666.JPG"
-    ]
+    []
   ],
   "Comanthus sp. [white thin]": [
     "Comanthus sp. [white thin]",
@@ -13190,42 +13174,42 @@
   "Conus sanguinolentus (cf)": [
     "Conus sanguinolentus (cf)",
     "",
-    "https://reeflifesurvey.com/species/conus-sanguinolentus-cf/",
+    null,
     1,
     []
   ],
   "Conus sp. (Ofu)": [
     "Conus sp. (Ofu)",
     "",
-    "https://reeflifesurvey.com/species/conus-sp-ofu/",
+    null,
     1,
     []
   ],
   "Conus sp. (cf eburneus)": [
     "Conus sp. (cf eburneus)",
     "",
-    "https://reeflifesurvey.com/species/conus-sp-cf-eburneus/",
+    null,
     1,
     []
   ],
   "Conus sp. (emaciatus cf)": [
     "Conus sp. (emaciatus cf)",
     "",
-    "https://reeflifesurvey.com/species/conus-sp-emaciatus-cf/",
+    null,
     1,
     []
   ],
   "Conus sp. (musicus cf)": [
     "Conus sp. (musicus cf)",
     "",
-    "https://reeflifesurvey.com/species/conus-sp-musicus-cf/",
+    null,
     1,
     []
   ],
   "Conus sp. (rattus cf)": [
     "Conus sp. (rattus cf)",
     "",
-    "https://reeflifesurvey.com/species/conus-sp-rattus-cf/",
+    null,
     1,
     []
   ],
@@ -13831,14 +13815,14 @@
   "Corythoichthys conspicillatus (cf)": [
     "Corythoichthys conspicillatus (cf)",
     "",
-    "https://reeflifesurvey.com/species/corythoichthys-conspicillatus-cf/",
+    null,
     2,
     []
   ],
   "Corythoichthys flavofasciatus (cf)": [
     "Corythoichthys flavofasciatus (cf)",
     "",
-    "https://reeflifesurvey.com/species/corythoichthys-flavofasciatus-cf/",
+    null,
     2,
     []
   ],
@@ -14074,7 +14058,7 @@
   "Crinoidea sp. (Orange white candy)": [
     "Crinoidea sp. (Orange white candy)",
     "",
-    "https://reeflifesurvey.com/species/crinoidea-sp-orange-white-candy/",
+    null,
     1,
     []
   ],
@@ -14254,7 +14238,7 @@
   "Cryptobiceros bajae": [
     "Cryptobiceros bajae",
     "",
-    "https://reeflifesurvey.com/species/cryptobiceros-bajae/",
+    null,
     1,
     []
   ],
@@ -14337,11 +14321,9 @@
   "Cryptocentrus sp. (cf caeruleomaculatus)": [
     "Cryptocentrus sp. (cf caeruleomaculatus)",
     "",
-    "https://reeflifesurvey.com/species/cryptocentrus-sp-cf-caeruleomaculatus/",
+    null,
     2,
-    [
-      "https://images.reeflifesurvey.com/0/species_1a_575d3954055b8.w1000.h666.JPG"
-    ]
+    []
   ],
   "Cryptocentrus spp.": [
     "Cryptocentrus spp.",
@@ -15309,14 +15291,14 @@
   "Decapoda sp. (1)": [
     "Decapoda sp. (1)",
     "",
-    "https://reeflifesurvey.com/species/decapoda-sp-1/",
+    null,
     1,
     []
   ],
   "Decapoda sp. (2)": [
     "Decapoda sp. (2)",
     "",
-    "https://reeflifesurvey.com/species/decapoda-sp-2/",
+    null,
     1,
     []
   ],
@@ -15759,11 +15741,9 @@
   "Diaulula sp. (yellow)": [
     "Diaulula sp. (yellow)",
     "",
-    "https://reeflifesurvey.com/species/diaulula-sp-yellow/",
+    null,
     1,
-    [
-      "https://images.reeflifesurvey.com/0/species_3e_57994eadc31af.w1000.h666.JPG"
-    ]
+    []
   ],
   "Diaulula variolata": [
     "Diaulula variolata",
@@ -17185,7 +17165,7 @@
   "Ecsenius ops": [
     "Ecsenius ops",
     "",
-    "https://reeflifesurvey.com/species/ecsenius-ops/",
+    null,
     2,
     []
   ],
@@ -18398,14 +18378,14 @@
   "Epinephelus sp. (cyanodpous)": [
     "Epinephelus sp. (cyanodpous)",
     "",
-    "https://reeflifesurvey.com/species/epinephelus-sp-cyanodpous/",
+    null,
     2,
     []
   ],
   "Epinephelus sp. (merra?)": [
     "Epinephelus sp. (merra?)",
     "",
-    "https://reeflifesurvey.com/species/epinephelus-sp-merra/",
+    null,
     2,
     []
   ],
@@ -19062,11 +19042,9 @@
   "Eviota queenslandica (cf)": [
     "Eviota queenslandica (cf)",
     "",
-    "https://reeflifesurvey.com/species/eviota-queenslandica-cf/",
+    null,
     2,
-    [
-      "https://images.reeflifesurvey.com/1/species_ca_63479a0b7fa65.w1000.h666.jpg"
-    ]
+    []
   ],
   "Eviota raja": [
     "Eviota raja",
@@ -19142,23 +19120,21 @@
   "Eviota sp. (fasciola)": [
     "Eviota sp. (fasciola)",
     "",
-    "https://reeflifesurvey.com/species/eviota-sp-fasciola/",
+    null,
     2,
     []
   ],
   "Eviota sp. (red)": [
     "Eviota sp. (red)",
     "",
-    "https://reeflifesurvey.com/species/eviota-sp-red/",
+    null,
     2,
-    [
-      "https://images.reeflifesurvey.com/0/species_c0_5770b807a37e9.w1000.h666.jpg"
-    ]
+    []
   ],
   "Eviota sp. (sp 2)": [
     "Eviota sp. (sp 2)",
     "",
-    "https://reeflifesurvey.com/species/eviota-sp-sp-2/",
+    null,
     2,
     []
   ],
@@ -20058,7 +20034,7 @@
   "Fromia sp. (indica cf)": [
     "Fromia sp. (indica cf)",
     "",
-    "https://reeflifesurvey.com/species/fromia-sp-indica-cf/",
+    null,
     1,
     []
   ],
@@ -20155,7 +20131,7 @@
   "Fusigobius pallidus (cf)": [
     "Fusigobius pallidus (cf)",
     "",
-    "https://reeflifesurvey.com/species/fusigobius-pallidus-cf/",
+    null,
     2,
     []
   ],
@@ -20172,8 +20148,8 @@
   ],
   "Fusigobius sp.": [
     "Fusigobius sp.",
-    "Orange spotted sand goby",
-    "https://reeflifesurvey.com/species/fusigobius-sp-/",
+    "",
+    null,
     2,
     []
   ],
@@ -20369,7 +20345,7 @@
   "Gastropoda sp. (orange stripe)": [
     "Gastropoda sp. (orange stripe)",
     "",
-    "https://reeflifesurvey.com/species/gastropoda-sp-orange-stripe/",
+    null,
     1,
     []
   ],
@@ -20542,7 +20518,7 @@
   "Gibbonsia sp. (elegans)": [
     "Gibbonsia sp. (elegans)",
     "",
-    "https://reeflifesurvey.com/species/gibbonsia-sp-elegans/",
+    null,
     2,
     []
   ],
@@ -21032,7 +21008,7 @@
   "Gobiodon spilophthalmus (cf)": [
     "Gobiodon spilophthalmus (cf)",
     "",
-    "https://reeflifesurvey.com/species/gobiodon-spilophthalmus-cf/",
+    null,
     2,
     []
   ],
@@ -21153,7 +21129,7 @@
   "Gomophia egyptiaca": [
     "Gomophia egyptiaca",
     "",
-    "https://reeflifesurvey.com/species/gomophia-egyptiaca/",
+    null,
     1,
     []
   ],
@@ -21400,7 +21376,7 @@
   "Goniobranchus leopardus": [
     "Goniobranchus leopardus",
     "",
-    "https://reeflifesurvey.com/species/goniobranchus-leopardus/",
+    null,
     1,
     []
   ],
@@ -22329,7 +22305,7 @@
   "Haemulid sp. (cf sarpa sarpa)": [
     "Haemulid sp. (cf sarpa sarpa)",
     "",
-    "https://reeflifesurvey.com/species/haemulid-sp-cf-sarpa-sarpa/",
+    null,
     0,
     []
   ],
@@ -24254,8 +24230,8 @@
   ],
   "Heteroclinus sp. (Colemans)": [
     "Heteroclinus sp. (Colemans)",
-    "Weedfish (Colemans)",
-    "https://reeflifesurvey.com/species/heteroclinus-sp-colemans/",
+    "",
+    null,
     2,
     []
   ],
@@ -24945,15 +24921,15 @@
   ],
   "Holopneustes sp. (Whyalla)": [
     "Holopneustes sp. (Whyalla)",
-    "Short-spine urchin",
-    "https://reeflifesurvey.com/species/holopneustes-sp-whyalla/",
+    "",
+    null,
     1,
     []
   ],
   "Holopneustes sp. (red)": [
     "Holopneustes sp. (red)",
-    "Short-spine urchin",
-    "https://reeflifesurvey.com/species/holopneustes-sp-red/",
+    "",
+    null,
     1,
     []
   ],
@@ -25278,7 +25254,7 @@
   "Holothuriid sp. (Bohadschia graeffei?)": [
     "Holothuriid sp. (Bohadschia graeffei?)",
     "",
-    "https://reeflifesurvey.com/species/holothuriid-sp-bohadschia-graeffei/",
+    null,
     1,
     []
   ],
@@ -26164,7 +26140,7 @@
   "Istigobius sp. (cambelli?)": [
     "Istigobius sp. (cambelli?)",
     "",
-    "https://reeflifesurvey.com/species/istigobius-sp-cambelli/",
+    null,
     2,
     []
   ],
@@ -27131,7 +27107,7 @@
   "Leiaster sp. (speciosus cf)": [
     "Leiaster sp. (speciosus cf)",
     "",
-    "https://reeflifesurvey.com/species/leiaster-sp-speciosus-cf/",
+    null,
     1,
     []
   ],
@@ -27590,7 +27566,11 @@
     "",
     "https://reeflifesurvey.com/species/lethrinus-sp-punctulatus/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_3d_6492716bb06d5.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_43_6492716dc8691.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_86_649271695f2e4.w1000.h666.jpg"
+    ]
   ],
   "Lethrinus sp.[Gulf]": [
     "Lethrinus sp.[Gulf]",
@@ -27801,7 +27781,7 @@
   "Liocarcinus sp. (depurator)": [
     "Liocarcinus sp. (depurator)",
     "",
-    "https://reeflifesurvey.com/species/liocarcinus-sp-depurator/",
+    null,
     1,
     []
   ],
@@ -30278,7 +30258,7 @@
   "Mitrid sp. (black)": [
     "Mitrid sp. (black)",
     "",
-    "https://reeflifesurvey.com/species/mitrid-sp-black/",
+    null,
     1,
     []
   ],
@@ -30934,7 +30914,7 @@
   "Myoxocephalus sp. (aenaeus)": [
     "Myoxocephalus sp. (aenaeus)",
     "",
-    "https://reeflifesurvey.com/species/myoxocephalus-sp-aenaeus/",
+    null,
     2,
     []
   ],
@@ -31339,7 +31319,7 @@
   "Naso sp. (blunt head)": [
     "Naso sp. (blunt head)",
     "",
-    "https://reeflifesurvey.com/species/naso-sp-blunt-head/",
+    null,
     0,
     []
   ],
@@ -31540,7 +31520,10 @@
     "",
     "https://reeflifesurvey.com/species/nectamia-luxuria/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_b2_649271b766d7e.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_2e_649271b55eb76.w1000.h666.jpg"
+    ]
   ],
   "Nectamia similis": [
     "Nectamia similis",
@@ -31552,7 +31535,7 @@
   "Nectamia sp. (bandanenis)": [
     "Nectamia sp. (bandanenis)",
     "",
-    "https://reeflifesurvey.com/species/nectamia-sp-bandanenis/",
+    null,
     2,
     []
   ],
@@ -31827,7 +31810,7 @@
   "Neoamphicylcus sp. (tiger stripe)": [
     "Neoamphicylcus sp. (tiger stripe)",
     "",
-    "https://reeflifesurvey.com/species/neoamphicylcus-sp-tiger-stripe/",
+    null,
     1,
     []
   ],
@@ -32360,21 +32343,21 @@
   "Nesogobius sp. (Jervis or flecks)": [
     "Nesogobius sp. (Jervis or flecks)",
     "",
-    "https://reeflifesurvey.com/species/nesogobius-sp-jervis-or-flecks/",
+    null,
     2,
     []
   ],
   "Nesogobius sp. 1": [
     "Nesogobius sp. 1",
-    "Opalescent sandgoby",
-    "https://reeflifesurvey.com/species/nesogobius-sp-1/",
+    "",
+    null,
     2,
     []
   ],
   "Nesogobius sp. 2": [
     "Nesogobius sp. 2",
-    "Threadfin goby",
-    "https://reeflifesurvey.com/species/nesogobius-sp-2/",
+    "",
+    null,
     2,
     []
   ],
@@ -32398,22 +32381,22 @@
   ],
   "Nesogobius sp. 5": [
     "Nesogobius sp. 5",
-    "Sicklefin goby",
-    "https://reeflifesurvey.com/species/nesogobius-sp-5/",
+    "",
+    null,
     2,
     []
   ],
   "Nesogobius sp. 6": [
     "Nesogobius sp. 6",
-    "Twin-bar sand goby (Barnes Bay: Marls)",
-    "https://reeflifesurvey.com/species/nesogobius-sp-6/",
+    "",
+    null,
     2,
     []
   ],
   "Nesogobius sp. 8": [
     "Nesogobius sp. 8",
-    "Speckled sand goby (Barnes Bay: Nev)",
-    "https://reeflifesurvey.com/species/nesogobius-sp-8/",
+    "",
+    null,
     2,
     []
   ],
@@ -32434,7 +32417,7 @@
   "New bovichthyid": [
     "New bovichthyid",
     "",
-    "https://reeflifesurvey.com/species/new-bovichthyid/",
+    null,
     2,
     []
   ],
@@ -32649,12 +32632,10 @@
   ],
   "Notodoris gardineri": [
     "Notodoris gardineri",
-    "Aegires gardineri",
-    "https://reeflifesurvey.com/species/notodoris-gardineri/",
+    "",
+    null,
     1,
-    [
-      "https://images.reeflifesurvey.com/0/species_74_57da22e1b2a4a.w1000.h666.jpg"
-    ]
+    []
   ],
   "Notodoris minor": [
     "Notodoris minor",
@@ -32872,7 +32853,7 @@
   "Nudibranchia sp. (white with yellow tips)": [
     "Nudibranchia sp. (white with yellow tips)",
     "",
-    "https://reeflifesurvey.com/species/nudibranchia-sp-white-with-yellow-tips/",
+    null,
     1,
     []
   ],
@@ -33236,7 +33217,7 @@
   "Okenia sp. (anando)": [
     "Okenia sp. (anando)",
     "",
-    "https://reeflifesurvey.com/species/okenia-sp-anando/",
+    null,
     1,
     []
   ],
@@ -33759,8 +33740,8 @@
   ],
   "Orectolobus sp.": [
     "Orectolobus sp.",
-    "Western wobbegong",
-    "https://reeflifesurvey.com/species/orectolobus-sp-/",
+    "",
+    null,
     2,
     []
   ],
@@ -34129,7 +34110,7 @@
   "Ostorhinchus sp. (angustatus)": [
     "Ostorhinchus sp. (angustatus)",
     "",
-    "https://reeflifesurvey.com/species/ostorhinchus-sp-angustatus/",
+    null,
     2,
     []
   ],
@@ -34754,7 +34735,7 @@
   "Paguroidea sp. (golden legs)": [
     "Paguroidea sp. (golden legs)",
     "",
-    "https://reeflifesurvey.com/species/paguroidea-sp-golden-legs/",
+    null,
     1,
     []
   ],
@@ -35321,7 +35302,7 @@
   "Paracentropyge sp. (venusta cf)": [
     "Paracentropyge sp. (venusta cf)",
     "",
-    "https://reeflifesurvey.com/species/paracentropyge-sp-venusta-cf/",
+    null,
     0,
     []
   ],
@@ -35868,12 +35849,9 @@
   "Parapercis sp. (Raja)": [
     "Parapercis sp. (Raja)",
     "",
-    "https://reeflifesurvey.com/species/parapercis-sp-raja/",
+    null,
     2,
-    [
-      "https://images.reeflifesurvey.com/0/species_e9_577a37b15f8bb.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_9e_577a36a318eb0.w1000.h666.jpg"
-    ]
+    []
   ],
   "Parapercis spp.": [
     "Parapercis spp.",
@@ -36002,7 +35980,7 @@
   "Paraplotosus sp. (cf butleri)": [
     "Paraplotosus sp. (cf butleri)",
     "",
-    "https://reeflifesurvey.com/species/paraplotosus-sp-cf-butleri/",
+    null,
     2,
     []
   ],
@@ -38072,7 +38050,9 @@
     "Ceylon phyllidiella",
     "https://reeflifesurvey.com/species/phyllidiella-zeylanica/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_95_649272223eced.w1000.h666.jpg"
+    ]
   ],
   "Phyllidiidae spp.": [
     "Phyllidiidae spp.",
@@ -39540,7 +39520,7 @@
   "Polycera sp. (orange stripes)": [
     "Polycera sp. (orange stripes)",
     "",
-    "https://reeflifesurvey.com/species/polycera-sp-orange-stripes/",
+    null,
     1,
     []
   ],
@@ -39564,7 +39544,7 @@
   "Polycladida sp. (hairy)": [
     "Polycladida sp. (hairy)",
     "",
-    "https://reeflifesurvey.com/species/polycladida-sp-hairy/",
+    null,
     1,
     []
   ],
@@ -39696,7 +39676,7 @@
   "Pomacentrid sp. (NWS GJE)": [
     "Pomacentrid sp. (NWS GJE)",
     "",
-    "https://reeflifesurvey.com/species/pomacentrid-sp-nws-gje/",
+    null,
     0,
     []
   ],
@@ -40114,11 +40094,9 @@
   "Pomacentrus sp. (grey)": [
     "Pomacentrus sp. (grey)",
     "",
-    "https://reeflifesurvey.com/species/pomacentrus-sp-grey/",
+    null,
     0,
-    [
-      "https://images.reeflifesurvey.com/0/species_b9_5756b50210a8d.w1000.h666.jpg"
-    ]
+    []
   ],
   "Pomacentrus sp. [rhodonotus]": [
     "Pomacentrus sp. [rhodonotus]",
@@ -40380,7 +40358,7 @@
   "Portunid sp. (Laleonestes nipponensis)": [
     "Portunid sp. (Laleonestes nipponensis)",
     "",
-    "https://reeflifesurvey.com/species/portunid-sp-laleonestes-nipponensis/",
+    null,
     1,
     []
   ],
@@ -40760,7 +40738,10 @@
     "",
     "https://reeflifesurvey.com/species/protoreaster-lincki/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_06_6492727410b52.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_4a_6492727642245.w1000.h666.jpg"
+    ]
   ],
   "Protoreaster nodosus": [
     "Protoreaster nodosus",
@@ -41003,7 +40984,7 @@
   "Pseudanthias sp. (rubrizonatus)": [
     "Pseudanthias sp. (rubrizonatus)",
     "",
-    "https://reeflifesurvey.com/species/pseudanthias-sp-rubrizonatus/",
+    null,
     0,
     []
   ],
@@ -41130,7 +41111,7 @@
   "Pseudobiceros gloriosus": [
     "Pseudobiceros gloriosus",
     "",
-    "https://reeflifesurvey.com/species/pseudobiceros-gloriosus/",
+    null,
     1,
     []
   ],
@@ -41325,7 +41306,7 @@
   "Pseudoceros contrarius (cf)": [
     "Pseudoceros contrarius (cf)",
     "",
-    "https://reeflifesurvey.com/species/pseudoceros-contrarius-cf/",
+    null,
     1,
     []
   ],
@@ -41342,7 +41323,7 @@
   "Pseudoceros dimidiatus (cf)": [
     "Pseudoceros dimidiatus (cf)",
     "",
-    "https://reeflifesurvey.com/species/pseudoceros-dimidiatus-cf/",
+    null,
     1,
     []
   ],
@@ -41459,7 +41440,7 @@
   "Pseudoceros sp. (contrarius)": [
     "Pseudoceros sp. (contrarius)",
     "",
-    "https://reeflifesurvey.com/species/pseudoceros-sp-contrarius/",
+    null,
     1,
     []
   ],
@@ -42664,7 +42645,7 @@
   "Purpura dumosa": [
     "Purpura dumosa",
     "",
-    "https://reeflifesurvey.com/species/purpura-dumosa/",
+    null,
     1,
     []
   ],
@@ -42881,11 +42862,9 @@
   "Rhabdamia sp. (cypselurus)": [
     "Rhabdamia sp. (cypselurus)",
     "",
-    "https://reeflifesurvey.com/species/rhabdamia-sp-cypselurus/",
+    null,
     2,
-    [
-      "https://images.reeflifesurvey.com/0/species_7d_5756b4c2c75ce.w1000.h666.jpg"
-    ]
+    []
   ],
   "Rhabdosargus holubi": [
     "Rhabdosargus holubi",
@@ -43435,7 +43414,7 @@
   "Salarias sp. (alboguttatus)": [
     "Salarias sp. (alboguttatus)",
     "",
-    "https://reeflifesurvey.com/species/salarias-sp-alboguttatus/",
+    null,
     2,
     []
   ],
@@ -44261,14 +44240,14 @@
   "Scarus sp. (ghobban)": [
     "Scarus sp. (ghobban)",
     "",
-    "https://reeflifesurvey.com/species/scarus-sp-ghobban/",
+    null,
     0,
     []
   ],
   "Scarus sp. (globiceps cf)": [
     "Scarus sp. (globiceps cf)",
     "",
-    "https://reeflifesurvey.com/species/scarus-sp-globiceps-cf/",
+    null,
     0,
     []
   ],
@@ -45939,7 +45918,9 @@
     "White-spotted spinefoot",
     "https://reeflifesurvey.com/species/siganus-canaliculatus/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_1d_649272ae49ff3.w1000.h666.jpg"
+    ]
   ],
   "Siganus corallinus": [
     "Siganus corallinus",
@@ -46064,7 +46045,7 @@
   "Siganus sp.": [
     "Siganus sp.",
     "",
-    "https://reeflifesurvey.com/species/siganus-sp-/",
+    null,
     0,
     []
   ],
@@ -46733,14 +46714,14 @@
   "Sphyraena sp. (flavicauda)": [
     "Sphyraena sp. (flavicauda)",
     "",
-    "https://reeflifesurvey.com/species/sphyraena-sp-flavicauda/",
+    null,
     0,
     []
   ],
   "Sphyraena sp. (qenie)": [
     "Sphyraena sp. (qenie)",
     "",
-    "https://reeflifesurvey.com/species/sphyraena-sp-qenie/",
+    null,
     0,
     []
   ],
@@ -47756,7 +47737,7 @@
   "Strongylocentrotus sp. (Arctic 2)": [
     "Strongylocentrotus sp. (Arctic 2)",
     "",
-    "https://reeflifesurvey.com/species/strongylocentrotus-sp-arctic-2/",
+    null,
     1,
     []
   ],
@@ -48597,7 +48578,7 @@
   "Tamaria sp.": [
     "Tamaria sp.",
     "",
-    "https://reeflifesurvey.com/species/tamaria-sp-/",
+    null,
     1,
     []
   ],
@@ -48797,7 +48778,7 @@
   "Tectus sp. (fenestratus)": [
     "Tectus sp. (fenestratus)",
     "",
-    "https://reeflifesurvey.com/species/tectus-sp-fenestratus/",
+    null,
     1,
     []
   ],
@@ -49143,7 +49124,7 @@
   "Thais sp. (argus cf)": [
     "Thais sp. (argus cf)",
     "",
-    "https://reeflifesurvey.com/species/thais-sp-argus-cf/",
+    null,
     1,
     []
   ],
@@ -49395,7 +49376,7 @@
   "Thalassoma sp. (bimaculatus)": [
     "Thalassoma sp. (bimaculatus)",
     "",
-    "https://reeflifesurvey.com/species/thalassoma-sp-bimaculatus/",
+    null,
     0,
     []
   ],
@@ -49682,7 +49663,7 @@
   "Thuridilla sp. (Black stripe, Orange rhinophore)": [
     "Thuridilla sp. (Black stripe, Orange rhinophore)",
     "",
-    "https://reeflifesurvey.com/species/thuridilla-sp-black-stripe-orange-rhinophore/",
+    null,
     1,
     []
   ],
@@ -49730,7 +49711,7 @@
   "Thuridilla vataae (cf)": [
     "Thuridilla vataae (cf)",
     "",
-    "https://reeflifesurvey.com/species/thuridilla-vataae-cf/",
+    null,
     1,
     []
   ],
@@ -50471,7 +50452,9 @@
     "",
     "https://reeflifesurvey.com/species/trimma-capostriatum/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_4f_649272e391daa.w1000.h666.jpg"
+    ]
   ],
   "Trimma fangi": [
     "Trimma fangi",
@@ -50988,7 +50971,7 @@
   "Trochus sp. (blue aperture)": [
     "Trochus sp. (blue aperture)",
     "",
-    "https://reeflifesurvey.com/species/trochus-sp-blue-aperture/",
+    null,
     1,
     []
   ],
@@ -51332,7 +51315,7 @@
   "Turbo sp. (striped)": [
     "Turbo sp. (striped)",
     "",
-    "https://reeflifesurvey.com/species/turbo-sp-striped/",
+    null,
     1,
     []
   ],
@@ -51874,7 +51857,7 @@
   "Urolophus sp. (striped stingaree)": [
     "Urolophus sp. (striped stingaree)",
     "",
-    "https://reeflifesurvey.com/species/urolophus-sp-striped-stingaree/",
+    null,
     2,
     []
   ],
@@ -52368,7 +52351,7 @@
   "Xymenopsis fusiformis": [
     "Xymenopsis fusiformis",
     "",
-    "https://reeflifesurvey.com/species/xymenopsis-fusiformis/",
+    null,
     1,
     []
   ],
