@@ -7326,9 +7326,7 @@
     "Coachwhip trevally",
     "https://reeflifesurvey.com/species/carangoides-oblongus/",
     0,
-    [
-      "https://images.reeflifesurvey.com/1/species_d1_634777739f22a.w1000.h666.jpg"
-    ]
+    []
   ],
   "Carangoides orthogrammus": [
     "Carangoides orthogrammus",
@@ -7563,6 +7561,7 @@
     "https://reeflifesurvey.com/species/carcharias-taurus/",
     0,
     [
+      "https://images.reeflifesurvey.com/1/species_5e_6491813a68a42.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_01_570467f734e9e.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_bc_570467fe7625f.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_e0_5769fd811425b.w1000.h666.jpg",
@@ -10010,8 +10009,8 @@
     0,
     [
       "https://images.reeflifesurvey.com/0/species_19_574abd57cea83.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_4f_574abd78e8d0a.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_4e_574abd730ad46.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_4e_574abd730ad46.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_95_64917e2f5a6c7.w1000.h666.jpg"
     ]
   ],
   "Chlorurus frontalis": [
@@ -24886,10 +24885,11 @@
     "https://reeflifesurvey.com/species/hologymnosus-doliatus/",
     0,
     [
-      "https://images.reeflifesurvey.com/0/species_21_574cc910bcf78.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_69_58d87ab971584.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_28_64917f0862fbe.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_20_574cc915c17f2.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_1f_574cc919f388c.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/0/species_20_574cc915c17f2.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_21_574cc910bcf78.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_69_58d87ab971584.w1000.h666.jpg"
     ]
   ],
   "Hologymnosus sp. [dark]": [
@@ -27477,10 +27477,8 @@
     "https://reeflifesurvey.com/species/lethrinus-laticaudis/",
     0,
     [
-      "https://images.reeflifesurvey.com/0/species_28_573d36e487df4.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/0/species_7f_573d36ded00d3.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_8b_573d36ed0052e.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_f0_577475f42eaaf.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/0/species_f0_577475f42eaaf.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/0/species_8b_573d36ed0052e.w1000.h666.jpg"
     ]
   ],
   "Lethrinus lentjan": [
@@ -33729,8 +33727,7 @@
     2,
     [
       "https://images.reeflifesurvey.com/0/species_28_570364e59cbcd.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_b3_570364df347ee.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_08_570364fb010b4.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_b3_570364df347ee.w1000.h666.jpg"
     ]
   ],
   "Orectolobus maculatus": [
