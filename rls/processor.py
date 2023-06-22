@@ -8,7 +8,6 @@ from typing import Any
 import pandas as pd
 
 from .constants import (
-    CORRUPTED_SITE_NAME_CORRECTIONS,
     CRYPTIC_FAMILIES,
     M1_CLASSES,
     M1_INVERT_CLASSES,
@@ -83,7 +82,6 @@ def _read_survey_data(
     survey_data.loc[
         survey_data["data_type_code"].isna(), "data_type_code"
     ] = _DataTypeCode.M2
-    survey_data["site_name"].replace(CORRUPTED_SITE_NAME_CORRECTIONS, inplace=True)
     return survey_data
 
 
