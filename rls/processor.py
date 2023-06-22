@@ -10,6 +10,7 @@ import pandas as pd
 from .constants import (
     CORRUPTED_SITE_NAME_CORRECTIONS,
     CRYPTIC_FAMILIES,
+    M1_CLASSES,
     M1_INVERT_CLASSES,
     M2_GENERA_EXCLUSIONS,
 )
@@ -24,16 +25,19 @@ class _DataTypeCode:
     BOTH = 2
 
 
-def _read_survey_data(survey_data_dir: Path) -> pd.DataFrame:
+def _read_survey_data(
+    survey_data_dir: Path, num_expected_survey_files: int = 4
+) -> pd.DataFrame:
     """
     Read survey data from the files in survey_data_dir.
 
     This assumes the files were downloaded by rls.download_survey_data.
     """
     survey_file_paths = list(survey_data_dir.glob("*.csv"))
-    if len(survey_file_paths) != 3:
+    if len(survey_file_paths) != num_expected_survey_files:
         raise ValueError(
-            f"Expected 3 survey data files, but found {len(survey_file_paths)}."
+            f"Expected {num_expected_survey_files} survey data files, "
+            f"but found {len(survey_file_paths)}."
         )
 
     subset_dfs = []
@@ -58,14 +62,14 @@ def _read_survey_data(survey_data_dir: Path) -> pd.DataFrame:
             ],
         )
         _logger.info("Read %d rows from %s", len(subset_df), data_file_path)
-        if data_file_path.name.startswith("m2_invert"):
-            subset_df["data_type_code"] = _DataTypeCode.M2
-        else:
-            subset_df["data_type_code"] = _DataTypeCode.M1
         subset_dfs.append(subset_df)
     survey_data = pd.concat(subset_dfs, ignore_index=True)
     survey_data.dropna(subset=["species_name"], inplace=True)
     survey_data.sort_values(["survey_id", "species_name"], inplace=True)
+    survey_data["data_type_code"] = None
+    survey_data.loc[
+        survey_data["class"].isin(M1_CLASSES), "data_type_code"
+    ] = _DataTypeCode.M1
     survey_data.loc[
         (
             survey_data["family"].isin(CRYPTIC_FAMILIES)
@@ -76,6 +80,9 @@ def _read_survey_data(survey_data_dir: Path) -> pd.DataFrame:
         | survey_data["class"].isin(M1_INVERT_CLASSES),
         "data_type_code",
     ] = _DataTypeCode.BOTH
+    survey_data.loc[
+        survey_data["data_type_code"].isna(), "data_type_code"
+    ] = _DataTypeCode.M2
     survey_data["site_name"].replace(CORRUPTED_SITE_NAME_CORRECTIONS, inplace=True)
     return survey_data
 

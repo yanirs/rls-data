@@ -89,12 +89,13 @@ CRYPTIC_FAMILIES = {
     "Tripterygiidae",
     "Uranoscopidae",
     "Urolophidae",
+    "Urotrygonidae",
     "Zaproridae",
     "Zoarcidae",
 }
 
 # Fish genera that are excluded from M2 despite being part of families specified in
-# _CRYPTIC_FAMILIES.
+# CRYPTIC_FAMILIES.
 M2_GENERA_EXCLUSIONS = {
     "Trachinops",
     "Caesioperca",
@@ -107,11 +108,23 @@ M2_GENERA_EXCLUSIONS = {
 
 # Invertebrate classes that are recorded on M1 (cephalopods and large swimming jellies).
 M1_INVERT_CLASSES = {
-    "Cubozoa",
     "Cephalopoda",
+    "Cubozoa",
+    "Hydrozoa",
     "Scyphozoa",
+    "Tentaculata",
 }
 
+# All the M1 classes.
+M1_CLASSES = M1_INVERT_CLASSES | {
+    "Actinopteri",
+    "Actinopterygii",
+    "Elasmobranchii",
+    "Mammalia",
+    "Myxini",
+    "Reptilia",
+    "Teleostei",
+}
 
 # Site names that are corrupted in AODN data, mapped to the correct name.
 # This can be removed once the data is fixed.
