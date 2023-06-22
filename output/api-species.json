@@ -72,6 +72,7 @@
     "https://reeflifesurvey.com/species/abudefduf-notatus/",
     0,
     [
+      "https://images.reeflifesurvey.com/1/species_91_6493d2524f3b5.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_32_57c13d86c2a65.w1000.h666.jpg"
     ]
   ],
@@ -2607,7 +2608,9 @@
     "",
     "https://reeflifesurvey.com/species/anneissia-bennetti/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_64_6493ce0d848f8.w1000.h666.JPG"
+    ]
   ],
   "Anoplocapros amygdaloides": [
     "Anoplocapros amygdaloides",
@@ -6130,7 +6133,7 @@
     "https://reeflifesurvey.com/species/bunaster-uniserialis/",
     1,
     [
-      "https://images.reeflifesurvey.com/1/species_9d_6493b552ec6cc.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_c3_6493cff1d5e7f.w1000.h666.jpg"
     ]
   ],
   "Bunaster variegatus\u00a0[cf]": [
@@ -12242,14 +12245,18 @@
     "",
     "https://reeflifesurvey.com/species/clarkcomanthus-littoralis/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_fb_6493d0517e8f5.w1000.h666.jpg"
+    ]
   ],
   "Clarkcomanthus luteofuscum": [
     "Clarkcomanthus luteofuscum",
     "",
     "https://reeflifesurvey.com/species/clarkcomanthus-luteofuscum/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_3e_6493d150e5153.w1000.h666.jpg"
+    ]
   ],
   "Clarkcomanthus mirus": [
     "Clarkcomanthus mirus",
@@ -13009,7 +13016,9 @@
     "[a crinoid]",
     "https://reeflifesurvey.com/species/comatula-rotalaria/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_df_6493d1264e68b.w1000.h666.jpg"
+    ]
   ],
   "Comatula spp.": [
     "Comatula spp.",
@@ -21499,7 +21508,9 @@
     "Peppered coralgoby",
     "https://reeflifesurvey.com/species/gobiodon-heterospilos/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_2e_6493bde54239f.w1000.h666.JPG"
+    ]
   ],
   "Gobiodon histrio": [
     "Gobiodon histrio",
@@ -21734,7 +21745,9 @@
     "",
     "https://reeflifesurvey.com/species/gomophia-sphenisci/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_4e_6493be2b979d5.w1000.h666.JPG"
+    ]
   ],
   "Gomophia spp.": [
     "Gomophia spp.",
@@ -22471,7 +22484,9 @@
     "Ceylonese gymnodorid",
     "https://reeflifesurvey.com/species/gymnodoris-ceylonica/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_51_6493c109e2b75.w1000.h666.jpg"
+    ]
   ],
   "Gymnodoris citrina": [
     "Gymnodoris citrina",
@@ -22487,7 +22502,9 @@
     "",
     "https://reeflifesurvey.com/species/gymnodoris-impudica/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_05_6493c0bc2dc8a.w1000.h666.JPG"
+    ]
   ],
   "Gymnodoris okinawae": [
     "Gymnodoris okinawae",
@@ -23178,7 +23195,9 @@
     "Bryce\u2019s nudibranch",
     "https://reeflifesurvey.com/species/halgerda-brycei/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_82_6493c37bbb27d.w1000.h666.JPG"
+    ]
   ],
   "Halgerda dichromis": [
     "Halgerda dichromis",
@@ -25847,7 +25866,9 @@
     "",
     "https://reeflifesurvey.com/species/holothuria-pardalis/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_af_6493c3aba562f.w1000.h666.JPG"
+    ]
   ],
   "Holothuria pervicax": [
     "Holothuria pervicax",
@@ -27897,7 +27918,9 @@
     "",
     "https://reeflifesurvey.com/species/lentigo-lentiginosus/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_7d_6493d21ae67f4.w1000.h666.jpg"
+    ]
   ],
   "Lepadichthys frenatus": [
     "Lepadichthys frenatus",
@@ -30106,7 +30129,9 @@
     "",
     "https://reeflifesurvey.com/species/mauritia-eglantina/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_b4_6493c466218c4.w1000.h666.jpg"
+    ]
   ],
   "Mauritia histrio": [
     "Mauritia histrio",
@@ -30394,7 +30419,9 @@
     "Green melibe",
     "https://reeflifesurvey.com/species/melibe-viridis/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_96_6493c49d102bf.w1000.h666.jpg"
+    ]
   ],
   "Melichthys indicus": [
     "Melichthys indicus",
@@ -31341,7 +31368,9 @@
     "",
     "https://reeflifesurvey.com/species/moridilla-fifo/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_ea_6493c4eded6f1.w1000.h666.JPG"
+    ]
   ],
   "Moridilla spp.": [
     "Moridilla spp.",
@@ -32451,7 +32480,9 @@
     "",
     "https://reeflifesurvey.com/species/nectamia-bandanensis/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_47_6493c524db7c2.w1000.h666.JPG"
+    ]
   ],
   "Nectamia luxuria": [
     "Nectamia luxuria",
@@ -34206,7 +34237,9 @@
     "",
     "https://reeflifesurvey.com/species/oligometra-carpenteri/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_21_6493d18619f1c.w1000.h666.JPG"
+    ]
   ],
   "Oligometra carpenteri (cf)": [
     "Oligometra carpenteri (cf)",
@@ -34881,7 +34914,9 @@
     "",
     "https://reeflifesurvey.com/species/ostorhinchus-chrysotaenia/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_8f_6493c5873cd39.w1000.h666.JPG"
+    ]
   ],
   "Ostorhinchus cladophilos": [
     "Ostorhinchus cladophilos",
@@ -37305,7 +37340,9 @@
     "",
     "https://reeflifesurvey.com/species/parioglossus-philippinus/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_c8_6493c68f21915.w1000.h666.JPG"
+    ]
   ],
   "Parioglossus sp. [philippinus]": [
     "Parioglossus sp. [philippinus]",
@@ -39168,7 +39205,8 @@
     "https://reeflifesurvey.com/species/phyllidiella-zeylanica/",
     1,
     [
-      "https://images.reeflifesurvey.com/1/species_95_649272223eced.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_95_649272223eced.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_4e_6493c6bf1489f.w1000.h666.JPG"
     ]
   ],
   "Phyllidiidae spp.": [
@@ -39183,7 +39221,9 @@
     "",
     "https://reeflifesurvey.com/species/phyllidiopsis-annae/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_65_6493c6dbe8b15.w1000.h666.JPG"
+    ]
   ],
   "Phyllidiopsis burni": [
     "Phyllidiopsis burni",
@@ -39232,7 +39272,9 @@
     "A nudibranch",
     "https://reeflifesurvey.com/species/phyllodesmium-magnum/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_f9_6493c71459b45.w1000.h666.jpg"
+    ]
   ],
   "Phyllodesmium poindimiei": [
     "Phyllodesmium poindimiei",
@@ -41462,7 +41504,9 @@
     "",
     "https://reeflifesurvey.com/species/pontiometra-andersoni/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_3f_6493d1d32baf0.w1000.h666.JPG"
+    ]
   ],
   "Porania antarctica": [
     "Porania antarctica",
@@ -41925,7 +41969,9 @@
     "Chocolate chip starfish",
     "https://reeflifesurvey.com/species/protoreaster-nodosus/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_2c_6493c7419d196.w1000.h666.JPG"
+    ]
   ],
   "Protoreaster nodulosus": [
     "Protoreaster nodulosus",
@@ -42542,7 +42588,9 @@
     "[a flatworm]",
     "https://reeflifesurvey.com/species/pseudoceros-imitatus/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_c3_6493c7dd9c726.w1000.h666.jpg"
+    ]
   ],
   "Pseudoceros imperatus": [
     "Pseudoceros imperatus",
@@ -43581,7 +43629,9 @@
     "Penguin wing oyster",
     "https://reeflifesurvey.com/species/pteria-penguin/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_af_6493c8e5cf338.w1000.h666.JPG"
+    ]
   ],
   "Pteria spp.": [
     "Pteria spp.",
@@ -43974,7 +44024,9 @@
     "Cobia",
     "https://reeflifesurvey.com/species/rachycentron-canadum/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_ab_6493c9254c31c.w1000.h666.jpg"
+    ]
   ],
   "Ranella australasia": [
     "Ranella australasia",
@@ -47041,7 +47093,9 @@
     "Bigfin reef squid",
     "https://reeflifesurvey.com/species/sepioteuthis-lessoniana/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_5e_6493c96638f63.w1000.h666.JPG"
+    ]
   ],
   "Sepioteuthis sepioidea": [
     "Sepioteuthis sepioidea",
