@@ -27,4 +27,8 @@ Vagrant.configure("2") do |config|
     echo "Running the CLI to verify everything works"
     poetry run rls-data --help
   SHELL
+
+  config.vm.provision "shell", name: "apt-upgrade", run: "always", inline: <<-SHELL
+    apt-get update && apt-get upgrade -y
+  SHELL
 end
