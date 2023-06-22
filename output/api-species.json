@@ -14472,6 +14472,8 @@
     "https://reeflifesurvey.com/species/ctenogobiops-crocineus/",
     2,
     [
+      "https://images.reeflifesurvey.com/1/species_9a_64929c4d6f3a2.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_e0_64929b832ee75.w1000.h666.png",
       "https://images.reeflifesurvey.com/0/species_53_57d73cc438fd9.w1000.h666.jpg"
     ]
   ],
@@ -14489,9 +14491,7 @@
     "Silverspot shrimpgoby",
     "https://reeflifesurvey.com/species/ctenogobiops-maculosus/",
     2,
-    [
-      "https://images.reeflifesurvey.com/0/species_99_588e93646af3e.w1000.h666.jpg"
-    ]
+    []
   ],
   "Ctenogobiops mitodes": [
     "Ctenogobiops mitodes",
