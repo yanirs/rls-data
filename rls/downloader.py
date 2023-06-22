@@ -23,7 +23,12 @@ def download_survey_data(survey_data_dir: Path) -> None:
                 f"VERSION=1.0.0&typeName=imos:ep_{data_type}_public_data",
                 survey_data_dir / f"{data_type}.csv",
             )
-            for data_type in ("m1", "m2_cryptic_fish", "m2_inverts")
+            for data_type in (
+                "m0_off_transect_sighting",
+                "m1",
+                "m2_cryptic_fish",
+                "m2_inverts",
+            )
         ],
         # Five minutes should be plenty of time to download the largest file (m1).
         timeout=300,
