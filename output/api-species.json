@@ -11771,7 +11771,8 @@
       "https://images.reeflifesurvey.com/0/species_c2_57467157cf4f4.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_d7_570db3572c4b7.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_54_57d5e47b1d8dd.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_d4_5746708048484.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_d4_5746708048484.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_3d_6495055534511.w1000.h666.JPG"
     ]
   ],
   "Cirrhilabrus exquisitus": [
@@ -11871,7 +11872,6 @@
     "https://reeflifesurvey.com/species/cirrhilabrus-solorensis/",
     0,
     [
-      "https://images.reeflifesurvey.com/0/species_f1_570db5931c4c3.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_64_574c16fc983c6.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_f8_57d265ec0a48c.w1000.h666.jpg"
     ]
@@ -25990,7 +25990,7 @@
   "Holothuria sp. [pentard]": [
     "Holothuria sp. [pentard]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/holothuria-sp-pentard/",
     1,
     []
   ],
@@ -28355,7 +28355,9 @@
     0,
     [
       "https://images.reeflifesurvey.com/0/species_08_573d4443b64e2.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_9b_57b18dc063b27.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_9b_57b18dc063b27.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_34_649510ac83c32.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_8b_649510aedc839.w1000.h666.jpg"
     ]
   ],
   "Lethrinus miniatus": [
@@ -28404,8 +28406,7 @@
     [
       "https://images.reeflifesurvey.com/0/species_3f_573d534d56c12.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_7b_5774798cf3832.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_a8_6494e4f268870.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_d8_6494e4f45cd86.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_e6_6495105349d69.w1000.h666.jpg"
     ]
   ],
   "Lethrinus ornatus": [
@@ -40118,8 +40119,8 @@
   ],
   "Plectorhinchus centurio": [
     "Plectorhinchus centurio",
-    "",
-    null,
+    "Sailfin rubberlip",
+    "https://reeflifesurvey.com/species/plectorhinchus-centurio/",
     0,
     []
   ],
@@ -43109,8 +43110,8 @@
   ],
   "Pseudocoris occidentalis": [
     "Pseudocoris occidentalis",
-    "",
-    null,
+    "African torpedo wrasse",
+    "https://reeflifesurvey.com/species/pseudocoris-occidentalis/",
     0,
     []
   ],
