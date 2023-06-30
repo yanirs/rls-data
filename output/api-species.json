@@ -3136,6 +3136,13 @@
       "https://images.reeflifesurvey.com/0/species_c1_57832c3b46f04.w1000.h666.jpg"
     ]
   ],
+  "Apodichthys flavidus": [
+    "Apodichthys flavidus",
+    "Penpoint gunnel",
+    "https://reeflifesurvey.com/species/apodichthys-flavidus/",
+    2,
+    []
+  ],
   "Apogon atradorsatus": [
     "Apogon atradorsatus",
     "Blacktip cardinalfish",
@@ -3653,6 +3660,13 @@
     0,
     []
   ],
+  "Arcygobius baliurus": [
+    "Arcygobius baliurus",
+    "",
+    "https://reeflifesurvey.com/species/arcygobius-baliurus/",
+    2,
+    []
+  ],
   "Ardeadoris averni": [
     "Ardeadoris averni",
     "[A slea slug]",
@@ -3956,6 +3970,13 @@
     "Artedius lateralis",
     "Smoothhead sculpin",
     "https://reeflifesurvey.com/species/artedius-lateralis/",
+    2,
+    []
+  ],
+  "Asemichthys taylori": [
+    "Asemichthys taylori",
+    "Spinynose sculpin",
+    "https://reeflifesurvey.com/species/asemichthys-taylori/",
     2,
     []
   ],
@@ -7371,6 +7392,13 @@
       "https://images.reeflifesurvey.com/0/species_17_599a667660a0c.w1000.h666.jpg"
     ]
   ],
+  "Canthigaster petersii": [
+    "Canthigaster petersii",
+    "Peters toby",
+    "https://reeflifesurvey.com/species/canthigaster-petersii/",
+    0,
+    []
+  ],
   "Canthigaster punctatissima": [
     "Canthigaster punctatissima",
     "Spotted sharpnosed puffer",
@@ -8118,6 +8146,13 @@
       "https://images.reeflifesurvey.com/0/species_1f_574d707cb33fc.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_6a_5769fff70a257.w1000.h666.jpg"
     ]
+  ],
+  "Centropomus undecimalis": [
+    "Centropomus undecimalis",
+    "Common snook",
+    "https://reeflifesurvey.com/species/centropomus-undecimalis/",
+    0,
+    []
   ],
   "Centropyge acanthops": [
     "Centropyge acanthops",
@@ -12621,6 +12656,13 @@
     1,
     []
   ],
+  "Colurodontis paxmani": [
+    "Colurodontis paxmani",
+    "",
+    "https://reeflifesurvey.com/species/colurodontis-paxmani/",
+    0,
+    []
+  ],
   "Comanthus ?parvicirrus": [
     "Comanthus ?parvicirrus",
     "",
@@ -14049,6 +14091,13 @@
     "Coris venusta",
     "Elegant coris",
     "https://reeflifesurvey.com/species/coris-venusta/",
+    0,
+    []
+  ],
+  "Corvula batabana": [
+    "Corvula batabana",
+    "Blue croaker",
+    "https://reeflifesurvey.com/species/corvula-batabana/",
     0,
     []
   ],
@@ -17566,6 +17615,13 @@
       "https://images.reeflifesurvey.com/0/species_5c_5785d59f9da3a.w1000.h666.jpg"
     ]
   ],
+  "Ecsenius aroni": [
+    "Ecsenius aroni",
+    "Arons blenny",
+    "https://reeflifesurvey.com/species/ecsenius-aroni/",
+    2,
+    []
+  ],
   "Ecsenius australianus": [
     "Ecsenius australianus",
     "Australian combtooth blenny",
@@ -19535,6 +19591,13 @@
     2,
     []
   ],
+  "Eviota fallax": [
+    "Eviota fallax",
+    "Twin dwarfgoby",
+    "https://reeflifesurvey.com/species/eviota-fallax/",
+    2,
+    []
+  ],
   "Eviota fasciola": [
     "Eviota fasciola",
     "Barred eviota",
@@ -19708,6 +19771,13 @@
     [
       "https://images.reeflifesurvey.com/1/species_35_5ed49ae9190a9.w1000.h666.JPG"
     ]
+  ],
+  "Eviota santanai": [
+    "Eviota santanai",
+    "Santanas dwarfgoby",
+    "https://reeflifesurvey.com/species/eviota-santanai/",
+    2,
+    []
   ],
   "Eviota sebreei": [
     "Eviota sebreei",
@@ -19919,6 +19989,13 @@
       "https://images.reeflifesurvey.com/0/species_c5_5769c914e32aa.w1000.h666.jpg"
     ]
   ],
+  "Eviota teresae": [
+    "Eviota teresae",
+    "Terrys dwarfgoby",
+    "https://reeflifesurvey.com/species/eviota-teresae/",
+    2,
+    []
+  ],
   "Eviota zebrina": [
     "Eviota zebrina",
     "Zebra eviota, Five-bar Pygmygoby, Zebra Goby",
@@ -20037,6 +20114,13 @@
     "Sea snail",
     "https://reeflifesurvey.com/species/favartia-brazieri/",
     1,
+    []
+  ],
+  "Favonigobius exquisitus": [
+    "Favonigobius exquisitus",
+    "Exquisite sandgoby",
+    "https://reeflifesurvey.com/species/favonigobius-exquisitus/",
+    2,
     []
   ],
   "Favonigobius lateralis": [
@@ -21118,6 +21202,13 @@
     0,
     []
   ],
+  "Gerres longirostris": [
+    "Gerres longirostris",
+    "Strongspine silverbiddy",
+    "https://reeflifesurvey.com/species/gerres-longirostris/",
+    0,
+    []
+  ],
   "Gerres oblongus": [
     "Gerres oblongus",
     "Slender silverbiddy",
@@ -21459,6 +21550,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_98_5716e844e09b5.w1000.h666.jpg"
     ]
+  ],
+  "Gnatholepis caudimaculata": [
+    "Gnatholepis caudimaculata",
+    "Red Sea Eyebar goby",
+    "https://reeflifesurvey.com/species/gnatholepis-caudimaculata/",
+    2,
+    []
   ],
   "Gnatholepis cauerensis": [
     "Gnatholepis cauerensis",
@@ -24289,6 +24387,13 @@
       "https://images.reeflifesurvey.com/0/species_a8_5771ea6e93d2c.w1000.h666.jpg"
     ]
   ],
+  "Helcogramma ememes": [
+    "Helcogramma ememes",
+    "Seychelles triplefin",
+    "https://reeflifesurvey.com/species/helcogramma-ememes/",
+    2,
+    []
+  ],
   "Helcogramma maldivensis": [
     "Helcogramma maldivensis",
     "",
@@ -25579,6 +25684,13 @@
       "https://images.reeflifesurvey.com/0/species_61_57d93b9bbcefc.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_b5_57d93b85e61d2.w1000.h666.jpg"
     ]
+  ],
+  "Holocentridae spp.": [
+    "Holocentridae spp.",
+    "",
+    null,
+    2,
+    []
   ],
   "Holocentrus adscensionis": [
     "Holocentrus adscensionis",
@@ -27184,6 +27296,13 @@
       "https://images.reeflifesurvey.com/1/species_c1_5ae7bc12183c5.w1000.h666.jpg"
     ]
   ],
+  "Koumansetta hoesei": [
+    "Koumansetta hoesei",
+    "Red Sea goby",
+    "https://reeflifesurvey.com/species/koumansetta-hoesei/",
+    2,
+    []
+  ],
   "Koumansetta rainfordi": [
     "Koumansetta rainfordi",
     "Old glory goby, Old Glory, Rainford's Goby, Red-lined Goby, Red-striped Goby, Amblygobius rainfordi",
@@ -28046,6 +28165,13 @@
       "https://images.reeflifesurvey.com/0/species_59_577df4be8ea43.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_62_577df667c5f92.w1000.h666.JPG"
     ]
+  ],
+  "Lepidoperca caesiopercula": [
+    "Lepidoperca caesiopercula",
+    "Grey-cheek basslet",
+    "https://reeflifesurvey.com/species/lepidoperca-caesiopercula/",
+    0,
+    []
   ],
   "Lepidoperca tasmanica": [
     "Lepidoperca tasmanica",
@@ -32552,6 +32678,13 @@
       "https://images.reeflifesurvey.com/1/species_47_6493c524db7c2.w1000.h666.JPG"
     ]
   ],
+  "Nectamia fusca": [
+    "Nectamia fusca",
+    "Ghost cardinalfish",
+    "https://reeflifesurvey.com/species/nectamia-fusca/",
+    2,
+    []
+  ],
   "Nectamia luxuria": [
     "Nectamia luxuria",
     "",
@@ -32879,6 +33012,13 @@
     "Neoclinus spp.",
     "",
     null,
+    2,
+    []
+  ],
+  "Neoclinus stephensae": [
+    "Neoclinus stephensae",
+    "Yellowfin fringehead",
+    "https://reeflifesurvey.com/species/neoclinus-stephensae/",
     2,
     []
   ],
@@ -33357,6 +33497,13 @@
     "",
     null,
     1,
+    []
+  ],
+  "Nesogobius greeni": [
+    "Nesogobius greeni",
+    "Greens goby",
+    "https://reeflifesurvey.com/species/nesogobius-greeni/",
+    2,
     []
   ],
   "Nesogobius hinsbyi": [
@@ -35077,6 +35224,13 @@
       "https://images.reeflifesurvey.com/0/species_f2_56fb1ac140e6d.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_96_57ad7a1716023.w1000.h666.jpg"
     ]
+  ],
+  "Ostorhinchus holotaenia": [
+    "Ostorhinchus holotaenia",
+    "Copperstriped cardinalfish",
+    "https://reeflifesurvey.com/species/ostorhinchus-holotaenia/",
+    2,
+    []
   ],
   "Ostorhinchus jenkinsi": [
     "Ostorhinchus jenkinsi",
@@ -37155,6 +37309,13 @@
     2,
     []
   ],
+  "Parapriacanthus darros": [
+    "Parapriacanthus darros",
+    "Darros sweeper",
+    "https://reeflifesurvey.com/species/parapriacanthus-darros/",
+    2,
+    []
+  ],
   "Parapriacanthus dispar": [
     "Parapriacanthus dispar",
     "Deep bullseye, Pygmy Sweeper",
@@ -37172,6 +37333,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_86_574ed6db32850.w1000.h666.jpg"
     ]
+  ],
+  "Parapriacanthus guentheri": [
+    "Parapriacanthus guentheri",
+    "Pygmy sweeper",
+    "https://reeflifesurvey.com/species/parapriacanthus-guentheri/",
+    2,
+    []
   ],
   "Parapriacanthus ransonneti": [
     "Parapriacanthus ransonneti",
@@ -38233,10 +38401,24 @@
       "https://images.reeflifesurvey.com/0/species_5c_57423dc0074ac.w1000.h666.jpg"
     ]
   ],
+  "Pempheris sp. [flavicycla]": [
+    "Pempheris sp. [flavicycla]",
+    "",
+    "https://reeflifesurvey.com/species/pempheris-sp-flavicycla/",
+    2,
+    []
+  ],
   "Pempheris spp.": [
     "Pempheris spp.",
     "",
     null,
+    2,
+    []
+  ],
+  "Pempheris tominagai": [
+    "Pempheris tominagai",
+    " African silver sweeper",
+    "https://reeflifesurvey.com/species/pempheris-tominagai/",
     2,
     []
   ],
@@ -39038,6 +39220,13 @@
     "Pholis laeta",
     "Crescent gunnel",
     "https://reeflifesurvey.com/species/pholis-laeta/",
+    2,
+    []
+  ],
+  "Pholis ornata": [
+    "Pholis ornata",
+    "Saddleback gunnel",
+    "https://reeflifesurvey.com/species/pholis-ornata/",
     2,
     []
   ],
@@ -40422,6 +40611,13 @@
       "https://images.reeflifesurvey.com/0/species_fd_57283a2167c12.w1000.h666.jpg"
     ]
   ],
+  "Plectropomus marisrubri": [
+    "Plectropomus marisrubri",
+    "Roving coral grouper",
+    "https://reeflifesurvey.com/species/plectropomus-marisrubri/",
+    2,
+    []
+  ],
   "Plectropomus oligacanthus": [
     "Plectropomus oligacanthus",
     "Highfin coral grouper, Blue-lined Coral Trout, Blue-lined Coralgrouper, Vermicular Coralgrouper, Vermiculate Coral Trout",
@@ -41781,6 +41977,13 @@
     "Priolepis hipoliti",
     "",
     "https://reeflifesurvey.com/species/priolepis-hipoliti/",
+    2,
+    []
+  ],
+  "Priolepis nuchifasciata": [
+    "Priolepis nuchifasciata",
+    "Orange reef goby",
+    "https://reeflifesurvey.com/species/priolepis-nuchifasciata/",
     2,
     []
   ],
@@ -43434,6 +43637,13 @@
     2,
     []
   ],
+  "Pseudorhombus arsius": [
+    "Pseudorhombus arsius",
+    "Largetooth flounder",
+    "https://reeflifesurvey.com/species/pseudorhombus-arsius/",
+    2,
+    []
+  ],
   "Pseudorhombus jenynsii": [
     "Pseudorhombus jenynsii",
     "Smalltooth Flounder",
@@ -44173,6 +44383,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_d7_59db4e8e53cd6.w1000.h666.jpg"
     ]
+  ],
+  "Redigobius macrostoma": [
+    "Redigobius macrostoma",
+    "Largemouth goby",
+    "https://reeflifesurvey.com/species/redigobius-macrostoma/",
+    2,
+    []
   ],
   "Reishia armigera": [
     "Reishia armigera",
@@ -46398,6 +46615,13 @@
       "https://images.reeflifesurvey.com/0/species_98_577dd40c83524.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_8c_581c14351af61.w1000.h666.JPG"
     ]
+  ],
+  "Scorpaenodes guamensis": [
+    "Scorpaenodes guamensis",
+    "Guam Scorpionfish",
+    "https://reeflifesurvey.com/species/scorpaenodes-guamensis/",
+    2,
+    []
   ],
   "Scorpaenodes littoralis": [
     "Scorpaenodes littoralis",
@@ -48640,6 +48864,13 @@
     0,
     []
   ],
+  "Stegastes lacrymatus": [
+    "Stegastes lacrymatus",
+    "White-spotted devil",
+    "https://reeflifesurvey.com/species/stegastes-lacrymatus/",
+    0,
+    []
+  ],
   "Stegastes leucorus": [
     "Stegastes leucorus",
     "Whitetail damselfish",
@@ -48783,6 +49014,13 @@
       "https://images.reeflifesurvey.com/0/species_28_57e372b720ac5.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_55_57a02aae1dd22.w1000.h666.JPG"
     ]
+  ],
+  "Stegastes xanthurus": [
+    "Stegastes xanthurus",
+    "Cocoa damselfish",
+    "https://reeflifesurvey.com/species/stegastes-xanthurus/",
+    0,
+    []
   ],
   "Stegnaster inflatus": [
     "Stegnaster inflatus",
@@ -53784,6 +54022,13 @@
     2,
     []
   ],
+  "Vanderhorstia ornatissima": [
+    "Vanderhorstia ornatissima",
+    "Ornate prawn-goby",
+    "https://reeflifesurvey.com/species/vanderhorstia-ornatissima/",
+    2,
+    []
+  ],
   "Variola albimarginata": [
     "Variola albimarginata",
     "White-edged lyretail, Lunar-tailed Grouper, Lyre-tail Cod, Lyre-tail Trout, Moontail Seabass, Painted Coral Trout, Whitemargin Lyretail Grouper",
@@ -54092,6 +54337,17 @@
       "https://images.reeflifesurvey.com/0/species_7f_578345f7207af.w1000.h666.JPG"
     ]
   ],
+  "Xenojulis margaritaceus": [
+    "Xenojulis margaritaceus",
+    "",
+    "https://reeflifesurvey.com/species/xenojulis-margaritaceus/",
+    0,
+    [
+      "https://images.reeflifesurvey.com/1/species_4f_62c5c3f70a6d4.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_d3_62c5c3ea52747.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_b6_62c5c3f37e65a.w1000.h666.jpg"
+    ]
+  ],
   "Xiphasia setifer": [
     "Xiphasia setifer",
     "Hairtail blenny",
@@ -54377,6 +54633,13 @@
       "https://images.reeflifesurvey.com/0/species_77_58d88dd92625d.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_d5_58d88dde0fa19.w1000.h666.jpg"
     ]
+  ],
+  "Zoramia leptacanthus": [
+    "Zoramia leptacanthus",
+    "Threadfin cardinalfish",
+    "https://reeflifesurvey.com/species/zoramia-leptacanthus/",
+    2,
+    []
   ],
   "Zoramia spp.": [
     "Zoramia spp.",
