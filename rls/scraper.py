@@ -47,6 +47,6 @@ class ReefLifeSurveySpider(CrawlSpider):  # type: ignore[misc]
                 for image_url in response.css(
                     "div.swiper:nth-child(1) > div:nth-child(1) ::attr(src)"
                 ).extract()
-                if 'defaultspecies' not in image_url
+                if "defaultspecies" not in image_url
             ],
         )
