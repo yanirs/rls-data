@@ -31035,7 +31035,12 @@
     "East-Australian stripey",
     "https://reeflifesurvey.com/species/microcanthus-joyceae/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_a7_64aca94c466de.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_0a_64aca8d540d38.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_b0_64aca8d5e5668.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_21_64aca8d6adb10.w1000.h666.jpg"
+    ]
   ],
   "Microcanthus strigatus": [
     "Microcanthus strigatus",
@@ -31043,10 +31048,8 @@
     "https://reeflifesurvey.com/species/microcanthus-strigatus/",
     0,
     [
-      "https://images.reeflifesurvey.com/0/species_00_574281e657a2a.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_19_5775c881618fb.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_03_5775c87959628.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_96_57b2c35d751f4.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_6e_64acadab3a534.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_62_64acada8a9631.w1000.h666.jpg"
     ]
   ],
   "Microcyphus annulatus": [
@@ -52735,7 +52738,10 @@
     "",
     "https://reeflifesurvey.com/species/tripneustes-kermadecensis/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_49_64aca7e23a5d1.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_2b_64aca7e3292b2.w1000.h666.jpg"
+    ]
   ],
   "Tripneustes ventricosus": [
     "Tripneustes ventricosus",
