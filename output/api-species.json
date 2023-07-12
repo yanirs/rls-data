@@ -2392,6 +2392,13 @@
     2,
     []
   ],
+  "Anapagurus spp.": [
+    "Anapagurus spp.",
+    "",
+    null,
+    1,
+    []
+  ],
   "Anarchias seychellensis": [
     "Anarchias seychellensis",
     "Seychelles moray",
@@ -8131,6 +8138,13 @@
       "https://images.reeflifesurvey.com/0/species_12_56fa4889d61af.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_91_56fa489a87213.w1000.h666.jpg"
     ]
+  ],
+  "Centrolabrus melanocercus": [
+    "Centrolabrus melanocercus",
+    "",
+    null,
+    0,
+    []
   ],
   "Centrolabrus trutta": [
     "Centrolabrus trutta",
@@ -14153,6 +14167,13 @@
       "https://images.reeflifesurvey.com/0/species_43_57268735cd836.w1000.h666.JPG"
     ]
   ],
+  "Coryphellina spp.": [
+    "Coryphellina spp.",
+    "",
+    null,
+    1,
+    []
+  ],
   "Coryphopterus dicrus": [
     "Coryphopterus dicrus",
     "Colon goby",
@@ -15553,6 +15574,13 @@
       "https://images.reeflifesurvey.com/1/species_20_63478efd6fc91.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_29_63478ef9a4dac.w1000.h666.JPG"
     ]
+  ],
+  "Dardanus arrosor": [
+    "Dardanus arrosor",
+    "",
+    null,
+    1,
+    []
   ],
   "Dardanus calidus": [
     "Dardanus calidus",
@@ -31039,7 +31067,7 @@
       "https://images.reeflifesurvey.com/1/species_a7_64aca94c466de.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_0a_64aca8d540d38.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_b0_64aca8d5e5668.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_21_64aca8d6adb10.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_6d_64acafcb1f53d.w1000.h666.jpg"
     ]
   ],
   "Microcanthus strigatus": [
@@ -31048,8 +31076,9 @@
     "https://reeflifesurvey.com/species/microcanthus-strigatus/",
     0,
     [
-      "https://images.reeflifesurvey.com/1/species_6e_64acadab3a534.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_62_64acada8a9631.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_a6_64acaf308b5bd.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_9f_64acaf2f317cb.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_0a_64acaf2de10e4.w1000.h666.jpg"
     ]
   ],
   "Microcyphus annulatus": [
@@ -31793,6 +31822,13 @@
     0,
     []
   ],
+  "Mullus barbatus": [
+    "Mullus barbatus",
+    "",
+    null,
+    0,
+    []
+  ],
   "Mullus surmuletus": [
     "Mullus surmuletus",
     "Surmullet",
@@ -31888,6 +31924,13 @@
     "",
     null,
     2,
+    []
+  ],
+  "Murex spp.": [
+    "Murex spp.",
+    "",
+    null,
+    1,
     []
   ],
   "Murexsul mariae": [
@@ -52726,9 +52769,7 @@
     "https://reeflifesurvey.com/species/tripneustes-gratilla/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_29_5aa62bb7bc27c.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_6e_5751664d75ec1.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_70_575166bf26211.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_63_5751663c7fce6.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_c8_5795f8bf5481f.w1000.h666.jpg"
     ]
@@ -52801,6 +52842,13 @@
       "https://images.reeflifesurvey.com/0/species_2e_56f7a7f00fb94.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_f1_56f7a5ee3003b.w1000.h666.jpg"
     ]
+  ],
+  "Tripterygion spp.": [
+    "Tripterygion spp.",
+    "",
+    null,
+    2,
+    []
   ],
   "Tripterygion tartessicum": [
     "Tripterygion tartessicum",
@@ -53407,6 +53455,13 @@
     [
       "https://images.reeflifesurvey.com/1/species_83_5f6c2d287ebaf.w1000.h666.jpg"
     ]
+  ],
+  "Tursiops spp.": [
+    "Tursiops spp.",
+    "",
+    null,
+    0,
+    []
   ],
   "Tursiops truncatus": [
     "Tursiops truncatus",

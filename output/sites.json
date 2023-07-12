@@ -19006,7 +19006,7 @@
       "Broken Bottom",
       138.48,
       -34.96,
-      28
+      32
     ],
     [
       "GSV126",
@@ -19072,7 +19072,7 @@
       "Horseshoe outer",
       138.46,
       -35.14,
-      18
+      22
     ],
     [
       "GSV132",
@@ -19567,7 +19567,7 @@
       "Morgans",
       138.11,
       -35.59,
-      40
+      44
     ],
     [
       "GSV180",
@@ -19787,7 +19787,7 @@
       "Ripple Rock",
       138.36,
       -35.38,
-      36
+      40
     ],
     [
       "GSV25",
@@ -19809,7 +19809,7 @@
       "2nd Valley Boat Shed",
       138.21,
       -35.51,
-      61
+      65
     ],
     [
       "GSV28",
@@ -19831,7 +19831,7 @@
       "Carrickalinga Head",
       138.34,
       -35.4,
-      32
+      36
     ],
     [
       "GSV30",
@@ -19853,7 +19853,7 @@
       "Nev's Windmills",
       138.13,
       -35.55,
-      36
+      40
     ],
     [
       "GSV39",
@@ -19875,7 +19875,7 @@
       "Rapid Head",
       138.16,
       -35.52,
-      60
+      64
     ],
     [
       "GSV40",
@@ -19897,7 +19897,7 @@
       "Rapid Head East",
       138.18,
       -35.52,
-      32
+      36
     ],
     [
       "GSV42",
@@ -19908,7 +19908,7 @@
       "Rapid Head SZ Site2",
       138.16,
       -35.52,
-      28
+      32
     ],
     [
       "GSV43",
@@ -19919,7 +19919,7 @@
       "Rapid Head SZ",
       138.17,
       -35.52,
-      32
+      36
     ],
     [
       "GSV45",
@@ -19963,7 +19963,7 @@
       "Rapid Head South",
       138.15,
       -35.53,
-      36
+      40
     ],
     [
       "GSV53",
@@ -20392,7 +20392,7 @@
       "Lasseters Reef",
       138.22,
       -35.51,
-      29
+      33
     ],
     [
       "GSV96",
@@ -23431,6 +23431,61 @@
       2
     ],
     [
+      "MED35",
+      "Italy",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Cala Santo",
+      10.29,
+      42.35,
+      1
+    ],
+    [
+      "MED36",
+      "Italy",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Cala Maestra Nord",
+      10.29,
+      42.34,
+      1
+    ],
+    [
+      "MED37",
+      "Italy",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Cala Maestra",
+      10.29,
+      42.34,
+      1
+    ],
+    [
+      "MED38",
+      "Italy",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Cala S.Maria",
+      10.29,
+      42.33,
+      1
+    ],
+    [
+      "MED39",
+      "Italy",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Cala Grande",
+      10.3,
+      42.31,
+      1
+    ],
+    [
       "MED4",
       "Italy",
       "Temperate Northern Atlantic",
@@ -23440,6 +23495,17 @@
       13.92,
       40.7,
       2
+    ],
+    [
+      "MED40",
+      "Italy",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Cala dei Ladri",
+      10.32,
+      42.31,
+      1
     ],
     [
       "MED5",
@@ -32998,7 +33064,7 @@
       "Pipeline",
       152.14,
       -32.72,
-      71
+      73
     ],
     [
       "PS15",
@@ -33031,7 +33097,7 @@
       "Fly Point Nelson Bay",
       152.15,
       -32.71,
-      107
+      110
     ],
     [
       "PS18",
@@ -33064,7 +33130,7 @@
       "Halifax Park",
       152.16,
       -32.71,
-      124
+      126
     ],
     [
       "PS21",
@@ -33405,7 +33471,7 @@
       "Little Beach West",
       152.16,
       -32.71,
-      82
+      84
     ],
     [
       "PS8",
