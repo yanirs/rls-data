@@ -6044,8 +6044,7 @@
     "https://reeflifesurvey.com/species/bryaninops-loki/",
     2,
     [
-      "https://images.reeflifesurvey.com/0/species_10_57d764c23cb9b.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_01_59a3bce3d16e9.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_10_57d764c23cb9b.w1000.h666.jpg"
     ]
   ],
   "Bryaninops natans": [
@@ -8141,8 +8140,8 @@
   ],
   "Centrolabrus melanocercus": [
     "Centrolabrus melanocercus",
-    "",
-    null,
+    "Black-tailed wrasse",
+    "https://reeflifesurvey.com/species/centrolabrus-melanocercus/",
     0,
     []
   ],
@@ -15577,8 +15576,8 @@
   ],
   "Dardanus arrosor": [
     "Dardanus arrosor",
-    "",
-    null,
+    "Red reef crab",
+    "https://reeflifesurvey.com/species/dardanus-arrosor/",
     1,
     []
   ],
@@ -31824,8 +31823,8 @@
   ],
   "Mullus barbatus": [
     "Mullus barbatus",
-    "",
-    null,
+    "Red mullet",
+    "https://reeflifesurvey.com/species/mullus-barbatus/",
     0,
     []
   ],
