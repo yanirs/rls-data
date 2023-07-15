@@ -14741,6 +14741,13 @@
     1,
     []
   ],
+  "Cryptocentroides gobioides": [
+    "Cryptocentroides gobioides",
+    "Crested oyster goby",
+    "https://reeflifesurvey.com/species/cryptocentroides-gobioides/",
+    2,
+    []
+  ],
   "Cryptocentrus caeruleomaculatus": [
     "Cryptocentrus caeruleomaculatus",
     "Bluespotted shrimpgoby",
@@ -43713,8 +43720,8 @@
   ],
   "Pseudophycis palmata": [
     "Pseudophycis palmata",
-    "",
-    null,
+    "Australian red rockcod",
+    "https://reeflifesurvey.com/species/pseudophycis-palmata/",
     2,
     []
   ],
@@ -47411,8 +47418,8 @@
   ],
   "Sepia grahami": [
     "Sepia grahami",
-    "",
-    null,
+    "Grahams cuttlefish",
+    "https://reeflifesurvey.com/species/sepia-grahami/",
     2,
     []
   ],
