@@ -1205,6 +1205,20 @@
       "https://images.reeflifesurvey.com/0/species_53_57469f539129f.w1000.h666.jpg"
     ]
   ],
+  "Agathistoma fasciatum": [
+    "Agathistoma fasciatum",
+    "",
+    null,
+    1,
+    []
+  ],
+  "Agathistoma lividomaculatum": [
+    "Agathistoma lividomaculatum",
+    "",
+    null,
+    1,
+    []
+  ],
   "Aglajidae spp.": [
     "Aglajidae spp.",
     "",
@@ -2246,6 +2260,13 @@
     "Calico surfperch",
     "https://reeflifesurvey.com/species/amphistichus-koelzi/",
     0,
+    []
+  ],
+  "Amphithrax pilosus": [
+    "Amphithrax pilosus",
+    "",
+    null,
+    1,
     []
   ],
   "Anampses caeruleopunctatus": [
@@ -3620,6 +3641,13 @@
     1,
     []
   ],
+  "Archosargus probatocephalus": [
+    "Archosargus probatocephalus",
+    "",
+    null,
+    0,
+    []
+  ],
   "Arctides antipodarum": [
     "Arctides antipodarum",
     "Red flapjack",
@@ -4302,6 +4330,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_ad_57834a93b9132.w1000.h666.jpg"
     ]
+  ],
+  "Astichopus multifidus": [
+    "Astichopus multifidus",
+    "",
+    null,
+    1,
+    []
   ],
   "Astraea heliotropium": [
     "Astraea heliotropium",
@@ -4997,6 +5032,13 @@
     "Frigate Mackerel",
     "https://reeflifesurvey.com/species/auxis-thazard/",
     0,
+    []
+  ],
+  "Axiopsis serratifrons": [
+    "Axiopsis serratifrons",
+    "",
+    null,
+    1,
     []
   ],
   "Axiopsis spp.": [
@@ -6092,6 +6134,13 @@
     1,
     []
   ],
+  "Buccinoidea spp.": [
+    "Buccinoidea spp.",
+    "",
+    null,
+    1,
+    []
+  ],
   "Buccinulum linea": [
     "Buccinulum linea",
     "[a whelk]",
@@ -6597,6 +6646,13 @@
     "Galapagos porgy",
     "https://reeflifesurvey.com/species/calamus-taurinus/",
     0,
+    []
+  ],
+  "Calappidae spp.": [
+    "Calappidae spp.",
+    "",
+    null,
+    1,
     []
   ],
   "Calcinus elegans": [
@@ -7689,6 +7745,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_ff_579ad68d5ed30.w1000.h666.JPG"
     ]
+  ],
+  "Caranx hippos": [
+    "Caranx hippos",
+    "",
+    null,
+    0,
+    []
   ],
   "Caranx ignobilis": [
     "Caranx ignobilis",
@@ -10363,6 +10426,13 @@
     "Chequered winkle, Austrocochlea odontis",
     "https://reeflifesurvey.com/species/chlorodiloma-odontis/",
     1,
+    []
+  ],
+  "Chloroscombrus chrysurus": [
+    "Chloroscombrus chrysurus",
+    "",
+    null,
+    0,
     []
   ],
   "Chlorurus atrilunula": [
@@ -13390,6 +13460,13 @@
       "https://images.reeflifesurvey.com/1/species_9a_634784a91f29a.w1000.h666.JPG"
     ]
   ],
+  "Conus ermineus": [
+    "Conus ermineus",
+    "",
+    null,
+    1,
+    []
+  ],
   "Conus ferrugineus": [
     "Conus ferrugineus",
     "Cone shell",
@@ -13788,6 +13865,13 @@
       "https://images.reeflifesurvey.com/0/species_10_56e72a84edfd7.w1000.h666.jpg"
     ]
   ],
+  "Corallianassa longiventris": [
+    "Corallianassa longiventris",
+    "",
+    null,
+    1,
+    []
+  ],
   "Coralliophila caribaea": [
     "Coralliophila caribaea",
     "Caribbean coral snail",
@@ -13801,6 +13885,13 @@
     "Coralliophila costularis",
     "",
     "https://reeflifesurvey.com/species/coralliophila-costularis/",
+    1,
+    []
+  ],
+  "Coralliophila erosa": [
+    "Coralliophila erosa",
+    "",
+    null,
     1,
     []
   ],
@@ -13830,6 +13921,13 @@
       "https://images.reeflifesurvey.com/0/species_41_57da505a45480.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_4d_57da506a269b4.w1000.h666.jpg"
     ]
+  ],
+  "Coralliophila salebrosa": [
+    "Coralliophila salebrosa",
+    "",
+    null,
+    1,
+    []
   ],
   "Coralliophila sp.[yellow operculum]": [
     "Coralliophila sp.[yellow operculum]",
@@ -14882,6 +14980,13 @@
     1,
     []
   ],
+  "Cryptotomus roseus": [
+    "Cryptotomus roseus",
+    "",
+    null,
+    0,
+    []
+  ],
   "Ctenochaetus binotatus": [
     "Ctenochaetus binotatus",
     "Two-spot surgeonfish, Twospot Bristletooth, Twospot Surgeonfish",
@@ -15615,6 +15720,13 @@
     [
       "https://images.reeflifesurvey.com/1/species_c2_63478f422ff5f.w1000.h666.jpg"
     ]
+  ],
+  "Dardanus fucosus": [
+    "Dardanus fucosus",
+    "",
+    null,
+    1,
+    []
   ],
   "Dardanus gemmatus": [
     "Dardanus gemmatus",
@@ -16539,6 +16651,13 @@
       "https://images.reeflifesurvey.com/1/species_65_636b22d1aa8fc.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_cf_636b22d510a49.w1000.h666.jpg"
     ]
+  ],
+  "Diodora cayenensis": [
+    "Diodora cayenensis",
+    "",
+    null,
+    1,
+    []
   ],
   "Diogenid sp. [white claw black blotch]": [
     "Diogenid sp. [white claw black blotch]",
@@ -19413,6 +19532,27 @@
     0,
     []
   ],
+  "Eucinostomus gula": [
+    "Eucinostomus gula",
+    "",
+    null,
+    0,
+    []
+  ],
+  "Eucinostomus melanopterus": [
+    "Eucinostomus melanopterus",
+    "",
+    null,
+    0,
+    []
+  ],
+  "Eucinostomus spp.": [
+    "Eucinostomus spp.",
+    "",
+    null,
+    0,
+    []
+  ],
   "Eucrossorhinus dasypogon": [
     "Eucrossorhinus dasypogon",
     "Tassled wobbegong, Bearded Wobbegong, Ogilby's Wobbegong",
@@ -21097,6 +21237,13 @@
       "https://images.reeflifesurvey.com/0/species_a5_57049a2492d7d.w1000.h666.jpg"
     ]
   ],
+  "Gambusia spp.": [
+    "Gambusia spp.",
+    "",
+    null,
+    0,
+    []
+  ],
   "Ganeria falklandica": [
     "Ganeria falklandica",
     "Serrated hem star, Estrella de dobladillo dentada",
@@ -22360,6 +22507,13 @@
       "https://images.reeflifesurvey.com/0/species_e6_5744f13f14506.w1000.h666.JPG"
     ]
   ],
+  "Goniodoridella spp.": [
+    "Goniodoridella spp.",
+    "",
+    null,
+    1,
+    []
+  ],
   "Goniodorididae spp.": [
     "Goniodorididae spp.",
     "",
@@ -23198,6 +23352,13 @@
       "https://images.reeflifesurvey.com/0/species_6b_579b07dd0841c.w1000.h666.JPG"
     ]
   ],
+  "Haemulon bonariense": [
+    "Haemulon bonariense",
+    "",
+    null,
+    0,
+    []
+  ],
   "Haemulon carbonarium": [
     "Haemulon carbonarium",
     "Caesar grunt",
@@ -24030,6 +24191,13 @@
       "https://images.reeflifesurvey.com/0/species_89_5a02af6ab09e1.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_44_59db4b9ea24cd.w1000.h666.jpg"
     ]
+  ],
+  "Halichoeres socialis": [
+    "Halichoeres socialis",
+    "",
+    null,
+    0,
+    []
   ],
   "Halichoeres solorensis": [
     "Halichoeres solorensis",
@@ -26571,6 +26739,13 @@
       "https://images.reeflifesurvey.com/0/species_f5_582c47efbe32a.w1000.h666.jpg"
     ]
   ],
+  "Hypoplectrus randallorum": [
+    "Hypoplectrus randallorum",
+    "",
+    null,
+    2,
+    []
+  ],
   "Hypoplectrus sp. [2]": [
     "Hypoplectrus sp. [2]",
     "",
@@ -26969,6 +27144,13 @@
     "",
     null,
     2,
+    []
+  ],
+  "Iridopagurus spp.": [
+    "Iridopagurus spp.",
+    "",
+    null,
+    1,
     []
   ],
   "Isacia conceptionis": [
@@ -28949,6 +29131,13 @@
       "https://images.reeflifesurvey.com/0/species_73_57919054261d4.w1000.h666.JPG"
     ]
   ],
+  "Lithopoma americanum": [
+    "Lithopoma americanum",
+    "",
+    null,
+    1,
+    []
+  ],
   "Lithopoma phoebium": [
     "Lithopoma phoebium",
     "",
@@ -29015,6 +29204,13 @@
     "Lobatus galeatus",
     "Eastern pacific giant conch, Strombus galeatus",
     "https://reeflifesurvey.com/species/lobatus-galeatus/",
+    1,
+    []
+  ],
+  "Lobatus raninus": [
+    "Lobatus raninus",
+    "",
+    null,
     1,
     []
   ],
@@ -29700,6 +29896,13 @@
     1,
     []
   ],
+  "Lysiosquilla glabriuscula": [
+    "Lysiosquilla glabriuscula",
+    "",
+    null,
+    1,
+    []
+  ],
   "Lysmata amboinensis": [
     "Lysmata amboinensis",
     "",
@@ -29728,6 +29931,13 @@
     [
       "https://images.reeflifesurvey.com/1/species_25_5e9405cebb79a.w1000.h666.jpg"
     ]
+  ],
+  "Lysmata spp.": [
+    "Lysmata spp.",
+    "",
+    null,
+    1,
+    []
   ],
   "Lytechinus pictus": [
     "Lytechinus pictus",
@@ -29834,6 +30044,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_28_57de4357df35e.w1000.h666.jpg"
     ]
+  ],
+  "Macrocypraea zebra": [
+    "Macrocypraea zebra",
+    "",
+    null,
+    1,
+    []
   ],
   "Macrocystis pyrifera": [
     "Macrocystis pyrifera",
@@ -29950,6 +30167,13 @@
     "Macropodia rostrata",
     "",
     "https://reeflifesurvey.com/species/macropodia-rostrata/",
+    1,
+    []
+  ],
+  "Macrostrombus costatus": [
+    "Macrostrombus costatus",
+    "",
+    null,
     1,
     []
   ],
@@ -30746,6 +30970,13 @@
       "https://images.reeflifesurvey.com/1/species_fc_5e291b7d6867d.w1000.h666.JPG"
     ]
   ],
+  "Meoma ventricosa": [
+    "Meoma ventricosa",
+    "",
+    null,
+    1,
+    []
+  ],
   "Meridiastra calcar": [
     "Meridiastra calcar",
     "Eight-armed seastar, Eight Armed Sea Star, Patiriella calcar",
@@ -31244,6 +31475,13 @@
     1,
     []
   ],
+  "Mithraculus coryphe": [
+    "Mithraculus coryphe",
+    "",
+    null,
+    1,
+    []
+  ],
   "Mithraculus forceps": [
     "Mithraculus forceps",
     "",
@@ -31262,6 +31500,13 @@
     "Mithraculus sculptus",
     "Green clinging crab",
     "https://reeflifesurvey.com/species/mithraculus-sculptus/",
+    1,
+    []
+  ],
+  "Mithraculus spp.": [
+    "Mithraculus spp.",
+    "",
+    null,
     1,
     []
   ],
@@ -31506,6 +31751,13 @@
       "https://images.reeflifesurvey.com/0/species_89_5775caa9cd316.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_44_5775ca8ef288e.w1000.h666.jpg"
     ]
+  ],
+  "Monacanthus ciliatus": [
+    "Monacanthus ciliatus",
+    "",
+    null,
+    0,
+    []
   ],
   "Monacanthus tuckeri": [
     "Monacanthus tuckeri",
@@ -34403,6 +34655,13 @@
       "https://images.reeflifesurvey.com/0/species_44_57998c490c368.w1000.h666.JPG"
     ]
   ],
+  "Odontodactylus havanensis": [
+    "Odontodactylus havanensis",
+    "",
+    null,
+    1,
+    []
+  ],
   "Odontodactylus scyllarus": [
     "Odontodactylus scyllarus",
     "Mantis shrimp, Harlequin mantis shrimp, Peacock mantis shrimp",
@@ -36073,8 +36332,22 @@
     1,
     []
   ],
+  "Paguristes sericeus": [
+    "Paguristes sericeus",
+    "",
+    null,
+    1,
+    []
+  ],
   "Paguristes spp.": [
     "Paguristes spp.",
+    "",
+    null,
+    1,
+    []
+  ],
+  "Paguristes tortugae": [
+    "Paguristes tortugae",
     "",
     null,
     1,
@@ -36183,6 +36456,13 @@
     "Pagurus bernhardus",
     "Common hermit crab",
     "https://reeflifesurvey.com/species/pagurus-bernhardus/",
+    1,
+    []
+  ],
+  "Pagurus brevidactylus": [
+    "Pagurus brevidactylus",
+    "",
+    null,
     1,
     []
   ],
@@ -43988,6 +44268,13 @@
       "https://images.reeflifesurvey.com/0/species_09_59e3f8dfc2f14.w1000.h666.JPG"
     ]
   ],
+  "Ptereleotris helenae": [
+    "Ptereleotris helenae",
+    "",
+    null,
+    0,
+    []
+  ],
   "Ptereleotris heteroptera": [
     "Ptereleotris heteroptera",
     "Tail spot dart-goby, Blacktail Goby, Pale Gudgeon, Spot-tail Hovergoby, Spottail Dartfish",
@@ -48541,6 +48828,13 @@
       "https://images.reeflifesurvey.com/0/species_89_57e371355079a.w1000.h666.jpg"
     ]
   ],
+  "Sphoeroides testudineus": [
+    "Sphoeroides testudineus",
+    "",
+    null,
+    0,
+    []
+  ],
   "Sphyraena barracuda": [
     "Sphyraena barracuda",
     "Great Barracuda",
@@ -49644,6 +49938,13 @@
       "https://images.reeflifesurvey.com/0/species_aa_579576629936d.w1000.h666.jpg"
     ]
   ],
+  "Strombus alatus": [
+    "Strombus alatus",
+    "",
+    null,
+    1,
+    []
+  ],
   "Strombus gigas": [
     "Strombus gigas",
     "queen conch",
@@ -49667,6 +49968,13 @@
       "https://images.reeflifesurvey.com/0/species_7e_59e3fbf0c7578.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_b0_59e3fbf76fc54.w1000.h666.jpg"
     ]
+  ],
+  "Strombus pugilis": [
+    "Strombus pugilis",
+    "",
+    null,
+    1,
+    []
   ],
   "Strombus spp.": [
     "Strombus spp.",
@@ -52766,6 +53074,13 @@
   ],
   "Triphoridae spp.": [
     "Triphoridae spp.",
+    "",
+    null,
+    1,
+    []
+  ],
+  "Triplofusus giganteus": [
+    "Triplofusus giganteus",
     "",
     null,
     1,

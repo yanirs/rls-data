@@ -3147,7 +3147,7 @@
       2
     ],
     [
-      "BOCAS1 ",
+      "BOCAS1",
       "Panama",
       "Tropical Atlantic",
       "Bocas Del Toro",
@@ -3158,7 +3158,7 @@
       3
     ],
     [
-      "BOCAS10 ",
+      "BOCAS10",
       "Panama",
       "Tropical Atlantic",
       "Bocas Del Toro",
@@ -3166,10 +3166,10 @@
       "Crawl Cay",
       -82.12,
       9.27,
-      4
+      5
     ],
     [
-      "BOCAS11 ",
+      "BOCAS11",
       "Panama",
       "Tropical Atlantic",
       "Bocas Del Toro",
@@ -3177,10 +3177,10 @@
       "Almirante-Pondsak",
       -82.35,
       9.29,
-      2
+      3
     ],
     [
-      "BOCAS12 ",
+      "BOCAS12",
       "Panama",
       "Tropical Atlantic",
       "Bocas Del Toro",
@@ -3188,10 +3188,10 @@
       "Punta Caracal Reef",
       -82.3,
       9.38,
-      2
+      3
     ],
     [
-      "BOCAS13 ",
+      "BOCAS13",
       "Panama",
       "Tropical Atlantic",
       "Bocas Del Toro",
@@ -3235,7 +3235,7 @@
       2
     ],
     [
-      "BOCAS4 ",
+      "BOCAS4",
       "Panama",
       "Tropical Atlantic",
       "Bocas Del Toro",
@@ -3246,7 +3246,7 @@
       2
     ],
     [
-      "BOCAS5 ",
+      "BOCAS5",
       "Panama",
       "Tropical Atlantic",
       "Bocas Del Toro",
@@ -3254,10 +3254,10 @@
       "Coco Pt",
       -82.28,
       9.3,
-      2
+      3
     ],
     [
-      "BOCAS6 ",
+      "BOCAS6",
       "Panama",
       "Tropical Atlantic",
       "Bocas Del Toro",
@@ -3265,7 +3265,7 @@
       "Long Point",
       -82.29,
       9.3,
-      4
+      5
     ],
     [
       "BOCAS7",
@@ -3276,10 +3276,10 @@
       "Hospital Point",
       -82.22,
       9.33,
-      4
+      5
     ],
     [
-      "BOCAS8 ",
+      "BOCAS8",
       "Panama",
       "Tropical Atlantic",
       "Bocas Del Toro",
@@ -3287,10 +3287,10 @@
       "STRI Point",
       -82.26,
       9.35,
-      5
+      6
     ],
     [
-      "BOCAS9 ",
+      "BOCAS9",
       "Panama",
       "Tropical Atlantic",
       "Bocas Del Toro",
@@ -3980,7 +3980,7 @@
       "CBC 30 N",
       -88.08,
       16.8,
-      3
+      5
     ],
     [
       "BZE2",
@@ -3991,7 +3991,7 @@
       "CBC 30 S",
       -88.08,
       16.8,
-      2
+      4
     ],
     [
       "BZE3",
@@ -5633,6 +5633,61 @@
       1
     ],
     [
+      "CAR35",
+      "Cayman Islands",
+      "Tropical Atlantic",
+      "Central Caribbean",
+      "Greater Antilles",
+      "Sailfin Reef",
+      -80.01,
+      19.71,
+      1
+    ],
+    [
+      "CAR36",
+      "Cayman Islands",
+      "Tropical Atlantic",
+      "Central Caribbean",
+      "Greater Antilles",
+      "Martha's Finyard",
+      -80.11,
+      19.66,
+      1
+    ],
+    [
+      "CAR37",
+      "Cayman Islands",
+      "Tropical Atlantic",
+      "Central Caribbean",
+      "Greater Antilles",
+      "Jigsaw puzzle",
+      -80.1,
+      19.67,
+      1
+    ],
+    [
+      "CAR38",
+      "Cayman Islands",
+      "Tropical Atlantic",
+      "Central Caribbean",
+      "Greater Antilles",
+      "CCMI Lagoon",
+      -80.06,
+      19.7,
+      1
+    ],
+    [
+      "CAR39",
+      "Cayman Islands",
+      "Tropical Atlantic",
+      "Central Caribbean",
+      "Greater Antilles",
+      "Cumber's Caves",
+      -80.07,
+      19.69,
+      1
+    ],
+    [
       "CAR4",
       "Cayman Islands",
       "Tropical Atlantic",
@@ -5642,6 +5697,28 @@
       -81.39,
       19.31,
       3
+    ],
+    [
+      "CAR40",
+      "Cayman Islands",
+      "Tropical Atlantic",
+      "Central Caribbean",
+      "Greater Antilles",
+      "Sarah's Set",
+      -80.07,
+      19.69,
+      1
+    ],
+    [
+      "CAR41",
+      "Cayman Islands",
+      "Tropical Atlantic",
+      "Central Caribbean",
+      "Greater Antilles",
+      "Snap Shot",
+      -80.06,
+      19.7,
+      1
     ],
     [
       "CAR5",
@@ -6202,7 +6279,51 @@
       "South Reef",
       -88.08,
       16.78,
-      10
+      12
+    ],
+    [
+      "CBC10",
+      "Belize",
+      "Tropical Atlantic",
+      "Belize",
+      "Western Caribbean",
+      "Twin Cays Mangrove",
+      -88.1,
+      16.83,
+      2
+    ],
+    [
+      "CBC11",
+      "Belize",
+      "Tropical Atlantic",
+      "Belize",
+      "Western Caribbean",
+      "Curlew Seagrass",
+      -88.09,
+      16.79,
+      2
+    ],
+    [
+      "CBC12",
+      "Belize",
+      "Tropical Atlantic",
+      "Belize",
+      "Western Caribbean",
+      "Curlew Sand",
+      -88.09,
+      16.79,
+      2
+    ],
+    [
+      "CBC13",
+      "Belize",
+      "Tropical Atlantic",
+      "Belize",
+      "Western Caribbean",
+      "Tobacco Sand",
+      -88.07,
+      16.88,
+      2
     ],
     [
       "CBC14",
@@ -6213,7 +6334,29 @@
       "Tobacco Reef 30",
       -88.07,
       16.87,
-      7
+      9
+    ],
+    [
+      "CBC15",
+      "Belize",
+      "Tropical Atlantic",
+      "Belize",
+      "Western Caribbean",
+      "Tobacco Mangrove",
+      -88.09,
+      16.88,
+      2
+    ],
+    [
+      "CBC16",
+      "Belize",
+      "Tropical Atlantic",
+      "Belize",
+      "Western Caribbean",
+      "Tobacco Seagrass",
+      -88.09,
+      16.87,
+      2
     ],
     [
       "CBC17",
@@ -6224,7 +6367,7 @@
       "Curlew patch reef",
       -88.1,
       16.78,
-      8
+      10
     ],
     [
       "CBC2",
@@ -6235,7 +6378,40 @@
       "CBC Reef",
       -88.08,
       16.8,
-      7
+      11
+    ],
+    [
+      "CBC21",
+      "Belize",
+      "Tropical Atlantic",
+      "Belize",
+      "Western Caribbean",
+      "South Reef 30 North",
+      -88.08,
+      16.78,
+      2
+    ],
+    [
+      "CBC22",
+      "Belize",
+      "Tropical Atlantic",
+      "Belize",
+      "Western Caribbean",
+      "Bread and Butter Patch",
+      -88.16,
+      16.77,
+      2
+    ],
+    [
+      "CBC24",
+      "Belize",
+      "Tropical Atlantic",
+      "Belize",
+      "Western Caribbean",
+      "Curlew Bank",
+      -88.08,
+      16.79,
+      2
     ],
     [
       "CBC3",
@@ -6246,7 +6422,18 @@
       "CBC Lagoon 15",
       -88.09,
       16.81,
-      7
+      9
+    ],
+    [
+      "CBC4",
+      "Belize",
+      "Tropical Atlantic",
+      "Belize",
+      "Western Caribbean",
+      "BGR Mangrove",
+      -88.15,
+      16.81,
+      2
     ],
     [
       "CBC6",
@@ -6257,7 +6444,40 @@
       "CBC House Reef",
       -88.08,
       16.8,
-      6
+      8
+    ],
+    [
+      "CBC7",
+      "Belize",
+      "Tropical Atlantic",
+      "Belize",
+      "Western Caribbean",
+      "CBC Sand",
+      -88.09,
+      16.81,
+      2
+    ],
+    [
+      "CBC8",
+      "Belize",
+      "Tropical Atlantic",
+      "Belize",
+      "Western Caribbean",
+      "CBC TEN Seagrass",
+      -88.08,
+      16.8,
+      2
+    ],
+    [
+      "CBC9",
+      "Belize",
+      "Tropical Atlantic",
+      "Belize",
+      "Western Caribbean",
+      "Twin Cays Seagrass",
+      -88.1,
+      16.82,
+      2
     ],
     [
       "CBMP1",
@@ -33064,7 +33284,7 @@
       "Pipeline",
       152.14,
       -32.72,
-      73
+      75
     ],
     [
       "PS15",
@@ -33130,7 +33350,7 @@
       "Halifax Park",
       152.16,
       -32.71,
-      126
+      127
     ],
     [
       "PS21",
@@ -35550,7 +35770,7 @@
       "Cleaner Station",
       153.27,
       -30.2,
-      12
+      13
     ],
     [
       "SI18",
@@ -35682,7 +35902,7 @@
       "The Gantry S Solitary Is",
       153.26,
       -30.2,
-      15
+      16
     ],
     [
       "SI30",
