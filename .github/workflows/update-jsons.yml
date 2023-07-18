@@ -36,7 +36,7 @@ jobs:
           key: venv-${{ hashFiles('poetry.lock', '.pre-commit-config.yaml') }}
 
       - name: Install poetry
-        run: pipx install poetry==1.4.2
+        run: pipx install poetry==$(cat .poetry-version)
 
       - name: Install dependencies
         run: |
