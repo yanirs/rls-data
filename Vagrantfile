@@ -16,7 +16,7 @@ Vagrant.configure("2") do |config|
   SHELL
 
   config.vm.provision "shell", name: "poetry", privileged: false, inline: <<-SHELL
-    pipx install poetry==1.4.2
+    pipx install poetry==$(cat /vagrant/.poetry-version)
   SHELL
 
   config.vm.provision "shell", name: "python dependencies", privileged: false, inline: <<-SHELL

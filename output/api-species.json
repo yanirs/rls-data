@@ -292,6 +292,13 @@
       "https://images.reeflifesurvey.com/0/species_f6_577afe8b47d66.w1000.h666.JPG"
     ]
   ],
+  "Acanthemblemaria greenfieldi": [
+    "Acanthemblemaria greenfieldi",
+    "False papillose blenny",
+    "https://reeflifesurvey.com/species/acanthemblemaria-greenfieldi/",
+    2,
+    []
+  ],
   "Acanthemblemaria hancocki": [
     "Acanthemblemaria hancocki",
     "Hancocks blenny, Hancock's Blenny",
@@ -1207,15 +1214,15 @@
   ],
   "Agathistoma fasciatum": [
     "Agathistoma fasciatum",
-    "",
-    null,
+    "Smooth Atlantic tegula",
+    "https://reeflifesurvey.com/species/agathistoma-fasciatum/",
     1,
     []
   ],
   "Agathistoma lividomaculatum": [
     "Agathistoma lividomaculatum",
-    "",
-    null,
+    "West Indian tegula",
+    "https://reeflifesurvey.com/species/agathistoma-lividomaculatum/",
     1,
     []
   ],
@@ -2264,8 +2271,8 @@
   ],
   "Amphithrax pilosus": [
     "Amphithrax pilosus",
-    "",
-    null,
+    "Hairy clinging crab",
+    "https://reeflifesurvey.com/species/amphithrax-pilosus/",
     1,
     []
   ],
@@ -3643,8 +3650,8 @@
   ],
   "Archosargus probatocephalus": [
     "Archosargus probatocephalus",
-    "",
-    null,
+    "Sheepshead",
+    "https://reeflifesurvey.com/species/archosargus-probatocephalus/",
     0,
     []
   ],
@@ -4333,8 +4340,8 @@
   ],
   "Astichopus multifidus": [
     "Astichopus multifidus",
-    "",
-    null,
+    "Furry sea cucumber",
+    "https://reeflifesurvey.com/species/astichopus-multifidus/",
     1,
     []
   ],
@@ -4465,6 +4472,13 @@
       "https://images.reeflifesurvey.com/1/species_75_5ed46611038c3.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_81_5ed466158fb0f.w1000.h666.jpg"
     ]
+  ],
+  "Astrapogon stellatus": [
+    "Astrapogon stellatus",
+    "Conchfish",
+    "https://reeflifesurvey.com/species/astrapogon-stellatus/",
+    2,
+    []
   ],
   "Astroboa ernae": [
     "Astroboa ernae",
@@ -5036,8 +5050,8 @@
   ],
   "Axiopsis serratifrons": [
     "Axiopsis serratifrons",
-    "",
-    null,
+    "Serrated axiid",
+    "https://reeflifesurvey.com/species/axiopsis-serratifrons/",
     1,
     []
   ],
@@ -7749,7 +7763,7 @@
   "Caranx hippos": [
     "Caranx hippos",
     "",
-    null,
+    "https://reeflifesurvey.com/species/caranx-hippos/",
     0,
     []
   ],
@@ -10430,8 +10444,8 @@
   ],
   "Chloroscombrus chrysurus": [
     "Chloroscombrus chrysurus",
-    "",
-    null,
+    "Atlantic bumper",
+    "https://reeflifesurvey.com/species/chloroscombrus-chrysurus/",
     0,
     []
   ],
@@ -13462,8 +13476,8 @@
   ],
   "Conus ermineus": [
     "Conus ermineus",
-    "",
-    null,
+    "Turtle cone shell",
+    "https://reeflifesurvey.com/species/conus-ermineus/",
     1,
     []
   ],
@@ -13867,8 +13881,8 @@
   ],
   "Corallianassa longiventris": [
     "Corallianassa longiventris",
-    "",
-    null,
+    "Red-orange ghost shrimp",
+    "https://reeflifesurvey.com/species/corallianassa-longiventris/",
     1,
     []
   ],
@@ -13890,8 +13904,8 @@
   ],
   "Coralliophila erosa": [
     "Coralliophila erosa",
-    "",
-    null,
+    "South seas coral shell",
+    "https://reeflifesurvey.com/species/coralliophila-erosa/",
     1,
     []
   ],
@@ -13924,8 +13938,8 @@
   ],
   "Coralliophila salebrosa": [
     "Coralliophila salebrosa",
-    "",
-    null,
+    "Panamaic vitularia",
+    "https://reeflifesurvey.com/species/coralliophila-salebrosa/",
     1,
     []
   ],
@@ -14271,6 +14285,13 @@
     1,
     []
   ],
+  "Coryphopterus alloides": [
+    "Coryphopterus alloides",
+    "Barfin goby",
+    "https://reeflifesurvey.com/species/coryphopterus-alloides/",
+    2,
+    []
+  ],
   "Coryphopterus dicrus": [
     "Coryphopterus dicrus",
     "Colon goby",
@@ -14322,6 +14343,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_11_57d7aff5a1248.w1000.h666.jpg"
     ]
+  ],
+  "Coryphopterus kuna": [
+    "Coryphopterus kuna",
+    "Kuna goby",
+    "https://reeflifesurvey.com/species/coryphopterus-kuna/",
+    2,
+    []
   ],
   "Coryphopterus lipernes": [
     "Coryphopterus lipernes",
@@ -14983,7 +15011,7 @@
   "Cryptotomus roseus": [
     "Cryptotomus roseus",
     "",
-    null,
+    "https://reeflifesurvey.com/species/cryptotomus-roseus/",
     0,
     []
   ],
@@ -15723,8 +15751,8 @@
   ],
   "Dardanus fucosus": [
     "Dardanus fucosus",
-    "",
-    null,
+    "Bareye Hermit Crab",
+    "https://reeflifesurvey.com/species/dardanus-fucosus/",
     1,
     []
   ],
@@ -16654,8 +16682,8 @@
   ],
   "Diodora cayenensis": [
     "Diodora cayenensis",
-    "",
-    null,
+    "Cayenne keyhole limpet",
+    "https://reeflifesurvey.com/species/diodora-cayenensis/",
     1,
     []
   ],
@@ -18434,6 +18462,13 @@
       "https://images.reeflifesurvey.com/0/species_ca_59db3635d5cfc.w1000.h666.jpg"
     ]
   ],
+  "Emblemaria pandionis": [
+    "Emblemaria pandionis",
+    "Sailfin blenny",
+    "https://reeflifesurvey.com/species/emblemaria-pandionis/",
+    2,
+    []
+  ],
   "Emblemariopsis signifer": [
     "Emblemariopsis signifer",
     "Flagfin blenny",
@@ -19534,15 +19569,15 @@
   ],
   "Eucinostomus gula": [
     "Eucinostomus gula",
-    "",
-    null,
+    "Jenny mojarra",
+    "https://reeflifesurvey.com/species/eucinostomus-gula/",
     0,
     []
   ],
   "Eucinostomus melanopterus": [
     "Eucinostomus melanopterus",
     "",
-    null,
+    "https://reeflifesurvey.com/species/eucinostomus-melanopterus/",
     0,
     []
   ],
@@ -21829,6 +21864,13 @@
     2,
     []
   ],
+  "Gobioclinus gobio": [
+    "Gobioclinus gobio",
+    "Palehead blenny",
+    "https://reeflifesurvey.com/species/gobioclinus-gobio/",
+    2,
+    []
+  ],
   "Gobiodon ?histrio": [
     "Gobiodon ?histrio",
     "",
@@ -23354,8 +23396,8 @@
   ],
   "Haemulon bonariense": [
     "Haemulon bonariense",
-    "",
-    null,
+    "Black grunt",
+    "https://reeflifesurvey.com/species/haemulon-bonariense/",
     0,
     []
   ],
@@ -24194,8 +24236,8 @@
   ],
   "Halichoeres socialis": [
     "Halichoeres socialis",
-    "",
-    null,
+    "Social wrasse",
+    "https://reeflifesurvey.com/species/halichoeres-socialis/",
     0,
     []
   ],
@@ -26741,8 +26783,8 @@
   ],
   "Hypoplectrus randallorum": [
     "Hypoplectrus randallorum",
-    "",
-    null,
+    "Tan Hamlet",
+    "https://reeflifesurvey.com/species/hypoplectrus-randallorum/",
     2,
     []
   ],
@@ -29133,8 +29175,8 @@
   ],
   "Lithopoma americanum": [
     "Lithopoma americanum",
-    "",
-    null,
+    "Turban snail",
+    "https://reeflifesurvey.com/species/lithopoma-americanum/",
     1,
     []
   ],
@@ -29209,8 +29251,8 @@
   ],
   "Lobatus raninus": [
     "Lobatus raninus",
-    "",
-    null,
+    "Hawkwing Conch",
+    "https://reeflifesurvey.com/species/lobatus-raninus/",
     1,
     []
   ],
@@ -29898,8 +29940,8 @@
   ],
   "Lysiosquilla glabriuscula": [
     "Lysiosquilla glabriuscula",
-    "",
-    null,
+    "Mantis shrimp",
+    "https://reeflifesurvey.com/species/lysiosquilla-glabriuscula/",
     1,
     []
   ],
@@ -30047,8 +30089,8 @@
   ],
   "Macrocypraea zebra": [
     "Macrocypraea zebra",
-    "",
-    null,
+    "Measled cowrie",
+    "https://reeflifesurvey.com/species/macrocypraea-zebra/",
     1,
     []
   ],
@@ -30172,8 +30214,8 @@
   ],
   "Macrostrombus costatus": [
     "Macrostrombus costatus",
-    "",
-    null,
+    "Milk conch",
+    "https://reeflifesurvey.com/species/macrostrombus-costatus/",
     1,
     []
   ],
@@ -30973,7 +31015,7 @@
   "Meoma ventricosa": [
     "Meoma ventricosa",
     "",
-    null,
+    "https://reeflifesurvey.com/species/meoma-ventricosa/",
     1,
     []
   ],
@@ -31477,8 +31519,8 @@
   ],
   "Mithraculus coryphe": [
     "Mithraculus coryphe",
-    "",
-    null,
+    "Nodose clinging crab",
+    "https://reeflifesurvey.com/species/mithraculus-coryphe/",
     1,
     []
   ],
@@ -31755,7 +31797,7 @@
   "Monacanthus ciliatus": [
     "Monacanthus ciliatus",
     "",
-    null,
+    "https://reeflifesurvey.com/species/monacanthus-ciliatus/",
     0,
     []
   ],
@@ -34657,8 +34699,8 @@
   ],
   "Odontodactylus havanensis": [
     "Odontodactylus havanensis",
-    "",
-    null,
+    "Havana mantis shrimp",
+    "https://reeflifesurvey.com/species/odontodactylus-havanensis/",
     1,
     []
   ],
@@ -36334,8 +36376,8 @@
   ],
   "Paguristes sericeus": [
     "Paguristes sericeus",
-    "",
-    null,
+    "Blue-eye hermit crab",
+    "https://reeflifesurvey.com/species/paguristes-sericeus/",
     1,
     []
   ],
@@ -36348,8 +36390,8 @@
   ],
   "Paguristes tortugae": [
     "Paguristes tortugae",
-    "",
-    null,
+    "Bandeye hermit",
+    "https://reeflifesurvey.com/species/paguristes-tortugae/",
     1,
     []
   ],
@@ -36461,8 +36503,8 @@
   ],
   "Pagurus brevidactylus": [
     "Pagurus brevidactylus",
-    "",
-    null,
+    "Shortfinger hermit crab",
+    "https://reeflifesurvey.com/species/pagurus-brevidactylus/",
     1,
     []
   ],
@@ -44271,7 +44313,7 @@
   "Ptereleotris helenae": [
     "Ptereleotris helenae",
     "",
-    null,
+    "https://reeflifesurvey.com/species/ptereleotris-helenae/",
     0,
     []
   ],
@@ -48831,7 +48873,7 @@
   "Sphoeroides testudineus": [
     "Sphoeroides testudineus",
     "",
-    null,
+    "https://reeflifesurvey.com/species/sphoeroides-testudineus/",
     0,
     []
   ],
@@ -49940,8 +49982,8 @@
   ],
   "Strombus alatus": [
     "Strombus alatus",
-    "",
-    null,
+    "Florida fighting conch",
+    "https://reeflifesurvey.com/species/strombus-alatus/",
     1,
     []
   ],
@@ -49971,8 +50013,8 @@
   ],
   "Strombus pugilis": [
     "Strombus pugilis",
-    "",
-    null,
+    "West Indian fighting conch",
+    "https://reeflifesurvey.com/species/strombus-pugilis/",
     1,
     []
   ],
@@ -53081,8 +53123,8 @@
   ],
   "Triplofusus giganteus": [
     "Triplofusus giganteus",
-    "",
-    null,
+    "Florida horse conch",
+    "https://reeflifesurvey.com/species/triplofusus-giganteus/",
     1,
     []
   ],
