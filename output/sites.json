@@ -2154,7 +2154,7 @@
       "Broulee North",
       150.19,
       -35.86,
-      30
+      31
     ],
     [
       "BMP-S14",
@@ -2165,7 +2165,7 @@
       "West Longnose Point",
       150.21,
       -35.83,
-      26
+      27
     ],
     [
       "BMP-S15",
@@ -2264,7 +2264,7 @@
       "Garden Point",
       150.23,
       -35.78,
-      33
+      34
     ],
     [
       "BMP-S23",
@@ -2297,7 +2297,7 @@
       "Bingi Bingi Point",
       150.17,
       -36.01,
-      28
+      29
     ],
     [
       "BMP-S26",
@@ -2429,7 +2429,7 @@
       "Honeysuckle Bay",
       150.28,
       -35.71,
-      28
+      29
     ],
     [
       "BMP-S37",
@@ -2539,7 +2539,7 @@
       "Guerilla Bay Island South",
       150.23,
       -35.83,
-      10
+      12
     ],
     [
       "BMP10",
@@ -2715,7 +2715,7 @@
       "Burrewarra Point NW",
       150.23,
       -35.83,
-      7
+      8
     ],
     [
       "BMP25",
@@ -2748,7 +2748,7 @@
       "Caulerpa Reef",
       150.26,
       -35.75,
-      6
+      7
     ],
     [
       "BMP28",
@@ -2759,7 +2759,7 @@
       "Pretty Point NW",
       150.23,
       -35.8,
-      5
+      6
     ],
     [
       "BMP29",
@@ -2770,7 +2770,7 @@
       "Broulee Headland East",
       150.19,
       -35.86,
-      5
+      6
     ],
     [
       "BMP3",
@@ -2792,7 +2792,7 @@
       "M2 Heaven",
       150.16,
       -35.91,
-      8
+      9
     ],
     [
       "BMP31",
@@ -2814,7 +2814,7 @@
       "Whale Bay",
       150.22,
       -35.83,
-      6
+      7
     ],
     [
       "BMP4",
@@ -2836,7 +2836,7 @@
       "Horseshoe Bay East",
       150.08,
       -36.42,
-      3
+      4
     ],
     [
       "BMP5",
@@ -2869,7 +2869,7 @@
       "Potato Point Spud #1",
       150.15,
       -36.09,
-      7
+      8
     ],
     [
       "BMP8",
@@ -10261,7 +10261,7 @@
       "Lagoon Inner Wreck Middleton Reef",
       159.06,
       -29.45,
-      4
+      6
     ],
     [
       "EMR10",
@@ -10272,7 +10272,7 @@
       "Blue Holes N",
       159.12,
       -29.44,
-      4
+      6
     ],
     [
       "EMR11",
@@ -10283,7 +10283,7 @@
       "Blue Holes 3",
       159.11,
       -29.45,
-      4
+      6
     ],
     [
       "EMR12",
@@ -10327,7 +10327,7 @@
       "NW inner bommie Middleton Reef",
       159.09,
       -29.43,
-      4
+      6
     ],
     [
       "EMR16",
@@ -10338,7 +10338,7 @@
       "Wreck 3",
       159.05,
       -29.45,
-      4
+      6
     ],
     [
       "EMR17",
@@ -10360,7 +10360,7 @@
       "North Cay Elizabeth Reef",
       159.05,
       -29.93,
-      4
+      6
     ],
     [
       "EMR19",
@@ -10371,7 +10371,7 @@
       "Lagoon blue hole Elizabeth Reef",
       159.06,
       -29.93,
-      4
+      6
     ],
     [
       "EMR2",
@@ -10382,7 +10382,7 @@
       "Lagoon 2 Middleton Reef",
       159.06,
       -29.46,
-      4
+      6
     ],
     [
       "EMR20",
@@ -10393,7 +10393,7 @@
       "Cay Bommie Elizabeth Reef",
       159.06,
       -29.93,
-      4
+      6
     ],
     [
       "EMR21",
@@ -10426,7 +10426,7 @@
       "Wreck Flank",
       159.03,
       -29.93,
-      4
+      6
     ],
     [
       "EMR24",
@@ -10437,7 +10437,7 @@
       "North Point Elizabeth Reef",
       159.07,
       -29.91,
-      4
+      6
     ],
     [
       "EMR25",
@@ -10459,7 +10459,7 @@
       "Elizabeth Anchorage South",
       159.04,
       -29.93,
-      4
+      6
     ],
     [
       "EMR27",
@@ -10470,7 +10470,7 @@
       "Elizabeth Anchorage East",
       159.06,
       -29.92,
-      4
+      6
     ],
     [
       "EMR28",
@@ -10481,7 +10481,7 @@
       "Elizabeth Hole",
       159.06,
       -29.93,
-      4
+      6
     ],
     [
       "EMR29",
@@ -10492,7 +10492,7 @@
       "NW anchorage Elizabeth Reef",
       159.06,
       -29.92,
-      4
+      5
     ],
     [
       "EMR3",
@@ -10503,7 +10503,7 @@
       "SW Lagoon Middleton Reef",
       159.07,
       -29.46,
-      4
+      6
     ],
     [
       "EMR30",
@@ -10635,7 +10635,7 @@
       "Middleton 1",
       159.1,
       -29.44,
-      2
+      4
     ],
     [
       "EMR41",
@@ -10646,7 +10646,7 @@
       "Elizabeth 6D",
       159.09,
       -29.93,
-      2
+      4
     ],
     [
       "EMR42",
@@ -10657,7 +10657,7 @@
       "Lagoon Hole west",
       159.08,
       -29.94,
-      2
+      4
     ],
     [
       "EMR5",
@@ -10679,7 +10679,7 @@
       "North West Horn",
       159.07,
       -29.44,
-      4
+      6
     ],
     [
       "EMR7",
@@ -10712,7 +10712,7 @@
       "Blue Holes W",
       159.11,
       -29.44,
-      4
+      6
     ],
     [
       "ET1",
@@ -21371,7 +21371,7 @@
       "Greenfield Beach Nth",
       150.69,
       -35.09,
-      65
+      67
     ],
     [
       "JBMP-S12",
@@ -21536,7 +21536,7 @@
       "Plantation Point South",
       150.7,
       -35.07,
-      46
+      48
     ],
     [
       "JBMP-S26",
@@ -21569,7 +21569,7 @@
       "The Docks 2 Inner Tubes",
       150.79,
       -35.08,
-      123
+      127
     ],
     [
       "JBMP-S4",
@@ -21591,7 +21591,7 @@
       "Honeymoon Bay 1km Sth",
       150.77,
       -35.07,
-      67
+      69
     ],
     [
       "JBMP-S6",
@@ -21602,7 +21602,7 @@
       "Honeymoon Bay 300m South",
       150.77,
       -35.06,
-      69
+      71
     ],
     [
       "JBMP-S7",
@@ -21624,7 +21624,7 @@
       "Plantation Point North",
       150.7,
       -35.07,
-      61
+      62
     ],
     [
       "JBMP-S9",
@@ -21635,7 +21635,7 @@
       "Hyams Beach (Chinamans Reef)",
       150.7,
       -35.1,
-      48
+      50
     ],
     [
       "JBMP10",
@@ -21756,7 +21756,7 @@
       "Dent Rock",
       150.69,
       -35.07,
-      6
+      7
     ],
     [
       "JBMP23",
@@ -26817,6 +26817,17 @@
       152.55,
       -32.47,
       1
+    ],
+    [
+      "NSW59",
+      "Australia",
+      "Temperate Australasia",
+      "Eden",
+      "Cape Howe",
+      "Merimbula Wharf",
+      149.93,
+      -36.9,
+      2
     ],
     [
       "NSW6",
@@ -32107,7 +32118,7 @@
       "Pimpernel Rock",
       153.4,
       -29.7,
-      4
+      6
     ],
     [
       "PIT1",
@@ -40888,6 +40899,17 @@
       8
     ],
     [
+      "TAS436",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - North East ",
+      "Bassian",
+      "Skeleton Bay",
+      148.32,
+      -41.25,
+      1
+    ],
+    [
       "TAS44",
       "Australia",
       "Temperate Australasia",
@@ -41127,7 +41149,7 @@
       "Waubs Bay Inner",
       148.3,
       -41.87,
-      13
+      14
     ],
     [
       "TAS67",

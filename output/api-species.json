@@ -3264,17 +3264,6 @@
       "https://images.reeflifesurvey.com/0/species_06_56ef66de8b15d.w1000.h666.jpg"
     ]
   ],
-  "Apogon flavus": [
-    "Apogon flavus",
-    "Yellow cardinalfish",
-    "https://reeflifesurvey.com/species/apogon-flavus/",
-    2,
-    [
-      "https://images.reeflifesurvey.com/0/species_4e_56f33c5528a2d.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_42_5758eb2e75c64.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/0/species_28_56ef67492d56b.w1000.h666.jpg"
-    ]
-  ],
   "Apogon imberbis": [
     "Apogon imberbis",
     "Cardinal fish",
@@ -5692,6 +5681,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_d7_57f1de7973181.w1000.h666.JPG"
     ]
+  ],
+  "Bohadschia ocellata": [
+    "Bohadschia ocellata",
+    "",
+    null,
+    1,
+    []
   ],
   "Bohadschia sp. [brown]": [
     "Bohadschia sp. [brown]",
@@ -26320,6 +26316,13 @@
       "https://images.reeflifesurvey.com/1/species_70_63479fddd5d19.w1000.h666.JPG"
     ]
   ],
+  "Holothuria philippinensis": [
+    "Holothuria philippinensis",
+    "",
+    null,
+    1,
+    []
+  ],
   "Holothuria polii": [
     "Holothuria polii",
     "",
@@ -35585,6 +35588,13 @@
     "Ostorhinchus doederleini",
     "Four lined cardinalfish, Apogon doederleini",
     "https://reeflifesurvey.com/species/ostorhinchus-doederleini/",
+    2,
+    []
+  ],
+  "Ostorhinchus flavus": [
+    "Ostorhinchus flavus",
+    "",
+    null,
     2,
     []
   ],
@@ -49833,6 +49843,13 @@
     "Stichopus sp. [japonicus]",
     "",
     "https://reeflifesurvey.com/species/stichopus-sp-japonicus/",
+    1,
+    []
+  ],
+  "Stichopus sp. [monotuberculatus]": [
+    "Stichopus sp. [monotuberculatus]",
+    "",
+    null,
     1,
     []
   ],
