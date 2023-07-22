@@ -5684,8 +5684,8 @@
   ],
   "Bohadschia ocellata": [
     "Bohadschia ocellata",
-    "",
-    null,
+    "Polka-dotted sea cucumber",
+    "https://reeflifesurvey.com/species/bohadschia-ocellata/",
     1,
     []
   ],
@@ -26318,8 +26318,8 @@
   ],
   "Holothuria philippinensis": [
     "Holothuria philippinensis",
-    "",
-    null,
+    "Sea cucumber",
+    "https://reeflifesurvey.com/species/holothuria-philippinensis/",
     1,
     []
   ],
@@ -35593,8 +35593,8 @@
   ],
   "Ostorhinchus flavus": [
     "Ostorhinchus flavus",
-    "",
-    null,
+    "Yellow cardinalfish, Apogon flavus",
+    "https://reeflifesurvey.com/species/ostorhinchus-flavus/",
     2,
     []
   ],
@@ -49848,8 +49848,8 @@
   ],
   "Stichopus sp. [monotuberculatus]": [
     "Stichopus sp. [monotuberculatus]",
-    "",
-    null,
+    "sea cucumber",
+    "https://reeflifesurvey.com/species/stichopus-sp-monotuberculatus/",
     1,
     []
   ],
@@ -53109,6 +53109,13 @@
     "",
     null,
     2,
+    []
+  ],
+  "Trionectes tenuipes": [
+    "Trionectes tenuipes",
+    "",
+    null,
+    1,
     []
   ],
   "Triopha catalinae": [
