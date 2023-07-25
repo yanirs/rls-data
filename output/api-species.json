@@ -14662,6 +14662,13 @@
     1,
     []
   ],
+  "Cribrarula exmouthensis magnifica": [
+    "Cribrarula exmouthensis magnifica",
+    "",
+    null,
+    1,
+    []
+  ],
   "Cribrarula fallax": [
     "Cribrarula fallax",
     "",
@@ -30217,8 +30224,8 @@
   ],
   "Macroramphosus scolopax": [
     "Macroramphosus scolopax",
-    "",
-    null,
+    "Common Bellowsfish",
+    "https://reeflifesurvey.com/species/macroramphosus-scolopax/",
     2,
     []
   ],
@@ -40961,17 +40968,6 @@
       "https://images.reeflifesurvey.com/0/species_65_56f2025a61ba9.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_e0_577b5f358ff25.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_35_56f2025f96878.w1000.h666.jpg"
-    ]
-  ],
-  "Plectroglyphidodon lacrymatus": [
-    "Plectroglyphidodon lacrymatus",
-    "Jewel damsel",
-    "https://reeflifesurvey.com/species/plectroglyphidodon-lacrymatus/",
-    0,
-    [
-      "https://images.reeflifesurvey.com/0/species_c5_56f205c6ca588.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_9f_57c183eb77a35.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_cf_56f205cce6126.w1000.h666.jpg"
     ]
   ],
   "Plectroglyphidodon leucozonus": [
