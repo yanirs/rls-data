@@ -2528,6 +2528,13 @@
       "https://images.reeflifesurvey.com/1/species_c5_5dcb1edaf40bb.w1000.h666.jpg"
     ]
   ],
+  "Anguilla rostrata": [
+    "Anguilla rostrata",
+    "American eel",
+    "https://reeflifesurvey.com/species/anguilla-rostrata/",
+    0,
+    []
+  ],
   "Aniculus elegans": [
     "Aniculus elegans",
     "Elegant hermit crab",
@@ -14664,8 +14671,8 @@
   ],
   "Cribrarula exmouthensis magnifica": [
     "Cribrarula exmouthensis magnifica",
-    "",
-    null,
+    "Magnificent cowrie",
+    "https://reeflifesurvey.com/species/cribrarula-exmouthensis-magnifica/",
     1,
     []
   ],
@@ -49343,7 +49350,7 @@
   ],
   "Stegastes lacrymatus": [
     "Stegastes lacrymatus",
-    "White-spotted devil",
+    "White-spotted devil, Plectroglyphidodon lacrymatus",
     "https://reeflifesurvey.com/species/stegastes-lacrymatus/",
     0,
     []
