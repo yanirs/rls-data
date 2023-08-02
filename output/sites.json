@@ -2902,7 +2902,7 @@
       "Dodger Channel",
       -125.2,
       48.83,
-      4
+      6
     ],
     [
       "BMSC10",
@@ -2913,7 +2913,7 @@
       "Ross Islets Slug Island",
       -125.16,
       48.87,
-      2
+      3
     ],
     [
       "BMSC11",
@@ -2924,7 +2924,7 @@
       "Wizard Island South",
       -125.16,
       48.86,
-      3
+      5
     ],
     [
       "BMSC12",
@@ -2935,7 +2935,7 @@
       "Wizard Island North",
       -125.16,
       48.86,
-      3
+      5
     ],
     [
       "BMSC13",
@@ -3012,7 +3012,7 @@
       "Ed King SW Pyramid",
       -125.22,
       48.83,
-      2
+      3
     ],
     [
       "BMSC2",
@@ -3023,7 +3023,7 @@
       "Kirby",
       -125.2,
       48.85,
-      1
+      2
     ],
     [
       "BMSC20",
@@ -3034,7 +3034,7 @@
       "Ed King East",
       -125.21,
       48.84,
-      2
+      3
     ],
     [
       "BMSC21",
@@ -3045,7 +3045,7 @@
       "Dixon SW",
       -125.12,
       48.85,
-      2
+      3
     ],
     [
       "BMSC22",
@@ -3056,7 +3056,7 @@
       "Dixon Inside",
       -125.12,
       48.85,
-      2
+      3
     ],
     [
       "BMSC23",
@@ -3067,7 +3067,51 @@
       "Aguilar Point",
       -125.14,
       48.84,
-      1
+      2
+    ],
+    [
+      "BMSC25",
+      "Canada",
+      "Temperate Northern Pacific",
+      "Vancouver",
+      "Oregon, Washington, Vancouver Coast and Shelf",
+      "Goby Town",
+      -125.14,
+      48.84,
+      2
+    ],
+    [
+      "BMSC26",
+      "Canada",
+      "Temperate Northern Pacific",
+      "Vancouver",
+      "Oregon, Washington, Vancouver Coast and Shelf",
+      "Hosie South",
+      -125.04,
+      48.91,
+      2
+    ],
+    [
+      "BMSC27",
+      "Canada",
+      "Temperate Northern Pacific",
+      "Vancouver",
+      "Oregon, Washington, Vancouver Coast and Shelf",
+      "San Jose North Island",
+      -125.06,
+      48.9,
+      2
+    ],
+    [
+      "BMSC28",
+      "Canada",
+      "Temperate Northern Pacific",
+      "Vancouver",
+      "Oregon, Washington, Vancouver Coast and Shelf",
+      "Swiss Boy",
+      -125.13,
+      48.92,
+      2
     ],
     [
       "BMSC3",
@@ -3078,7 +3122,7 @@
       "Ohiat",
       -125.18,
       48.86,
-      2
+      3
     ],
     [
       "BMSC4",
@@ -3089,7 +3133,7 @@
       "Kii xin",
       -125.18,
       48.82,
-      1
+      2
     ],
     [
       "BMSC5",
@@ -3100,7 +3144,7 @@
       "Taylor Rock",
       -125.2,
       48.83,
-      3
+      5
     ],
     [
       "BMSC6",
@@ -3111,7 +3155,7 @@
       "Baeria Rocks South Island",
       -125.16,
       48.95,
-      3
+      5
     ],
     [
       "BMSC7",
@@ -3133,7 +3177,7 @@
       "Baeria Rocks North Island Northside",
       -125.15,
       48.96,
-      2
+      4
     ],
     [
       "BMSC9",
@@ -3144,7 +3188,7 @@
       "Eagle Bay",
       -125.15,
       48.83,
-      2
+      3
     ],
     [
       "BOCAS1",
@@ -21349,7 +21393,7 @@
       "Captains Pt",
       150.71,
       -35.12,
-      81
+      84
     ],
     [
       "JBMP-S10",
@@ -21371,7 +21415,7 @@
       "Greenfield Beach Nth",
       150.69,
       -35.09,
-      67
+      70
     ],
     [
       "JBMP-S12",
@@ -21404,7 +21448,7 @@
       "GREEN POINT (GREEN ISLAND)",
       150.76,
       -35.02,
-      56
+      60
     ],
     [
       "JBMP-S15",
@@ -21415,7 +21459,7 @@
       "Bowen Island NW",
       150.77,
       -35.11,
-      89
+      95
     ],
     [
       "JBMP-S16",
@@ -21437,7 +21481,7 @@
       "Murrays Reef",
       150.75,
       -35.12,
-      73
+      77
     ],
     [
       "JBMP-S18",
@@ -21448,7 +21492,7 @@
       "Bristol Pt",
       150.73,
       -35.13,
-      98
+      102
     ],
     [
       "JBMP-S19",
@@ -21547,7 +21591,7 @@
       "Outer Tubes",
       150.8,
       -35.09,
-      116
+      119
     ],
     [
       "JBMP-S27",
@@ -21580,7 +21624,7 @@
       "The Docks 3 North Black Boat Cove",
       150.79,
       -35.08,
-      84
+      88
     ],
     [
       "JBMP-S5",
@@ -21602,7 +21646,7 @@
       "Honeymoon Bay 300m South",
       150.77,
       -35.06,
-      71
+      74
     ],
     [
       "JBMP-S7",
@@ -21624,7 +21668,7 @@
       "Plantation Point North",
       150.7,
       -35.07,
-      62
+      66
     ],
     [
       "JBMP-S9",
@@ -21910,7 +21954,7 @@
       "Nursery steps",
       150.77,
       -35.11,
-      25
+      26
     ],
     [
       "JBMP44",
@@ -32492,7 +32536,7 @@
       "St Leonards Reef",
       144.72,
       -38.17,
-      7
+      8
     ],
     [
       "PPB26",

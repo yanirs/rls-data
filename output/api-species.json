@@ -3811,6 +3811,13 @@
       "https://images.reeflifesurvey.com/0/species_9e_573e5097eac14.w1000.h666.jpg"
     ]
   ],
+  "Armina californica": [
+    "Armina californica",
+    "",
+    null,
+    1,
+    []
+  ],
   "Armina magna": [
     "Armina magna",
     "nudibranch",
@@ -5371,6 +5378,13 @@
     1,
     []
   ],
+  "Berthella californica": [
+    "Berthella californica",
+    "",
+    null,
+    1,
+    []
+  ],
   "Berthella chacei": [
     "Berthella chacei",
     "White berthella nudibranch",
@@ -6433,6 +6447,13 @@
     "Cadlina nigrobranchiata",
     "Nudibranch",
     "https://reeflifesurvey.com/species/cadlina-nigrobranchiata/",
+    1,
+    []
+  ],
+  "Cadlina sylviaearleae": [
+    "Cadlina sylviaearleae",
+    "",
+    null,
     1,
     []
   ],
@@ -10356,6 +10377,13 @@
     2,
     []
   ],
+  "Chirolophis nugator": [
+    "Chirolophis nugator",
+    "",
+    null,
+    2,
+    []
+  ],
   "Chironemus georgianus": [
     "Chironemus georgianus",
     "Western kelpfish",
@@ -10760,6 +10788,13 @@
       "https://images.reeflifesurvey.com/0/species_f1_570daac5d415f.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_e0_6494df71bbdf8.w1000.h666.jpg"
     ]
+  ],
+  "Chorilia longipes": [
+    "Chorilia longipes",
+    "",
+    null,
+    1,
+    []
   ],
   "Chorus giganteus": [
     "Chorus giganteus",
@@ -18471,6 +18506,13 @@
       "https://images.reeflifesurvey.com/0/species_ca_59db3635d5cfc.w1000.h666.jpg"
     ]
   ],
+  "Embiotocidae spp.": [
+    "Embiotocidae spp.",
+    "",
+    null,
+    0,
+    []
+  ],
   "Emblemaria pandionis": [
     "Emblemaria pandionis",
     "Sailfin blenny",
@@ -18810,6 +18852,13 @@
     "Entelurus aequoreus",
     "Snake pipefish",
     "https://reeflifesurvey.com/species/entelurus-aequoreus/",
+    2,
+    []
+  ],
+  "Enteroctopus dofleini": [
+    "Enteroctopus dofleini",
+    "",
+    null,
     2,
     []
   ],
@@ -19676,6 +19725,13 @@
       "https://images.reeflifesurvey.com/0/species_6a_578cac4e30f71.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_fb_578cac57536b4.w1000.h666.jpg"
     ]
+  ],
+  "Eurylepta leoparda": [
+    "Eurylepta leoparda",
+    "",
+    null,
+    1,
+    []
   ],
   "Eurylepta spp.": [
     "Eurylepta spp.",
@@ -24591,6 +24647,13 @@
       "https://images.reeflifesurvey.com/0/species_04_572006d177f46.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_16_57ce9738ded15.w1000.h666.jpg"
     ]
+  ],
+  "Hapalogaster mertensii": [
+    "Hapalogaster mertensii",
+    "",
+    null,
+    1,
+    []
   ],
   "Haploblepharus edwardsii": [
     "Haploblepharus edwardsii",
@@ -35009,6 +35072,13 @@
     1,
     []
   ],
+  "Opalia wroblewskyi": [
+    "Opalia wroblewskyi",
+    "",
+    null,
+    1,
+    []
+  ],
   "Opeatostoma pseudodon": [
     "Opeatostoma pseudodon",
     "Thorn latirus",
@@ -36240,6 +36310,13 @@
       "https://images.reeflifesurvey.com/0/species_50_599a3ae73e6f0.w1000.h666.jpg"
     ]
   ],
+  "Pachycheles pubescens": [
+    "Pachycheles pubescens",
+    "",
+    null,
+    1,
+    []
+  ],
   "Pachygrapsus marmoratus": [
     "Pachygrapsus marmoratus",
     "",
@@ -36524,6 +36601,13 @@
       "https://images.reeflifesurvey.com/0/species_90_573813bed21d6.w1000.h666.jpg"
     ]
   ],
+  "Pagurus beringanus": [
+    "Pagurus beringanus",
+    "",
+    null,
+    1,
+    []
+  ],
   "Pagurus bernhardus": [
     "Pagurus bernhardus",
     "Common hermit crab",
@@ -36739,6 +36823,13 @@
     "Pandalus montagui",
     "",
     "https://reeflifesurvey.com/species/pandalus-montagui/",
+    1,
+    []
+  ],
+  "Pandalus spp.": [
+    "Pandalus spp.",
+    "",
+    null,
     1,
     []
   ],
@@ -38961,24 +39052,9 @@
       "https://images.reeflifesurvey.com/0/species_56_5795645f90893.w1000.h666.JPG"
     ]
   ],
-  "Pentagonaster dubeni": [
-    "Pentagonaster dubeni",
-    "Fire-brick star",
-    "https://reeflifesurvey.com/species/pentagonaster-dubeni/",
-    1,
-    [
-      "https://images.reeflifesurvey.com/0/species_82_57884c468d307.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_bd_57abc4814e9f5.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_31_57abc0d70f5bc.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/0/species_f1_57885817123b9.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_6e_5790b45d0144e.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_e6_5790b4e232c24.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_e0_5790b4e8ec9cc.w1000.h666.jpg"
-    ]
-  ],
   "Pentagonaster duebeni": [
     "Pentagonaster duebeni",
-    "",
+    "Fire-brick star, Pentagonaster dubeni",
     "https://reeflifesurvey.com/species/pentagonaster-duebeni/",
     1,
     []
@@ -39647,6 +39723,13 @@
       "https://images.reeflifesurvey.com/0/species_5a_577b275ce4a26.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_05_577b275587386.w1000.h666.jpg"
     ]
+  ],
+  "Pholis clemensi": [
+    "Pholis clemensi",
+    "",
+    null,
+    2,
+    []
   ],
   "Pholis crassispina": [
     "Pholis crassispina",
@@ -47399,6 +47482,13 @@
       "https://images.reeflifesurvey.com/1/species_70_636b35041b73e.w1000.h666.jpg"
     ]
   ],
+  "Scyra spp.": [
+    "Scyra spp.",
+    "",
+    null,
+    1,
+    []
+  ],
   "Sebastapistes coniorta": [
     "Sebastapistes coniorta",
     "",
@@ -47577,6 +47667,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_47_59db3e9190af7.w1000.h666.jpg"
     ]
+  ],
+  "Sebastes nigrocinctus": [
+    "Sebastes nigrocinctus",
+    "",
+    null,
+    0,
+    []
   ],
   "Sebastes oculatus": [
     "Sebastes oculatus",
