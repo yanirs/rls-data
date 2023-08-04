@@ -53,7 +53,8 @@ jobs:
         run: |
           curl -sS --compressed \
             "https://reeflifesurvey.com/species/api/species.json?v=$(date --utc +%s)" \
-            | jq > output/species.json
+            | jq \
+            > output/species.json
 
       # Extra debugging support, as some of species.json originates from raw_species.csv.
       # Removing the first column (FID) because it changes on every request.
@@ -61,7 +62,9 @@ jobs:
         run: |
           curl -sS --compressed \
             "https://geoserver-123.aodn.org.au/geoserver/imos/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=imos%3Aep_species_list_data&outputFormat=csv" \
-            | cut -d, -f2- > output/raw_species.csv
+            | cut -d, -f2- \
+            | sort -n \
+            > output/raw_species.csv
 
       - name: Crawl RLS species data
         run: |
