@@ -2440,7 +2440,8 @@
     "https://reeflifesurvey.com/species/anarrhichthys-ocellatus/",
     2,
     [
-      "https://images.reeflifesurvey.com/0/species_ac_59d585bf5b7fd.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_ac_59d585bf5b7fd.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_1d_64d2fcec3c0bf.w1000.h666.jpg"
     ]
   ],
   "Anasterias antarctica": [
@@ -5390,7 +5391,9 @@
     "White berthella nudibranch",
     "https://reeflifesurvey.com/species/berthella-chacei/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_27_64d2ed7eb9a31.w1000.h666.JPG"
+    ]
   ],
   "Berthella martensi": [
     "Berthella martensi",
@@ -15050,7 +15053,9 @@
     "Butterfly crab",
     "https://reeflifesurvey.com/species/cryptolithodes-typicus/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_5a_64d2f37781af7.w1000.h666.jpg"
+    ]
   ],
   "Cryptotomus roseus": [
     "Cryptotomus roseus",
@@ -16977,6 +16982,7 @@
     "https://reeflifesurvey.com/species/dirona-albolineata/",
     1,
     [
+      "https://images.reeflifesurvey.com/1/species_12_64d2fd7da94cc.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_31_59db35d16eba7.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_fa_59d180a604090.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_95_59d180a12445b.w1000.h666.JPG"
@@ -29049,7 +29055,9 @@
     "Cockerells dorid",
     "https://reeflifesurvey.com/species/limacia-cockerelli/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_77_64d2f7a92df8f.w1000.h666.JPG"
+    ]
   ],
   "Limacia mcdonaldi": [
     "Limacia mcdonaldi",
@@ -36810,7 +36818,9 @@
     "Dock shrimp",
     "https://reeflifesurvey.com/species/pandalus-danae/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_89_64d2fbffa2b8d.w1000.h666.JPG"
+    ]
   ],
   "Pandalus gurneyi": [
     "Pandalus gurneyi",
@@ -44275,7 +44285,9 @@
     "Slipper sea cucumber, Psolus chitinoides",
     "https://reeflifesurvey.com/species/psolus-chitonoides/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_8c_64d2eb4c1b61f.w1000.h666.jpg"
+    ]
   ],
   "Psolus spp.": [
     "Psolus spp.",
@@ -53427,7 +53439,10 @@
     "Diamondback tritonia",
     "https://reeflifesurvey.com/species/tritonia-festiva/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_51_64d2f952031ef.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_9f_64d2f953be12d.w1000.h666.jpg"
+    ]
   ],
   "Tritonia flemingi": [
     "Tritonia flemingi",
