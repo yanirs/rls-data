@@ -41566,7 +41566,9 @@
     "Tricolour nudibranch",
     "https://reeflifesurvey.com/species/polycera-tricolor/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_7b_64d449dd68f8e.w1000.h666.JPG"
+    ]
   ],
   "Polycladida sp. (hairy)": [
     "Polycladida sp. (hairy)",
@@ -43288,6 +43290,13 @@
     "Pseudocaranx chilensis",
     "",
     "https://reeflifesurvey.com/species/pseudocaranx-chilensis/",
+    0,
+    []
+  ],
+  "Pseudocaranx dentex": [
+    "Pseudocaranx dentex",
+    "",
+    null,
     0,
     []
   ],
