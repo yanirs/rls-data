@@ -453,14 +453,18 @@
     "",
     "https://reeflifesurvey.com/species/acanthodoris-hudsoni/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_32_64d5b720d0dd8.w1000.h666.jpg"
+    ]
   ],
   "Acanthodoris nanaimoensis": [
     "Acanthodoris nanaimoensis",
     "Nanaimo horned dorid",
     "https://reeflifesurvey.com/species/acanthodoris-nanaimoensis/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_56_64d5b506d037f.w1000.h666.jpg"
+    ]
   ],
   "Acanthodoris sp. [hudsoni]": [
     "Acanthodoris sp. [hudsoni]",
@@ -2875,7 +2879,9 @@
     "White-and-orange-tipped nudibranch",
     "https://reeflifesurvey.com/species/antiopella-fusca/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_50_64d5baecdb918.w1000.h666.jpg"
+    ]
   ],
   "Anyperodon leucogrammicus": [
     "Anyperodon leucogrammicus",
@@ -15046,7 +15052,9 @@
     "Umbrella crab ",
     "https://reeflifesurvey.com/species/cryptolithodes-sitchensis/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_99_64d5c78936896.w1000.h666.jpg"
+    ]
   ],
   "Cryptolithodes typicus": [
     "Cryptolithodes typicus",
@@ -15515,7 +15523,10 @@
     "",
     "https://reeflifesurvey.com/species/cyclopterus-lumpus/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_0d_64d5c061a97fb.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_45_64d5c062ecd98.w1000.h666.jpg"
+    ]
   ],
   "Cyerce nigricans": [
     "Cyerce nigricans",
@@ -16312,7 +16323,9 @@
     "Giant frond-aeolis",
     "https://reeflifesurvey.com/species/dendronotus-iris/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_53_64d5c5fe08fc8.w1000.h666.JPG"
+    ]
   ],
   "Dendronotus robustus": [
     "Dendronotus robustus",
@@ -17305,6 +17318,8 @@
     "https://reeflifesurvey.com/species/doris-montereyensis/",
     1,
     [
+      "https://images.reeflifesurvey.com/1/species_d9_64d5b0c35f449.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_88_64d5b0c4d91b9.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_37_636b2630747bf.w1000.h666.jpg"
     ]
   ],
@@ -21419,7 +21434,9 @@
     "Heaths dorid",
     "https://reeflifesurvey.com/species/geitodoris-heathi/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_02_64d5aef2800c2.w1000.h666.jpg"
+    ]
   ],
   "Gemophos sanguinolentus": [
     "Gemophos sanguinolentus",
@@ -25299,6 +25316,20 @@
       "https://images.reeflifesurvey.com/0/species_cc_59db3758714b7.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_a5_636b2bd20377e.w1000.h666.jpg"
     ]
+  ],
+  "Hermissenda emurai": [
+    "Hermissenda emurai",
+    "",
+    null,
+    1,
+    []
+  ],
+  "Hermissenda opalescens": [
+    "Hermissenda opalescens",
+    "",
+    null,
+    1,
+    []
   ],
   "Hermosilla azurea": [
     "Hermosilla azurea",
@@ -32005,7 +32036,10 @@
     "Sea lemon, Peltodoris nobilis",
     "https://reeflifesurvey.com/species/montereina-nobilis/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_e7_64d5b128244f9.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_71_64d5bd606ae92.w1000.h666.jpg"
+    ]
   ],
   "Moridae spp.": [
     "Moridae spp.",
@@ -39713,6 +39747,7 @@
     "https://reeflifesurvey.com/species/phoca-vitulina/",
     0,
     [
+      "https://images.reeflifesurvey.com/1/species_35_64d5be4d61b56.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_be_636b1fe01f711.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_d5_636b1fb2b1410.w1000.h666.jpg"
     ]
@@ -43295,14 +43330,14 @@
   ],
   "Pseudocaranx dentex": [
     "Pseudocaranx dentex",
-    "",
-    null,
+    "White trevally, Caranx dentex",
+    "https://reeflifesurvey.com/species/pseudocaranx-dentex/",
     0,
     []
   ],
   "Pseudocaranx georgianus": [
     "Pseudocaranx georgianus",
-    "Silver trevally, Caranx dentex, Caranx georgianus, Pseudocaranx dentex",
+    "Silver trevally, Caranx georgianus",
     "https://reeflifesurvey.com/species/pseudocaranx-georgianus/",
     0,
     [
