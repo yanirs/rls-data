@@ -45115,7 +45115,10 @@
     "Grunt sculpin",
     "https://reeflifesurvey.com/species/rhamphocottus-richardsonii/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_f6_64dc48ec92fcd.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_6b_64dc48ee33d2d.w1000.h666.jpg"
+    ]
   ],
   "Rhina ancylostoma": [
     "Rhina ancylostoma",
