@@ -25310,11 +25310,9 @@
     "https://reeflifesurvey.com/species/hermissenda-crassicornis/",
     1,
     [
-      "https://images.reeflifesurvey.com/1/species_ec_636b2bad50ec8.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_90_59db4c624cd32.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_a4_59db4c69719d8.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_cc_59db3758714b7.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_a5_636b2bd20377e.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_13_64dda2e478873.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_d1_64dda31eab534.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/0/species_cc_59db3758714b7.w1000.h666.jpg"
     ]
   ],
   "Hermissenda emurai": [
@@ -25329,7 +25327,11 @@
     "",
     "https://reeflifesurvey.com/species/hermissenda-opalescens/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_09_64ddcb3fd0cad.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_a6_64ddcb5c03c27.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_bd_64ddcb6e6272b.w1000.h666.jpg"
+    ]
   ],
   "Hermosilla azurea": [
     "Hermosilla azurea",
@@ -55317,16 +55319,6 @@
     "https://reeflifesurvey.com/species/zoila-venusta/",
     1,
     []
-  ],
-  "Zoramia fragilis": [
-    "Zoramia fragilis",
-    "Fragile Cardinalfish",
-    "https://reeflifesurvey.com/species/zoramia-fragilis/",
-    2,
-    [
-      "https://images.reeflifesurvey.com/0/species_97_572bd432e850a.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/0/species_b4_572bd46f4d744.w1000.h666.JPG"
-    ]
   ],
   "Zoramia leptacantha": [
     "Zoramia leptacantha",
