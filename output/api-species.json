@@ -10340,9 +10340,9 @@
     "https://reeflifesurvey.com/species/chilomycterus-reticulatus/",
     2,
     [
-      "https://images.reeflifesurvey.com/0/species_78_577eef6b7f9d4.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/0/species_05_57f49b183c81d.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_cf_577eef67853ae.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/0/species_bd_577eea8c13922.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/0/species_65_577eea87a7274.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/0/species_05_57f49b183c81d.w1000.h666.jpg"
     ]
   ],
   "Chiloscyllium punctatum": [
@@ -10377,7 +10377,14 @@
     "Banded morwong, Cheilodactylus spectabilis",
     "https://reeflifesurvey.com/species/chirodactylus-spectabilis/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_b4_57513feab0632.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_df_5d155fc57664e.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_25_576a2b50e4b70.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_13_57c91c61b616e.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_b4_5d155fc8f1deb.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_11_57513ffdd66d9.w1000.h666.jpg"
+    ]
   ],
   "Chirolophis ascanii": [
     "Chirolophis ascanii",
@@ -22284,17 +22291,23 @@
   ],
   "Goniistius francisi": [
     "Goniistius francisi",
-    "Blacktip morwong, Cheilodactylus francisi",
+    "Blacktip morwong, Masked Moki, Cheilodactylus francisi",
     "https://reeflifesurvey.com/species/goniistius-francisi/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_1c_5744e9b4c749d.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_dd_5744e9bdefdf2.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_b4_5744e9d838c59.w1000.h666.jpg"
+    ]
   ],
   "Goniistius gibbosus": [
     "Goniistius gibbosus",
     "Magpie morwong, Cheilodactylus gibbosus",
     "https://reeflifesurvey.com/species/goniistius-gibbosus/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_18_57f5cc31a4231.w1000.h666.JPG"
+    ]
   ],
   "Goniistius plessisi": [
     "Goniistius plessisi",
@@ -22308,14 +22321,22 @@
     "Redlip morwong, Cheilodactylus rubrolabiatus",
     "https://reeflifesurvey.com/species/goniistius-rubrolabiatus/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_19_570d9b70c04ca.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_9f_570d9b754937b.w1000.h666.jpg"
+    ]
   ],
   "Goniistius vestitus": [
     "Goniistius vestitus",
-    "Crested morwong, Cheilodactylus vestitus",
+    "Crested morwong, Eastern Crested Morwong, Eastern Magpie Morwong, Eastern Morwong, Magpie Morwong, Cheilodactylus vestitus",
     "https://reeflifesurvey.com/species/goniistius-vestitus/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_3d_570d9cb1590c2.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_86_570d9cb6095e2.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_8f_576a2c1849a20.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/0/species_2e_5744ee8d108dd.w1000.h666.jpg"
+    ]
   ],
   "Goniistius zebra": [
     "Goniistius zebra",
@@ -25860,9 +25881,14 @@
     "https://reeflifesurvey.com/species/hippocampus-abdominalis/",
     2,
     [
+      "https://images.reeflifesurvey.com/1/species_8f_5de0ea9374340.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_3e_5785e273a3950.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_67_5912969c23b39.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/0/species_e9_5785e28122b48.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_2e_5912941f851e2.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_ef_57ac337b6609b.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_18_5785e2de63fa1.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_e7_5785e27980a03.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_13_570d9c1caaf2c.w1000.h666.jpg"
     ]
   ],
@@ -27086,7 +27112,7 @@
   ],
   "Hypselodoris saintvincentia": [
     "Hypselodoris saintvincentia",
-    "St Vincent's nudibranch, Hypselodoris saintvincentius",
+    "Saint Vincents Hypselodoris, St Vincent's nudibranch, Hypselodoris saintvincentius",
     "https://reeflifesurvey.com/species/hypselodoris-saintvincentia/",
     1,
     [
@@ -32153,14 +32179,25 @@
     "Painted morwong, Cheilodactylus ephippium",
     "https://reeflifesurvey.com/species/morwong-ephippium/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_81_5744e5f752173.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_26_570d9998cbde6.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_3f_57c91741621fc.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_c7_576a27f3ac8d4.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_b7_5744e603ac83e.w1000.h666.jpg"
+    ]
   ],
   "Morwong fuscus": [
     "Morwong fuscus",
     "Red morwong, Cheilodactylus fuscus",
     "https://reeflifesurvey.com/species/morwong-fuscus/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_68_574d752f5fe06.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_35_574d756d34806.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_35_570d9a155bd8a.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_74_574d758a09b27.w1000.h666.jpg"
+    ]
   ],
   "Mugil cephalus": [
     "Mugil cephalus",
@@ -35720,17 +35757,29 @@
   ],
   "Ostorhinchus doederleini": [
     "Ostorhinchus doederleini",
-    "Four lined cardinalfish, Apogon doederleini",
+    "Four lined cardinalfish, Doederlein's Cardinalfish, Apogon doederleini",
     "https://reeflifesurvey.com/species/ostorhinchus-doederleini/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_82_5981d86bc9bcc.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_2f_576888ecd1959.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/0/species_ca_56fb0ca10940e.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_0e_57517530d0b11.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_4e_5751753a57f81.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_a7_57691ff86a212.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_5e_576888f4c114d.w1000.h666.jpg"
+    ]
   ],
   "Ostorhinchus flavus": [
     "Ostorhinchus flavus",
     "Yellow cardinalfish, Apogon flavus",
     "https://reeflifesurvey.com/species/ostorhinchus-flavus/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_4e_56f33c5528a2d.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_42_5758eb2e75c64.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/0/species_28_56ef67492d56b.w1000.h666.jpg"
+    ]
   ],
   "Ostorhinchus fleurieu": [
     "Ostorhinchus fleurieu",
@@ -39103,7 +39152,15 @@
     "Fire-brick star, Pentagonaster dubeni",
     "https://reeflifesurvey.com/species/pentagonaster-duebeni/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_82_57884c468d307.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_bd_57abc4814e9f5.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_31_57abc0d70f5bc.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/0/species_f1_57885817123b9.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_6e_5790b45d0144e.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_e6_5790b4e232c24.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_e0_5790b4e8ec9cc.w1000.h666.jpg"
+    ]
   ],
   "Pentagonaster pulchellus": [
     "Pentagonaster pulchellus",
@@ -49512,7 +49569,11 @@
     "White-spotted devil, Plectroglyphidodon lacrymatus",
     "https://reeflifesurvey.com/species/stegastes-lacrymatus/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_c5_56f205c6ca588.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_9f_57c183eb77a35.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_cf_56f205cce6126.w1000.h666.jpg"
+    ]
   ],
   "Stegastes leucorus": [
     "Stegastes leucorus",
