@@ -5716,7 +5716,9 @@
     "Polka-dotted sea cucumber",
     "https://reeflifesurvey.com/species/bohadschia-ocellata/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_f8_64eda39b14200.w1000.h666.jpg"
+    ]
   ],
   "Bohadschia sp. [brown]": [
     "Bohadschia sp. [brown]",
@@ -6938,7 +6940,9 @@
     "",
     "https://reeflifesurvey.com/species/callionymus-enneactis/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_52_64eda48c3bd88.w1000.h666.jpg"
+    ]
   ],
   "Callionymus goodladi": [
     "Callionymus goodladi",
@@ -25349,9 +25353,9 @@
     "https://reeflifesurvey.com/species/hermissenda-opalescens/",
     1,
     [
+      "https://images.reeflifesurvey.com/1/species_11_64ed5f18ea45b.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_09_64ddcb3fd0cad.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_a6_64ddcb5c03c27.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_bd_64ddcb6e6272b.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_1c_64ed62d26d06e.w1000.h666.jpg"
     ]
   ],
   "Hermosilla azurea": [
@@ -26462,7 +26466,9 @@
     "Sea cucumber",
     "https://reeflifesurvey.com/species/holothuria-philippinensis/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_76_64eda678a4d61.w1000.h666.jpg"
+    ]
   ],
   "Holothuria polii": [
     "Holothuria polii",
