@@ -2445,7 +2445,8 @@
     2,
     [
       "https://images.reeflifesurvey.com/0/species_ac_59d585bf5b7fd.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_1d_64d2fcec3c0bf.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_1d_64d2fcec3c0bf.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_8c_64eedae6b30d5.w1000.h666.jpg"
     ]
   ],
   "Anasterias antarctica": [
@@ -14458,9 +14459,7 @@
     "",
     "https://reeflifesurvey.com/species/corythoichthys-amplexus/",
     2,
-    [
-      "https://images.reeflifesurvey.com/1/species_cf_63478e020eae9.w1000.h666.JPG"
-    ]
+    []
   ],
   "Corythoichthys conspicillatus": [
     "Corythoichthys conspicillatus",
@@ -14494,8 +14493,7 @@
     2,
     [
       "https://images.reeflifesurvey.com/0/species_cc_570d7800ea951.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_3b_570d7807bb369.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_86_570d780c9945e.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_3b_570d7807bb369.w1000.h666.jpg"
     ]
   ],
   "Corythoichthys intestinalis": [
@@ -14503,7 +14501,10 @@
     "Messmate Pipefish, Australian Messmate Pipefish, Banded Pipefish, Scribbled Pipefish",
     "https://reeflifesurvey.com/species/corythoichthys-intestinalis/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_d6_64eea2ba89487.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_20_64eea2bdd018c.w1000.h666.jpg"
+    ]
   ],
   "Corythoichthys ocellatus": [
     "Corythoichthys ocellatus",
@@ -14511,7 +14512,7 @@
     "https://reeflifesurvey.com/species/corythoichthys-ocellatus/",
     2,
     [
-      "https://images.reeflifesurvey.com/0/species_a0_576c9d32b362c.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_96_64eea67d8488e.w1000.h666.jpg"
     ]
   ],
   "Corythoichthys polynotatus": [
@@ -14519,7 +14520,11 @@
     "",
     "https://reeflifesurvey.com/species/corythoichthys-polynotatus/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_d8_64eea7218b433.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_b9_64eea723cbcd5.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_6b_64eea80873930.w1000.h666.jpg"
+    ]
   ],
   "Corythoichthys schultzi": [
     "Corythoichthys schultzi",
@@ -14528,9 +14533,7 @@
     2,
     [
       "https://images.reeflifesurvey.com/0/species_3e_570d8828a5a3a.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_70_570d8857be0aa.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_9b_577499dbf3af4.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_cc_57749a570dbaa.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_70_570d8857be0aa.w1000.h666.jpg"
     ]
   ],
   "Corythoichthys sp. [1 RK]": [
@@ -14538,7 +14541,11 @@
     "",
     "https://reeflifesurvey.com/species/corythoichthys-sp-1-rk/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_ae_64eeaba6ec4a6.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_57_64eeaba5724a3.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_2d_64eeaba40d586.w1000.h666.jpg"
+    ]
   ],
   "Corythoichthys sp. [10 RK]": [
     "Corythoichthys sp. [10 RK]",
@@ -14546,7 +14553,8 @@
     "https://reeflifesurvey.com/species/corythoichthys-sp-10-rk/",
     2,
     [
-      "https://images.reeflifesurvey.com/0/species_26_575d3863b49f3.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_26_575d3863b49f3.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_f7_64eead4e41d20.w1000.h666.JPG"
     ]
   ],
   "Corythoichthys sp. [2 RK]": [
@@ -14561,7 +14569,11 @@
     "",
     "https://reeflifesurvey.com/species/corythoichthys-sp-5-rk/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_f9_64eeae446aeca.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_06_64eeae45f0cb5.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_2d_64eeae474fd73.w1000.h666.jpg"
+    ]
   ],
   "Corythoichthys spp.": [
     "Corythoichthys spp.",
@@ -21307,7 +21319,9 @@
     "Oregon triton",
     "https://reeflifesurvey.com/species/fusitriton-oregonensis/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_3b_64eed0dea2f77.w1000.h666.jpg"
+    ]
   ],
   "Gadus morhua": [
     "Gadus morhua",
@@ -29430,7 +29444,11 @@
     "Puget sound king crab",
     "https://reeflifesurvey.com/species/lopholithodes-mandtii/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_53_64ef083180874.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_0e_64ef082fd5c42.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_5d_64ef09a24bde5.w1000.h666.jpg"
+    ]
   ],
   "Lophopanopeus bellus": [
     "Lophopanopeus bellus",
@@ -31244,8 +31262,8 @@
     "https://reeflifesurvey.com/species/mesocentrotus-franciscanus/",
     1,
     [
+      "https://images.reeflifesurvey.com/1/species_27_64eee400c4dc1.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/1/species_87_636b33c18ff8f.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_4e_636b33be09e91.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_9e_636b33c4c9cf1.w1000.h666.jpg"
     ]
   ],
@@ -50310,6 +50328,7 @@
     "https://reeflifesurvey.com/species/strongylocentrotus-purpuratus/",
     1,
     [
+      "https://images.reeflifesurvey.com/1/species_b8_64eee178d898e.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/1/species_7f_636b2eefc1534.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_8e_636b2eec34f7f.w1000.h666.jpg"
     ]
