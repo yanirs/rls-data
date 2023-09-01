@@ -4383,7 +4383,9 @@
     "https://reeflifesurvey.com/species/astralium-calcar/",
     1,
     [
-      "https://images.reeflifesurvey.com/1/species_b4_63476db993450.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/1/species_b4_63476db993450.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_50_64f009c6db6a5.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_6d_64f009af8d78b.w1000.h666.jpg"
     ]
   ],
   "Astralium haematragum": [
@@ -10410,7 +10412,9 @@
     "Western kelpfish",
     "https://reeflifesurvey.com/species/chironemus-georgianus/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_f7_64effd16d1fa0.w1000.h666.JPG"
+    ]
   ],
   "Chironemus maculosus": [
     "Chironemus maculosus",
@@ -18366,6 +18370,7 @@
     0,
     [
       "https://images.reeflifesurvey.com/0/species_9f_57354369ba93d.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_11_64f0013abe655.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_97_56fb256bac8a3.w1000.h666.jpg"
     ]
   ],
@@ -24853,7 +24858,8 @@
       "https://images.reeflifesurvey.com/0/species_b3_576fafa0039cc.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_f4_572008980a197.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_34_5772009013774.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/0/species_8a_57720116447f3.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_8a_57720116447f3.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_f3_64f001ce6d5fe.w1000.h666.jpg"
     ]
   ],
   "Helcogrammoides chilensis": [
@@ -47018,6 +47024,7 @@
     0,
     [
       "https://images.reeflifesurvey.com/0/species_a4_57539b0de7fb7.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_af_64effb8f593ae.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_9d_57d8e44b0dbdc.w1000.h666.jpg"
     ]
   ],
@@ -47432,7 +47439,8 @@
       "https://images.reeflifesurvey.com/0/species_02_570f01594d7fb.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_2f_570f015e2e542.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_8d_577dd6eab0488.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_9f_577dd6f11296a.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_9f_577dd6f11296a.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_d5_64f0127256834.w1000.h666.jpg"
     ]
   ],
   "Scorpaenopsis possi": [
@@ -52415,7 +52423,8 @@
     "https://reeflifesurvey.com/species/thyrsites-atun/",
     0,
     [
-      "https://images.reeflifesurvey.com/0/species_a9_59e3fcf672d1d.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_a9_59e3fcf672d1d.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_7d_64efff8e42ea2.w1000.h666.jpg"
     ]
   ],
   "Thysanophrys cirronasa": [
