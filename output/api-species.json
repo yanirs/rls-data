@@ -25357,7 +25357,8 @@
     [
       "https://images.reeflifesurvey.com/1/species_13_64dda2e478873.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/1/species_d1_64dda31eab534.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/0/species_cc_59db3758714b7.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_cc_59db3758714b7.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_ed_64f4382813b20.w1000.h666.jpg"
     ]
   ],
   "Hermissenda emurai": [
@@ -29453,7 +29454,8 @@
     [
       "https://images.reeflifesurvey.com/1/species_53_64ef083180874.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_0e_64ef082fd5c42.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_5d_64ef09a24bde5.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_5d_64ef09a24bde5.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_ad_64f43482e952d.w1000.h666.jpg"
     ]
   ],
   "Lophopanopeus bellus": [
@@ -40257,7 +40259,9 @@
     "Heart crab",
     "https://reeflifesurvey.com/species/phyllolithodes-papillosus/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_c8_64f43404214ad.w1000.h666.jpg"
+    ]
   ],
   "Phyllonotus pomum": [
     "Phyllonotus pomum",
@@ -41691,7 +41695,8 @@
     "https://reeflifesurvey.com/species/polycera-tricolor/",
     1,
     [
-      "https://images.reeflifesurvey.com/1/species_7b_64d449dd68f8e.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/1/species_7b_64d449dd68f8e.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_97_64f442c5db2aa.w1000.h666.jpg"
     ]
   ],
   "Polycladida sp. (hairy)": [
