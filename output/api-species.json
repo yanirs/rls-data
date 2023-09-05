@@ -984,7 +984,9 @@
     "Whitecap limpet",
     "https://reeflifesurvey.com/species/acmaea-mitra/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_45_64f680e51002e.w1000.h666.jpg"
+    ]
   ],
   "Acodontaster conspicuous": [
     "Acodontaster conspicuous",
@@ -3490,7 +3492,10 @@
     "California sea cucumber",
     "https://reeflifesurvey.com/species/apostichopus-californicus/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_cf_64f5440f41f28.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_56_64f54410d4252.w1000.h666.jpg"
+    ]
   ],
   "Apostichopus japonicus": [
     "Apostichopus japonicus",
@@ -19852,7 +19857,9 @@
     "https://reeflifesurvey.com/species/evasterias-troschelii/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_98_59db36b56e9af.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_32_64f5612616424.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_3b_64f561419e8c7.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_f8_64f562ae58b77.w1000.h666.jpg"
     ]
   ],
   "Evechinus chloroticus": [
@@ -25279,7 +25286,9 @@
     "Dwarf mottled henricia",
     "https://reeflifesurvey.com/species/henricia-pumila/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_4a_64f5581c873b4.w1000.h666.jpg"
+    ]
   ],
   "Henricia sanguinolenta": [
     "Henricia sanguinolenta",
@@ -25315,7 +25324,9 @@
     "Stiletto shrimp",
     "https://reeflifesurvey.com/species/heptacarpus-stylus/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_4b_64f53dea27064.w1000.h666.jpg"
+    ]
   ],
   "Heraldia nocturna": [
     "Heraldia nocturna",
@@ -30900,7 +30911,10 @@
     "Vermillion sea star",
     "https://reeflifesurvey.com/species/mediaster-aequalis/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_10_64f56be2de3f2.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_05_64f56bdee11e8.w1000.h666.jpg"
+    ]
   ],
   "Megalops atlanticus": [
     "Megalops atlanticus",
@@ -35648,10 +35662,14 @@
   ],
   "Orthasterias koehleri": [
     "Orthasterias koehleri",
-    "Rainbow star",
+    "Rainbow star, Painted Star",
     "https://reeflifesurvey.com/species/orthasterias-koehleri/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_2c_64f568dc16e5f.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_77_64f568b6df9fd.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_41_64f568c615417.w1000.h666.jpg"
+    ]
   ],
   "Orthonopias triacis": [
     "Orthonopias triacis",
@@ -40539,7 +40557,10 @@
     "Giant pink sea star",
     "https://reeflifesurvey.com/species/pisaster-brevispinus/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_0a_64f5709b6c761.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_ce_64f5709d41267.w1000.h666.jpg"
+    ]
   ],
   "Pisaster giganteus": [
     "Pisaster giganteus",
@@ -40556,7 +40577,9 @@
     "Purple sea star",
     "https://reeflifesurvey.com/species/pisaster-ochraceus/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_8b_64f571f15f33f.w1000.h666.jpg"
+    ]
   ],
   "Pisidia longicornis": [
     "Pisidia longicornis",
@@ -44532,7 +44555,9 @@
     "Slime star",
     "https://reeflifesurvey.com/species/pteraster-tesselatus/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_e1_64f5730008686.w1000.h666.jpg"
+    ]
   ],
   "Ptereleotris calliura": [
     "Ptereleotris calliura",
@@ -44959,7 +44984,9 @@
     1,
     [
       "https://images.reeflifesurvey.com/0/species_af_57da626290100.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/0/species_0d_59db3ce7b6d78.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_0d_59db3ce7b6d78.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_10_64f55c3fa132c.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_39_64f55e05173b8.w1000.h666.jpg"
     ]
   ],
   "Pygoplites diacanthus": [
@@ -48843,6 +48870,8 @@
     "https://reeflifesurvey.com/species/solaster-stimpsoni/",
     1,
     [
+      "https://images.reeflifesurvey.com/1/species_99_64f5657cc7810.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_fb_64f5657b06633.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_92_59db405993d47.w1000.h666.jpg"
     ]
   ],
@@ -50389,6 +50418,7 @@
     "https://reeflifesurvey.com/species/stylasterias-forreri/",
     1,
     [
+      "https://images.reeflifesurvey.com/1/species_96_64f56aeaecc40.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_d3_59db407278be2.w1000.h666.jpg"
     ]
   ],
