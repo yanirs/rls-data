@@ -981,7 +981,7 @@
   ],
   "Acmaea mitra": [
     "Acmaea mitra",
-    "Whitecap limpet",
+    "Whitecap limpet, Duncecap limpet",
     "https://reeflifesurvey.com/species/acmaea-mitra/",
     1,
     [
@@ -6460,7 +6460,9 @@
     "Modest cadlina nudibranch",
     "https://reeflifesurvey.com/species/cadlina-modesta/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_b9_64f6aebcb5ea8.w1000.h666.jpg"
+    ]
   ],
   "Cadlina nigrobranchiata": [
     "Cadlina nigrobranchiata",
@@ -14651,7 +14653,9 @@
     "Purple-hinged rock scallop",
     "https://reeflifesurvey.com/species/crassadoma-gigantea/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_e8_64f686296ae79.w1000.h666.jpg"
+    ]
   ],
   "Crassilabrum crassilabrum": [
     "Crassilabrum crassilabrum",
@@ -16596,7 +16600,10 @@
     "Spotted dorid",
     "https://reeflifesurvey.com/species/diaulula-odonoghuei/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_d1_64f69f07e33e9.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_38_64f6a172a7ef7.w1000.h666.jpg"
+    ]
   ],
   "Diaulula punctuolata": [
     "Diaulula punctuolata",
@@ -16607,13 +16614,14 @@
   ],
   "Diaulula sandiegensis": [
     "Diaulula sandiegensis",
-    "Ringed doris",
+    "Ringed doris, San Diego dorid",
     "https://reeflifesurvey.com/species/diaulula-sandiegensis/",
     1,
     [
-      "https://images.reeflifesurvey.com/1/species_80_636b3423b991e.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_bb_64f6943c25286.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_33_59d18098be980.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_bb_59d180937c0a2.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_80_636b3423b991e.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_71_636b341b6eb6d.w1000.h666.jpg"
     ]
   ],
@@ -16764,14 +16772,15 @@
   ],
   "Diodora aspera": [
     "Diodora aspera",
-    "",
+    "Keyhole limpet, Rough keyhole limpet",
     "https://reeflifesurvey.com/species/diodora-aspera/",
     1,
     [
+      "https://images.reeflifesurvey.com/1/species_38_64f68c7999b95.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_71_64f68c7803a56.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_6e_636b22cbb8187.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_f8_636b22ce58997.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_65_636b22d1aa8fc.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_cf_636b22d510a49.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_65_636b22d1aa8fc.w1000.h666.jpg"
     ]
   ],
   "Diodora cayenensis": [
@@ -36798,8 +36807,9 @@
     "https://reeflifesurvey.com/species/pagurus-hemphilli/",
     1,
     [
-      "https://images.reeflifesurvey.com/1/species_d4_636b24c6a2b19.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_a7_636b24c3aa593.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_87_64f6aa600c1f8.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_a7_636b24c3aa593.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_d4_636b24c6a2b19.w1000.h666.jpg"
     ]
   ],
   "Pagurus lanuginosus": [
@@ -47800,7 +47810,8 @@
     "https://reeflifesurvey.com/species/sebastes-flavidus/",
     0,
     [
-      "https://images.reeflifesurvey.com/0/species_a9_59db3e78f284a.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_a9_59db3e78f284a.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_a7_64f6bccfaf9e5.w1000.h666.jpg"
     ]
   ],
   "Sebastes inermis": [
@@ -47815,14 +47826,19 @@
     "Quillback rockfish",
     "https://reeflifesurvey.com/species/sebastes-maliger/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_ab_64f6a6c98e289.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_d6_64f6a6cb7d649.w1000.h666.jpg"
+    ]
   ],
   "Sebastes melanops": [
     "Sebastes melanops",
     "Black rockfish",
     "https://reeflifesurvey.com/species/sebastes-melanops/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_20_64f6a410dced0.w1000.h666.jpg"
+    ]
   ],
   "Sebastes miniatus": [
     "Sebastes miniatus",
@@ -47847,7 +47863,9 @@
     "https://reeflifesurvey.com/species/sebastes-nebulosus/",
     0,
     [
-      "https://images.reeflifesurvey.com/0/species_47_59db3e9190af7.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_80_64f6be0db8544.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/0/species_47_59db3e9190af7.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_c5_64f6bf86a7b99.w1000.h666.jpg"
     ]
   ],
   "Sebastes nigrocinctus": [
@@ -53424,14 +53442,20 @@
     "Sea-clown triopha",
     "https://reeflifesurvey.com/species/triopha-catalinae/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_df_64f6cb462d45a.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_d9_64f6c85a9f87f.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_e2_64f6cdcf0e125.w1000.h666.jpg"
+    ]
   ],
   "Triopha modesta": [
     "Triopha modesta",
     "Sea clown",
     "https://reeflifesurvey.com/species/triopha-modesta/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_19_64f6ce5f393f9.w1000.h666.jpg"
+    ]
   ],
   "Triopha spp.": [
     "Triopha spp.",
