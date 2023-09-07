@@ -10412,7 +10412,9 @@
     "Mosshead warbonnet",
     "https://reeflifesurvey.com/species/chirolophis-nugator/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_a7_64f80c995cfe8.w1000.h666.JPG"
+    ]
   ],
   "Chironemus georgianus": [
     "Chironemus georgianus",
@@ -53443,7 +53445,7 @@
     "https://reeflifesurvey.com/species/triopha-catalinae/",
     1,
     [
-      "https://images.reeflifesurvey.com/1/species_df_64f6cb462d45a.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_7f_64f7d96781550.w1000.h666.jpeg",
       "https://images.reeflifesurvey.com/1/species_d9_64f6c85a9f87f.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_e2_64f6cdcf0e125.w1000.h666.jpg"
     ]
@@ -53454,7 +53456,8 @@
     "https://reeflifesurvey.com/species/triopha-modesta/",
     1,
     [
-      "https://images.reeflifesurvey.com/1/species_19_64f6ce5f393f9.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_19_64f6ce5f393f9.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_69_64f7d81aa4a68.w1000.h666.JPG"
     ]
   ],
   "Triopha spp.": [
