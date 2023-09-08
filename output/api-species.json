@@ -31670,7 +31670,9 @@
     "Doughboy scallop, Chlamys asperrimus",
     "https://reeflifesurvey.com/species/mimachlamys-asperrima/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_e7_64f942dcd246a.w1000.h666.JPG"
+    ]
   ],
   "Mimachlamys nobilis": [
     "Mimachlamys nobilis",
@@ -38124,7 +38126,8 @@
     "https://reeflifesurvey.com/species/parascyllium-ferrugineum/",
     2,
     [
-      "https://images.reeflifesurvey.com/0/species_aa_57501ab7bd801.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_aa_57501ab7bd801.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_44_64f94a98e290a.w1000.h666.jpg"
     ]
   ],
   "Parascyllium spp.": [
