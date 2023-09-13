@@ -4024,7 +4024,9 @@
     "https://reeflifesurvey.com/species/artedius-harringtoni/",
     2,
     [
-      "https://images.reeflifesurvey.com/0/species_92_59db33da2208d.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_92_59db33da2208d.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_68_64ffc8b5ed9c6.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_6f_650109fc1df2e.w1000.h666.jpg"
     ]
   ],
   "Artedius lateralis": [
@@ -4860,7 +4862,9 @@
     "Tube-snout",
     "https://reeflifesurvey.com/species/aulorhynchus-flavidus/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_88_64ffc4225b342.w1000.h666.jpg"
+    ]
   ],
   "Aulostomus chinensis": [
     "Aulostomus chinensis",
@@ -18925,7 +18929,11 @@
     "Giant Pacific octopus",
     "https://reeflifesurvey.com/species/enteroctopus-dofleini/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_25_64ffc1d89abf0.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_05_64ffc1d6d9350.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_53_64ffc2ff9669e.w1000.h666.jpg"
+    ]
   ],
   "Eocallionymus papilio": [
     "Eocallionymus papilio",
@@ -25032,7 +25040,9 @@
     "https://reeflifesurvey.com/species/hemilepidotus-hemilepidotus/",
     2,
     [
-      "https://images.reeflifesurvey.com/0/species_0e_59db3769cb122.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_ca_65010d46ba1b4.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_0e_59db3769cb122.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_c4_65010d48687f0.w1000.h666.jpg"
     ]
   ],
   "Hemilepidotus jordani": [
@@ -27677,6 +27687,7 @@
     "https://reeflifesurvey.com/species/jordania-zonope/",
     2,
     [
+      "https://images.reeflifesurvey.com/1/species_84_65010ae9a63ea.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_04_59db39d86b5aa.w1000.h666.jpg"
     ]
   ],
@@ -39899,7 +39910,9 @@
     "Longfin gunnel",
     "https://reeflifesurvey.com/species/pholis-clemensi/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_bd_64ffc6e165ed9.w1000.h666.jpg"
+    ]
   ],
   "Pholis crassispina": [
     "Pholis crassispina",
@@ -47782,7 +47795,9 @@
     "https://reeflifesurvey.com/species/sebastes-caurinus/",
     0,
     [
-      "https://images.reeflifesurvey.com/0/species_08_59db3e38ba0e4.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_08_59db3e38ba0e4.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_8e_650107b056fa4.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_dc_650107c1bd8cb.w1000.h666.jpg"
     ]
   ],
   "Sebastes chrysomelas": [
@@ -47808,7 +47823,9 @@
     "Puget Sound rockfish",
     "https://reeflifesurvey.com/species/sebastes-emphaeus/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_28_65010425b4628.w1000.h666.jpg"
+    ]
   ],
   "Sebastes flavidus": [
     "Sebastes flavidus",
@@ -47834,7 +47851,8 @@
     0,
     [
       "https://images.reeflifesurvey.com/1/species_ab_64f6a6c98e289.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_d6_64f6a6cb7d649.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_d6_64f6a6cb7d649.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_ae_6501018001aa7.w1000.h666.jpg"
     ]
   ],
   "Sebastes melanops": [
@@ -47851,7 +47869,9 @@
     "Vermilion rockfish",
     "https://reeflifesurvey.com/species/sebastes-miniatus/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_c9_650106d0d1bb0.w1000.h666.jpg"
+    ]
   ],
   "Sebastes mystinus": [
     "Sebastes mystinus",
@@ -47879,7 +47899,10 @@
     "Tiger rockfish",
     "https://reeflifesurvey.com/species/sebastes-nigrocinctus/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_d7_650103098e6ce.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_c5_650102e4914b8.w1000.h666.jpg"
+    ]
   ],
   "Sebastes oculatus": [
     "Sebastes oculatus",
@@ -47904,7 +47927,9 @@
     "Canary rockfish",
     "https://reeflifesurvey.com/species/sebastes-pinniger/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_7e_64ffc80df2f87.w1000.h666.jpg"
+    ]
   ],
   "Sebastes rastrelliger": [
     "Sebastes rastrelliger",
