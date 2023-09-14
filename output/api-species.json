@@ -991,7 +991,7 @@
   "Acodontaster conspicuous": [
     "Acodontaster conspicuous",
     "",
-    "https://reeflifesurvey.com/species/acodontaster-conspicuous/",
+    null,
     1,
     []
   ],
@@ -1586,7 +1586,7 @@
   ],
   "Amblyeleotris fasciata": [
     "Amblyeleotris fasciata",
-    "Redbanded Shrimpgoby",
+    "Redbanded Shrimpgoby, Amblyeleotris katherine",
     "https://reeflifesurvey.com/species/amblyeleotris-fasciata/",
     2,
     [
@@ -1625,8 +1625,8 @@
   ],
   "Amblyeleotris katherine": [
     "Amblyeleotris katherine",
-    "Red-banded prawn-goby",
-    "https://reeflifesurvey.com/species/amblyeleotris-katherine/",
+    "",
+    null,
     2,
     []
   ],
@@ -2668,11 +2668,14 @@
   ],
   "Anneissia bennetti": [
     "Anneissia bennetti",
-    "",
+    "Oxycomanthus bennetti",
     "https://reeflifesurvey.com/species/anneissia-bennetti/",
     1,
     [
-      "https://images.reeflifesurvey.com/1/species_64_6493ce0d848f8.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/0/species_97_578f4e0d8a94a.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_64_6493ce0d848f8.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/0/species_a8_578f4ded0c6f1.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_1a_578f4df55fba2.w1000.h666.jpg"
     ]
   ],
   "Anoplocapros amygdaloides": [
@@ -3324,12 +3327,10 @@
   ],
   "Apogon multilineatus": [
     "Apogon multilineatus",
-    "Many lined cardinalfish",
-    "https://reeflifesurvey.com/species/apogon-multilineatus/",
+    "",
+    null,
     2,
-    [
-      "https://images.reeflifesurvey.com/1/species_7f_64925f48c3c64.w1000.h666.jpg"
-    ]
+    []
   ],
   "Apogon notatus": [
     "Apogon notatus",
@@ -3491,11 +3492,13 @@
   ],
   "Apostichopus californicus": [
     "Apostichopus californicus",
-    "California sea cucumber",
+    "California sea cucumber, Parastichopus californicus",
     "https://reeflifesurvey.com/species/apostichopus-californicus/",
     1,
     [
+      "https://images.reeflifesurvey.com/0/species_cf_59d1919fb44a9.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/1/species_cf_64f5440f41f28.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_b1_59d191a705e46.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/1/species_56_64f54410d4252.w1000.h666.jpg"
     ]
   ],
@@ -15165,7 +15168,7 @@
   ],
   "Ctenochaetus striatus": [
     "Ctenochaetus striatus",
-    "Fine-lined tang, Fine-lined Bristletooth, Lined Bristletooth, Striated Surgeonfish, Striped Bristletooth",
+    "Fine-lined tang, Fine-lined Bristletooth, Lined Bristletooth, Striated Surgeonfish, Striped Bristletooth, Ctenochaetus sp. [white tail]",
     "https://reeflifesurvey.com/species/ctenochaetus-striatus/",
     0,
     [
@@ -16288,16 +16291,14 @@
   ],
   "Dendrodoris gunnamatta": [
     "Dendrodoris gunnamatta",
-    "[a nudibranch], Gunnamatta Dendrodoris",
-    "https://reeflifesurvey.com/species/dendrodoris-gunnamatta/",
+    "",
+    null,
     1,
-    [
-      "https://images.reeflifesurvey.com/0/species_7f_5744ebe92092e.w1000.h666.JPG"
-    ]
+    []
   ],
   "Dendrodoris krusensternii": [
     "Dendrodoris krusensternii",
-    "Krusensterns dendrodoris, nudibranch, Dendrodoris denisoni",
+    "Krusensterns dendrodoris, nudibranch, Dendrodoris denisoni, Dendrodoris gunnamatta",
     "https://reeflifesurvey.com/species/dendrodoris-krusensternii/",
     1,
     [
@@ -16674,7 +16675,7 @@
   ],
   "Dichrometra palmata": [
     "Dichrometra palmata",
-    "",
+    " [a crinoid], Lamprometra palmata",
     "https://reeflifesurvey.com/species/dichrometra-palmata/",
     1,
     []
@@ -25882,8 +25883,8 @@
   ],
   "Himatina trophina": [
     "Himatina trophina",
-    "Flabellina trophina",
-    "https://reeflifesurvey.com/species/himatina-trophina/",
+    "",
+    null,
     1,
     []
   ],
@@ -28403,8 +28404,8 @@
   ],
   "Lamprometra palmata": [
     "Lamprometra palmata",
-    "[a crinoid]",
-    "https://reeflifesurvey.com/species/lamprometra-palmata/",
+    "",
+    null,
     1,
     []
   ],
@@ -29053,7 +29054,7 @@
   ],
   "Lethrinus sp. [punctulatus]": [
     "Lethrinus sp. [punctulatus]",
-    "",
+    "Lethrinus sp.[Gulf]",
     "https://reeflifesurvey.com/species/lethrinus-sp-punctulatus/",
     0,
     [
@@ -35950,10 +35951,12 @@
   ],
   "Ostorhinchus multilineatus": [
     "Ostorhinchus multilineatus",
-    "Many lined cardinalfish",
+    "Many lined cardinalfish, Apogon multilineatus",
     "https://reeflifesurvey.com/species/ostorhinchus-multilineatus/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_7f_64925f48c3c64.w1000.h666.jpg"
+    ]
   ],
   "Ostorhinchus nanus": [
     "Ostorhinchus nanus",
@@ -36384,14 +36387,10 @@
   ],
   "Oxycomanthus bennetti": [
     "Oxycomanthus bennetti",
-    "Bennetts feather star",
-    "https://reeflifesurvey.com/species/oxycomanthus-bennetti/",
+    "",
+    null,
     1,
-    [
-      "https://images.reeflifesurvey.com/0/species_97_578f4e0d8a94a.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_a8_578f4ded0c6f1.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_1a_578f4df55fba2.w1000.h666.jpg"
-    ]
+    []
   ],
   "Oxycomanthus plectrophorum": [
     "Oxycomanthus plectrophorum",
@@ -36573,10 +36572,16 @@
   ],
   "Pagrus auratus": [
     "Pagrus auratus",
-    "",
-    null,
+    "Snapper, Bream, Cockney, Cockney Bream, Cockney Snapper, Golden Snapper, Old Man Snapper, Pink Snapper, Porgy, Red Bream, Red Pargo, Sea Bream, Squire, Squirefish, Chrysophrys auratus",
+    "https://reeflifesurvey.com/species/pagrus-auratus/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_81_573e4bfddfd0d.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_63_57d8edd7e8fe5.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/0/species_10_5778eaa3e96af.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_00_573e4c05af7a6.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_01_57b194b89bba7.w1000.h666.jpg"
+    ]
   ],
   "Pagrus auriga": [
     "Pagrus auriga",
@@ -38185,13 +38190,10 @@
   ],
   "Parastichopus californicus": [
     "Parastichopus californicus",
-    "Californian sea cucumber",
-    "https://reeflifesurvey.com/species/parastichopus-californicus/",
+    "",
+    null,
     1,
-    [
-      "https://images.reeflifesurvey.com/0/species_cf_59d1919fb44a9.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/0/species_b1_59d191a705e46.w1000.h666.JPG"
-    ]
+    []
   ],
   "Parastichopus spp.": [
     "Parastichopus spp.",
@@ -44042,7 +44044,7 @@
   "Pseudocnus lubrica": [
     "Pseudocnus lubrica",
     "",
-    "https://reeflifesurvey.com/species/pseudocnus-lubrica/",
+    null,
     1,
     []
   ],
@@ -44597,8 +44599,8 @@
   ],
   "Pterapogon mirifica": [
     "Pterapogon mirifica",
-    "Sailfin cardinalfish",
-    "https://reeflifesurvey.com/species/pterapogon-mirifica/",
+    "",
+    null,
     2,
     []
   ],
@@ -45032,10 +45034,14 @@
   ],
   "Pycnochromis acares": [
     "Pycnochromis acares",
-    "",
-    null,
+    "Chromis acares",
+    "https://reeflifesurvey.com/species/pycnochromis-acares/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_df_64942bc463646.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_8a_64942bc1e4e82.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_d7_64942bc33df84.w1000.h666.jpg"
+    ]
   ],
   "Pycnogonida spp.": [
     "Pycnogonida spp.",
@@ -45110,7 +45116,7 @@
   ],
   "Quinca mirifica": [
     "Quinca mirifica",
-    "",
+    "Pterapogon mirifica",
     "https://reeflifesurvey.com/species/quinca-mirifica/",
     2,
     [
@@ -49897,10 +49903,13 @@
   ],
   "Stegostoma tigrinum": [
     "Stegostoma tigrinum",
-    "",
-    null,
+    "Zebra shark, Stegostoma fasciatum",
+    "https://reeflifesurvey.com/species/stegostoma-tigrinum/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_7e_59e3fb376cd47.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_23_59e3fb3a6bbaa.w1000.h666.jpg"
+    ]
   ],
   "Stellaster inspinosus": [
     "Stellaster inspinosus",
@@ -53664,21 +53673,21 @@
   ],
   "Tripterygion tripteronotum": [
     "Tripterygion tripteronotum",
-    "",
-    "https://reeflifesurvey.com/species/tripterygion-tripteronotum/",
-    2,
-    []
-  ],
-  "Tripterygion tripteronotus": [
     "Tripterygion tripteronotus",
-    "Red-black triplefin\u00a0",
-    "https://reeflifesurvey.com/species/tripterygion-tripteronotus/",
+    "https://reeflifesurvey.com/species/tripterygion-tripteronotum/",
     2,
     [
       "https://images.reeflifesurvey.com/0/species_f2_56f7a748e9739.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_80_56f7a6afd21e6.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_12_56f7a71cc6795.w1000.h666.jpg"
     ]
+  ],
+  "Tripterygion tripteronotus": [
+    "Tripterygion tripteronotus",
+    "",
+    null,
+    2,
+    []
   ],
   "Trisopterus luscus": [
     "Trisopterus luscus",
@@ -55555,21 +55564,21 @@
   ],
   "Zoramia leptacantha": [
     "Zoramia leptacantha",
-    "Longspine Cardinalfish",
-    "https://reeflifesurvey.com/species/zoramia-leptacantha/",
+    "",
+    null,
+    2,
+    []
+  ],
+  "Zoramia leptacanthus": [
+    "Zoramia leptacanthus",
+    "Threadfin cardinalfish, Zoramia leptacantha",
+    "https://reeflifesurvey.com/species/zoramia-leptacanthus/",
     2,
     [
       "https://images.reeflifesurvey.com/0/species_1e_58d88dd4cda85.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_77_58d88dd92625d.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_d5_58d88dde0fa19.w1000.h666.jpg"
     ]
-  ],
-  "Zoramia leptacanthus": [
-    "Zoramia leptacanthus",
-    "Threadfin cardinalfish",
-    "https://reeflifesurvey.com/species/zoramia-leptacanthus/",
-    2,
-    []
   ],
   "Zoramia spp.": [
     "Zoramia spp.",
