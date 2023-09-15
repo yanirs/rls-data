@@ -988,10 +988,10 @@
       "https://images.reeflifesurvey.com/1/species_45_64f680e51002e.w1000.h666.jpg"
     ]
   ],
-  "Acodontaster conspicuous": [
+  "Acodontaster conspicuus": [
+    "Acodontaster conspicuus",
     "Acodontaster conspicuous",
-    "",
-    null,
+    "https://reeflifesurvey.com/species/acodontaster-conspicuus/",
     1,
     []
   ],
@@ -1622,13 +1622,6 @@
       "https://images.reeflifesurvey.com/0/species_e7_5892715a0645d.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_6a_5892710fa1d43.w1000.h666.JPG"
     ]
-  ],
-  "Amblyeleotris katherine": [
-    "Amblyeleotris katherine",
-    "",
-    null,
-    2,
-    []
   ],
   "Amblyeleotris periophthalma": [
     "Amblyeleotris periophthalma",
@@ -3324,13 +3317,6 @@
     [
       "https://images.reeflifesurvey.com/0/species_8b_57fcb6ebef1c2.w1000.h666.jpg"
     ]
-  ],
-  "Apogon multilineatus": [
-    "Apogon multilineatus",
-    "",
-    null,
-    2,
-    []
   ],
   "Apogon notatus": [
     "Apogon notatus",
@@ -14295,6 +14281,13 @@
     0,
     []
   ],
+  "Coryphella trophina": [
+    "Coryphella trophina",
+    "Flabellina trophina, Himatina trophina",
+    "https://reeflifesurvey.com/species/coryphella-trophina/",
+    1,
+    []
+  ],
   "Coryphella verrucosa": [
     "Coryphella verrucosa",
     "Flabellina verrucosa",
@@ -14631,6 +14624,13 @@
   ],
   "Cottidae spp.": [
     "Cottidae spp.",
+    "",
+    null,
+    2,
+    []
+  ],
+  "Cotylorhiza tuberculata": [
+    "Cotylorhiza tuberculata",
     "",
     null,
     2,
@@ -16074,6 +16074,13 @@
     2,
     []
   ],
+  "Dasyatis tortonesei": [
+    "Dasyatis tortonesei",
+    "",
+    null,
+    2,
+    []
+  ],
   "Davidaster discoideus": [
     "Davidaster discoideus",
     "",
@@ -16288,13 +16295,6 @@
       "https://images.reeflifesurvey.com/0/species_7a_57140f57a2051.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_01_57da5a64bf69c.w1000.h666.jpg"
     ]
-  ],
-  "Dendrodoris gunnamatta": [
-    "Dendrodoris gunnamatta",
-    "",
-    null,
-    1,
-    []
   ],
   "Dendrodoris krusensternii": [
     "Dendrodoris krusensternii",
@@ -22214,6 +22214,13 @@
       "https://images.reeflifesurvey.com/0/species_f5_59572ebaa55e7.w1000.h666.jpg"
     ]
   ],
+  "Gobius incognitus": [
+    "Gobius incognitus",
+    "",
+    null,
+    2,
+    []
+  ],
   "Gobius niger": [
     "Gobius niger",
     "Black goby",
@@ -25881,13 +25888,6 @@
     2,
     []
   ],
-  "Himatina trophina": [
-    "Himatina trophina",
-    "",
-    null,
-    1,
-    []
-  ],
   "Himerometra magnipinna": [
     "Himerometra magnipinna",
     "Feather star",
@@ -28397,13 +28397,6 @@
   ],
   "Lamellaria spp.": [
     "Lamellaria spp.",
-    "",
-    null,
-    1,
-    []
-  ],
-  "Lamprometra palmata": [
-    "Lamprometra palmata",
     "",
     null,
     1,
@@ -34727,16 +34720,12 @@
     1,
     []
   ],
-  "Oblada melanura": [
-    "Oblada melanura",
-    "Saddled seabream",
-    "https://reeflifesurvey.com/species/oblada-melanura/",
+  "Oblada melanurus": [
+    "Oblada melanurus",
+    "",
+    null,
     0,
-    [
-      "https://images.reeflifesurvey.com/0/species_17_57380d8213f91.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_38_57380d70aa9c8.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_28_57380d6a708b1.w1000.h666.jpg"
-    ]
+    []
   ],
   "Ocenebra erinaceus": [
     "Ocenebra erinaceus",
@@ -36384,13 +36373,6 @@
       "https://images.reeflifesurvey.com/0/species_e3_5743e3ac56efe.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_78_57328ce070d07.w1000.h666.jpg"
     ]
-  ],
-  "Oxycomanthus bennetti": [
-    "Oxycomanthus bennetti",
-    "",
-    null,
-    1,
-    []
   ],
   "Oxycomanthus plectrophorum": [
     "Oxycomanthus plectrophorum",
@@ -38187,13 +38169,6 @@
       "https://images.reeflifesurvey.com/1/species_48_5d33efe3db801.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_6a_5750180f9d92a.w1000.h666.jpg"
     ]
-  ],
-  "Parastichopus californicus": [
-    "Parastichopus californicus",
-    "",
-    null,
-    1,
-    []
   ],
   "Parastichopus spp.": [
     "Parastichopus spp.",
@@ -44041,10 +44016,10 @@
     1,
     []
   ],
-  "Pseudocnus lubrica": [
+  "Pseudocnus lubricus": [
+    "Pseudocnus lubricus",
     "Pseudocnus lubrica",
-    "",
-    null,
+    "https://reeflifesurvey.com/species/pseudocnus-lubricus/",
     1,
     []
   ],
@@ -44595,13 +44570,6 @@
     "",
     null,
     0,
-    []
-  ],
-  "Pterapogon mirifica": [
-    "Pterapogon mirifica",
-    "",
-    null,
-    2,
     []
   ],
   "Pteraster militaris": [
@@ -47715,6 +47683,13 @@
     "Scyllarus arctus",
     "Small european locust lobster ",
     "https://reeflifesurvey.com/species/scyllarus-arctus/",
+    1,
+    []
+  ],
+  "Scyllarus pygmaeus": [
+    "Scyllarus pygmaeus",
+    "",
+    null,
     1,
     []
   ],
@@ -53682,13 +53657,6 @@
       "https://images.reeflifesurvey.com/0/species_12_56f7a71cc6795.w1000.h666.jpg"
     ]
   ],
-  "Tripterygion tripteronotus": [
-    "Tripterygion tripteronotus",
-    "",
-    null,
-    2,
-    []
-  ],
   "Trisopterus luscus": [
     "Trisopterus luscus",
     "Pouting",
@@ -55560,13 +55528,6 @@
     "Cowrie, Cypraea venusta",
     "https://reeflifesurvey.com/species/zoila-venusta/",
     1,
-    []
-  ],
-  "Zoramia leptacantha": [
-    "Zoramia leptacantha",
-    "",
-    null,
-    2,
     []
   ],
   "Zoramia leptacanthus": [

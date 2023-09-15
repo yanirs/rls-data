@@ -23703,7 +23703,7 @@
       "Cala Santo",
       10.29,
       42.35,
-      1
+      3
     ],
     [
       "MED36",
@@ -23714,7 +23714,7 @@
       "Cala Maestra Nord",
       10.29,
       42.34,
-      1
+      3
     ],
     [
       "MED37",
@@ -23725,7 +23725,7 @@
       "Cala Maestra",
       10.29,
       42.34,
-      1
+      4
     ],
     [
       "MED38",
@@ -23736,7 +23736,7 @@
       "Cala S.Maria",
       10.29,
       42.33,
-      1
+      3
     ],
     [
       "MED39",
@@ -23747,7 +23747,7 @@
       "Cala Grande",
       10.3,
       42.31,
-      1
+      3
     ],
     [
       "MED4",
@@ -23769,7 +23769,106 @@
       "Cala dei Ladri",
       10.32,
       42.31,
-      1
+      3
+    ],
+    [
+      "MED41",
+      "France",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Marine de Negru",
+      9.33,
+      42.77,
+      2
+    ],
+    [
+      "MED42",
+      "France",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Marine de Negru inshore",
+      9.34,
+      42.75,
+      3
+    ],
+    [
+      "MED43",
+      "France",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Punta Negra",
+      9.12,
+      42.73,
+      3
+    ],
+    [
+      "MED44",
+      "France",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Punta di L'Acciolu",
+      9.06,
+      42.69,
+      3
+    ],
+    [
+      "MED45",
+      "France",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Punta Spano",
+      8.8,
+      42.6,
+      3
+    ],
+    [
+      "MED46",
+      "France",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Punta Revellata",
+      8.72,
+      42.58,
+      2
+    ],
+    [
+      "MED47",
+      "France",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Punta Revellata South",
+      8.71,
+      42.58,
+      3
+    ],
+    [
+      "MED48",
+      "France",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Punta Di Los Celluccia",
+      8.73,
+      42.57,
+      3
+    ],
+    [
+      "MED49",
+      "France",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Punta Revellata East",
+      8.73,
+      42.58,
+      2
     ],
     [
       "MED5",
@@ -23783,6 +23882,116 @@
       2
     ],
     [
+      "MED50",
+      "France",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Plage de Volpe North",
+      9.23,
+      41.44,
+      2
+    ],
+    [
+      "MED51",
+      "France",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Plage de Volpe South",
+      9.23,
+      41.42,
+      2
+    ],
+    [
+      "MED52",
+      "France",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Forana",
+      9.37,
+      41.56,
+      2
+    ],
+    [
+      "MED53",
+      "France",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "San Ciprianu",
+      9.38,
+      41.64,
+      2
+    ],
+    [
+      "MED54",
+      "France",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Ile du Toro",
+      9.38,
+      41.51,
+      2
+    ],
+    [
+      "MED55",
+      "France",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Ile du Toro NE",
+      9.38,
+      41.51,
+      2
+    ],
+    [
+      "MED56",
+      "France",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Ile de Giraglia N",
+      9.41,
+      43.03,
+      2
+    ],
+    [
+      "MED57",
+      "France",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Ile du Giraglia S",
+      9.41,
+      43.02,
+      2
+    ],
+    [
+      "MED58",
+      "France",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Pointe de Barcagha",
+      9.4,
+      43.01,
+      2
+    ],
+    [
+      "MED59",
+      "France",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Haut Fond de Centuri",
+      9.29,
+      42.99,
+      1
+    ],
+    [
       "MED6",
       "Italy",
       "Temperate Northern Atlantic",
@@ -23794,6 +24003,105 @@
       2
     ],
     [
+      "MED60",
+      "France",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Marine de Scalo",
+      9.34,
+      42.91,
+      3
+    ],
+    [
+      "MED61",
+      "France",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Canelle",
+      9.31,
+      42.84,
+      3
+    ],
+    [
+      "MED62",
+      "Italy",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Punta Forata",
+      10.33,
+      42.32,
+      2
+    ],
+    [
+      "MED63",
+      "Italy",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Cala Scirocco o Giunchi",
+      10.33,
+      42.32,
+      2
+    ],
+    [
+      "MED64",
+      "Italy",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Cala dello Scoglio South",
+      10.33,
+      42.33,
+      2
+    ],
+    [
+      "MED65",
+      "Italy",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Cala dello Scoglio North",
+      10.33,
+      42.34,
+      2
+    ],
+    [
+      "MED66",
+      "Italy",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Punta Secca Marine Reserve west",
+      11.11,
+      42.26,
+      2
+    ],
+    [
+      "MED67",
+      "Italy",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Punta Secca Marine Reserve",
+      11.11,
+      42.26,
+      2
+    ],
+    [
+      "MED68",
+      "Italy",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Punta Secca West",
+      11.11,
+      42.27,
+      2
+    ],
+    [
       "MED7",
       "Italy",
       "Temperate Northern Atlantic",
@@ -23802,6 +24110,28 @@
       "Vivara",
       13.99,
       40.74,
+      2
+    ],
+    [
+      "MED71",
+      "Italy",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Punta San Francesco",
+      11.12,
+      42.25,
+      2
+    ],
+    [
+      "MED73",
+      "Italy",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Cala I Grottoni",
+      11.11,
+      42.24,
       2
     ],
     [
