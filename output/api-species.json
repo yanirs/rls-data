@@ -16077,7 +16077,7 @@
   "Dasyatis tortonesei": [
     "Dasyatis tortonesei",
     "",
-    null,
+    "https://reeflifesurvey.com/species/dasyatis-tortonesei/",
     2,
     []
   ],
@@ -22217,7 +22217,7 @@
   "Gobius incognitus": [
     "Gobius incognitus",
     "",
-    null,
+    "https://reeflifesurvey.com/species/gobius-incognitus/",
     2,
     []
   ],
@@ -22239,6 +22239,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_95_56f8ac7530997.w1000.h666.jpg"
     ]
+  ],
+  "Gobius spp.": [
+    "Gobius spp.",
+    "",
+    null,
+    2,
+    []
   ],
   "Gobius vittatus": [
     "Gobius vittatus",
@@ -28613,6 +28620,13 @@
     2,
     []
   ],
+  "Lepadogaster purpurea": [
+    "Lepadogaster purpurea",
+    "Cornish sucker",
+    "https://reeflifesurvey.com/species/lepadogaster-purpurea/",
+    2,
+    []
+  ],
   "Lepidoblennius marmoratus": [
     "Lepidoblennius marmoratus",
     "Western jumping blenny",
@@ -34722,10 +34736,14 @@
   ],
   "Oblada melanurus": [
     "Oblada melanurus",
-    "",
-    null,
+    "Saddled seabream, Oblada melanura",
+    "https://reeflifesurvey.com/species/oblada-melanurus/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_17_57380d8213f91.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_38_57380d70aa9c8.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_28_57380d6a708b1.w1000.h666.jpg"
+    ]
   ],
   "Ocenebra erinaceus": [
     "Ocenebra erinaceus",
@@ -47689,7 +47707,7 @@
   "Scyllarus pygmaeus": [
     "Scyllarus pygmaeus",
     "",
-    null,
+    "https://reeflifesurvey.com/species/scyllarus-pygmaeus/",
     1,
     []
   ],
