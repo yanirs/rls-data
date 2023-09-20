@@ -5,6 +5,7 @@ from collections import defaultdict
 from pathlib import Path
 from typing import Any
 
+import geopandas
 import pandas as pd
 
 from .constants import (
@@ -288,3 +289,67 @@ def create_api_jsons(
     _create_species_file(survey_data, crawl_data, img_src_path, dst_dir)
     _logger.info("Creating summary file.")
     _create_summary_file(survey_data, dst_dir)
+
+
+def create_static_maps(
+    surveys_json_path: Path,
+    sites_json_path: Path,
+    dst_dir: Path,
+) -> None:
+    """Generate and save a distribution map for each species."""
+    verify_empty_dir(dst_dir)
+    _logger.info("Loading JSONs.")
+    species_to_site_obs = _load_json(surveys_json_path)
+    site_dict = _load_json(sites_json_path)
+    site_df = pd.DataFrame.from_records(site_dict["rows"], columns=site_dict["keys"])
+    _logger.info("Creating GeoDataFrame.")
+    # TODO: symbolic name and explanation of CRS switches?
+    site_gdf = geopandas.GeoDataFrame(
+        site_df,
+        geometry=geopandas.points_from_xy(site_df["longitude"], site_df["latitude"]),
+        crs="EPSG:4326",
+    ).to_crs(epsg=3857)
+    _logger.info("Creating global site map.")
+    global_ax = _plot_gdf(site_gdf, dst_dir / "__all-sites.png")
+    global_lims = (global_ax.get_xlim(), global_ax.get_ylim())
+    _logger.info("Creating species-level maps.")
+    for i, (species_name, species_obs) in enumerate(species_to_site_obs.items()):
+        if i == 100:
+            break
+        # TODO: set the slug based on species.json
+        _plot_gdf(
+            site_gdf[site_gdf["site_code"].isin(species_obs)],
+            dst_dir / f"{species_name}.png",
+            global_lims,
+        )
+        # TODO: close the figs
+
+    # TODO: generate all the maps
+    _logger.info("Done.")
+
+
+def _load_json(path: Path) -> dict:
+    with path.open() as fp:
+        return json.load(fp)
+
+
+def _plot_gdf(
+    gdf: geopandas.GeoDataFrame,
+    dst_file_path: Path,
+    lims: tuple | None = None,
+    marker_color: str = "#d95936",
+    marker_size: float = 15,
+):
+    # The target size is 400x320, but the image gets cropped as part of savefig.
+    # figsize is in inches, so setting 100 dpi below gives the number of pixels.
+    # TODO: this gives 402x278 after cropping -- figure out how to get the desired size (and what is the real desired size)
+    ax = gdf.plot(color=marker_color, markersize=marker_size, figsize=(5.2, 4.4))
+    ax.set_xmargin(0)
+    if lims:
+        ax.set_xlim(lims[0])
+        ax.set_ylim(lims[1])
+    # TODO: re-enable when ready (slow to download all)
+    # cx.add_basemap(ax, source=cx.providers.CartoDB.VoyagerNoLabels, attribution=False)
+    ax.set_axis_off()
+    ax.get_figure().savefig(dst_file_path, dpi=100, bbox_inches="tight", pad_inches=0)
+    return ax
