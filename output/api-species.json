@@ -8685,9 +8685,9 @@
     "https://reeflifesurvey.com/species/cephaloscyllium-laticeps/",
     2,
     [
-      "https://images.reeflifesurvey.com/0/species_1d_5a056bc4625df.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_1a_576a05c983cb5.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_97_574e612451502.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_1a_576a05c983cb5.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_1d_5a056bc4625df.w1000.h666.jpg"
     ]
   ],
   "Cephaloscyllium ventriosum": [
@@ -26614,7 +26614,9 @@
     "https://reeflifesurvey.com/species/holothuria-whitmaei/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_f8_578eec6c8703f.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/0/species_f8_578eec6c8703f.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_f8_650b9a61225d9.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_3c_650b9a62ba68b.w1000.h666.jpg"
     ]
   ],
   "Holothuriid sp. (Bohadschia graeffei?)": [
@@ -48083,7 +48085,10 @@
     "Pear helmet, Phalium pyrum",
     "https://reeflifesurvey.com/species/semicassis-pyrum/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_52_650bab94f415a.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_6b_650bab9779ece.w1000.h666.JPG"
+    ]
   ],
   "Semicossyphus darwini": [
     "Semicossyphus darwini",
