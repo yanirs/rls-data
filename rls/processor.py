@@ -5,8 +5,10 @@ from collections import defaultdict
 from pathlib import Path
 from typing import Any
 
+import contextily as cx
 import geopandas
 import pandas as pd
+from matplotlib import pyplot as plt
 
 from .constants import (
     CRYPTIC_FAMILIES,
@@ -292,8 +294,9 @@ def create_api_jsons(
 
 
 def create_static_maps(
-    surveys_json_path: Path,
     sites_json_path: Path,
+    species_json_path: Path,
+    surveys_json_path: Path,
     dst_dir: Path,
 ) -> None:
     """Generate and save a distribution map for each species."""
@@ -302,6 +305,7 @@ def create_static_maps(
     species_to_site_obs = _load_json(surveys_json_path)
     site_dict = _load_json(sites_json_path)
     site_df = pd.DataFrame.from_records(site_dict["rows"], columns=site_dict["keys"])
+    species_name_to_slug = {species["scientific_name"]: species["slug"] for species in _load_json(species_json_path)}
     _logger.info("Creating GeoDataFrame.")
     # TODO: symbolic name and explanation of CRS switches?
     site_gdf = geopandas.GeoDataFrame(
@@ -310,21 +314,30 @@ def create_static_maps(
         crs="EPSG:4326",
     ).to_crs(epsg=3857)
     _logger.info("Creating global site map.")
-    global_ax = _plot_gdf(site_gdf, dst_dir / "__all-sites.png")
-    global_lims = (global_ax.get_xlim(), global_ax.get_ylim())
+    # The target size is 400x320, but the image gets cropped as part of savefig.
+    # figsize is in inches, so setting 100 dpi in _plot_gdf() gives the number of
+    # pixels (i.e., the figsize setting is times 100 in pixels).
+    # TODO: this gives 402x278 after cropping -- figure out how to get the desired size
+    # TODO: figure out what the real desired size is.
+    fig, ax = plt.subplots(figsize=(5.2, 4.4))
+    _plot_gdf(site_gdf, dst_dir / "__all-sites.png", ax)
+    global_lims = (ax.get_xlim(), ax.get_ylim())
     _logger.info("Creating species-level maps.")
     for i, (species_name, species_obs) in enumerate(species_to_site_obs.items()):
-        if i == 100:
-            break
-        # TODO: set the slug based on species.json
+        if i and not i % 500:
+            _logger.info(f"Processed {i} species distributions.")
+        # Some species have counts, but they're not shown on the website (e.g., spp.)
+        if species_name not in species_name_to_slug:
+            continue
+        # Clearing the axes to reuse the same fig (faster and avoids keeping too many
+        # figs open).
+        ax.cla()
         _plot_gdf(
             site_gdf[site_gdf["site_code"].isin(species_obs)],
-            dst_dir / f"{species_name}.png",
-            global_lims,
+            dst_dir / f"{species_name_to_slug[species_name]}.png",
+            ax,
+            global_lims
         )
-        # TODO: close the figs
-
-    # TODO: generate all the maps
     _logger.info("Done.")
 
 
@@ -336,14 +349,12 @@ def _load_json(path: Path) -> dict:
 def _plot_gdf(
     gdf: geopandas.GeoDataFrame,
     dst_file_path: Path,
+    ax: plt.Axes,
     lims: tuple | None = None,
     marker_color: str = "#d95936",
     marker_size: float = 15,
-):
-    # The target size is 400x320, but the image gets cropped as part of savefig.
-    # figsize is in inches, so setting 100 dpi below gives the number of pixels.
-    # TODO: this gives 402x278 after cropping -- figure out how to get the desired size (and what is the real desired size)
-    ax = gdf.plot(color=marker_color, markersize=marker_size, figsize=(5.2, 4.4))
+) -> None:
+    gdf.plot(color=marker_color, markersize=marker_size, ax=ax)
     ax.set_xmargin(0)
     if lims:
         ax.set_xlim(lims[0])
@@ -352,4 +363,3 @@ def _plot_gdf(
     # cx.add_basemap(ax, source=cx.providers.CartoDB.VoyagerNoLabels, attribution=False)
     ax.set_axis_off()
     ax.get_figure().savefig(dst_file_path, dpi=100, bbox_inches="tight", pad_inches=0)
-    return ax
