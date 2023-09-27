@@ -1,7 +1,7 @@
 """Data processing functionality."""
 import json
 import logging
-from collections import defaultdict
+from collections import defaultdict, Counter
 from pathlib import Path
 from typing import Any
 
@@ -431,3 +431,128 @@ def _plot_gdf_naturalearth(
     ax.set_ylim(-70, 82)
     ax.set_axis_off()
     ax.get_figure().savefig(dst_file_path, dpi=100, bbox_inches="tight", pad_inches=0)
+
+
+# TODO: decide on version to keep -- if keeping this one then need to change the aspect ratio / zoom properly
+def create_static_maps_cartopy(
+    sites_json_path: Path,
+    species_json_path: Path,
+    surveys_json_path: Path,
+    dst_dir: Path,
+) -> None:
+    """Generate and save a distribution map for each species."""
+    verify_empty_dir(dst_dir)
+    _logger.info("Loading JSONs.")
+    species_to_site_obs = _load_json(surveys_json_path)
+    site_dict = _load_json(sites_json_path)
+    site_df = pd.DataFrame.from_records(site_dict["rows"], columns=site_dict["keys"])
+    species_name_to_slug = {species["scientific_name"]: species["slug"] for species in _load_json(species_json_path)}
+    _logger.info("Creating global site map.")
+
+    central_longitude_to_ax = {
+        central_longitude: plt.subplots(
+            figsize=(4, 3.2),
+            subplot_kw={'projection': cartopy.crs.PlateCarree(central_longitude), 'frameon': False}
+        )[1]
+        for central_longitude in (0, 180)
+    }
+
+    _plot_df_cartopy(site_df, dst_dir / "__all-sites.png", central_longitude_to_ax)
+
+    # # The target size is 400x320, but the image gets cropped as part of savefig.
+    # # figsize is in inches, so setting 100 dpi in _plot_gdf() gives the number of
+    # # pixels (i.e., the figsize setting is times 100 in pixels).
+    # # TODO: this gives 465x196 after cropping -- figure out how to get the desired size
+    # # TODO: figure out what the real desired size is.
+    # fig, ax = plt.subplots(figsize=(6, 4.4))
+    # _plot_gdf_naturalearth(ocean_gdf, site_gdf, dst_dir / "__all-sites.png", ax)
+    _logger.info("Creating species-level maps.")
+    area_name_counts = Counter()
+    for i, (species_name, species_obs) in enumerate(species_to_site_obs.items()):
+        if i and not i % 500:
+            _logger.info(f"Processed {i} species distributions.")
+        # Some species have counts, but they're not shown on the website (e.g., spp.)
+        if species_name not in species_name_to_slug:
+            continue
+        area_name = _plot_df_cartopy(
+            site_df[site_df["site_code"].isin(species_obs)],
+            dst_dir / f"{species_name_to_slug[species_name]}.png",
+            central_longitude_to_ax
+            # ax,
+        )
+        area_name_counts[area_name] += 1
+
+    _logger.info(f"Area name counts: {area_name_counts}.")
+    _logger.info("Done.")
+
+
+# def _plot_df_cartopy(
+#     ocean_gdf: geopandas.GeoDataFrame,
+#     marker_gdf: geopandas.GeoDataFrame,
+#     dst_file_path: Path,
+#     ax: plt.Axes,
+#     marker_color: str = "#d95936",
+#     marker_size: float = 15,
+#     ocean_color: str = "#abcad7",
+# ) -> None:
+#     ocean_gdf.plot(color=ocean_color, aspect="equal", ax=ax)
+#     marker_gdf.plot(color=marker_color, aspect="equal", markersize=marker_size, ax=ax)
+#     ax.set_xmargin(0)
+#     # TODO: decide whether to zoom
+#     ax.set_xlim(-180, 180)
+#     ax.set_ylim(-70, 82)
+#     ax.set_axis_off()
+#     ax.get_figure().savefig(dst_file_path, dpi=100, bbox_inches="tight", pad_inches=0)
+
+
+from collections import OrderedDict
+
+# 1.33 ratios (except for world)
+_SUPPORTED_EXTENTS = OrderedDict(
+    [
+        ("Australia", (0, (90, 180, -50, 17.5))),
+        ("Europe", (0, (-30, 42, 10, 64))),
+        ("North America", (0, (-135, -10, -3.75, 90))),
+        ("Atlantic", (0, (-120, 40, -60, 60))),
+        ("Indian", (0, (10, 130, -50, 40))),
+        ("Pacific", (180, (-70, 118, -70, 71))),
+        ("World", (180, (-180, 180, -90, 90))),
+    ]
+)
+
+
+def _is_df_in_extent(df, central_longitude, extent):
+    x0, x1, y0, y1 = extent
+    if not (y0 <= df["latitude"].min() <= y1 and y0 <= df["latitude"].max() <= y1):
+        return False
+
+    if central_longitude == 0:
+        return ((x0 <= df["longitude"]) & (df["longitude"] <= x1)).all()
+    assert central_longitude == 180
+
+    # TODO: this shouldn't be a special case -- figure it out
+    if x0 == -180 and x1 == 180:
+        return True
+
+    return (
+        ((-180 <= df["longitude"]) & (df["longitude"] <= x0)) |
+        ((x1 <= df["longitude"]) & (df["longitude"] <= 180))
+    ).all()
+
+
+import cartopy
+
+
+def _plot_df_cartopy(df, dst_file_path: Path, central_longitude_to_ax):
+    for area_name, (central_longitude, extent) in _SUPPORTED_EXTENTS.items():
+        if _is_df_in_extent(df, central_longitude, extent):
+            break
+    ax = central_longitude_to_ax[central_longitude]
+    # Clearing the axes to reuse the same fig (faster and avoids keeping too many
+    # figs open).
+    ax.cla()
+    ax.add_feature(cartopy.feature.OCEAN, color="#abcad7")
+    ax.scatter(df["longitude"], df["latitude"], color="#d95936", transform=cartopy.crs.PlateCarree())
+    ax.set_extent(extent, crs=cartopy.crs.PlateCarree(central_longitude))
+    ax.get_figure().savefig(dst_file_path, dpi=100, bbox_inches="tight", pad_inches=0)
+    return area_name

@@ -4,7 +4,7 @@ import logging
 import defopt
 
 from rls.downloader import download_survey_data
-from rls.processor import create_api_jsons, create_static_maps, create_static_maps_naturalearth
+from rls.processor import create_api_jsons, create_static_maps, create_static_maps_naturalearth, create_static_maps_cartopy
 
 
 def run_cli() -> None:
@@ -14,4 +14,4 @@ def run_cli() -> None:
         "%(message)s",
         level=logging.INFO,
     )
-    defopt.run([download_survey_data, create_api_jsons, create_static_maps, create_static_maps_naturalearth])
+    defopt.run([download_survey_data, create_api_jsons, create_static_maps, create_static_maps_naturalearth, create_static_maps_cartopy])
