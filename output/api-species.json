@@ -1403,15 +1403,6 @@
       "https://images.reeflifesurvey.com/1/species_90_636b207fbdd43.w1000.h666.jpg"
     ]
   ],
-  "Allogalathea elegans": [
-    "Allogalathea elegans",
-    "Elegant squat lobster",
-    "https://reeflifesurvey.com/species/allogalathea-elegans/",
-    1,
-    [
-      "https://images.reeflifesurvey.com/0/species_60_57d92bed497d8.w1000.h666.jpg"
-    ]
-  ],
   "Alloiodoris lanuginata": [
     "Alloiodoris lanuginata",
     "",
@@ -3482,10 +3473,10 @@
     "https://reeflifesurvey.com/species/apostichopus-californicus/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_cf_59d1919fb44a9.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_56_64f54410d4252.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_cf_64f5440f41f28.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_b1_59d191a705e46.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/1/species_56_64f54410d4252.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_cf_59d1919fb44a9.w1000.h666.JPG"
     ]
   ],
   "Apostichopus japonicus": [
@@ -49756,17 +49747,6 @@
       "https://images.reeflifesurvey.com/0/species_21_57fa1251a6dad.w1000.h666.jpg"
     ]
   ],
-  "Stegastes lividus": [
-    "Stegastes lividus",
-    "Black damselfish",
-    "https://reeflifesurvey.com/species/stegastes-lividus/",
-    0,
-    [
-      "https://images.reeflifesurvey.com/0/species_f9_57fc2192854d2.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/0/species_ca_57fc219710676.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/0/species_85_57fc2186aa218.w1000.h666.JPG"
-    ]
-  ],
   "Stegastes marginatus": [
     "Stegastes marginatus",
     "",
@@ -51927,13 +51907,6 @@
     "Thais spp.",
     "",
     null,
-    1,
-    []
-  ],
-  "Thalamita admete": [
-    "Thalamita admete",
-    "Swimmer crab",
-    "https://reeflifesurvey.com/species/thalamita-admete/",
     1,
     []
   ],
