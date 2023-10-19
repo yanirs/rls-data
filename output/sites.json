@@ -2102,6 +2102,28 @@
       76
     ],
     [
+      "BMKC1",
+      "Canada",
+      "Temperate Northern Pacific",
+      "British Columbia",
+      "Oregon, Washington, Vancouver Coast and Shelf",
+      "Dixon Bay 2",
+      -125.12,
+      48.85,
+      1
+    ],
+    [
+      "BMKC2",
+      "Canada",
+      "Temperate Northern Pacific",
+      "British Columbia",
+      "Oregon, Washington, Vancouver Coast and Shelf",
+      "Tzartus 116 R",
+      -125.08,
+      48.9,
+      1
+    ],
+    [
       "BMP-S1",
       "Australia",
       "Temperate Australasia",
@@ -2913,7 +2935,7 @@
       "Ross Islets Slug Island",
       -125.16,
       48.87,
-      3
+      4
     ],
     [
       "BMSC11",
@@ -3123,6 +3145,39 @@
       -125.18,
       48.86,
       3
+    ],
+    [
+      "BMSC31",
+      "Canada",
+      "Temperate Northern Pacific",
+      "Vancouver",
+      "Oregon, Washington, Vancouver Coast and Shelf",
+      "Dodger Channel 2",
+      -125.19,
+      48.83,
+      1
+    ],
+    [
+      "BMSC32",
+      "Canada",
+      "Temperate Northern Pacific",
+      "Vancouver",
+      "Oregon, Washington, Vancouver Coast and Shelf",
+      "Less Dangerous Bay",
+      -125.09,
+      48.88,
+      1
+    ],
+    [
+      "BMSC33",
+      "Canada",
+      "Temperate Northern Pacific",
+      "Vancouver",
+      "Oregon, Washington, Vancouver Coast and Shelf",
+      "Ed King East Inside",
+      -125.21,
+      48.84,
+      1
     ],
     [
       "BMSC4",
@@ -22240,6 +22295,61 @@
       "Rangatira Bay",
       174.93,
       -40.86,
+      1
+    ],
+    [
+      "KCCA11",
+      "Canada",
+      "Temperate Northern Pacific",
+      "British Columbia",
+      "Oregon, Washington, Vancouver Coast and Shelf",
+      "Ross Islets 2",
+      -125.16,
+      48.87,
+      1
+    ],
+    [
+      "KCCA13",
+      "Canada",
+      "Temperate Northern Pacific",
+      "British Columbia",
+      "Oregon, Washington, Vancouver Coast and Shelf",
+      "Second Beach South",
+      -125.18,
+      48.82,
+      1
+    ],
+    [
+      "KCCA19",
+      "Canada",
+      "Temperate Northern Pacific",
+      "British Columbia",
+      "Oregon, Washington, Vancouver Coast and Shelf",
+      "Wizard Island North Kelp",
+      -125.16,
+      48.86,
+      1
+    ],
+    [
+      "KCCA20",
+      "Canada",
+      "Temperate Northern Pacific",
+      "British Columbia",
+      "Oregon, Washington, Vancouver Coast and Shelf",
+      "Nanat Bay",
+      -125.08,
+      48.88,
+      1
+    ],
+    [
+      "KCCA23",
+      "Canada",
+      "Temperate Northern Pacific",
+      "British Columbia",
+      "Oregon, Washington, Vancouver Coast and Shelf",
+      "Flemming 114",
+      -125.11,
+      48.89,
       1
     ],
     [

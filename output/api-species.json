@@ -12614,6 +12614,13 @@
       "https://images.reeflifesurvey.com/0/species_cc_57885da450401.w1000.h666.JPG"
     ]
   ],
+  "Clupea pallasii": [
+    "Clupea pallasii",
+    "",
+    null,
+    0,
+    []
+  ],
   "Clupeidae spp.": [
     "Clupeidae spp.",
     "",
@@ -21969,6 +21976,13 @@
   ],
   "Gobiesocidae spp.": [
     "Gobiesocidae spp.",
+    "",
+    null,
+    2,
+    []
+  ],
+  "Gobiesox maeandricus": [
+    "Gobiesox maeandricus",
     "",
     null,
     2,
@@ -32642,6 +32656,13 @@
     2,
     []
   ],
+  "Myoxocephalus polyacanthocephalus": [
+    "Myoxocephalus polyacanthocephalus",
+    "",
+    null,
+    2,
+    []
+  ],
   "Myoxocephalus scorpius": [
     "Myoxocephalus scorpius",
     "Shorthorn sculpin",
@@ -39344,6 +39365,13 @@
       "https://images.reeflifesurvey.com/0/species_e0_573bf534db180.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_44_573bf53a48766.w1000.h666.JPG"
     ]
+  ],
+  "Pentidotea resecata": [
+    "Pentidotea resecata",
+    "",
+    null,
+    1,
+    []
   ],
   "Percidae spp.": [
     "Percidae spp.",
