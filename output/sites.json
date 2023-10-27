@@ -24279,25 +24279,58 @@
     ],
     [
       "MEL10",
-      "Morocco",
+      "Spain",
       "Temperate Northern Atlantic",
       "Mediterranean (southwest)",
       "Alboran Sea",
       "LIC1",
       -2.95,
       35.32,
-      2
+      10
+    ],
+    [
+      "MEL11",
+      "Spain",
+      "Temperate Northern Atlantic",
+      "Mediterranean (southwest)",
+      "Alboran Sea",
+      "LIC5",
+      -2.95,
+      35.32,
+      28
     ],
     [
       "MEL12",
-      "Morocco",
+      "Spain",
       "Temperate Northern Atlantic",
       "Mediterranean (southwest)",
       "Alboran Sea",
       "LIC3",
       -2.95,
       35.32,
-      10
+      38
+    ],
+    [
+      "MEL15",
+      "Morocco",
+      "Temperate Northern Atlantic",
+      "Mediterranean (southwest)",
+      "Alboran Sea",
+      "Alhucemas-Puerto",
+      -3.89,
+      35.21,
+      16
+    ],
+    [
+      "MEL18",
+      "Morocco",
+      "Temperate Northern Atlantic",
+      "Mediterranean (southwest)",
+      "Alboran Sea",
+      "Alhucemas-NE",
+      -3.89,
+      35.21,
+      21
     ],
     [
       "MEL2",
@@ -24311,6 +24344,72 @@
       2
     ],
     [
+      "MEL20",
+      "Morocco",
+      "Temperate Northern Atlantic",
+      "Mediterranean (southwest)",
+      "Alboran Sea",
+      "IsladeMar-NE",
+      -3.9,
+      35.22,
+      8
+    ],
+    [
+      "MEL21",
+      "Morocco",
+      "Temperate Northern Atlantic",
+      "Mediterranean (southwest)",
+      "Alboran Sea",
+      "IsladeMar-NW",
+      -3.9,
+      35.22,
+      6
+    ],
+    [
+      "MEL25",
+      "Morocco",
+      "Temperate Northern Atlantic",
+      "Mediterranean (southwest)",
+      "Alboran Sea",
+      "Velez.NW",
+      -4.3,
+      35.17,
+      14
+    ],
+    [
+      "MEL27",
+      "Morocco",
+      "Temperate Northern Atlantic",
+      "Mediterranean (southwest)",
+      "Alboran Sea",
+      "Velez.playa",
+      -4.3,
+      35.17,
+      12
+    ],
+    [
+      "MEL28",
+      "Morocco",
+      "Temperate Northern Atlantic",
+      "Mediterranean (southwest)",
+      "Alboran Sea",
+      "Velez.isleta.sur",
+      -4.3,
+      35.17,
+      6
+    ],
+    [
+      "MEL29",
+      "Morocco",
+      "Temperate Northern Atlantic",
+      "Mediterranean (southwest)",
+      "Alboran Sea",
+      "Velez.isleta.N",
+      -4.3,
+      35.17,
+      6
+    ],
+    [
       "MEL3",
       "Spain",
       "Temperate Northern Atlantic",
@@ -24319,18 +24418,62 @@
       "Aguad\u00fa",
       -2.95,
       35.31,
-      6
+      12
     ],
     [
       "MEL31",
-      "Morocco",
+      "Spain",
       "Temperate Northern Atlantic",
       "Mediterranean (southwest)",
       "Alboran Sea",
       "Escollera SE",
       -2.92,
       35.29,
-      2
+      8
+    ],
+    [
+      "MEL33",
+      "Spain",
+      "Temperate Northern Atlantic",
+      "Mediterranean (southwest)",
+      "Alboran Sea",
+      "Laja.horcas",
+      -2.94,
+      35.31,
+      8
+    ],
+    [
+      "MEL34",
+      "Spain",
+      "Temperate Northern Atlantic",
+      "Mediterranean (southwest)",
+      "Alboran Sea",
+      "Escollera.W",
+      -2.93,
+      35.29,
+      8
+    ],
+    [
+      "MEL37",
+      "Spain",
+      "Temperate Northern Atlantic",
+      "Mediterranean (southwest)",
+      "Alboran Sea",
+      "LIC8",
+      -2.95,
+      35.32,
+      8
+    ],
+    [
+      "MEL38",
+      "Spain",
+      "Temperate Northern Atlantic",
+      "Mediterranean (southwest)",
+      "Alboran Sea",
+      "Desaladora",
+      -2.95,
+      35.32,
+      8
     ],
     [
       "MEL4",
@@ -24341,7 +24484,51 @@
       "Congreso Norte",
       -2.44,
       35.18,
-      2
+      6
+    ],
+    [
+      "MEL41",
+      "Spain",
+      "Temperate Northern Atlantic",
+      "Mediterranean (southwest)",
+      "Alboran Sea",
+      "Catedral.fuera",
+      -2.94,
+      35.31,
+      6
+    ],
+    [
+      "MEL44",
+      "Morocco",
+      "Temperate Northern Atlantic",
+      "Mediterranean (southwest)",
+      "Alboran Sea",
+      "Velez.imperio",
+      -4.3,
+      35.17,
+      8
+    ],
+    [
+      "MEL46",
+      "Morocco",
+      "Temperate Northern Atlantic",
+      "Mediterranean (southwest)",
+      "Alboran Sea",
+      "Velez.cementerio.profunda",
+      -4.3,
+      35.17,
+      1
+    ],
+    [
+      "MEL47",
+      "Spain",
+      "Temperate Northern Atlantic",
+      "Mediterranean (southwest)",
+      "Alboran Sea",
+      "Aguadu.NW",
+      -2.94,
+      35.31,
+      6
     ],
     [
       "MEL5",
@@ -24352,7 +24539,84 @@
       "Congreso Sur",
       -2.44,
       35.18,
+      6
+    ],
+    [
+      "MEL51",
+      "Spain",
+      "Temperate Northern Atlantic",
+      "Mediterranean (southwest)",
+      "Alboran Sea",
+      "Escollera.W.I",
+      -2.93,
+      35.29,
+      8
+    ],
+    [
+      "MEL52",
+      "Spain",
+      "Temperate Northern Atlantic",
+      "Mediterranean (southwest)",
+      "Alboran Sea",
+      "Aguadu.derecha",
+      -2.94,
+      35.31,
       2
+    ],
+    [
+      "MEL53",
+      "Morocco",
+      "Temperate Northern Atlantic",
+      "Mediterranean (southwest)",
+      "Alboran Sea",
+      "Isabel II Muelle Chico N",
+      -2.43,
+      35.18,
+      4
+    ],
+    [
+      "MEL55",
+      "Morocco",
+      "Temperate Northern Atlantic",
+      "Mediterranean (southwest)",
+      "Alboran Sea",
+      "Rey Nido del Halc\u00f3n S",
+      -2.42,
+      35.18,
+      7
+    ],
+    [
+      "MEL57",
+      "Morocco",
+      "Temperate Northern Atlantic",
+      "Mediterranean (southwest)",
+      "Alboran Sea",
+      "Congreso Punta del Faro",
+      -2.44,
+      35.17,
+      3
+    ],
+    [
+      "MEL58",
+      "Morocco",
+      "Temperate Northern Atlantic",
+      "Mediterranean (southwest)",
+      "Alboran Sea",
+      "Rey Tajo de los Piratas",
+      -2.42,
+      35.18,
+      4
+    ],
+    [
+      "MEL59",
+      "Morocco",
+      "Temperate Northern Atlantic",
+      "Mediterranean (southwest)",
+      "Alboran Sea",
+      "Congreso El Embudo",
+      -2.44,
+      35.18,
+      4
     ],
     [
       "MEL6",
@@ -24360,10 +24624,98 @@
       "Temperate Northern Atlantic",
       "Mediterranean (southwest)",
       "Alboran Sea",
-      "Isabel II",
+      "Isabel II N",
       -2.43,
       35.18,
-      2
+      9
+    ],
+    [
+      "MEL60",
+      "Morocco",
+      "Temperate Northern Atlantic",
+      "Mediterranean (southwest)",
+      "Alboran Sea",
+      "Isabel II NW",
+      -2.43,
+      35.18,
+      4
+    ],
+    [
+      "MEL61",
+      "Morocco",
+      "Temperate Northern Atlantic",
+      "Mediterranean (southwest)",
+      "Alboran Sea",
+      "Isabel II Polvor\u00edn",
+      -2.43,
+      35.18,
+      3
+    ],
+    [
+      "MEL62",
+      "Morocco",
+      "Temperate Northern Atlantic",
+      "Mediterranean (southwest)",
+      "Alboran Sea",
+      "Isabel II Ba\u00f1o de los Cubanos",
+      -2.43,
+      35.18,
+      4
+    ],
+    [
+      "MEL63",
+      "Morocco",
+      "Temperate Northern Atlantic",
+      "Mediterranean (southwest)",
+      "Alboran Sea",
+      "Rey Balcon Pilato N",
+      -2.42,
+      35.19,
+      4
+    ],
+    [
+      "MEL64",
+      "Morocco",
+      "Temperate Northern Atlantic",
+      "Mediterranean (southwest)",
+      "Alboran Sea",
+      "Rey Muelle Roto",
+      -2.42,
+      35.18,
+      3
+    ],
+    [
+      "MEL65",
+      "Morocco",
+      "Temperate Northern Atlantic",
+      "Mediterranean (southwest)",
+      "Alboran Sea",
+      "Congreso Las Cuevas N",
+      -2.44,
+      35.18,
+      7
+    ],
+    [
+      "MEL67",
+      "Morocco",
+      "Temperate Northern Atlantic",
+      "Mediterranean (southwest)",
+      "Alboran Sea",
+      "Rey La Sarten",
+      -2.42,
+      35.18,
+      4
+    ],
+    [
+      "MEL68",
+      "Morocco",
+      "Temperate Northern Atlantic",
+      "Mediterranean (southwest)",
+      "Alboran Sea",
+      "Rey Tajo del Halcon",
+      -2.42,
+      35.18,
+      4
     ],
     [
       "MEL7",
@@ -24374,7 +24726,7 @@
       "Rey Sur",
       -2.42,
       35.18,
-      2
+      5
     ],
     [
       "MEL8",
@@ -24385,7 +24737,7 @@
       "Velez",
       -4.3,
       35.17,
-      2
+      6
     ],
     [
       "MEL9",
@@ -24396,7 +24748,7 @@
       "Alhucemas",
       -3.89,
       35.21,
-      4
+      10
     ],
     [
       "MI1",

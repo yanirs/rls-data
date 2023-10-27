@@ -8456,6 +8456,13 @@
       "https://images.reeflifesurvey.com/1/species_54_636b3b33edf13.w1000.h666.jpg"
     ]
   ],
+  "Centrostephanus longispinus": [
+    "Centrostephanus longispinus",
+    "",
+    null,
+    1,
+    []
+  ],
   "Centrostephanus rodgersii": [
     "Centrostephanus rodgersii",
     "Long-spine urchin",
@@ -12574,6 +12581,13 @@
     2,
     []
   ],
+  "Clinitrachus argentatus": [
+    "Clinitrachus argentatus",
+    "",
+    null,
+    2,
+    []
+  ],
   "Clinus spp.": [
     "Clinus spp.",
     "",
@@ -15760,6 +15774,13 @@
       "https://images.reeflifesurvey.com/0/species_fd_576dd4e8606ed.w1000.h666.jpg"
     ]
   ],
+  "Dactylopterus volitans": [
+    "Dactylopterus volitans",
+    "",
+    null,
+    0,
+    []
+  ],
   "Dactylopus dactylopus": [
     "Dactylopus dactylopus",
     "Finger dragonet",
@@ -16574,6 +16595,13 @@
     0,
     []
   ],
+  "Diaphorodoris luteocincta": [
+    "Diaphorodoris luteocincta",
+    "",
+    null,
+    1,
+    []
+  ],
   "Diaulula hispida": [
     "Diaulula hispida",
     "",
@@ -16869,6 +16897,13 @@
       "https://images.reeflifesurvey.com/0/species_ef_57994fe52be8c.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_5c_57994fe81e531.w1000.h666.JPG"
     ]
+  ],
+  "Diplodus bellottii": [
+    "Diplodus bellottii",
+    "",
+    null,
+    0,
+    []
   ],
   "Diplodus capensis": [
     "Diplodus capensis",
@@ -19027,6 +19062,13 @@
     2,
     []
   ],
+  "Epinephelus caninus": [
+    "Epinephelus caninus",
+    "",
+    null,
+    2,
+    []
+  ],
   "Epinephelus coeruleopunctatus": [
     "Epinephelus coeruleopunctatus",
     "Whitespotted grouper, Garrupa, Ocellated Rock-cod, Small-spotted Rockcod, Snowy Grouper, Whitespotted Rockcod, Epinephelus caeruleopunctatus",
@@ -19756,6 +19798,13 @@
       "https://images.reeflifesurvey.com/0/species_96_57708d6e867b9.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_4b_574c222ab021e.w1000.h666.jpg"
     ]
+  ],
+  "Eupilumnus spp.": [
+    "Eupilumnus spp.",
+    "",
+    null,
+    1,
+    []
   ],
   "Euplica bidentata": [
     "Euplica bidentata",
@@ -20571,6 +20620,13 @@
       "https://images.reeflifesurvey.com/0/species_d2_5736fefe5f26d.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_48_5736ff166f1cd.w1000.h666.jpg"
     ]
+  ],
+  "Felimare fontandraui": [
+    "Felimare fontandraui",
+    "",
+    null,
+    1,
+    []
   ],
   "Felimare gasconi": [
     "Felimare gasconi",
@@ -25991,6 +26047,13 @@
     2,
     []
   ],
+  "Hippocampus guttulatus": [
+    "Hippocampus guttulatus",
+    "",
+    null,
+    2,
+    []
+  ],
   "Hippocampus hippocampus": [
     "Hippocampus hippocampus",
     "Short-snouted seahorse",
@@ -26315,6 +26378,13 @@
     1,
     []
   ],
+  "Holothuria (Roweothuria) poli": [
+    "Holothuria (Roweothuria) poli",
+    "",
+    null,
+    1,
+    []
+  ],
   "Holothuria (Semperothuria) cinerascens": [
     "Holothuria (Semperothuria) cinerascens",
     "",
@@ -26532,13 +26602,6 @@
     [
       "https://images.reeflifesurvey.com/1/species_76_64eda678a4d61.w1000.h666.jpg"
     ]
-  ],
-  "Holothuria polii": [
-    "Holothuria polii",
-    "",
-    "https://reeflifesurvey.com/species/holothuria-polii/",
-    1,
-    []
   ],
   "Holothuria portovallartensis": [
     "Holothuria portovallartensis",
@@ -29226,6 +29289,13 @@
       "https://images.reeflifesurvey.com/0/species_42_5a018e386a523.w1000.h666.jpg"
     ]
   ],
+  "Linatella caudata": [
+    "Linatella caudata",
+    "",
+    null,
+    1,
+    []
+  ],
   "Linckia columbiae": [
     "Linckia columbiae",
     "Fragile star",
@@ -30768,6 +30838,13 @@
     "Marianina rosea",
     "Rosy nudibranch",
     "https://reeflifesurvey.com/species/marianina-rosea/",
+    1,
+    []
+  ],
+  "Marionia blainvillea": [
+    "Marionia blainvillea",
+    "",
+    null,
     1,
     []
   ],
@@ -32593,6 +32670,13 @@
       "https://images.reeflifesurvey.com/0/species_4e_5a02b074bfb81.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_a9_5a02b07c20342.w1000.h666.jpg"
     ]
+  ],
+  "Mycteroperca rubra": [
+    "Mycteroperca rubra",
+    "",
+    null,
+    2,
+    []
   ],
   "Mycteroperca tigris": [
     "Mycteroperca tigris",
@@ -35440,6 +35524,20 @@
       "https://images.reeflifesurvey.com/0/species_76_5782e6e02ab9b.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_bc_5782e6e4497d1.w1000.h666.JPG"
     ]
+  ],
+  "Ophiocomina nigra": [
+    "Ophiocomina nigra",
+    "",
+    null,
+    1,
+    []
+  ],
+  "Ophioderma longicaudum": [
+    "Ophioderma longicaudum",
+    "",
+    null,
+    1,
+    []
   ],
   "Ophiodon elongatus": [
     "Ophiodon elongatus",
@@ -39531,6 +39629,13 @@
     0,
     []
   ],
+  "Petalifera petalifera": [
+    "Petalifera petalifera",
+    "",
+    null,
+    1,
+    []
+  ],
   "Petalifera ramosa": [
     "Petalifera ramosa",
     "Ramosa's Seahare",
@@ -40466,6 +40571,13 @@
     "Pilumnus spinifer",
     "Red hairy crab",
     "https://reeflifesurvey.com/species/pilumnus-spinifer/",
+    1,
+    []
+  ],
+  "Pilumnus spp.": [
+    "Pilumnus spp.",
+    "",
+    null,
     1,
     []
   ],
@@ -51396,6 +51508,13 @@
       "https://images.reeflifesurvey.com/0/species_35_579599e326b59.w1000.h666.JPG"
     ]
   ],
+  "Tambja ceutae": [
+    "Tambja ceutae",
+    "",
+    null,
+    1,
+    []
+  ],
   "Tambja eliora": [
     "Tambja eliora",
     "",
@@ -53020,6 +53139,13 @@
       "https://images.reeflifesurvey.com/1/species_8c_5b3083137582e.w1000.h666.JPG"
     ]
   ],
+  "Trapania orteai": [
+    "Trapania orteai",
+    "",
+    null,
+    1,
+    []
+  ],
   "Trapania safracornia": [
     "Trapania safracornia",
     "[a nudibranch]",
@@ -54365,6 +54491,13 @@
     "Tylothais aculeata",
     "",
     "https://reeflifesurvey.com/species/tylothais-aculeata/",
+    1,
+    []
+  ],
+  "Tyrannodoris europaea": [
+    "Tyrannodoris europaea",
+    "",
+    null,
     1,
     []
   ],
