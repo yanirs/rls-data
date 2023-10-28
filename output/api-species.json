@@ -8459,7 +8459,7 @@
   "Centrostephanus longispinus": [
     "Centrostephanus longispinus",
     "",
-    null,
+    "https://reeflifesurvey.com/species/centrostephanus-longispinus/",
     1,
     []
   ],
@@ -12584,7 +12584,7 @@
   "Clinitrachus argentatus": [
     "Clinitrachus argentatus",
     "",
-    null,
+    "https://reeflifesurvey.com/species/clinitrachus-argentatus/",
     2,
     []
   ],
@@ -15777,7 +15777,7 @@
   "Dactylopterus volitans": [
     "Dactylopterus volitans",
     "",
-    null,
+    "https://reeflifesurvey.com/species/dactylopterus-volitans/",
     0,
     []
   ],
@@ -16598,7 +16598,7 @@
   "Diaphorodoris luteocincta": [
     "Diaphorodoris luteocincta",
     "",
-    null,
+    "https://reeflifesurvey.com/species/diaphorodoris-luteocincta/",
     1,
     []
   ],
@@ -16901,7 +16901,7 @@
   "Diplodus bellottii": [
     "Diplodus bellottii",
     "",
-    null,
+    "https://reeflifesurvey.com/species/diplodus-bellottii/",
     0,
     []
   ],
@@ -19065,7 +19065,7 @@
   "Epinephelus caninus": [
     "Epinephelus caninus",
     "",
-    null,
+    "https://reeflifesurvey.com/species/epinephelus-caninus/",
     2,
     []
   ],
@@ -20624,7 +20624,7 @@
   "Felimare fontandraui": [
     "Felimare fontandraui",
     "",
-    null,
+    "https://reeflifesurvey.com/species/felimare-fontandraui/",
     1,
     []
   ],
@@ -21465,6 +21465,13 @@
     "",
     null,
     0,
+    []
+  ],
+  "Gammogobius steinitzi": [
+    "Gammogobius steinitzi",
+    "",
+    "https://reeflifesurvey.com/species/gammogobius-steinitzi/",
+    2,
     []
   ],
   "Ganeria falklandica": [
@@ -26050,7 +26057,7 @@
   "Hippocampus guttulatus": [
     "Hippocampus guttulatus",
     "",
-    null,
+    "https://reeflifesurvey.com/species/hippocampus-guttulatus/",
     2,
     []
   ],
@@ -26380,8 +26387,8 @@
   ],
   "Holothuria (Roweothuria) poli": [
     "Holothuria (Roweothuria) poli",
-    "",
-    null,
+    "Holothuria polii",
+    "https://reeflifesurvey.com/species/holothuria-roweothuria-poli/",
     1,
     []
   ],
@@ -29292,7 +29299,7 @@
   "Linatella caudata": [
     "Linatella caudata",
     "",
-    null,
+    "https://reeflifesurvey.com/species/linatella-caudata/",
     1,
     []
   ],
@@ -30844,7 +30851,7 @@
   "Marionia blainvillea": [
     "Marionia blainvillea",
     "",
-    null,
+    "https://reeflifesurvey.com/species/marionia-blainvillea/",
     1,
     []
   ],
@@ -32674,7 +32681,7 @@
   "Mycteroperca rubra": [
     "Mycteroperca rubra",
     "",
-    null,
+    "https://reeflifesurvey.com/species/mycteroperca-rubra/",
     2,
     []
   ],
@@ -39632,7 +39639,7 @@
   "Petalifera petalifera": [
     "Petalifera petalifera",
     "",
-    null,
+    "https://reeflifesurvey.com/species/petalifera-petalifera/",
     1,
     []
   ],
@@ -51511,7 +51518,7 @@
   "Tambja ceutae": [
     "Tambja ceutae",
     "",
-    null,
+    "https://reeflifesurvey.com/species/tambja-ceutae/",
     1,
     []
   ],
@@ -53142,7 +53149,7 @@
   "Trapania orteai": [
     "Trapania orteai",
     "",
-    null,
+    "https://reeflifesurvey.com/species/trapania-orteai/",
     1,
     []
   ],
@@ -54497,7 +54504,7 @@
   "Tyrannodoris europaea": [
     "Tyrannodoris europaea",
     "",
-    null,
+    "https://reeflifesurvey.com/species/tyrannodoris-europaea/",
     1,
     []
   ],
