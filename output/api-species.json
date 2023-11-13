@@ -1120,6 +1120,7 @@
     "https://reeflifesurvey.com/species/aeolidia-papillosa/",
     1,
     [
+      "https://images.reeflifesurvey.com/1/species_ef_6551b669abd3f.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_81_5a018c1ea8d8a.w1000.h666.jpg"
     ]
   ],
@@ -4607,7 +4608,9 @@
     "Spotted catshark, Asymbolis analis",
     "https://reeflifesurvey.com/species/asymbolus-analis/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_d6_6551a2a8e15f4.w1000.h666.jpg"
+    ]
   ],
   "Asymbolus vincenti": [
     "Asymbolus vincenti",
