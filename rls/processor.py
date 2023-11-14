@@ -292,7 +292,7 @@ def create_api_jsons(
     _create_summary_file(survey_data, dst_dir)
 
 
-def _load_json(path: Path) -> dict:
+def _load_json(path: Path) -> Any:
     with path.open() as fp:
         return json.load(fp)
 
@@ -329,7 +329,7 @@ def create_static_maps(
     _plot_df_cartopy(site_df, dst_dir / "__all-sites.png", central_longitude_to_ax)
 
     _logger.info("Creating species-level maps.")
-    area_name_counts = Counter()
+    area_name_counts: Counter[str] = Counter()
     for i, (species_name, species_obs) in enumerate(species_to_site_obs.items()):
         if i and not i % 500:
             _logger.info("Processed %d species distributions.", i)
@@ -349,7 +349,7 @@ def create_static_maps(
 
 
 # 1.33 ratios (except for world)
-_SUPPORTED_EXTENTS = OrderedDict(
+_SPECIFIC_EXTENTS = OrderedDict(
     [
         ("Australia", (0, (90, 180, -50, 17.5))),
         ("Europe", (0, (-30, 42, 10, 64))),
@@ -357,34 +357,38 @@ _SUPPORTED_EXTENTS = OrderedDict(
         ("Atlantic", (0, (-120, 40, -60, 60))),
         ("Indian", (0, (10, 130, -50, 40))),
         ("Pacific", (180, (-70, 118, -70, 71))),
-        ("World", (180, (-180, 180, -90, 90))),
     ]
 )
+_WORLD_EXTENT = ("World", (180, (-180, 180, -90, 90)))
 
 
-def _is_df_in_extent(df, central_longitude, extent):
-    x0, x1, y0, y1 = extent
-    if not (y0 <= df["latitude"].min() <= y1 and y0 <= df["latitude"].max() <= y1):
-        return False
+def _get_df_extent(
+    df: pd.DataFrame,
+) -> tuple[str, int, tuple[float, float, float, float]]:
+    for area_name, (central_longitude, extent) in _SPECIFIC_EXTENTS.items():
+        x0, x1, y0, y1 = extent
+        if not (y0 <= df["latitude"].min() <= y1 and y0 <= df["latitude"].max() <= y1):
+            continue
+        if (
+            central_longitude == 0
+            and ((x0 <= df["longitude"]) & (df["longitude"] <= x1)).all()
+        ):
+            return area_name, central_longitude, extent
+        assert central_longitude == 180
+        if (
+            ((df["longitude"] >= -180) & (df["longitude"] <= x0))
+            | ((x1 <= df["longitude"]) & (df["longitude"] <= 180))
+        ).all():
+            return area_name, central_longitude, extent
+    return _WORLD_EXTENT
 
-    if central_longitude == 0:
-        return ((x0 <= df["longitude"]) & (df["longitude"] <= x1)).all()
-    assert central_longitude == 180
 
-    # TODO: this shouldn't be a special case -- figure it out
-    if x0 == -180 and x1 == 180:
-        return True
-
-    return (
-        ((df["longitude"] >= -180) & (df["longitude"] <= x0))
-        | ((x1 <= df["longitude"]) & (df["longitude"] <= 180))
-    ).all()
-
-
-def _plot_df_cartopy(df, dst_file_path: Path, central_longitude_to_ax):
-    for area_name, (central_longitude, extent) in _SUPPORTED_EXTENTS.items():
-        if _is_df_in_extent(df, central_longitude, extent):
-            break
+def _plot_df_cartopy(
+    df: pd.DataFrame,
+    dst_file_path: Path,
+    central_longitude_to_ax: dict[int, plt.Axes],  # type: ignore[name-defined]
+) -> str:
+    area_name, central_longitude, extent = _get_df_extent(df)
     ax = central_longitude_to_ax[central_longitude]
     # Clearing the axes to reuse the same fig (faster and avoids keeping too many
     # figs open).
