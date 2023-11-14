@@ -339,8 +339,7 @@ def create_static_maps(
         area_name = _plot_df_cartopy(
             site_df[site_df["site_code"].isin(species_obs)],
             dst_dir / f"{species_name_to_slug[species_name]}.png",
-            central_longitude_to_ax
-            # ax,
+            central_longitude_to_ax,
         )
         area_name_counts[area_name] += 1
 
@@ -359,7 +358,7 @@ _SPECIFIC_EXTENTS = OrderedDict(
         ("Pacific", (180, (-70, 118, -70, 71))),
     ]
 )
-_WORLD_EXTENT = ("World", (180, (-180, 180, -90, 90)))
+_WORLD_EXTENT = ("World", 180, (-180, 180, -90, 90))
 
 
 def _get_df_extent(
@@ -374,11 +373,13 @@ def _get_df_extent(
             and ((x0 <= df["longitude"]) & (df["longitude"] <= x1)).all()
         ):
             return area_name, central_longitude, extent
-        assert central_longitude == 180
         if (
-            ((df["longitude"] >= -180) & (df["longitude"] <= x0))
-            | ((x1 <= df["longitude"]) & (df["longitude"] <= 180))
-        ).all():
+            central_longitude == 180
+            and (
+                ((df["longitude"] >= -180) & (df["longitude"] <= x0))
+                | ((x1 <= df["longitude"]) & (df["longitude"] <= 180))
+            ).all()
+        ):
             return area_name, central_longitude, extent
     return _WORLD_EXTENT
 
