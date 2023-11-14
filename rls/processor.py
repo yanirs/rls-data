@@ -1,11 +1,13 @@
 """Data processing functionality."""
 import json
 import logging
-from collections import defaultdict
+from collections import Counter, OrderedDict, defaultdict
 from pathlib import Path
 from typing import Any
 
+import cartopy
 import pandas as pd
+from matplotlib import pyplot as plt
 
 from .constants import (
     CRYPTIC_FAMILIES,
@@ -13,7 +15,7 @@ from .constants import (
     M1_INVERT_CLASSES,
     M2_GENERA_EXCLUSIONS,
 )
-from .util import verify_empty_dir
+from .util import load_json, verify_empty_dir
 
 _logger = logging.getLogger("rls.processor")
 
@@ -288,3 +290,138 @@ def create_api_jsons(
     _create_species_file(survey_data, crawl_data, img_src_path, dst_dir)
     _logger.info("Creating summary file.")
     _create_summary_file(survey_data, dst_dir)
+
+
+def create_static_maps(
+    sites_json_path: Path,
+    species_json_path: Path,
+    surveys_json_path: Path,
+    dst_dir: Path,
+) -> None:
+    """
+    Generate and save a distribution map for each species.
+
+    This function reads the sites, species, and surveys JSONs, and writes a map file for
+    each species to `<dst_dir>/<species_slug>.png`.
+    """
+    verify_empty_dir(dst_dir)
+    _logger.info("Loading JSONs.")
+    species_to_site_obs = load_json(surveys_json_path)
+    site_dict = load_json(sites_json_path)
+    site_df = pd.DataFrame.from_records(site_dict["rows"], columns=site_dict["keys"])
+    species_name_to_slug = {
+        species["scientific_name"]: species["slug"]
+        for species in load_json(species_json_path)
+    }
+    _logger.info("Creating global site map.")
+
+    # Reuse the same figure for each central longitude to speed things up.
+    central_longitude_to_ax = {
+        central_longitude: plt.subplots(
+            figsize=(4, 3.2),
+            subplot_kw={
+                "projection": cartopy.crs.PlateCarree(central_longitude),
+                "frameon": False,
+            },
+        )[1]
+        for central_longitude in (0, 180)
+    }
+    _create_static_map(site_df, dst_dir / "__all-sites.png", central_longitude_to_ax)
+
+    _logger.info("Creating species-level maps.")
+    area_name_counts: Counter[str] = Counter()
+    for i, (species_name, species_obs) in enumerate(species_to_site_obs.items()):
+        if i and not i % 500:
+            _logger.info("Processed %d species distributions.", i)
+        # Some species have counts, but they're not shown on the website (e.g., spp.),
+        # so we only plot those that have a slug.
+        if species_name in species_name_to_slug:
+            area_name = _create_static_map(
+                site_df[site_df["site_code"].isin(species_obs)],
+                dst_dir / f"{species_name_to_slug[species_name]}.png",
+                central_longitude_to_ax,
+            )
+            area_name_counts[area_name] += 1
+
+    _logger.info("Area name counts: %s.", area_name_counts)
+    _logger.info("Done.")
+
+
+# The aspect ratio for each specific map area is 4:3, which results in a consistent look
+# for the PDF. The ordering is important, as the first area that contains the full site
+# distribution is used for a given species.
+_SPECIFIC_MAP_AREAS = OrderedDict(
+    [
+        ("Australia", (0, (90, 180, -50, 17.5))),
+        ("Europe", (0, (-30, 42, 10, 64))),
+        ("North America", (0, (-135, -10, -3.75, 90))),
+        ("Atlantic", (0, (-120, 40, -60, 60))),
+        ("Indian", (0, (10, 130, -50, 40))),
+        ("Pacific", (180, (-70, 118, -70, 71))),
+    ]
+)
+_WORLD_MAP_AREA = ("World", 180, (-180, 180, -90, 90))
+
+
+def _get_df_map_area(
+    df: pd.DataFrame,
+) -> tuple[str, int, tuple[float, float, float, float]]:
+    """
+    Return the first area that contains the df's sites out of _SPECIFIC_MAP_AREAS.
+
+    _WORLD_MAP_AREA is returned if no specific area contains all the sites.
+
+    The returned tuple is of the form (area_name, central_longitude, extent), where
+    extent is a tuple of the form (min_longitude, max_longitude, min_latitude,
+    max_latitude).
+    """
+    for area_name, (central_longitude, extent) in _SPECIFIC_MAP_AREAS.items():
+        min_longitude, max_longitude, min_latitude, max_latitude = extent
+        if not (
+            min_latitude <= df["latitude"].min() <= max_latitude
+            and min_latitude <= df["latitude"].max() <= max_latitude
+        ):
+            continue
+        if (
+            central_longitude == 0
+            and (
+                (min_longitude <= df["longitude"]) & (df["longitude"] <= max_longitude)
+            ).all()
+        ):
+            return area_name, central_longitude, extent
+        if (
+            central_longitude == 180
+            and (
+                ((df["longitude"] >= -180) & (df["longitude"] <= min_longitude))
+                | ((max_longitude <= df["longitude"]) & (df["longitude"] <= 180))
+            ).all()
+        ):
+            return area_name, central_longitude, extent
+    return _WORLD_MAP_AREA
+
+
+def _create_static_map(
+    df: pd.DataFrame,
+    dst_file_path: Path,
+    central_longitude_to_ax: dict[int, plt.Axes],  # type: ignore[name-defined]
+) -> str:
+    """
+    Save a static map containing all the sites in df to dst_file_path.
+
+    Return the name of the area that was used for the map.
+    """
+    area_name, central_longitude, extent = _get_df_map_area(df)
+    ax = central_longitude_to_ax[central_longitude]
+    # Clearing the axes to reuse the same fig (faster and avoids keeping too many
+    # figs open).
+    ax.cla()
+    ax.add_feature(cartopy.feature.OCEAN, color="#abcad7")
+    ax.scatter(
+        df["longitude"],
+        df["latitude"],
+        color="#d95936",
+        transform=cartopy.crs.PlateCarree(),
+    )
+    ax.set_extent(extent, crs=cartopy.crs.PlateCarree(central_longitude))
+    ax.get_figure().savefig(dst_file_path, dpi=100, bbox_inches="tight", pad_inches=0)
+    return area_name

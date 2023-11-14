@@ -1,5 +1,13 @@
 """Various utilities."""
+import json
 from pathlib import Path
+from typing import Any
+
+
+def load_json(path: Path) -> Any:
+    """Read and parse the JSON file at path."""
+    with path.open() as fp:
+        return json.load(fp)
 
 
 def verify_empty_dir(dir_path: Path) -> None:
