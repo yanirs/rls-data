@@ -77,6 +77,7 @@ jobs:
         run: poetry run rls-data create-api-jsons data/rls-site-crawl.json data/rls-surveys/ output-tmp/
 
       - name: Commit API files
+        id: commit-api-files
         run: |
           mkdir -p output/
           cp output-tmp/*.json output/
@@ -86,6 +87,20 @@ jobs:
             git add output/
             git commit -m "Update API files"
             git push
+            echo "committed=true" >> "$GITHUB_OUTPUT"
           else
             echo "The API files haven't changed"
+          fi
+
+      - name: Regenerate & commit static maps
+        if: ${{ steps.commit-api-files.outputs.committed == 'true' }}
+        run: |
+          rm -f maps/*
+          poetry run rls-data create-static-maps output/sites.json output/species.json output/surveys.json maps/
+          if [ -n "$(git status --porcelain)" ]; then
+            git add maps/
+            git commit -m "Update static maps"
+            git push
+          else
+            echo "The static maps haven't changed"
           fi
