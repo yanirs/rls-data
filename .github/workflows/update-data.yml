@@ -1,11 +1,11 @@
-name: Update JSONs
+name: Update Data
 on:
   pull_request:
   workflow_dispatch:
   schedule:
     - cron: '23 0 * * *'  # Daily at 00:23 UTC.
 jobs:
-  update-jsons:
+  update-data:
     runs-on: ubuntu-latest
     steps:
       # See https://github.com/marketplace/actions/add-commit#working-with-prs for why two steps are needed.
@@ -73,11 +73,11 @@ jobs:
             --loglevel INFO \
             --set USER_AGENT="Scrapy-RLS-API (+https://reeflifesurvey.com/)"
 
-      - name: Create API files
+      - name: Create text output files
         run: poetry run rls-data create-api-jsons data/rls-site-crawl.json data/rls-surveys/ output-tmp/
 
-      - name: Commit API files
-        id: commit-api-files
+      - name: Commit text output files
+        id: commit-text-output-files
         run: |
           mkdir -p output/
           cp output-tmp/*.json output/
@@ -93,7 +93,7 @@ jobs:
           fi
 
       - name: Regenerate & commit static maps
-        if: ${{ steps.commit-api-files.outputs.committed == 'true' }}
+        if: ${{ steps.commit-text-output-files.outputs.committed == 'true' }}
         run: |
           rm -f maps/*
           poetry run rls-data create-static-maps output/sites.json output/species.json output/surveys.json maps/
