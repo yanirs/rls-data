@@ -4,6 +4,19 @@
 Vagrant.configure("2") do |config|
   config.vm.box = "ubuntu/jammy64"
 
+  # Speed up operations by using rsync rather than the default VirtualBox shared folder.
+  # This requires manual running of `vagrant rsync-auto` for updates to be reflected on
+  # the guest.
+  # Despite the suggestion in the docs to exclude the .git/ folder, it is included to
+  # enable working with pre-commit on the machine.
+  # TODO: the problem with running pre-commit on the machine is that it requires syncing
+  # TODO: files back -- might be better to add .git/ to the ignored dirs and just run
+  # TODO: pre-commit on the host, which is relatively low risk
+  # TODO: alternatively, can explore other two-way sync options like NFS and VMWare
+  config.vm.synced_folder ".", "/vagrant",
+   type: "rsync",
+   rsync__exclude: [".coverage", ".mypy_cache/", ".pytest_cache/", ".ruff_cache/", "__pycache__/", "data/", "htmlcov/"]
+
   config.vm.provider "virtualbox" do |vb|
     vb.memory = "4096"
   end

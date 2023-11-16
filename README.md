@@ -10,9 +10,9 @@ Develop locally:
     $ poetry install
     $ poetry run pre-commit install
 
-Or in a VirtualBox:
+Or in a VirtualBox (with continuous rsyncing of changes):
 
-    $ vagrant up
+    $ vagrant up && vagrant rysnc-auto
 
 ## Command line interface
 
