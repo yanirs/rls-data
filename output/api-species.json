@@ -2526,7 +2526,9 @@
     "American eel",
     "https://reeflifesurvey.com/species/anguilla-rostrata/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_be_655566bd2f8ee.w1000.h666.jpg"
+    ]
   ],
   "Aniculus elegans": [
     "Aniculus elegans",
@@ -40078,9 +40080,10 @@
     "https://reeflifesurvey.com/species/pholis-gunnellus/",
     2,
     [
+      "https://images.reeflifesurvey.com/1/species_02_6555769436bc7.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_35_655576a37d9be.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_8c_5a018e945c23e.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_12_650148f9cd317.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_6c_5a018e8f7a85d.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_12_650148f9cd317.w1000.h666.jpg"
     ]
   ],
   "Pholis gunnellus [?]": [
