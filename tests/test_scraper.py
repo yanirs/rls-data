@@ -1,3 +1,5 @@
+from typing import Any
+
 import pytest
 from scrapy.http import HtmlResponse
 
@@ -5,11 +7,11 @@ from rls.scraper import ReefLifeSurveySpider
 
 
 @pytest.fixture()
-def spider():
+def spider() -> ReefLifeSurveySpider:
     return ReefLifeSurveySpider()
 
 
-def test_parse_start_url(spider):
+def test_parse_start_url(spider: ReefLifeSurveySpider) -> None:
     sitemap_response_body = """
         <urlset>
             <url>
@@ -99,6 +101,11 @@ def test_parse_start_url(spider):
         ),
     ],
 )
-def test_parse_species_page(spider, url, body, expected_items):
+def test_parse_species_page(
+    spider: ReefLifeSurveySpider,
+    url: str,
+    body: str,
+    expected_items: list[dict[str, Any]],
+) -> None:
     response = HtmlResponse(url=url, body=body, encoding="utf-8")
     assert list(spider.parse_species_page(response)) == expected_items
