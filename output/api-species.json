@@ -9825,10 +9825,11 @@
     "https://reeflifesurvey.com/species/cheilinus-chlorourus/",
     0,
     [
+      "https://images.reeflifesurvey.com/1/species_4b_655ec68c9c77c.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_10_57462a2a2bef1.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_06_57462a33f098f.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_28_574c07a8222d8.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_81_57c93b4adb174.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_28_574c07a8222d8.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_eb_5981d927ce07a.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_ad_574c0835d77c4.w1000.h666.jpg"
     ]
@@ -10042,7 +10043,7 @@
     "https://reeflifesurvey.com/species/cheilodipterus-quinquelineatus/",
     2,
     [
-      "https://images.reeflifesurvey.com/0/species_dc_56f3677ccde0c.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_57_655ec97dd40c6.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_65_56f3678439703.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_8c_576b3769a28ef.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_4d_576b39279fbcb.w1000.h666.jpg"
@@ -10630,14 +10631,16 @@
     "https://reeflifesurvey.com/species/chlorurus-sordidus/",
     0,
     [
+      "https://images.reeflifesurvey.com/1/species_fd_655ecd471ca76.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_ca_655ecd446c850.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_a0_56db8f0eee987.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_d5_57342f31dd42a.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_37_57342f3845ff0.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_a0_56db8f0eee987.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_02_56db8f0a775dc.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_e6_56db8f3b194c8.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_94_570da4b133812.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_3e_57342fb517618.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_e1_57342fbaa36cd.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_3e_57342fb517618.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_00_576b449a78c67.w1000.h666.jpg"
     ]
   ],
@@ -12080,12 +12083,12 @@
     0,
     [
       "https://images.reeflifesurvey.com/0/species_ab_57468f92b0ce1.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_00_57a6a0025e2e5.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_7e_655ecfcc770e6.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_7a_57468f96ce01d.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_c3_57a69ff51eb32.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_42_58928ead77d1d.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_02_58928ef15d28b.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/0/species_1f_5981dc25aa267.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_42_58928ead77d1d.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/0/species_1f_5981dc25aa267.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_00_57a6a0025e2e5.w1000.h666.jpg"
     ]
   ],
   "Cirrhilabrus walindi": [
@@ -28568,7 +28571,8 @@
     "https://reeflifesurvey.com/species/latirus-polygonus/",
     1,
     [
-      "https://images.reeflifesurvey.com/1/species_3c_6347a04e7b4d1.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/1/species_3c_6347a04e7b4d1.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_c6_655ed11472cad.w1000.h666.jpg"
     ]
   ],
   "Latirus spp.": [
@@ -30498,6 +30502,7 @@
       "https://images.reeflifesurvey.com/0/species_12_574d18d7e8e68.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_da_574d18e2cdf5f.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_2e_5774d004863da.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_1c_655ed1a110f1c.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_fb_5774d008e1f7b.w1000.h666.jpg"
     ]
   ],
