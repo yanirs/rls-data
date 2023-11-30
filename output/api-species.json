@@ -7507,12 +7507,11 @@
   ],
   "Canthigaster papua": [
     "Canthigaster papua",
-    "Netted Toby, False-eye Pufferfish, Papuan Toby, Canthigaster solandri",
+    "Netted Toby, False-eye Pufferfish, Papuan Toby",
     "https://reeflifesurvey.com/species/canthigaster-papua/",
     0,
     [
       "https://images.reeflifesurvey.com/0/species_35_56fc6d18418b8.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_f6_56fc6d1dea023.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_0d_5769ee42522db.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_17_599a667660a0c.w1000.h666.jpg"
     ]
@@ -7522,7 +7521,12 @@
     "Peters toby",
     "https://reeflifesurvey.com/species/canthigaster-petersii/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_52_6566b7c00c7a5.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_6a_6566b7bedc7e9.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_b2_6566b7c1166e1.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_ba_6566ae11d1dff.w1000.h666.jpg"
+    ]
   ],
   "Canthigaster punctatissima": [
     "Canthigaster punctatissima",
@@ -34144,6 +34148,7 @@
       "https://images.reeflifesurvey.com/0/species_d8_574e61d93c460.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_56_57ac39d58e16c.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_e2_57328485e5d4c.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_90_6566a6e785003.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_d7_5732848c88972.w1000.h666.jpg"
     ]
   ],
