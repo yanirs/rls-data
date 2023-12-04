@@ -34699,7 +34699,11 @@
     "Blue-throat/Purple wrasse hybrid",
     "https://reeflifesurvey.com/species/notolabrus-tetricus-fucicola-hybrid/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_a6_656d1eebcedc8.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_9c_656d1eecad8e2.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_11_656d1eeac2ba2.w1000.h666.jpg"
+    ]
   ],
   "Notomithrax ursus": [
     "Notomithrax ursus",
@@ -54871,7 +54875,9 @@
     "https://reeflifesurvey.com/species/urolophus-cruciatus/",
     2,
     [
-      "https://images.reeflifesurvey.com/0/species_70_5729541b526bf.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_70_5729541b526bf.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_f9_656d17f686ff0.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_f0_656d17f91a6e6.w1000.h666.jpg"
     ]
   ],
   "Urolophus gigas": [
@@ -54910,7 +54916,8 @@
     2,
     [
       "https://images.reeflifesurvey.com/0/species_a0_572955c11fc97.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_70_5e649b84290ae.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_70_5e649b84290ae.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_17_656d187f13b0d.w1000.h666.jpg"
     ]
   ],
   "Urolophus sp. (striped stingaree)": [
