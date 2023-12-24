@@ -12,8 +12,8 @@ class ReefLifeSurveySpider(CrawlSpider):  # type: ignore[misc]
     """Scraper for the RLS website that collects species information."""
 
     name = "rls"
-    allowed_domains = ["reeflifesurvey.com"]
-    start_urls = ["https://reeflifesurvey.com/sitemap-species.xml"]
+    allowed_domains = ("reeflifesurvey.com",)
+    start_urls = ("https://reeflifesurvey.com/sitemap-species.xml",)
 
     def parse_start_url(
         self, response: scrapy.http.Response, **_: Any

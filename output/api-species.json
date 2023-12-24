@@ -14629,10 +14629,15 @@
   ],
   "Cosmasterias lurida": [
     "Cosmasterias lurida",
-    "",
-    null,
+    "Common fjord starfish",
+    "https://reeflifesurvey.com/species/cosmasterias-lurida/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_af_57994277a15dc.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/0/species_4f_57994272be9cb.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/0/species_c3_5799426e38d8e.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/0/species_b3_57a12f463da3f.w1000.h666.JPG"
+    ]
   ],
   "Cosmocampus elucens": [
     "Cosmocampus elucens",

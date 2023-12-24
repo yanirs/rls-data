@@ -41,19 +41,6 @@ mypy = "^1.2.0"
 [tool.poetry.scripts]
 rls-data = "rls:run_cli"
 
-[tool.black]
-include = '\.pyi?$'
-exclude = '''
-/(
-    \.git
-  | \.mypy_cache
-  | \.tox
-  | \venv
-  | build
-  | dist
-)/
-'''
-
 [tool.ruff]
 select = [
   "A",  # flake8-builtins
