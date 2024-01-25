@@ -2997,7 +2997,7 @@
     2,
     [
       "https://images.reeflifesurvey.com/0/species_e0_56ef62be1ac14.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_fe_57abf8d403e1f.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_f0_65b08d014d17d.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_13_56ef62c4c98ae.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_da_57688680637e5.w1000.h666.jpg"
     ]
@@ -4103,8 +4103,9 @@
     "https://reeflifesurvey.com/species/aspasmogaster-tasmaniensis/",
     2,
     [
-      "https://images.reeflifesurvey.com/0/species_c6_58bca74f10475.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/0/species_3b_5a75640516223.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/1/species_b8_65b090635cf23.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_3b_5a75640516223.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_33_65b0927040765.w1000.h666.jpg"
     ]
   ],
   "Aspidontus dussumieri": [
@@ -4179,7 +4180,6 @@
     1,
     [
       "https://images.reeflifesurvey.com/0/species_7c_58d762c551cc2.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_73_59450f005d0e1.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_d3_574d6dc17df6a.w1000.h666.jpg"
     ]
   ],
@@ -4813,11 +4813,12 @@
     "https://reeflifesurvey.com/species/atypichthys-strigatus/",
     0,
     [
+      "https://images.reeflifesurvey.com/1/species_c4_65b08e20eaa9f.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_35_574d6aa647941.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_22_57df1ab0659fc.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_8d_576927635e495.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_b4_57b1a938e7932.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_ee_5769276891035.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_b4_57b1a938e7932.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_b7_5769275f5fea2.w1000.h666.jpg"
     ]
   ],
@@ -10440,7 +10441,6 @@
     [
       "https://images.reeflifesurvey.com/1/species_a5_5ed47bc879bd9.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_4f_573b05b7876c4.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_68_573b05cc84cac.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_7b_5dbd5903abc10.w1000.h666.jpg"
     ]
   ],
@@ -13184,7 +13184,9 @@
     "Tasmanian feather star, Cenolia tasmaniae",
     "https://reeflifesurvey.com/species/comanthus-tasmaniae/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_93_65b094d58371d.w1000.h666.JPG"
+    ]
   ],
   "Comanthus wahlbergi": [
     "Comanthus wahlbergi",
@@ -25029,7 +25031,9 @@
     "https://reeflifesurvey.com/species/helicolenus-percoides/",
     2,
     [
-      "https://images.reeflifesurvey.com/0/species_64_59d1863c0ada7.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/1/species_6c_65b091a7ce1a8.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_64_59d1863c0ada7.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_fa_65b091a5ad7c0.w1000.h666.jpg"
     ]
   ],
   "Heliocidaris crassispina": [
