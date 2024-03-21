@@ -20027,10 +20027,7 @@
     "https://reeflifesurvey.com/species/eviota-guttata/",
     2,
     [
-      "https://images.reeflifesurvey.com/0/species_30_5768ca814d632.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_e1_57709e2810d87.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/0/species_28_57709e8204078.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_f1_57d73fd2bbd76.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_6d_65fa6eb314d16.w1000.h666.JPG"
     ]
   ],
   "Eviota hoesei": [
@@ -20410,7 +20407,11 @@
     "Terrys dwarfgoby",
     "https://reeflifesurvey.com/species/eviota-teresae/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_8f_65fa706135d45.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_9d_65fa70fc5b9ef.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_fb_65fa72fda1df0.w1000.h666.JPG"
+    ]
   ],
   "Eviota zebrina": [
     "Eviota zebrina",
