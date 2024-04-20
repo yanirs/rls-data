@@ -2055,7 +2055,7 @@
       "South East Governor Isle",
       148.31,
       -41.87,
-      152
+      160
     ],
     [
       "BI-S2",
@@ -2066,7 +2066,7 @@
       "North Governor Isle",
       148.31,
       -41.87,
-      144
+      152
     ],
     [
       "BI-S3",
@@ -2077,7 +2077,7 @@
       "Waubs Bay",
       148.3,
       -41.87,
-      72
+      76
     ],
     [
       "BI-S4",
@@ -2088,7 +2088,7 @@
       "Blow Hole, Bicheno",
       148.31,
       -41.88,
-      146
+      154
     ],
     [
       "BI-S5",
@@ -2099,7 +2099,7 @@
       "Halfway Point",
       148.32,
       -41.9,
-      76
+      80
     ],
     [
       "BMKC1",
@@ -24836,7 +24836,7 @@
       "Darlington North",
       148.06,
       -42.58,
-      152
+      156
     ],
     [
       "MIR-S10",
@@ -24847,7 +24847,7 @@
       "Green Bluff",
       148.01,
       -42.72,
-      148
+      152
     ],
     [
       "MIR-S11",
@@ -24858,7 +24858,7 @@
       "Ile du Nord",
       148.07,
       -42.56,
-      148
+      152
     ],
     [
       "MIR-S12",
@@ -24869,7 +24869,7 @@
       "Okehampton Bay",
       147.97,
       -42.52,
-      148
+      152
     ],
     [
       "MIR-S13",
@@ -24880,7 +24880,7 @@
       "Point Holme Lookout",
       147.95,
       -42.55,
-      148
+      152
     ],
     [
       "MIR-S14",
@@ -24891,7 +24891,7 @@
       "Spring Beach",
       147.92,
       -42.58,
-      156
+      160
     ],
     [
       "MIR-S15",
@@ -24946,7 +24946,7 @@
       "Painted Cliffs South (Four Mile Reef)",
       148.05,
       -42.6,
-      154
+      158
     ],
     [
       "MIR-S3",
@@ -24957,7 +24957,7 @@
       "Painted Cliffs",
       148.05,
       -42.59,
-      150
+      154
     ],
     [
       "MIR-S5",
@@ -24968,7 +24968,7 @@
       "Return Point",
       148.02,
       -42.63,
-      154
+      158
     ],
     [
       "MIR-S7",
@@ -24979,7 +24979,7 @@
       "Magistrates Point North",
       148.05,
       -42.58,
-      148
+      152
     ],
     [
       "MIR-S8",
@@ -24990,7 +24990,7 @@
       "Magistrates Point South",
       148.05,
       -42.59,
-      148
+      152
     ],
     [
       "MIR-S9",
@@ -25001,7 +25001,7 @@
       "Point Leseuer",
       148.01,
       -42.66,
-      148
+      152
     ],
     [
       "MMP01",
@@ -26332,7 +26332,7 @@
       "Central, Ninepin",
       147.17,
       -43.28,
-      146
+      150
     ],
     [
       "NIN-S2",
@@ -26343,7 +26343,7 @@
       "Huon Island",
       147.14,
       -43.29,
-      134
+      138
     ],
     [
       "NIN-S3",
@@ -26354,7 +26354,7 @@
       "Charlotte Cove Light",
       147.14,
       -43.27,
-      135
+      139
     ],
     [
       "NIN-S4",
@@ -26365,7 +26365,7 @@
       "Arch Rock",
       147.18,
       -43.29,
-      48
+      52
     ],
     [
       "NIN-S5",
@@ -39620,18 +39620,7 @@
       "Lindisfarne Sth",
       147.35,
       -42.86,
-      3
-    ],
-    [
-      "TAS244",
-      "Australia",
-      "Temperate Australasia",
-      "D'Entrecasteaux & Derwent",
-      "Bassian",
-      "200 m North Tasman Bridge East Shore",
-      147.35,
-      -42.86,
-      2
+      5
     ],
     [
       "TAS245",
@@ -42348,7 +42337,7 @@
       "Central Tinderbox",
       147.33,
       -43.06,
-      151
+      155
     ],
     [
       "TI-S2",
@@ -42359,7 +42348,7 @@
       "Piersons Point",
       147.34,
       -43.05,
-      147
+      151
     ],
     [
       "TI-S3",
@@ -42370,7 +42359,7 @@
       "Lucas Point",
       147.34,
       -43.04,
-      144
+      148
     ],
     [
       "TI-S4",
@@ -42381,7 +42370,7 @@
       "Dennes Point",
       147.36,
       -43.06,
-      146
+      150
     ],
     [
       "TI-S5",
@@ -42392,7 +42381,7 @@
       "Blackmans Bay South",
       147.33,
       -43.01,
-      50
+      54
     ],
     [
       "TI1",
@@ -44567,10 +44556,10 @@
       "Temperate Australasia",
       "Recherche",
       "Leeuwin",
-      "Investigator Island MPA Fitzgerald 22-7",
+      "Investigator Island",
       120.87,
       -34.08,
-      4
+      8
     ],
     [
       "WA103",
@@ -45087,17 +45076,6 @@
       "Point Charles Bay",
       119.58,
       -34.16,
-      4
-    ],
-    [
-      "WA146",
-      "Australia",
-      "Temperate Australasia",
-      "Recherche",
-      "Leeuwin",
-      "Investigator Island",
-      120.87,
-      -34.08,
       4
     ],
     [

@@ -7568,6 +7568,13 @@
     0,
     []
   ],
+  "Canthigaster solandri": [
+    "Canthigaster solandri",
+    "",
+    null,
+    0,
+    []
+  ],
   "Canthigaster spp.": [
     "Canthigaster spp.",
     "",
@@ -33329,7 +33336,7 @@
     "Nautichthys oculofasciatus",
     "Sailfin sculpin",
     "https://reeflifesurvey.com/species/nautichthys-oculofasciatus/",
-    1,
+    0,
     [
       "https://images.reeflifesurvey.com/1/species_ab_650144b2a7060.w1000.h666.jpg"
     ]
@@ -38346,13 +38353,6 @@
     2,
     []
   ],
-  "Paratrachichthys trailli": [
-    "Paratrachichthys trailli",
-    "Sandpaperfish",
-    "https://reeflifesurvey.com/species/paratrachichthys-trailli/",
-    2,
-    []
-  ],
   "Paraxanthus barbiger": [
     "Paraxanthus barbiger",
     "",
@@ -40141,6 +40141,13 @@
     1,
     []
   ],
+  "Phrikoceros inca": [
+    "Phrikoceros inca",
+    "",
+    null,
+    1,
+    []
+  ],
   "Phrikoceros sp. [Orange with white spots]": [
     "Phrikoceros sp. [Orange with white spots]",
     "",
@@ -40556,6 +40563,13 @@
       "https://images.reeflifesurvey.com/0/species_8e_575557175a0a4.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_a3_577b2997f0357.w1000.h666.jpg"
     ]
+  ],
+  "Pictilabrus brauni": [
+    "Pictilabrus brauni",
+    "",
+    null,
+    0,
+    []
   ],
   "Pictilabrus laticlavius": [
     "Pictilabrus laticlavius",
@@ -49156,6 +49170,15 @@
       "https://images.reeflifesurvey.com/0/species_18_57733ad6f191f.w1000.h666.JPG"
     ]
   ],
+  "Soleichthys microcephalus": [
+    "Soleichthys microcephalus",
+    "",
+    "https://reeflifesurvey.com/species/soleichthys-microcephalus/",
+    2,
+    [
+      "https://images.reeflifesurvey.com/1/species_4e_60e8f9f51b945.w1000.h666.JPG"
+    ]
+  ],
   "Soleidae spp.": [
     "Soleidae spp.",
     "",
@@ -50306,16 +50329,6 @@
     [
       "https://images.reeflifesurvey.com/0/species_fc_57956a51d0544.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_13_57956a57bfadb.w1000.h666.jpg"
-    ]
-  ],
-  "Stichopus hermanni": [
-    "Stichopus hermanni",
-    "curryfish (sea cucumber)",
-    "https://reeflifesurvey.com/species/stichopus-hermanni/",
-    1,
-    [
-      "https://images.reeflifesurvey.com/0/species_bd_57956b4617ed8.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/0/species_27_57956b7de0391.w1000.h666.JPG"
     ]
   ],
   "Stichopus herrmanni": [
@@ -53718,6 +53731,13 @@
     1,
     []
   ],
+  "Tripneustes australiae": [
+    "Tripneustes australiae",
+    "",
+    null,
+    1,
+    []
+  ],
   "Tripneustes depressus": [
     "Tripneustes depressus",
     "White sea urchin",
@@ -53739,16 +53759,6 @@
       "https://images.reeflifesurvey.com/0/species_6e_5751664d75ec1.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_63_5751663c7fce6.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_c8_5795f8bf5481f.w1000.h666.jpg"
-    ]
-  ],
-  "Tripneustes kermadecensis": [
-    "Tripneustes kermadecensis",
-    "",
-    "https://reeflifesurvey.com/species/tripneustes-kermadecensis/",
-    1,
-    [
-      "https://images.reeflifesurvey.com/1/species_49_64aca7e23a5d1.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_2b_64aca7e3292b2.w1000.h666.jpg"
     ]
   ],
   "Tripneustes ventricosus": [
@@ -54543,13 +54553,6 @@
       "https://images.reeflifesurvey.com/0/species_e5_579a960694bcb.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_66_57a2ba3e41843.w1000.h666.JPG"
     ]
-  ],
-  "Tytthosoceros inca": [
-    "Tytthosoceros inca",
-    "",
-    "https://reeflifesurvey.com/species/tytthosoceros-inca/",
-    1,
-    []
   ],
   "Ucla xenogrammus": [
     "Ucla xenogrammus",
