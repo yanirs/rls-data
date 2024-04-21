@@ -7505,7 +7505,7 @@
   ],
   "Canthigaster papua": [
     "Canthigaster papua",
-    "Netted Toby, False-eye Pufferfish, Papuan Toby, Canthigaster solandri",
+    "Netted Toby, False-eye Pufferfish, Papuan Toby",
     "https://reeflifesurvey.com/species/canthigaster-papua/",
     0,
     [
@@ -32766,7 +32766,7 @@
   ],
   "Myoxocephalus aenaeus": [
     "Myoxocephalus aenaeus",
-    "",
+    "Grubby sculpin",
     "https://reeflifesurvey.com/species/myoxocephalus-aenaeus/",
     2,
     []
@@ -40143,8 +40143,8 @@
   ],
   "Phrikoceros inca": [
     "Phrikoceros inca",
-    "",
-    null,
+    "Tytthosoceros inca",
+    "https://reeflifesurvey.com/species/phrikoceros-inca/",
     1,
     []
   ],
@@ -40566,8 +40566,8 @@
   ],
   "Pictilabrus brauni": [
     "Pictilabrus brauni",
-    "",
-    null,
+    "Brauns wrasse",
+    "https://reeflifesurvey.com/species/pictilabrus-brauni/",
     0,
     []
   ],
@@ -50333,10 +50333,13 @@
   ],
   "Stichopus herrmanni": [
     "Stichopus herrmanni",
-    "",
+    "curryfish (sea cucumber), Stichopus hermanni",
     "https://reeflifesurvey.com/species/stichopus-herrmanni/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_bd_57956b4617ed8.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/0/species_27_57956b7de0391.w1000.h666.JPG"
+    ]
   ],
   "Stichopus horrens": [
     "Stichopus horrens",
@@ -53733,8 +53736,8 @@
   ],
   "Tripneustes australiae": [
     "Tripneustes australiae",
-    "",
-    null,
+    "Lamington urchin, Tripneustes kermadecensis",
+    "https://reeflifesurvey.com/species/tripneustes-australiae/",
     1,
     []
   ],
