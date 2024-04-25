@@ -4782,7 +4782,6 @@
     2,
     [
       "https://images.reeflifesurvey.com/0/species_37_5768a0a24fac6.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_63_5768a0a6d9280.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_b6_575127f111c91.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_a9_57689f080d2e5.w1000.h666.jpg"
     ]
@@ -8049,10 +8048,11 @@
     "https://reeflifesurvey.com/species/caretta-caretta/",
     0,
     [
-      "https://images.reeflifesurvey.com/0/species_e9_58294f7a054a0.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_05_57748c3cb2626.w1000.h666.jpeg",
+      "https://images.reeflifesurvey.com/1/species_8d_6628b35d2d5e4.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_d7_6628b12c86f60.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_14_570469f1aa4bb.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_82_570469f9286c8.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_82_570469f9286c8.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_05_57748c3cb2626.w1000.h666.jpeg"
     ]
   ],
   "Carminodoris estrelyado": [
@@ -8483,8 +8483,8 @@
     "https://reeflifesurvey.com/species/centrostephanus-rodgersii/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_22_574d73bf6a5f3.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_02_57836e61ebb3a.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_64_6628707e1bb80.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_4e_6628713d030e4.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_71_57836ec229fe6.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_8d_57836f459db71.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_50_57836f4a3d07e.w1000.h666.jpg"
@@ -8495,7 +8495,10 @@
     "",
     "https://reeflifesurvey.com/species/centrostephanus-rodgersii-pale-form/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_92_66287230baf78.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_d3_6628722de7612.w1000.h666.jpg"
+    ]
   ],
   "Centrostephanus tenuispinus": [
     "Centrostephanus tenuispinus",
@@ -16059,8 +16062,8 @@
     [
       "https://images.reeflifesurvey.com/0/species_d3_56f1b58b1c1c5.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_19_56f1b592b4ce8.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_90_576ca8f8ec0cc.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_0d_56f1b596e4f05.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_0d_56f1b596e4f05.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_90_576ca8f8ec0cc.w1000.h666.jpg"
     ]
   ],
   "Dasyatidae spp.": [
@@ -18478,7 +18481,9 @@
     "Hawaiian giant herring",
     "https://reeflifesurvey.com/species/elops-hawaiensis/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_03_6628a46415a76.w1000.h666.jpg"
+    ]
   ],
   "Elysia ?ornata": [
     "Elysia ?ornata",
@@ -19340,7 +19345,7 @@
     "https://reeflifesurvey.com/species/epinephelus-multinotatus/",
     2,
     [
-      "https://images.reeflifesurvey.com/0/species_6e_59d182ca936fe.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/1/species_d5_6628b0453e790.w1000.h666.jpg"
     ]
   ],
   "Epinephelus octofasciatus": [
@@ -26833,7 +26838,9 @@
     "Great spider crab",
     "https://reeflifesurvey.com/species/hyas-araneus/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_9d_662862d95b1ec.w1000.h666.jpg"
+    ]
   ],
   "Hyas coarctatus": [
     "Hyas coarctatus",
@@ -29098,11 +29105,9 @@
     0,
     [
       "https://images.reeflifesurvey.com/0/species_0e_573d461f4a030.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_bb_573d462479d85.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_a8_573d4619121a9.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_34_5981e46849b9d.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_bb_573d462479d85.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_7a_5982a4a14de7d.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_a6_57aece4be677b.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_99_57b18f1f865c9.w1000.h666.jpg"
     ]
   ],
@@ -36924,10 +36929,12 @@
   ],
   "Pagurus acadianus": [
     "Pagurus acadianus",
-    "",
+    "Acadian hermit crab",
     "https://reeflifesurvey.com/species/pagurus-acadianus/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_a1_6628755e5fbe6.w1000.h666.jpg"
+    ]
   ],
   "Pagurus anachoretus": [
     "Pagurus anachoretus",
@@ -41219,10 +41226,10 @@
     [
       "https://images.reeflifesurvey.com/0/species_c5_573ba8f8de1f1.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_12_573ba908338f1.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_c5_57a50956dd688.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_6c_577b579becdd6.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/0/species_ac_573ba90e8195d.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_c2_577b57a29dac5.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/0/species_c5_57a50956dd688.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_ac_573ba90e8195d.w1000.h666.JPG"
     ]
   ],
   "Plectorhinchus centurio": [
@@ -44554,7 +44561,7 @@
     "https://reeflifesurvey.com/species/pseudopleuronectes-americanus/",
     2,
     [
-      "https://images.reeflifesurvey.com/0/species_7f_5a018f2bc3e35.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_5c_66287b4ef0dab.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_d0_5a018f542eb1b.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_2e_5a018f43e102e.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_49_5a018f3f47cc4.w1000.h666.jpg",
@@ -47241,7 +47248,10 @@
     "",
     "https://reeflifesurvey.com/species/scomberesox-saurus/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_17_66287f8c5a621.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_ae_66287f8eca395.w1000.h666.jpg"
+    ]
   ],
   "Scomberoides commersonnianus": [
     "Scomberoides commersonnianus",
@@ -54585,7 +54595,9 @@
     "",
     "https://reeflifesurvey.com/species/ulvaria-subbifurcata/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_14_66288c63e221b.w1000.h666.jpg"
+    ]
   ],
   "Umbraculum umbraculum": [
     "Umbraculum umbraculum",
