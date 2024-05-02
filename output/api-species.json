@@ -11586,7 +11586,10 @@
     "",
     "https://reeflifesurvey.com/species/chromodoris-sp-blue-lined/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_22_663336ca2163f.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_d8_663336c8ba5ae.w1000.h666.jpg"
+    ]
   ],
   "Chromodoris sp. [reticulata]": [
     "Chromodoris sp. [reticulata]",
@@ -32630,7 +32633,9 @@
     "",
     "https://reeflifesurvey.com/species/muricid-sp-black-spots/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_37_66333b732aafb.w1000.h666.JPG"
+    ]
   ],
   "Muricidae spp.": [
     "Muricidae spp.",
