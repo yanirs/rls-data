@@ -3993,7 +3993,9 @@
     "Giant kahawai",
     "https://reeflifesurvey.com/species/arripis-xylabion/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_f3_6635a3b33017d.w1000.h666.jpg"
+    ]
   ],
   "Artedius corallinus": [
     "Artedius corallinus",
@@ -11805,7 +11807,9 @@
     "Rapanui damselfish",
     "https://reeflifesurvey.com/species/chrysiptera-rapanui/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_f6_6635a2719288a.w1000.h666.jpg"
+    ]
   ],
   "Chrysiptera rex": [
     "Chrysiptera rex",
@@ -16315,7 +16319,9 @@
     "",
     "https://reeflifesurvey.com/species/dendrodoris-citrina/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_1a_6635a38808aef.w1000.h666.JPG"
+    ]
   ],
   "Dendrodoris fulva": [
     "Dendrodoris fulva",
@@ -18845,7 +18851,9 @@
     "",
     "https://reeflifesurvey.com/species/enneapterygius-kermadecensis/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_fe_6635a8441aae4.w1000.h666.jpg"
+    ]
   ],
   "Enneapterygius larsonae": [
     "Enneapterygius larsonae",
@@ -53754,7 +53762,10 @@
     "Lamington urchin, Tripneustes kermadecensis",
     "https://reeflifesurvey.com/species/tripneustes-australiae/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_ad_66344d082790c.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_9b_66344d019be91.w1000.h666.jpg"
+    ]
   ],
   "Tripneustes depressus": [
     "Tripneustes depressus",
@@ -53774,7 +53785,7 @@
     "https://reeflifesurvey.com/species/tripneustes-gratilla/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_6e_5751664d75ec1.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_81_66344c854560e.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_63_5751663c7fce6.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_c8_5795f8bf5481f.w1000.h666.jpg"
     ]
