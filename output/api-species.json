@@ -576,6 +576,7 @@
     0,
     [
       "https://images.reeflifesurvey.com/1/species_37_5c39a36fec9a4.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_5f_663d8463a3044.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_aa_574d5584467a3.w1000.h666.jpg"
     ]
   ],
@@ -17983,7 +17984,9 @@
     "https://reeflifesurvey.com/species/ecsenius-australianus/",
     2,
     [
-      "https://images.reeflifesurvey.com/0/species_4f_588e96a2bae96.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_4f_588e96a2bae96.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_a4_663d9cea66275.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_15_663d9ce830bb9.w1000.h666.JPG"
     ]
   ],
   "Ecsenius bandanus": [
@@ -18047,7 +18050,8 @@
     2,
     [
       "https://images.reeflifesurvey.com/0/species_77_576217a913be7.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_ab_56fb235fe8fbb.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_ab_56fb235fe8fbb.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_eb_663daa5248178.w1000.h666.JPG"
     ]
   ],
   "Ecsenius frontalis": [
@@ -25551,8 +25555,9 @@
     "https://reeflifesurvey.com/species/heterocentrotus-mamillatus/",
     1,
     [
-      "https://images.reeflifesurvey.com/1/species_db_5da18b1691d4c.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_f3_578ed84c8663f.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_2a_663dc60a3c4fd.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/0/species_f3_578ed84c8663f.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_db_5da18b1691d4c.w1000.h666.jpg"
     ]
   ],
   "Heterocentrotus trigonarius": [
@@ -46330,7 +46335,9 @@
     "https://reeflifesurvey.com/species/saron-marmoratus/",
     1,
     [
-      "https://images.reeflifesurvey.com/1/species_6e_6347ed2d5c5c0.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_6e_6347ed2d5c5c0.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_14_663dbff725648.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_f0_663dc2883a5bb.w1000.h666.jpg"
     ]
   ],
   "Saron neglectus": [
@@ -52496,8 +52503,9 @@
     "https://reeflifesurvey.com/species/thor-amboinensis/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_4d_577c79755fb69.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_57_57d939a3227d3.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_57_57d939a3227d3.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_40_663dbb3cd600b.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_06_663dbd31c171b.w1000.h666.JPG"
     ]
   ],
   "Thorogobius ephippiatus": [
@@ -53765,12 +53773,13 @@
   ],
   "Tripneustes australiae": [
     "Tripneustes australiae",
-    "Lamington urchin, Tripneustes kermadecensis",
+    "Lamington urchin",
     "https://reeflifesurvey.com/species/tripneustes-australiae/",
     1,
     [
       "https://images.reeflifesurvey.com/1/species_ad_66344d082790c.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_9b_66344d019be91.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_9b_66344d019be91.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_ed_663dc33153f6d.w1000.h666.jpg"
     ]
   ],
   "Tripneustes depressus": [
