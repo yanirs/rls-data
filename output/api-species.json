@@ -577,7 +577,6 @@
     [
       "https://images.reeflifesurvey.com/1/species_37_5c39a36fec9a4.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_5f_663d8463a3044.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_59_66418fae46f10.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_aa_574d5584467a3.w1000.h666.jpg"
     ]
   ],
@@ -6220,7 +6219,10 @@
     "Waved whelk",
     "https://reeflifesurvey.com/species/buccinum-undatum/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_12_6642dc261d57c.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_3d_6642dc23de382.w1000.h666.jpg"
+    ]
   ],
   "Buchanania onchidioides": [
     "Buchanania onchidioides",
@@ -6447,7 +6449,9 @@
     "https://reeflifesurvey.com/species/cadlina-luteomarginata/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_01_59db4add71e82.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_b1_6642e20217f40.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_1b_6642e2889889b.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_f8_6642e2a2ad991.w1000.h666.jpg"
     ]
   ],
   "Cadlina modesta": [
@@ -6471,7 +6475,9 @@
     "Dorid nudibranch",
     "https://reeflifesurvey.com/species/cadlina-sylviaearleae/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_8b_6642e768a80b2.w1000.h666.jpg"
+    ]
   ],
   "Cadlina tasmanica": [
     "Cadlina tasmanica",
@@ -28900,7 +28906,10 @@
     "",
     "https://reeflifesurvey.com/species/leptasterias-polaris/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_20_6642ff5ceef37.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_f8_6642ff5a86653.w1000.h666.jpg"
+    ]
   ],
   "Leptasterias spp.": [
     "Leptasterias spp.",
@@ -53760,8 +53769,7 @@
     "https://reeflifesurvey.com/species/triopha-modesta/",
     1,
     [
-      "https://images.reeflifesurvey.com/1/species_19_64f6ce5f393f9.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_69_64f7d81aa4a68.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/1/species_19_64f6ce5f393f9.w1000.h666.jpg"
     ]
   ],
   "Triopha spp.": [
