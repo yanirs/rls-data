@@ -1828,7 +1828,8 @@
     2,
     [
       "https://images.reeflifesurvey.com/0/species_7f_56ef50013e922.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_99_5767b9f61e7cb.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/0/species_99_5767b9f61e7cb.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_e0_66445852f08a9.w1000.h666.jpg"
     ]
   ],
   "Amblygobius phalaena": [
@@ -3508,7 +3509,9 @@
     "https://reeflifesurvey.com/species/aprion-virescens/",
     0,
     [
-      "https://images.reeflifesurvey.com/0/species_6c_573938830e906.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_6c_573938830e906.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_78_664559ffd4237.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_d2_66455a9e5a30c.w1000.h666.jpg"
     ]
   ],
   "Apterichtus flavicaudus": [
@@ -4805,7 +4808,8 @@
     0,
     [
       "https://images.reeflifesurvey.com/0/species_70_56ef6f05b1b9b.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_3b_57b1a75547877.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_74_66445f715ba90.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_92_664460d425732.w1000.h666.JPG"
     ]
   ],
   "Atypichthys strigatus": [
@@ -7249,6 +7253,7 @@
     "https://reeflifesurvey.com/species/cancer-irroratus/",
     1,
     [
+      "https://images.reeflifesurvey.com/1/species_fc_66444838e9f5e.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_1f_5a018cb6308c8.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_d7_5a018cbca405f.w1000.h666.jpg"
     ]
@@ -12245,7 +12250,9 @@
     "",
     "https://reeflifesurvey.com/species/cirripectes-alboapicalis-green-form/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_ca_66443c29d7fbc.w1000.h666.jpg"
+    ]
   ],
   "Cirripectes alleni": [
     "Cirripectes alleni",
@@ -14701,10 +14708,11 @@
   ],
   "Crassadoma gigantea": [
     "Crassadoma gigantea",
-    "Purple-hinged rock scallop",
+    "Purple-hinged rock scallop, Giant rock scallop",
     "https://reeflifesurvey.com/species/crassadoma-gigantea/",
     1,
     [
+      "https://images.reeflifesurvey.com/1/species_45_66444b7ce4362.w1000.h666.jpeg",
       "https://images.reeflifesurvey.com/1/species_e8_64f686296ae79.w1000.h666.jpg"
     ]
   ],
@@ -20206,7 +20214,8 @@
     2,
     [
       "https://images.reeflifesurvey.com/0/species_a3_5768db4d6be9b.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_97_5770a6fa9bbb4.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_97_5770a6fa9bbb4.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_da_66445b66dca34.w1000.h666.jpg"
     ]
   ],
   "Eviota rubriceps": [
@@ -21928,7 +21937,10 @@
     "",
     "https://reeflifesurvey.com/species/glebocarcinus-oregonensis/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_af_6644477022d64.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_9f_664447ab4b1f8.w1000.h666.JPG"
+    ]
   ],
   "Glossodoris angasi": [
     "Glossodoris angasi",
@@ -23334,6 +23346,7 @@
     2,
     [
       "https://images.reeflifesurvey.com/0/species_74_5706f11b078d4.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_a9_66455f1fbcf97.w1000.h666.tif",
       "https://images.reeflifesurvey.com/0/species_3e_5706f164b0c2b.w1000.h666.jpg"
     ]
   ],
@@ -27964,6 +27977,7 @@
     0,
     [
       "https://images.reeflifesurvey.com/0/species_e9_5743c7790e233.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_c3_66445e8c2ef67.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_44_5743c77d844f9.w1000.h666.jpg"
     ]
   ],
@@ -28163,7 +28177,8 @@
     0,
     [
       "https://images.reeflifesurvey.com/0/species_2e_57427d432443c.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_e8_57736be582491.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/0/species_e8_57736be582491.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_db_6645529d2abc4.w1000.h666.JPG"
     ]
   ],
   "Labrichthys spp.": [
@@ -28744,7 +28759,8 @@
     "https://reeflifesurvey.com/species/lepadichthys-frenatus/",
     2,
     [
-      "https://images.reeflifesurvey.com/0/species_c2_5767220d2709c.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_c2_5767220d2709c.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_4f_6644575e89cc9.w1000.h666.jpg"
     ]
   ],
   "Lepadogaster candolii": [
@@ -29133,7 +29149,9 @@
     "https://reeflifesurvey.com/species/lethrinus-miniatus/",
     0,
     [
-      "https://images.reeflifesurvey.com/0/species_06_57293e5c581a2.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_06_57293e5c581a2.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_79_6645587bc8b18.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_06_664559152f5b2.w1000.h666.jpg"
     ]
   ],
   "Lethrinus nebulosus": [
@@ -30652,7 +30670,9 @@
     "https://reeflifesurvey.com/species/malacanthus-brevirostris/",
     0,
     [
-      "https://images.reeflifesurvey.com/0/species_77_572c255bb940d.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_77_572c255bb940d.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_98_66455af79b9b1.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_d4_66455b4054a63.w1000.h666.jpg"
     ]
   ],
   "Malacanthus latovittatus": [
@@ -40542,7 +40562,8 @@
     "https://reeflifesurvey.com/species/phyllolithodes-papillosus/",
     1,
     [
-      "https://images.reeflifesurvey.com/1/species_c8_64f43404214ad.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_c8_64f43404214ad.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_5a_664442dd80e61.w1000.h666.jpg"
     ]
   ],
   "Phyllonotus pomum": [
@@ -44912,7 +44933,9 @@
     "https://reeflifesurvey.com/species/ptereleotris-zebra/",
     0,
     [
-      "https://images.reeflifesurvey.com/0/species_4d_576c73179252b.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_4d_576c73179252b.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_b0_66455cd52655d.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_4f_66455cff69721.w1000.h666.JPG"
     ]
   ],
   "Pteria lata": [
@@ -51240,10 +51263,8 @@
     "https://reeflifesurvey.com/species/synodus-binotatus/",
     2,
     [
-      "https://images.reeflifesurvey.com/0/species_71_5785a5dc18efd.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_2c_570b1a1d6ee07.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_f3_570b1a08cb3ce.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_a9_57a46a2f222e3.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_71_5785a5dc18efd.w1000.h666.jpg"
     ]
   ],
   "Synodus capricornis": [
@@ -52331,7 +52352,8 @@
     0,
     [
       "https://images.reeflifesurvey.com/0/species_7e_574f93ae97c64.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_2c_574f93b4d2fe0.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_2c_574f93b4d2fe0.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_b7_6645566c45503.w1000.h666.JPG"
     ]
   ],
   "Thalassoma pavo": [
