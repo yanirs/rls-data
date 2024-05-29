@@ -529,6 +529,13 @@
     0,
     []
   ],
+  "Acanthosepion pharaonis": [
+    "Acanthosepion pharaonis",
+    "",
+    null,
+    2,
+    []
+  ],
   "Acanthostracion polygonius": [
     "Acanthostracion polygonius",
     "Honeycomb cowfish, Acanthostracion polygonia",
@@ -4032,6 +4039,41 @@
     2,
     []
   ],
+  "Ascarosepion apama": [
+    "Ascarosepion apama",
+    "",
+    null,
+    2,
+    []
+  ],
+  "Ascarosepion latimanus": [
+    "Ascarosepion latimanus",
+    "",
+    null,
+    2,
+    []
+  ],
+  "Ascarosepion mestus": [
+    "Ascarosepion mestus",
+    "",
+    null,
+    2,
+    []
+  ],
+  "Ascarosepion papuense": [
+    "Ascarosepion papuense",
+    "",
+    null,
+    2,
+    []
+  ],
+  "Ascarosepion plangon": [
+    "Ascarosepion plangon",
+    "",
+    null,
+    2,
+    []
+  ],
   "Asemichthys taylori": [
     "Asemichthys taylori",
     "Spinynose sculpin",
@@ -5117,6 +5159,27 @@
     2,
     []
   ],
+  "Azurina atrilobata": [
+    "Azurina atrilobata",
+    "",
+    null,
+    0,
+    []
+  ],
+  "Azurina cyanea": [
+    "Azurina cyanea",
+    "",
+    null,
+    0,
+    []
+  ],
+  "Azurina lepidolepis": [
+    "Azurina lepidolepis",
+    "",
+    null,
+    0,
+    []
+  ],
   "Babakina anadoni": [
     "Babakina anadoni",
     "",
@@ -5316,6 +5379,13 @@
     "Twister",
     "https://reeflifesurvey.com/species/bellapiscis-medius/",
     2,
+    []
+  ],
+  "Bellastraea aurea": [
+    "Bellastraea aurea",
+    "",
+    null,
+    1,
     []
   ],
   "Bellastraea squamifera": [
@@ -5842,6 +5912,13 @@
       "https://images.reeflifesurvey.com/0/species_5a_5787265d887c3.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_d8_578726633e20f.w1000.h666.JPG"
     ]
+  ],
+  "Boreoberthella chacei": [
+    "Boreoberthella chacei",
+    "",
+    null,
+    1,
+    []
   ],
   "Boreogadus saida": [
     "Boreogadus saida",
@@ -10908,17 +10985,6 @@
     0,
     []
   ],
-  "Chromis agilis": [
-    "Chromis agilis",
-    "Reef Puller, Agile Chromis, Bronze Reef Chromis, Rusty Chromis",
-    "https://reeflifesurvey.com/species/chromis-agilis/",
-    0,
-    [
-      "https://images.reeflifesurvey.com/0/species_7c_56e74903db2eb.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_74_570dac1a0ce4b.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/0/species_bc_58ec998bb797f.w1000.h666.jpg"
-    ]
-  ],
   "Chromis alpha": [
     "Chromis alpha",
     "Yellowspeckled Puller, Alpha Chromis, Yellow-spotted Puller",
@@ -10936,17 +11002,6 @@
     [
       "https://images.reeflifesurvey.com/0/species_45_577ef26f8ffd2.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_91_577ef26c2609e.w1000.h666.JPG"
-    ]
-  ],
-  "Chromis amboinensis": [
-    "Chromis amboinensis",
-    "Ambon Puller, Ambon Chromis",
-    "https://reeflifesurvey.com/species/chromis-amboinensis/",
-    0,
-    [
-      "https://images.reeflifesurvey.com/0/species_20_56e74c5e0031f.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_80_5c85a526ece68.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_da_664570f807ed3.w1000.h666.jpg"
     ]
   ],
   "Chromis anadema": [
@@ -10967,16 +11022,6 @@
       "https://images.reeflifesurvey.com/0/species_fe_57c152db659e4.w1000.h666.jpg"
     ]
   ],
-  "Chromis atrilobata": [
-    "Chromis atrilobata",
-    "Scissortail damselfish",
-    "https://reeflifesurvey.com/species/chromis-atrilobata/",
-    0,
-    [
-      "https://images.reeflifesurvey.com/0/species_14_577ef5d0dad87.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/0/species_13_57fcb9e2b432a.w1000.h666.jpg"
-    ]
-  ],
   "Chromis atripectoralis": [
     "Chromis atripectoralis",
     "Blue-green chromis, Axilspot Chromis, Blackaxil Chromis",
@@ -10987,34 +11032,6 @@
       "https://images.reeflifesurvey.com/0/species_d5_56e752ac68dda.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_af_57c153a75745a.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_a5_56e752b367fd6.w1000.h666.jpg"
-    ]
-  ],
-  "Chromis atripes": [
-    "Chromis atripes",
-    "Darkfin Puller",
-    "https://reeflifesurvey.com/species/chromis-atripes/",
-    0,
-    [
-      "https://images.reeflifesurvey.com/0/species_1f_56e7545c02e34.w1000.h666.jpg"
-    ]
-  ],
-  "Chromis bami": [
-    "Chromis bami",
-    "",
-    "https://reeflifesurvey.com/species/chromis-bami/",
-    0,
-    [
-      "https://images.reeflifesurvey.com/1/species_05_64942cd15e9ff.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_24_64942cd04958e.w1000.h666.jpg"
-    ]
-  ],
-  "Chromis caudalis": [
-    "Chromis caudalis",
-    "Dusky Puller",
-    "https://reeflifesurvey.com/species/chromis-caudalis/",
-    0,
-    [
-      "https://images.reeflifesurvey.com/0/species_c7_56e75581a6600.w1000.h666.jpg"
     ]
   ],
   "Chromis chromis": [
@@ -11059,38 +11076,12 @@
       "https://images.reeflifesurvey.com/1/species_26_5d8aebaad5b14.w1000.h666.jpg"
     ]
   ],
-  "Chromis cyanea": [
-    "Chromis cyanea",
-    "Blue chromis",
-    "https://reeflifesurvey.com/species/chromis-cyanea/",
+  "Chromis dispila": [
+    "Chromis dispila",
+    "",
+    null,
     0,
-    [
-      "https://images.reeflifesurvey.com/0/species_8d_578ece5d389b4.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_7a_58295054571dc.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_a7_5829504eb07de.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_3f_58295058232ad.w1000.h666.jpg"
-    ]
-  ],
-  "Chromis dimidiata": [
-    "Chromis dimidiata",
-    "Chocolate-dip chromis",
-    "https://reeflifesurvey.com/species/chromis-dimidiata/",
-    0,
-    [
-      "https://images.reeflifesurvey.com/1/species_c6_5ae7b9044cf14.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_97_570dacd23e04b.w1000.h666.jpg"
-    ]
-  ],
-  "Chromis dispilus": [
-    "Chromis dispilus",
-    "Demoiselle",
-    "https://reeflifesurvey.com/species/chromis-dispilus/",
-    0,
-    [
-      "https://images.reeflifesurvey.com/0/species_cb_576b533c7707b.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/0/species_8a_57c15765087d5.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_ac_576b53764232e.w1000.h666.jpg"
-    ]
+    []
   ],
   "Chromis elerae": [
     "Chromis elerae",
@@ -11128,13 +11119,6 @@
       "https://images.reeflifesurvey.com/0/species_e2_56e75c4be70a7.w1000.h666.jpg"
     ]
   ],
-  "Chromis hanui": [
-    "Chromis hanui",
-    "Chocolate-dip chromis",
-    "https://reeflifesurvey.com/species/chromis-hanui/",
-    0,
-    []
-  ],
   "Chromis hypsilepis": [
     "Chromis hypsilepis",
     "One-spot puller, Brown Puller, One-spot Chromis, One-spot Demoiselle",
@@ -11155,17 +11139,6 @@
     [
       "https://images.reeflifesurvey.com/0/species_f7_582950d0b0fe9.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_0c_57d791fcb9f23.w1000.h666.jpg"
-    ]
-  ],
-  "Chromis iomelas": [
-    "Chromis iomelas",
-    "Half-and-half Puller",
-    "https://reeflifesurvey.com/species/chromis-iomelas/",
-    0,
-    [
-      "https://images.reeflifesurvey.com/0/species_d3_56e76b777b240.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_c2_6645720dce42c.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_e3_66457266150e7.w1000.h666.JPG"
     ]
   ],
   "Chromis kennensis": [
@@ -11189,16 +11162,6 @@
       "https://images.reeflifesurvey.com/1/species_b0_6256b58bf38c1.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_14_6256b5884ffbf.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_a2_570dae519713d.w1000.h666.JPG"
-    ]
-  ],
-  "Chromis lepidolepis": [
-    "Chromis lepidolepis",
-    "Scaly Puller, Brown Chromis, Scaly Chromis",
-    "https://reeflifesurvey.com/species/chromis-lepidolepis/",
-    0,
-    [
-      "https://images.reeflifesurvey.com/0/species_61_57c1646cf276e.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_a7_56e76cda2d2c0.w1000.h666.jpg"
     ]
   ],
   "Chromis limbata": [
@@ -11249,15 +11212,6 @@
       "https://images.reeflifesurvey.com/0/species_4e_58295112d1306.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_62_576c9f3790c30.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_e0_5829510696208.w1000.h666.jpg"
-    ]
-  ],
-  "Chromis nigrura": [
-    "Chromis nigrura",
-    "Blacktail chromis",
-    "https://reeflifesurvey.com/species/chromis-nigrura/",
-    0,
-    [
-      "https://images.reeflifesurvey.com/0/species_c2_56e7723b0ca73.w1000.h666.jpg"
     ]
   ],
   "Chromis nitida": [
@@ -11344,16 +11298,6 @@
     0,
     []
   ],
-  "Chromis retrofasciata": [
-    "Chromis retrofasciata",
-    "Blackbar Puller, Blackbar Chromis",
-    "https://reeflifesurvey.com/species/chromis-retrofasciata/",
-    0,
-    [
-      "https://images.reeflifesurvey.com/0/species_e7_576e50cd6320d.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_df_57c15dae08597.w1000.h666.jpg"
-    ]
-  ],
   "Chromis scotochiloptera": [
     "Chromis scotochiloptera",
     "Philippines chromis, Chromis scotochilopterus",
@@ -11398,17 +11342,6 @@
       "https://images.reeflifesurvey.com/0/species_b2_57c15fb82c121.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_c7_56e77a5187ca3.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_7f_6494df9c8ee4e.w1000.h666.jpg"
-    ]
-  ],
-  "Chromis vanderbilti": [
-    "Chromis vanderbilti",
-    "Vanderbilts Puller, Blackfin Chromis",
-    "https://reeflifesurvey.com/species/chromis-vanderbilti/",
-    0,
-    [
-      "https://images.reeflifesurvey.com/0/species_ce_576b575650885.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_e2_56e77ce405ffd.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_b8_56e77ce93b451.w1000.h666.jpg"
     ]
   ],
   "Chromis viridis": [
@@ -14927,6 +14860,13 @@
       "https://images.reeflifesurvey.com/0/species_7e_5a02add2e7c9f.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_dc_5a02adbade590.w1000.h666.jpg"
     ]
+  ],
+  "Cromileptes altivelis": [
+    "Cromileptes altivelis",
+    "",
+    null,
+    2,
+    []
   ],
   "Cronia aurantiaca": [
     "Cronia aurantiaca",
@@ -29836,6 +29776,13 @@
       "https://images.reeflifesurvey.com/1/species_34_5c46a165f2120.w1000.h666.jpg"
     ]
   ],
+  "Lunella torquata": [
+    "Lunella torquata",
+    "",
+    null,
+    1,
+    []
+  ],
   "Luria lurida": [
     "Luria lurida",
     "",
@@ -30885,19 +30832,6 @@
     [
       "https://images.reeflifesurvey.com/0/species_f5_572a946f8c5e3.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_13_5774f7e895f47.w1000.h666.jpg"
-    ]
-  ],
-  "Manta alfredi": [
-    "Manta alfredi",
-    "",
-    "https://reeflifesurvey.com/species/manta-alfredi/",
-    0,
-    [
-      "https://images.reeflifesurvey.com/1/species_0b_5edf13165dd01.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_71_5edf1326b9a96.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_08_5edf132da9730.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_91_5edf13437a0fa.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_4d_5edf134a2661f.w1000.h666.jpg"
     ]
   ],
   "Manta birostris": [
@@ -32176,6 +32110,20 @@
       "https://images.reeflifesurvey.com/0/species_67_57997f446de58.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_e1_57997f40648ee.w1000.h666.JPG"
     ]
+  ],
+  "Mobula alfredi": [
+    "Mobula alfredi",
+    "",
+    null,
+    0,
+    []
+  ],
+  "Mobula birostris": [
+    "Mobula birostris",
+    "",
+    null,
+    0,
+    []
   ],
   "Mobula tarapacana": [
     "Mobula tarapacana",
@@ -38919,14 +38867,12 @@
     1,
     []
   ],
-  "Pastinachus atrus": [
-    "Pastinachus atrus",
-    "Cowtail stingray, Bananatail Ray, Fantail Ray, Feathertail Stingray",
-    "https://reeflifesurvey.com/species/pastinachus-atrus/",
+  "Pastinachus ater": [
+    "Pastinachus ater",
+    "",
+    null,
     2,
-    [
-      "https://images.reeflifesurvey.com/0/species_97_5705a322538f8.w1000.h666.jpg"
-    ]
+    []
   ],
   "Pastinachus sephen": [
     "Pastinachus sephen",
@@ -45308,6 +45254,83 @@
       "https://images.reeflifesurvey.com/1/species_d7_64942bc33df84.w1000.h666.jpg"
     ]
   ],
+  "Pycnochromis agilis": [
+    "Pycnochromis agilis",
+    "",
+    null,
+    0,
+    []
+  ],
+  "Pycnochromis amboinensis": [
+    "Pycnochromis amboinensis",
+    "",
+    null,
+    0,
+    []
+  ],
+  "Pycnochromis atripes": [
+    "Pycnochromis atripes",
+    "",
+    null,
+    0,
+    []
+  ],
+  "Pycnochromis bami": [
+    "Pycnochromis bami",
+    "",
+    null,
+    0,
+    []
+  ],
+  "Pycnochromis caudalis": [
+    "Pycnochromis caudalis",
+    "",
+    null,
+    0,
+    []
+  ],
+  "Pycnochromis dimidiatus": [
+    "Pycnochromis dimidiatus",
+    "",
+    null,
+    0,
+    []
+  ],
+  "Pycnochromis hanui": [
+    "Pycnochromis hanui",
+    "",
+    null,
+    0,
+    []
+  ],
+  "Pycnochromis iomelas": [
+    "Pycnochromis iomelas",
+    "",
+    null,
+    0,
+    []
+  ],
+  "Pycnochromis nigrurus": [
+    "Pycnochromis nigrurus",
+    "",
+    null,
+    0,
+    []
+  ],
+  "Pycnochromis retrofasciatus": [
+    "Pycnochromis retrofasciatus",
+    "",
+    null,
+    0,
+    []
+  ],
+  "Pycnochromis vanderbilti": [
+    "Pycnochromis vanderbilti",
+    "",
+    null,
+    0,
+    []
+  ],
   "Pycnogonida spp.": [
     "Pycnogonida spp.",
     "",
@@ -48421,13 +48444,6 @@
       "https://images.reeflifesurvey.com/0/species_b5_57a68e9214a29.w1000.h666.JPG"
     ]
   ],
-  "Sepia grahami": [
-    "Sepia grahami",
-    "Grahams cuttlefish",
-    "https://reeflifesurvey.com/species/sepia-grahami/",
-    2,
-    []
-  ],
   "Sepia latimanus": [
     "Sepia latimanus",
     "broadclub cuttlefish",
@@ -48473,15 +48489,6 @@
       "https://images.reeflifesurvey.com/0/species_6c_5764c0d2449b0.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_d0_5764c11048ad9.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_a4_5795527ab860a.w1000.h666.jpg"
-    ]
-  ],
-  "Sepia pharaonis": [
-    "Sepia pharaonis",
-    "",
-    "https://reeflifesurvey.com/species/sepia-pharaonis/",
-    2,
-    [
-      "https://images.reeflifesurvey.com/1/species_ba_633e304e34c8d.w1000.h666.jpg"
     ]
   ],
   "Sepia plangon": [
@@ -51209,6 +51216,13 @@
       "https://images.reeflifesurvey.com/0/species_fc_577e29c663635.w1000.h666.jpg"
     ]
   ],
+  "Synchiropus morrisoni": [
+    "Synchiropus morrisoni",
+    "",
+    null,
+    2,
+    []
+  ],
   "Synchiropus moyeri": [
     "Synchiropus moyeri",
     "Moyers dragonet, Neosynchiropus moyeri",
@@ -51576,6 +51590,13 @@
       "https://images.reeflifesurvey.com/0/species_6e_57833ce009a1c.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_44_57a44c9e0aced.w1000.h666.jpg"
     ]
+  ],
+  "Taeniurops meyeni": [
+    "Taeniurops meyeni",
+    "",
+    null,
+    2,
+    []
   ],
   "Takifugu alboplumbeus": [
     "Takifugu alboplumbeus",
@@ -55592,6 +55613,13 @@
       "https://images.reeflifesurvey.com/0/species_43_578ff01501762.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_8c_578ff15776db7.w1000.h666.JPG"
     ]
+  ],
+  "Xipholeptos notoides": [
+    "Xipholeptos notoides",
+    "",
+    null,
+    2,
+    []
   ],
   "Xymene spp.": [
     "Xymene spp.",
