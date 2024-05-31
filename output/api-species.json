@@ -4061,7 +4061,7 @@
   ],
   "Ascarosepion mestus": [
     "Ascarosepion mestus",
-    "Reaper cuttlefish, Sepia mestus",
+    "Reaper cuttlefish",
     "https://reeflifesurvey.com/species/ascarosepion-mestus/",
     2,
     [
@@ -45261,10 +45261,15 @@
   ],
   "Pycnochromis margaritifer": [
     "Pycnochromis margaritifer",
-    "",
-    null,
+    "Whitetail puller, Bicolour Chromis, Chocolate Dip, Half and Half Chromis, Whitetail Chromis, Chromis margaritifer",
+    "https://reeflifesurvey.com/species/pycnochromis-margaritifer/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_6f_56e76f11e5c70.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_99_57c15ab9b625a.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_44_56e7701c96ec2.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_bf_56e7709975527.w1000.h666.jpg"
+    ]
   ],
   "Pycnochromis nigrurus": [
     "Pycnochromis nigrurus",
@@ -48396,13 +48401,6 @@
       "https://images.reeflifesurvey.com/0/species_a0_573856fd18429.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_cf_5738553f7c516.w1000.h666.jpg"
     ]
-  ],
-  "Sepia rozella": [
-    "Sepia rozella",
-    "rosecone cuttlefish",
-    "https://reeflifesurvey.com/species/sepia-rozella/",
-    2,
-    []
   ],
   "Sepia spp.": [
     "Sepia spp.",
