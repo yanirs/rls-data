@@ -4061,7 +4061,7 @@
   ],
   "Ascarosepion mestus": [
     "Ascarosepion mestus",
-    "Reaper cuttlefish",
+    "Reaper cuttlefish, Sepia mestus",
     "https://reeflifesurvey.com/species/ascarosepion-mestus/",
     2,
     [
@@ -52910,7 +52910,12 @@
     "",
     "https://reeflifesurvey.com/species/tosia-neossia/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_01_6659514f572dc.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_23_66595150de714.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_4f_6659514e05b31.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_e3_6659514c86b5a.w1000.h666.jpg"
+    ]
   ],
   "Toxopneustes pileolus": [
     "Toxopneustes pileolus",
@@ -53763,7 +53768,7 @@
   ],
   "Tripneustes australiae": [
     "Tripneustes australiae",
-    "Lamington urchin, Tripneustes kermadecensis",
+    "Lamington urchin",
     "https://reeflifesurvey.com/species/tripneustes-australiae/",
     1,
     [
