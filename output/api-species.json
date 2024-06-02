@@ -23451,15 +23451,6 @@
       "https://images.reeflifesurvey.com/0/species_a0_57a4615e7ac1a.w1000.h666.jpg"
     ]
   ],
-  "Gymnothorax obesus": [
-    "Gymnothorax obesus",
-    "Speckled Moray",
-    "https://reeflifesurvey.com/species/gymnothorax-obesus/",
-    2,
-    [
-      "https://images.reeflifesurvey.com/0/species_0e_57a46257ee346.w1000.h666.jpg"
-    ]
-  ],
   "Gymnothorax panamensis": [
     "Gymnothorax panamensis",
     "Masked moray",
@@ -53768,7 +53759,7 @@
   ],
   "Tripneustes australiae": [
     "Tripneustes australiae",
-    "Lamington urchin",
+    "Lamington urchin, Tripneustes kermadecensis",
     "https://reeflifesurvey.com/species/tripneustes-australiae/",
     1,
     [
