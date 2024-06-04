@@ -230,9 +230,9 @@
     "https://reeflifesurvey.com/species/acanthaster-planci/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_c7_574d553fc3fca.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_db_574d5490445c1.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_c1_574d5506e46b1.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_db_574d5490445c1.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_c7_574d553fc3fca.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_7e_574d564e1b1cf.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_61_5779bf11884e0.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_29_5779bf179119c.w1000.h666.JPG",
@@ -1101,7 +1101,8 @@
     1,
     [
       "https://images.reeflifesurvey.com/1/species_e6_63476cef21a05.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/1/species_71_63476c8d96723.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/1/species_71_63476c8d96723.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_51_665d237f46544.w1000.h666.jpg"
     ]
   ],
   "Actinopyga spp.": [
@@ -15897,7 +15898,6 @@
     "https://reeflifesurvey.com/species/dardanus-lagopodes/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_3a_574eb3153b98e.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_64_595603bf66350.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_65_574eb32128d02.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_1b_574eb2fa738f3.w1000.h666.JPG",
@@ -26552,10 +26552,9 @@
     "https://reeflifesurvey.com/species/holothuria-leucospilota/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_c2_578ee9b525687.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_ab_578ee9d9ca664.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_9f_578eea00e07e9.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_85_578ee9fb9bebc.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_9f_578eea00e07e9.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_ab_578ee9d9ca664.w1000.h666.jpg"
     ]
   ],
   "Holothuria mexicana": [
@@ -26573,10 +26572,7 @@
     "Sea cucumber",
     "https://reeflifesurvey.com/species/holothuria-nobilis/",
     1,
-    [
-      "https://images.reeflifesurvey.com/0/species_7f_578eeb97a7561.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_c5_578eeb91e0508.w1000.h666.jpg"
-    ]
+    []
   ],
   "Holothuria pardalis": [
     "Holothuria pardalis",
@@ -29301,7 +29297,6 @@
     "https://reeflifesurvey.com/species/linckia-guildingi/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_ef_57294062c773d.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_d6_57294068ca4f9.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_64_578f0c5c6a23d.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_32_578f0c87470a5.w1000.h666.jpg",
@@ -52665,7 +52660,6 @@
     "https://reeflifesurvey.com/species/thuridilla-splendens/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_ac_5795bc1f9e24b.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_22_5795bc3f24bd0.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_da_5795bc4e6d865.w1000.h666.jpg"
     ]
