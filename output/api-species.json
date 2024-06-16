@@ -26537,16 +26537,23 @@
     1,
     []
   ],
-  "Holothuria kefersteinii": [
-    "Holothuria kefersteinii",
-    "Holothuria (Halodeima) kefersteinii",
-    "https://reeflifesurvey.com/species/holothuria-kefersteinii/",
+  "Holothuria kefersteini": [
+    "Holothuria kefersteini",
+    "Sea cucumber, Holothuria kefersteinii",
+    "https://reeflifesurvey.com/species/holothuria-kefersteini/",
     1,
     [
       "https://images.reeflifesurvey.com/0/species_63_577ca50a526b8.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_d8_577ca50fc9e32.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_e7_577ca514c1a6a.w1000.h666.JPG"
     ]
+  ],
+  "Holothuria kefersteinii": [
+    "Holothuria kefersteinii",
+    "",
+    null,
+    1,
+    []
   ],
   "Holothuria leucospilota": [
     "Holothuria leucospilota",
