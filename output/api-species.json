@@ -22827,6 +22827,13 @@
     1,
     []
   ],
+  "Gonodactylidae spp.": [
+    "Gonodactylidae spp.",
+    "",
+    null,
+    1,
+    []
+  ],
   "Gonodactylus platysoma": [
     "Gonodactylus platysoma",
     "",
@@ -33933,6 +33940,13 @@
     1,
     []
   ],
+  "Neoliomera insularis": [
+    "Neoliomera insularis",
+    "",
+    null,
+    1,
+    []
+  ],
   "Neoliomera spp.": [
     "Neoliomera spp.",
     "",
@@ -42988,6 +43002,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_d6_57555452b8cd8.w1000.h666.jpg"
     ]
+  ],
+  "Prionurus spp.": [
+    "Prionurus spp.",
+    "",
+    null,
+    0,
+    []
   ],
   "Pristiapogon exostigma": [
     "Pristiapogon exostigma",
@@ -53266,6 +53287,13 @@
     1,
     []
   ],
+  "Trapezia guttata": [
+    "Trapezia guttata",
+    "",
+    null,
+    1,
+    []
+  ],
   "Trapezia rufopunctata": [
     "Trapezia rufopunctata",
     "Trapeze crab",
@@ -53770,7 +53798,7 @@
   ],
   "Tripneustes australiae": [
     "Tripneustes australiae",
-    "Lamington urchin",
+    "Lamington urchin, Tripneustes kermadecensis",
     "https://reeflifesurvey.com/species/tripneustes-australiae/",
     1,
     [
