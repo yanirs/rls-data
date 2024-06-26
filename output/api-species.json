@@ -1801,7 +1801,9 @@
     "Butterfly goby",
     "https://reeflifesurvey.com/species/amblygobius-albimaculatus/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_99_667a5e8f4d7f4.w1000.h666.jpg"
+    ]
   ],
   "Amblygobius buanensis": [
     "Amblygobius buanensis",
@@ -11866,9 +11868,7 @@
     "Onespot demoiselle, Onespot Damsel",
     "https://reeflifesurvey.com/species/chrysiptera-unimaculata/",
     0,
-    [
-      "https://images.reeflifesurvey.com/0/species_fa_5744f38896a9c.w1000.h666.JPG"
-    ]
+    []
   ],
   "Chrysoblephus laticeps": [
     "Chrysoblephus laticeps",
@@ -42578,7 +42578,10 @@
     "Threeline damsel",
     "https://reeflifesurvey.com/species/pomacentrus-trilineatus/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_cd_667b6801211fc.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_81_667b68005b949.w1000.h666.jpg"
+    ]
   ],
   "Pomacentrus tripunctatus": [
     "Pomacentrus tripunctatus",
