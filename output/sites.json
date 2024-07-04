@@ -34516,7 +34516,7 @@
       "Little Beach West",
       152.16,
       -32.71,
-      85
+      87
     ],
     [
       "PS8",
@@ -38201,7 +38201,7 @@
       "Fortescue central",
       147.96,
       -43.13,
-      5
+      6
     ],
     [
       "TAS121",
@@ -39026,7 +39026,7 @@
       "Clyde Island",
       147.94,
       -43.01,
-      6
+      7
     ],
     [
       "TAS194",
@@ -39246,7 +39246,7 @@
       "Deep Glen Bay shallow",
       147.99,
       -42.97,
-      12
+      14
     ],
     [
       "TAS212",
@@ -39983,7 +39983,7 @@
       "Stewarts Bay",
       147.87,
       -43.14,
-      6
+      7
     ],
     [
       "TAS280",
@@ -40082,7 +40082,7 @@
       "Fortescue Kelp Forest",
       147.97,
       -43.14,
-      17
+      19
     ],
     [
       "TAS290",
@@ -40401,7 +40401,7 @@
       "Bivouac Bay",
       147.97,
       -43.12,
-      5
+      6
     ],
     [
       "TAS320",
@@ -41358,7 +41358,7 @@
       "Fortescue Bay 2",
       147.97,
       -43.14,
-      3
+      6
     ],
     [
       "TAS407",
@@ -41545,7 +41545,7 @@
       "Lanterns Seal Haul-out",
       148.0,
       -43.14,
-      1
+      2
     ],
     [
       "TAS422",
@@ -41724,6 +41724,39 @@
       1
     ],
     [
+      "TAS437",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - South East",
+      "Bassian",
+      "Fortescue Bay North",
+      147.97,
+      -43.13,
+      3
+    ],
+    [
+      "TAS438",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - South East",
+      "Bassian",
+      "Stinking Bay",
+      147.88,
+      -43.13,
+      3
+    ],
+    [
+      "TAS439",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - South East",
+      "Bassian",
+      "Surveyors Cove",
+      147.89,
+      -43.16,
+      3
+    ],
+    [
       "TAS44",
       "Australia",
       "Temperate Australasia",
@@ -41732,6 +41765,39 @@
       "Sheppards Fish Farm 400m Nth",
       147.3,
       -43.08,
+      1
+    ],
+    [
+      "TAS440",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - South East",
+      "Bassian",
+      "Clyde Island 2",
+      147.94,
+      -43.01,
+      2
+    ],
+    [
+      "TAS441",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - South East",
+      "Bassian",
+      "North of Surveyors",
+      147.89,
+      -43.15,
+      1
+    ],
+    [
+      "TAS442",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - South East",
+      "Bassian",
+      "Totem Pole",
+      148.0,
+      -43.14,
       1
     ],
     [
@@ -41776,7 +41842,7 @@
       "Waterfall Bay",
       147.95,
       -43.06,
-      28
+      29
     ],
     [
       "TAS49",
