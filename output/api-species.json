@@ -14289,10 +14289,12 @@
   ],
   "Coryphella trophina": [
     "Coryphella trophina",
-    "Flabellina trophina, Himatina trophina",
+    "",
     "https://reeflifesurvey.com/species/coryphella-trophina/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_e9_66860bb704054.w1000.h666.jpg"
+    ]
   ],
   "Coryphella verrucosa": [
     "Coryphella verrucosa",
@@ -34738,8 +34740,8 @@
   ],
   "Notorynchus cepedianus": [
     "Notorynchus cepedianus",
-    "",
-    null,
+    "Sevengill shark",
+    "https://reeflifesurvey.com/species/notorynchus-cepedianus/",
     0,
     []
   ],
