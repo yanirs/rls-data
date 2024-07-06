@@ -23395,7 +23395,7 @@
       "Flat Rock",
       153.55,
       -27.39,
-      8
+      11
     ],
     [
       "MBMP10",
@@ -23417,7 +23417,7 @@
       "Shark Gutters",
       153.55,
       -27.39,
-      5
+      8
     ],
     [
       "MBMP2",
@@ -23428,7 +23428,7 @@
       "Shag Rock",
       153.53,
       -27.41,
-      10
+      13
     ],
     [
       "MBMP4",
@@ -23450,7 +23450,7 @@
       "Amity Point",
       153.44,
       -27.4,
-      3
+      4
     ],
     [
       "MBMP6",
@@ -23461,7 +23461,7 @@
       "Shag Rock Sth",
       153.53,
       -27.41,
-      9
+      12
     ],
     [
       "MBMP7",
@@ -23472,7 +23472,7 @@
       "Amity Point Nth",
       153.44,
       -27.4,
-      6
+      8
     ],
     [
       "MBMP9",
@@ -25452,6 +25452,72 @@
       "Aquarium Ile Vert",
       165.46,
       -21.69,
+      1
+    ],
+    [
+      "NC11",
+      "New Caledonia",
+      "Central Indo-Pacific",
+      "New Caledonia",
+      "New Caledonia",
+      "Petit U outer",
+      165.92,
+      -22.02,
+      1
+    ],
+    [
+      "NC12",
+      "New Caledonia",
+      "Central Indo-Pacific",
+      "New Caledonia",
+      "New Caledonia",
+      "Fausse Passe Tenia",
+      165.93,
+      -22.01,
+      1
+    ],
+    [
+      "NC13",
+      "New Caledonia",
+      "Central Indo-Pacific",
+      "New Caledonia",
+      "New Caledonia",
+      "Bomies Petit U",
+      165.93,
+      -22.02,
+      1
+    ],
+    [
+      "NC14",
+      "New Caledonia",
+      "Central Indo-Pacific",
+      "New Caledonia",
+      "New Caledonia",
+      "Recif Tabu",
+      166.45,
+      -22.49,
+      1
+    ],
+    [
+      "NC15",
+      "New Caledonia",
+      "Central Indo-Pacific",
+      "New Caledonia",
+      "New Caledonia",
+      "Yate Iya",
+      166.97,
+      -22.17,
+      1
+    ],
+    [
+      "NC16",
+      "New Caledonia",
+      "Central Indo-Pacific",
+      "New Caledonia",
+      "New Caledonia",
+      "Fausse Passe de Uitoe",
+      166.18,
+      -22.29,
       1
     ],
     [

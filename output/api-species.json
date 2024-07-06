@@ -14289,7 +14289,7 @@
   ],
   "Coryphella trophina": [
     "Coryphella trophina",
-    "",
+    "Flabellina trophina, Himatina trophina",
     "https://reeflifesurvey.com/species/coryphella-trophina/",
     1,
     [
@@ -14512,6 +14512,13 @@
       "https://images.reeflifesurvey.com/1/species_d6_64eea2ba89487.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_20_64eea2bdd018c.w1000.h666.jpg"
     ]
+  ],
+  "Corythoichthys nigripectus": [
+    "Corythoichthys nigripectus",
+    "",
+    null,
+    2,
+    []
   ],
   "Corythoichthys ocellatus": [
     "Corythoichthys ocellatus",
@@ -18024,6 +18031,13 @@
     "Ecsenius gravieri",
     "",
     "https://reeflifesurvey.com/species/ecsenius-gravieri/",
+    2,
+    []
+  ],
+  "Ecsenius isos": [
+    "Ecsenius isos",
+    "",
+    null,
     2,
     []
   ],
@@ -22106,6 +22120,13 @@
     2,
     []
   ],
+  "Gobiodon albofasciatus": [
+    "Gobiodon albofasciatus",
+    "",
+    null,
+    2,
+    []
+  ],
   "Gobiodon ceramensis": [
     "Gobiodon ceramensis",
     "Ceram coralgoby",
@@ -23892,6 +23913,13 @@
     1,
     []
   ],
+  "Halgerda johnsonorum": [
+    "Halgerda johnsonorum",
+    "",
+    null,
+    1,
+    []
+  ],
   "Halgerda onna": [
     "Halgerda onna",
     "",
@@ -24782,6 +24810,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_98_573701be63a45.w1000.h666.jpg"
     ]
+  ],
+  "Halityle regularis": [
+    "Halityle regularis",
+    "",
+    null,
+    1,
+    []
   ],
   "Hallaxa michaeli": [
     "Hallaxa michaeli",
@@ -34047,6 +34082,13 @@
       "https://images.reeflifesurvey.com/1/species_2f_6347a461ece24.w1000.h666.jpg"
     ]
   ],
+  "Neopetrolisthes spp.": [
+    "Neopetrolisthes spp.",
+    "",
+    null,
+    1,
+    []
+  ],
   "Neophoca cinerea": [
     "Neophoca cinerea",
     "Australian sea lion",
@@ -41137,6 +41179,13 @@
       "https://images.reeflifesurvey.com/0/species_ac_57fafe5e10536.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_73_5a79230910587.w1000.h666.jpg"
     ]
+  ],
+  "Platycephalus spp.": [
+    "Platycephalus spp.",
+    "",
+    null,
+    2,
+    []
   ],
   "Platydoris argo": [
     "Platydoris argo",
@@ -50173,6 +50222,13 @@
     1,
     []
   ],
+  "Stenopus spp.": [
+    "Stenopus spp.",
+    "",
+    null,
+    1,
+    []
+  ],
   "Stenorhynchus debilis": [
     "Stenorhynchus debilis",
     "Panamic arrow crab",
@@ -52049,6 +52105,13 @@
     1,
     []
   ],
+  "Tetralia glaberrima": [
+    "Tetralia glaberrima",
+    "",
+    null,
+    1,
+    []
+  ],
   "Tetralia nigrolineata": [
     "Tetralia nigrolineata",
     "Acropora crab",
@@ -52061,7 +52124,9 @@
     "",
     "https://reeflifesurvey.com/species/tetralia-rubridactyla/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_d4_668762916fac4.w1000.h666.JPG"
+    ]
   ],
   "Tetralia spp.": [
     "Tetralia spp.",
@@ -53298,7 +53363,10 @@
     "",
     "https://reeflifesurvey.com/species/trapezia-cymodoce/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_2f_6687608492fb5.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_08_668760b9d46e4.w1000.h666.JPG"
+    ]
   ],
   "Trapezia flavopunctata": [
     "Trapezia flavopunctata",
@@ -53320,7 +53388,8 @@
     "https://reeflifesurvey.com/species/trapezia-rufopunctata/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_9a_59e3fe68b98bd.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/0/species_9a_59e3fe68b98bd.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_41_668757e641b43.w1000.h666.jpg"
     ]
   ],
   "Trapezia septata": [
@@ -53329,6 +53398,7 @@
     "https://reeflifesurvey.com/species/trapezia-septata/",
     1,
     [
+      "https://images.reeflifesurvey.com/1/species_6c_66875868991e1.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_9f_6645a38d26b3f.w1000.h666.jpg"
     ]
   ],
@@ -55333,6 +55403,13 @@
       "https://images.reeflifesurvey.com/0/species_68_579aef4d6d242.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_ee_578f41723ea90.w1000.h666.jpg"
     ]
+  ],
+  "Verconia laboutei": [
+    "Verconia laboutei",
+    "",
+    null,
+    1,
+    []
   ],
   "Verconia norba": [
     "Verconia norba",
