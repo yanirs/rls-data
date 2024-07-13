@@ -2385,7 +2385,7 @@
       "Montague Is East",
       150.23,
       -36.25,
-      22
+      23
     ],
     [
       "BMP-S31",
@@ -20117,7 +20117,7 @@
       "2nd Valley Boat Shed",
       138.21,
       -35.51,
-      65
+      69
     ],
     [
       "GSV28",
@@ -20139,7 +20139,7 @@
       "Carrickalinga Head",
       138.34,
       -35.4,
-      36
+      40
     ],
     [
       "GSV30",
@@ -20161,7 +20161,7 @@
       "Nev's Windmills",
       138.13,
       -35.55,
-      40
+      44
     ],
     [
       "GSV39",
@@ -20205,7 +20205,7 @@
       "Rapid Head East",
       138.18,
       -35.52,
-      36
+      40
     ],
     [
       "GSV42",
@@ -20216,7 +20216,7 @@
       "Rapid Head SZ Site2",
       138.16,
       -35.52,
-      32
+      36
     ],
     [
       "GSV43",
@@ -20227,7 +20227,7 @@
       "Rapid Head SZ",
       138.17,
       -35.52,
-      36
+      40
     ],
     [
       "GSV45",
@@ -20249,7 +20249,7 @@
       "Carrickalinga North Site 2",
       138.37,
       -35.37,
-      28
+      32
     ],
     [
       "GSV47",
@@ -20700,7 +20700,7 @@
       "Lasseters Reef",
       138.22,
       -35.51,
-      33
+      37
     ],
     [
       "GSV96",
@@ -30523,7 +30523,7 @@
       "Poor Knights Middle Arch",
       174.73,
       -35.46,
-      2
+      4
     ],
     [
       "NZ10",
@@ -30534,7 +30534,7 @@
       "The Canyons",
       174.73,
       -35.47,
-      1
+      3
     ],
     [
       "NZ11",
@@ -30570,6 +30570,72 @@
       1
     ],
     [
+      "NZ14",
+      "New Zealand",
+      "Temperate Australasia",
+      "Tauranga",
+      "Northeastern New Zealand",
+      "Te Rotoharakeke Point",
+      176.41,
+      -37.62,
+      2
+    ],
+    [
+      "NZ15",
+      "New Zealand",
+      "Temperate Australasia",
+      "Tauranga",
+      "Northeastern New Zealand",
+      "Baby Jacket Reef",
+      176.4,
+      -37.62,
+      2
+    ],
+    [
+      "NZ16",
+      "New Zealand",
+      "Temperate Australasia",
+      "Tauranga",
+      "Northeastern New Zealand",
+      "Motiti Island NW",
+      176.41,
+      -37.61,
+      2
+    ],
+    [
+      "NZ17",
+      "New Zealand",
+      "Temperate Australasia",
+      "Tauranga",
+      "Northeastern New Zealand",
+      "Snapcity",
+      176.41,
+      -37.61,
+      2
+    ],
+    [
+      "NZ18",
+      "New Zealand",
+      "Temperate Australasia",
+      "Te Paepae o Aotea (Volkner Rocks)",
+      "Northeastern New Zealand",
+      "Big Volkner Channel",
+      177.13,
+      -37.48,
+      1
+    ],
+    [
+      "NZ19",
+      "New Zealand",
+      "Temperate Australasia",
+      "Tuhua/Mayor Island",
+      "Northeastern New Zealand",
+      "Seal Point",
+      176.25,
+      -37.31,
+      2
+    ],
+    [
       "NZ2",
       "New Zealand",
       "Temperate Australasia",
@@ -30578,6 +30644,116 @@
       "NZ Poor Knights South Harbour Channel",
       174.74,
       -35.49,
+      4
+    ],
+    [
+      "NZ20",
+      "New Zealand",
+      "Temperate Australasia",
+      "Tuhua/Mayor Island",
+      "Northeastern New Zealand",
+      "Tokimataa",
+      176.25,
+      -37.31,
+      2
+    ],
+    [
+      "NZ21",
+      "New Zealand",
+      "Temperate Australasia",
+      "Tuhua/Mayor Island",
+      "Northeastern New Zealand",
+      "Omapu",
+      176.25,
+      -37.3,
+      2
+    ],
+    [
+      "NZ22",
+      "New Zealand",
+      "Temperate Australasia",
+      "Tuhua/Mayor Island",
+      "Northeastern New Zealand",
+      "Lizardfish Bay",
+      176.24,
+      -37.3,
+      2
+    ],
+    [
+      "NZ23",
+      "New Zealand",
+      "Temperate Australasia",
+      "Tuhua/Mayor Island",
+      "Northeastern New Zealand",
+      "Welcome Bay West",
+      176.26,
+      -37.31,
+      2
+    ],
+    [
+      "NZ24",
+      "New Zealand",
+      "Temperate Australasia",
+      "Tuhua/Mayor Island",
+      "Northeastern New Zealand",
+      "Welcome Bay East",
+      176.26,
+      -37.31,
+      2
+    ],
+    [
+      "NZ25",
+      "New Zealand",
+      "Temperate Australasia",
+      "Tuhua/Mayor Island",
+      "Northeastern New Zealand",
+      "Nassarius Playground",
+      176.23,
+      -37.29,
+      2
+    ],
+    [
+      "NZ26",
+      "New Zealand",
+      "Temperate Australasia",
+      "Poor Knights Islands",
+      "Northeastern New Zealand",
+      "Snapper Frenzy",
+      174.75,
+      -35.48,
+      2
+    ],
+    [
+      "NZ27",
+      "New Zealand",
+      "Temperate Australasia",
+      "Poor Knights Islands",
+      "Northeastern New Zealand",
+      "Conger Cove",
+      174.74,
+      -35.49,
+      2
+    ],
+    [
+      "NZ28",
+      "New Zealand",
+      "Temperate Australasia",
+      "Poor Knights Islands",
+      "Northeastern New Zealand",
+      "Caroline's Wall",
+      174.74,
+      -35.47,
+      2
+    ],
+    [
+      "NZ29",
+      "New Zealand",
+      "Temperate Australasia",
+      "Poor Knights Islands",
+      "Northeastern New Zealand",
+      "Matt's Knob",
+      174.74,
+      -35.48,
       2
     ],
     [
@@ -30589,7 +30765,84 @@
       "NZ Poor Knights South Harbour",
       174.74,
       -35.49,
-      3
+      6
+    ],
+    [
+      "NZ30",
+      "New Zealand",
+      "Temperate Australasia",
+      "Poor Knights Islands",
+      "Northeastern New Zealand",
+      "Pink Maomao Slope",
+      174.74,
+      -35.47,
+      2
+    ],
+    [
+      "NZ31",
+      "New Zealand",
+      "Temperate Australasia",
+      "Poor Knights Islands",
+      "Northeastern New Zealand",
+      "Lost Slate",
+      174.74,
+      -35.47,
+      2
+    ],
+    [
+      "NZ32",
+      "New Zealand",
+      "Temperate Australasia",
+      "Poor Knights Islands",
+      "Northeastern New Zealand",
+      "Maomao Arch",
+      174.74,
+      -35.47,
+      2
+    ],
+    [
+      "NZ33",
+      "New Zealand",
+      "Temperate Australasia",
+      "Poor Knights Islands",
+      "Northeastern New Zealand",
+      "Cave Bay",
+      174.74,
+      -35.46,
+      2
+    ],
+    [
+      "NZ34",
+      "New Zealand",
+      "Temperate Australasia",
+      "Poor Knights Islands",
+      "Northeastern New Zealand",
+      "Sam's Wall",
+      174.74,
+      -35.46,
+      2
+    ],
+    [
+      "NZ35",
+      "New Zealand",
+      "Temperate Australasia",
+      "Poor Knights Islands",
+      "Northeastern New Zealand",
+      "Blue Gloom",
+      174.74,
+      -35.45,
+      1
+    ],
+    [
+      "NZ36",
+      "New Zealand",
+      "Temperate Australasia",
+      "Tuhua/Mayor Island",
+      "Northeastern New Zealand",
+      "Maomao Bay",
+      174.73,
+      -35.45,
+      1
     ],
     [
       "NZ4",
@@ -30600,7 +30853,7 @@
       "The Gardens",
       174.74,
       -35.48,
-      4
+      6
     ],
     [
       "NZ5",
@@ -30611,7 +30864,7 @@
       "Crystal Cave",
       174.73,
       -35.48,
-      1
+      3
     ],
     [
       "NZ6",
@@ -30622,7 +30875,7 @@
       "Dutchman s Cove",
       174.73,
       -35.47,
-      1
+      2
     ],
     [
       "NZ7",
@@ -30633,7 +30886,7 @@
       "Riko Riko Mouth West wall",
       174.74,
       -35.48,
-      2
+      4
     ],
     [
       "NZ8",
@@ -30644,7 +30897,7 @@
       "Northern Arch South Bay",
       174.73,
       -35.45,
-      1
+      3
     ],
     [
       "NZ9",
@@ -30655,7 +30908,7 @@
       "North of Trev s Rock",
       174.74,
       -35.48,
-      1
+      3
     ],
     [
       "OS1",
@@ -30963,7 +31216,7 @@
       "Waikaro Point",
       175.44,
       -36.11,
-      2
+      4
     ],
     [
       "PAC103",
@@ -30974,7 +31227,7 @@
       "Waikaro Point2",
       175.44,
       -36.11,
-      2
+      4
     ],
     [
       "PAC104",
@@ -30985,7 +31238,7 @@
       "East of Waikaro Pt",
       175.43,
       -36.11,
-      2
+      4
     ],
     [
       "PAC105",
@@ -31018,7 +31271,7 @@
       "Taranga Pinnacles",
       174.7,
       -35.95,
-      2
+      4
     ],
     [
       "PAC108",
@@ -31029,7 +31282,7 @@
       "Lady Alice Island",
       174.73,
       -35.89,
-      2
+      4
     ],
     [
       "PAC109",
@@ -31040,7 +31293,7 @@
       "Taronga 8m Pinnacle",
       174.7,
       -35.96,
-      2
+      4
     ],
     [
       "PAC11",
@@ -31062,7 +31315,7 @@
       "Comet Rocks",
       174.83,
       -36.36,
-      1
+      3
     ],
     [
       "PAC111",
@@ -31073,7 +31326,7 @@
       "East Anchor Bay",
       174.84,
       -36.37,
-      2
+      4
     ],
     [
       "PAC112",
@@ -31084,7 +31337,7 @@
       "North East Bay",
       174.86,
       -36.36,
-      2
+      4
     ],
     [
       "PAC113",
@@ -31106,7 +31359,7 @@
       "Bay north of Northern Arch",
       174.73,
       -35.45,
-      2
+      4
     ],
     [
       "PAC115",
@@ -31139,7 +31392,7 @@
       "Rikoriko Point",
       174.73,
       -35.48,
-      1
+      3
     ],
     [
       "PAC12",
@@ -31161,7 +31414,7 @@
       "Pokohinu North Face",
       175.12,
       -35.9,
-      1
+      2
     ],
     [
       "PAC121",
@@ -31172,7 +31425,7 @@
       "The Canyon",
       175.11,
       -35.9,
-      1
+      2
     ],
     [
       "PAC122",
@@ -31205,7 +31458,7 @@
       "West of Kemp's Bay",
       174.75,
       -36.26,
-      2
+      4
     ],
     [
       "PAC125",
@@ -31216,7 +31469,7 @@
       "One spot reef",
       174.82,
       -36.27,
-      3
+      5
     ],
     [
       "PAC126",
@@ -31227,7 +31480,7 @@
       "Martin's Rock",
       174.78,
       -36.27,
-      3
+      5
     ],
     [
       "PAC127",
@@ -31238,7 +31491,7 @@
       "Alphabet Bay",
       174.79,
       -36.27,
-      3
+      5
     ],
     [
       "PAC128",
@@ -31249,7 +31502,7 @@
       "Mathesen Island",
       174.8,
       -36.31,
-      3
+      5
     ],
     [
       "PAC13",
@@ -31381,7 +31634,7 @@
       "Crater Bay North Point",
       176.28,
       -37.28,
-      2
+      4
     ],
     [
       "PAC141",
@@ -31392,7 +31645,7 @@
       "Archway Island",
       176.28,
       -37.28,
-      5
+      7
     ],
     [
       "PAC142",
@@ -31403,7 +31656,7 @@
       "Turanganui Bay",
       176.28,
       -37.27,
-      2
+      3
     ],
     [
       "PAC143",
@@ -31425,7 +31678,7 @@
       "Tuhua Reef East",
       176.29,
       -37.31,
-      2
+      4
     ],
     [
       "PAC145",
@@ -31436,7 +31689,7 @@
       "Ruakikeno Point",
       176.27,
       -37.3,
-      2
+      4
     ],
     [
       "PAC146",
@@ -31447,7 +31700,7 @@
       "Big Volkner Rock",
       177.14,
       -37.48,
-      3
+      5
     ],
     [
       "PAC147",
@@ -31458,7 +31711,7 @@
       "Diadema Rock",
       177.13,
       -37.48,
-      2
+      4
     ],
     [
       "PAC148",
@@ -31469,7 +31722,7 @@
       "Small Volkner Rock",
       177.13,
       -37.48,
-      3
+      5
     ],
     [
       "PAC149",
@@ -31480,7 +31733,7 @@
       "Black Rock",
       177.17,
       -37.52,
-      3
+      6
     ],
     [
       "PAC15",
@@ -31502,7 +31755,7 @@
       "Homestead Reef",
       177.17,
       -37.53,
-      1
+      3
     ],
     [
       "PAC151",
@@ -31513,7 +31766,7 @@
       "Club Rocks",
       177.18,
       -37.54,
-      3
+      6
     ],
     [
       "PAC152",
@@ -31524,7 +31777,7 @@
       "Anchor Bay",
       176.08,
       -36.98,
-      2
+      4
     ],
     [
       "PAC153",
@@ -31535,7 +31788,7 @@
       "Anchor Bay East Rocks",
       176.08,
       -36.98,
-      2
+      4
     ],
     [
       "PAC154",
@@ -31546,7 +31799,7 @@
       "Nudibranch Wall",
       176.06,
       -36.96,
-      3
+      5
     ],
     [
       "PAC155",
@@ -31557,7 +31810,7 @@
       "Ruamahuaiti Island NE",
       176.08,
       -36.97,
-      4
+      6
     ],
     [
       "PAC156",
@@ -31568,7 +31821,7 @@
       "Ugly Point",
       176.08,
       -36.95,
-      3
+      5
     ],
     [
       "PAC157",
@@ -31601,7 +31854,7 @@
       "Tower Rock, Cathedral Cove",
       175.79,
       -36.81,
-      3
+      5
     ],
     [
       "PAC16",
@@ -31623,7 +31876,7 @@
       "Hahei I",
       175.78,
       -36.82,
-      3
+      5
     ],
     [
       "PAC161",
@@ -31634,7 +31887,7 @@
       "Mahurangi Islet",
       175.82,
       -36.83,
-      2
+      4
     ],
     [
       "PAC162",
@@ -31645,7 +31898,7 @@
       "Mahurangi I outside reserve",
       175.82,
       -36.83,
-      2
+      4
     ],
     [
       "PAC163",
@@ -31656,7 +31909,7 @@
       "Kingfish Rock",
       175.81,
       -36.82,
-      2
+      4
     ],
     [
       "PAC164",
@@ -31667,7 +31920,7 @@
       "South Sunk Rock",
       175.82,
       -36.82,
-      3
+      5
     ],
     [
       "PAC165",
@@ -31678,7 +31931,7 @@
       "Two Fathom Reef",
       176.27,
       -37.26,
-      3
+      5
     ],
     [
       "PAC166",
@@ -31689,7 +31942,7 @@
       "Mayor I, North Rock",
       176.27,
       -37.27,
-      2
+      4
     ],
     [
       "PAC167",
@@ -31700,7 +31953,7 @@
       "Motuneke, Mayor I",
       176.25,
       -37.27,
-      2
+      4
     ],
     [
       "PAC168",
@@ -31711,7 +31964,7 @@
       "Opoupoto Bay, Mayor I",
       176.24,
       -37.27,
-      2
+      4
     ],
     [
       "PAC169",
@@ -31722,7 +31975,7 @@
       "Panetiki Point",
       174.82,
       -36.29,
-      2
+      4
     ],
     [
       "PAC17",
@@ -31744,7 +31997,7 @@
       "Ti Point",
       174.8,
       -36.32,
-      2
+      4
     ],
     [
       "PAC171",
@@ -31755,7 +32008,7 @@
       "Tawharanui East",
       174.86,
       -36.37,
-      2
+      4
     ],
     [
       "PAC172",
@@ -31766,7 +32019,7 @@
       "Tawharanui outside W",
       174.8,
       -36.35,
-      1
+      3
     ],
     [
       "PAC18",
@@ -32415,7 +32668,7 @@
       "Moturahurahu Island NE",
       174.27,
       -35.22,
-      2
+      4
     ],
     [
       "PAC71",
@@ -32602,7 +32855,7 @@
       "Deep Water Cove NW Islet",
       174.29,
       -35.19,
-      2
+      4
     ],
     [
       "PAC88",
@@ -32690,7 +32943,7 @@
       "Goat Island West",
       174.79,
       -36.27,
-      2
+      4
     ],
     [
       "PAC95",
@@ -32701,7 +32954,7 @@
       "Goat Island East",
       174.8,
       -36.27,
-      2
+      4
     ],
     [
       "PAC96",
@@ -32712,7 +32965,7 @@
       "Goat Island Table Top",
       174.8,
       -36.27,
-      2
+      4
     ],
     [
       "PAC98",
@@ -32723,7 +32976,7 @@
       "Labrid Passage North",
       174.74,
       -35.49,
-      2
+      4
     ],
     [
       "PAC99",
@@ -32734,7 +32987,7 @@
       "Aorangaia Is SW Corner PKI",
       174.75,
       -35.49,
-      1
+      3
     ],
     [
       "PD-S10",
@@ -34318,7 +34571,7 @@
       "Boat Harbour South",
       152.11,
       -32.79,
-      31
+      33
     ],
     [
       "PS28",

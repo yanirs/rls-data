@@ -2671,6 +2671,13 @@
       "https://images.reeflifesurvey.com/0/species_c7_58294ccfbbfcd.w1000.h666.jpg"
     ]
   ],
+  "Annaperenna verrucosa": [
+    "Annaperenna verrucosa",
+    "",
+    null,
+    1,
+    []
+  ],
   "Anneissia bennetti": [
     "Anneissia bennetti",
     "Oxycomanthus bennetti",
@@ -2938,6 +2945,13 @@
       "https://images.reeflifesurvey.com/0/species_54_589276811adf0.w1000.h666.JPG"
     ]
   ],
+  "Aphelodoris berghi": [
+    "Aphelodoris berghi",
+    "",
+    null,
+    1,
+    []
+  ],
   "Aphelodoris gigas": [
     "Aphelodoris gigas",
     "Dorid nudibranch",
@@ -3092,6 +3106,13 @@
       "https://images.reeflifesurvey.com/1/species_d1_636adfdf0c795.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_20_636adfa9f40c4.w1000.h666.jpg"
     ]
+  ],
+  "Aplysia concava": [
+    "Aplysia concava",
+    "",
+    null,
+    1,
+    []
   ],
   "Aplysia dactylomela": [
     "Aplysia dactylomela",
@@ -5322,6 +5343,13 @@
     2,
     []
   ],
+  "Bathysquilla microps": [
+    "Bathysquilla microps",
+    "",
+    null,
+    1,
+    []
+  ],
   "Bathystethus cultratus": [
     "Bathystethus cultratus",
     "Grey Knifefish",
@@ -7007,6 +7035,13 @@
     1,
     []
   ],
+  "Callanthias allporti": [
+    "Callanthias allporti",
+    "",
+    null,
+    0,
+    []
+  ],
   "Callanthias australis": [
     "Callanthias australis",
     "Splendid perch",
@@ -8300,6 +8335,13 @@
     "Cenolia glebosus",
     "Black feather star",
     "https://reeflifesurvey.com/species/cenolia-glebosus/",
+    1,
+    []
+  ],
+  "Cenolia spanoschistum": [
+    "Cenolia spanoschistum",
+    "",
+    null,
     1,
     []
   ],
@@ -11634,6 +11676,13 @@
   ],
   "Chrysaora pacifica": [
     "Chrysaora pacifica",
+    "",
+    null,
+    2,
+    []
+  ],
+  "Chrysaora pentastoma": [
+    "Chrysaora pentastoma",
     "",
     null,
     2,
@@ -27530,6 +27579,13 @@
     1,
     []
   ],
+  "Isara carbonaria": [
+    "Isara carbonaria",
+    "",
+    null,
+    1,
+    []
+  ],
   "Isara chalybeia": [
     "Isara chalybeia",
     "Mitre",
@@ -32241,6 +32297,13 @@
       "https://images.reeflifesurvey.com/0/species_4f_57cf58faf08ef.w1000.h666.JPG"
     ]
   ],
+  "Monoplex exaratus": [
+    "Monoplex exaratus",
+    "",
+    null,
+    1,
+    []
+  ],
   "Monoplex macrodon": [
     "Monoplex macrodon",
     "",
@@ -33361,6 +33424,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_c6_578f2579a0631.w1000.h666.jpg"
     ]
+  ],
+  "Nassarius spiratus": [
+    "Nassarius spiratus",
+    "",
+    null,
+    1,
+    []
   ],
   "Natator depressus": [
     "Natator depressus",
@@ -36829,6 +36899,13 @@
     1,
     []
   ],
+  "Paguristes barbatus": [
+    "Paguristes barbatus",
+    "",
+    null,
+    1,
+    []
+  ],
   "Paguristes brevirostris": [
     "Paguristes brevirostris",
     "Orange-eyed hermit crab",
@@ -38892,6 +38969,13 @@
     1,
     []
   ],
+  "Pascula palmeri": [
+    "Pascula palmeri",
+    "",
+    null,
+    1,
+    []
+  ],
   "Pastinachus ater": [
     "Pastinachus ater",
     "Cowtail stingray, Bananatail Ray, Fantail Ray, Feathertail Stingray, Pastinachus atrus",
@@ -40045,6 +40129,13 @@
   ],
   "Phidiana spp.": [
     "Phidiana spp.",
+    "",
+    null,
+    1,
+    []
+  ],
+  "Philinopsis gigliolii": [
+    "Philinopsis gigliolii",
     "",
     null,
     1,
@@ -50811,6 +50902,13 @@
       "https://images.reeflifesurvey.com/1/species_5b_627c6a3e12609.w1000.h666.JPG"
     ]
   ],
+  "Stylochoplana spp.": [
+    "Stylochoplana spp.",
+    "",
+    null,
+    1,
+    []
+  ],
   "Stylopallene cheilorhynchus": [
     "Stylopallene cheilorhynchus",
     "",
@@ -54701,6 +54799,13 @@
       "https://images.reeflifesurvey.com/0/species_e5_579a960694bcb.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_66_57a2ba3e41843.w1000.h666.JPG"
     ]
+  ],
+  "Tytthosoceros lizardensis": [
+    "Tytthosoceros lizardensis",
+    "",
+    null,
+    1,
+    []
   ],
   "Ucla xenogrammus": [
     "Ucla xenogrammus",
