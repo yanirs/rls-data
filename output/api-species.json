@@ -2673,8 +2673,8 @@
   ],
   "Annaperenna verrucosa": [
     "Annaperenna verrucosa",
-    "",
-    null,
+    "Warty ranella",
+    "https://reeflifesurvey.com/species/annaperenna-verrucosa/",
     1,
     []
   ],
@@ -2947,8 +2947,8 @@
   ],
   "Aphelodoris berghi": [
     "Aphelodoris berghi",
-    "",
-    null,
+    "A nudibranch",
+    "https://reeflifesurvey.com/species/aphelodoris-berghi/",
     1,
     []
   ],
@@ -3109,8 +3109,8 @@
   ],
   "Aplysia concava": [
     "Aplysia concava",
-    "",
-    null,
+    "Dwarf sea hare",
+    "https://reeflifesurvey.com/species/aplysia-concava/",
     1,
     []
   ],
@@ -5345,8 +5345,8 @@
   ],
   "Bathysquilla microps": [
     "Bathysquilla microps",
-    "",
-    null,
+    "A mantis shrimp",
+    "https://reeflifesurvey.com/species/bathysquilla-microps/",
     1,
     []
   ],
@@ -7037,8 +7037,8 @@
   ],
   "Callanthias allporti": [
     "Callanthias allporti",
-    "",
-    null,
+    "Splendid sea perch",
+    "https://reeflifesurvey.com/species/callanthias-allporti/",
     0,
     []
   ],
@@ -8340,8 +8340,8 @@
   ],
   "Cenolia spanoschistum": [
     "Cenolia spanoschistum",
-    "",
-    null,
+    "Featherstar",
+    "https://reeflifesurvey.com/species/cenolia-spanoschistum/",
     1,
     []
   ],
@@ -15987,6 +15987,13 @@
       "https://images.reeflifesurvey.com/0/species_fe_5956062ebf424.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_f7_5cd10c3b6d40a.w1000.h666.jpg"
     ]
+  ],
+  "Dardanus sanguinolentus": [
+    "Dardanus sanguinolentus",
+    "",
+    null,
+    1,
+    []
   ],
   "Dardanus scutellatus": [
     "Dardanus scutellatus",
@@ -27581,8 +27588,8 @@
   ],
   "Isara carbonaria": [
     "Isara carbonaria",
-    "",
-    null,
+    "Sooty mitre",
+    "https://reeflifesurvey.com/species/isara-carbonaria/",
     1,
     []
   ],
@@ -32299,8 +32306,8 @@
   ],
   "Monoplex exaratus": [
     "Monoplex exaratus",
-    "",
-    null,
+    "Ploughed triton",
+    "https://reeflifesurvey.com/species/monoplex-exaratus/",
     1,
     []
   ],
@@ -33427,8 +33434,8 @@
   ],
   "Nassarius spiratus": [
     "Nassarius spiratus",
-    "",
-    null,
+    "Spired dog whelk",
+    "https://reeflifesurvey.com/species/nassarius-spiratus/",
     1,
     []
   ],
@@ -36901,8 +36908,8 @@
   ],
   "Paguristes barbatus": [
     "Paguristes barbatus",
-    "",
-    null,
+    "Hermit crab",
+    "https://reeflifesurvey.com/species/paguristes-barbatus/",
     1,
     []
   ],
@@ -38971,8 +38978,8 @@
   ],
   "Pascula palmeri": [
     "Pascula palmeri",
-    "",
-    null,
+    "A shell",
+    "https://reeflifesurvey.com/species/pascula-palmeri/",
     1,
     []
   ],
@@ -40136,8 +40143,8 @@
   ],
   "Philinopsis gigliolii": [
     "Philinopsis gigliolii",
-    "",
-    null,
+    "Head-shield seaslug",
+    "https://reeflifesurvey.com/species/philinopsis-gigliolii/",
     1,
     []
   ],
@@ -53615,7 +53622,7 @@
   "Tridacna sp. [cf noae]": [
     "Tridacna sp. [cf noae]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/tridacna-sp-cf-noae/",
     1,
     []
   ],
@@ -54802,8 +54809,8 @@
   ],
   "Tytthosoceros lizardensis": [
     "Tytthosoceros lizardensis",
-    "",
-    null,
+    "Lizard Island flatworm",
+    "https://reeflifesurvey.com/species/tytthosoceros-lizardensis/",
     1,
     []
   ],
