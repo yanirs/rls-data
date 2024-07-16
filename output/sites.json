@@ -2105,7 +2105,7 @@
       "BMKC1",
       "Canada",
       "Temperate Northern Pacific",
-      "British Columbia",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Dixon Bay 2",
       -125.12,
@@ -2116,7 +2116,7 @@
       "BMKC2",
       "Canada",
       "Temperate Northern Pacific",
-      "British Columbia",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Tzartus 116 R",
       -125.08,
@@ -2187,7 +2187,7 @@
       "West Longnose Point",
       150.21,
       -35.83,
-      27
+      28
     ],
     [
       "BMP-S15",
@@ -2231,7 +2231,7 @@
       "Yellow Rock",
       150.26,
       -35.73,
-      24
+      25
     ],
     [
       "BMP-S19",
@@ -2242,7 +2242,7 @@
       "North Head",
       150.27,
       -35.72,
-      28
+      30
     ],
     [
       "BMP-S2",
@@ -2264,7 +2264,7 @@
       "Acron Ledge",
       150.25,
       -35.72,
-      22
+      24
     ],
     [
       "BMP-S21",
@@ -2561,7 +2561,7 @@
       "Guerilla Bay Island South",
       150.23,
       -35.83,
-      12
+      13
     ],
     [
       "BMP10",
@@ -2770,7 +2770,7 @@
       "Caulerpa Reef",
       150.26,
       -35.75,
-      7
+      8
     ],
     [
       "BMP28",
@@ -2836,7 +2836,7 @@
       "Whale Bay",
       150.22,
       -35.83,
-      7
+      8
     ],
     [
       "BMP4",
@@ -2919,7 +2919,7 @@
       "BMSC1",
       "Canada",
       "Temperate Northern Pacific",
-      "Vancouver",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Dodger Channel",
       -125.2,
@@ -2930,7 +2930,7 @@
       "BMSC10",
       "Canada",
       "Temperate Northern Pacific",
-      "British Columbia",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Ross Islets Slug Island",
       -125.16,
@@ -2941,7 +2941,7 @@
       "BMSC11",
       "Canada",
       "Temperate Northern Pacific",
-      "British Columbia",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Wizard Island South",
       -125.16,
@@ -2952,7 +2952,7 @@
       "BMSC12",
       "Canada",
       "Temperate Northern Pacific",
-      "British Columbia",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Wizard Island North",
       -125.16,
@@ -2963,7 +2963,7 @@
       "BMSC13",
       "Canada",
       "Temperate Northern Pacific",
-      "British Columbia",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Effingham West",
       -125.31,
@@ -2974,7 +2974,7 @@
       "BMSC14",
       "Canada",
       "Temperate Northern Pacific",
-      "British Columbia",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Effingham Archipelago",
       -125.3,
@@ -2985,7 +2985,7 @@
       "BMSC15",
       "Canada",
       "Temperate Northern Pacific",
-      "British Columbia",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Raymond Kelp Rock",
       -125.31,
@@ -2996,7 +2996,7 @@
       "BMSC16",
       "Canada",
       "Temperate Northern Pacific",
-      "British Columbia",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Faber Islets",
       -125.3,
@@ -3007,7 +3007,7 @@
       "BMSC17",
       "Canada",
       "Temperate Northern Pacific",
-      "British Columbia",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Wouwer Channel",
       -125.36,
@@ -3018,7 +3018,7 @@
       "BMSC18",
       "Canada",
       "Temperate Northern Pacific",
-      "British Columbia",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Eussen Rock",
       -125.27,
@@ -3029,7 +3029,7 @@
       "BMSC19",
       "Canada",
       "Temperate Northern Pacific",
-      "British Columbia",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Ed King SW Pyramid",
       -125.22,
@@ -3040,7 +3040,7 @@
       "BMSC2",
       "Canada",
       "Temperate Northern Pacific",
-      "Vancouver",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Kirby",
       -125.2,
@@ -3051,7 +3051,7 @@
       "BMSC20",
       "Canada",
       "Temperate Northern Pacific",
-      "British Columbia",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Ed King East",
       -125.21,
@@ -3062,7 +3062,7 @@
       "BMSC21",
       "Canada",
       "Temperate Northern Pacific",
-      "British Columbia",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Dixon SW",
       -125.12,
@@ -3073,7 +3073,7 @@
       "BMSC22",
       "Canada",
       "Temperate Northern Pacific",
-      "British Columbia",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Dixon Inside",
       -125.12,
@@ -3084,7 +3084,7 @@
       "BMSC23",
       "Canada",
       "Temperate Northern Pacific",
-      "British Columbia",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Aguilar Point",
       -125.14,
@@ -3095,7 +3095,7 @@
       "BMSC25",
       "Canada",
       "Temperate Northern Pacific",
-      "Vancouver",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Goby Town",
       -125.14,
@@ -3106,7 +3106,7 @@
       "BMSC26",
       "Canada",
       "Temperate Northern Pacific",
-      "Vancouver",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Hosie South",
       -125.04,
@@ -3117,7 +3117,7 @@
       "BMSC27",
       "Canada",
       "Temperate Northern Pacific",
-      "Vancouver",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "San Jose North Island",
       -125.06,
@@ -3128,7 +3128,7 @@
       "BMSC28",
       "Canada",
       "Temperate Northern Pacific",
-      "Vancouver",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Swiss Boy",
       -125.13,
@@ -3139,7 +3139,7 @@
       "BMSC3",
       "Canada",
       "Temperate Northern Pacific",
-      "Vancouver",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Ohiat",
       -125.18,
@@ -3150,7 +3150,7 @@
       "BMSC31",
       "Canada",
       "Temperate Northern Pacific",
-      "Vancouver",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Dodger Channel 2",
       -125.19,
@@ -3161,7 +3161,7 @@
       "BMSC32",
       "Canada",
       "Temperate Northern Pacific",
-      "Vancouver",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Less Dangerous Bay",
       -125.09,
@@ -3172,7 +3172,7 @@
       "BMSC33",
       "Canada",
       "Temperate Northern Pacific",
-      "Vancouver",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Ed King East Inside",
       -125.21,
@@ -3183,7 +3183,7 @@
       "BMSC4",
       "Canada",
       "Temperate Northern Pacific",
-      "Vancouver",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Kii xin",
       -125.18,
@@ -3194,7 +3194,7 @@
       "BMSC5",
       "Canada",
       "Temperate Northern Pacific",
-      "British Columbia",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Taylor Rock",
       -125.2,
@@ -3205,7 +3205,7 @@
       "BMSC6",
       "Canada",
       "Temperate Northern Pacific",
-      "Vancouver",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Baeria Rocks South Island",
       -125.16,
@@ -3216,7 +3216,7 @@
       "BMSC7",
       "Canada",
       "Temperate Northern Pacific",
-      "British Columbia",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Baeria Rocks North Island Southside",
       -125.15,
@@ -3227,7 +3227,7 @@
       "BMSC8",
       "Canada",
       "Temperate Northern Pacific",
-      "British Columbia",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Baeria Rocks North Island Northside",
       -125.15,
@@ -3238,7 +3238,7 @@
       "BMSC9",
       "Canada",
       "Temperate Northern Pacific",
-      "British Columbia",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Eagle Bay",
       -125.15,
@@ -5740,7 +5740,7 @@
       "Sailfin Reef",
       -80.01,
       19.71,
-      1
+      3
     ],
     [
       "CAR36",
@@ -5751,7 +5751,7 @@
       "Martha's Finyard",
       -80.11,
       19.66,
-      1
+      3
     ],
     [
       "CAR37",
@@ -5773,7 +5773,7 @@
       "CCMI Lagoon",
       -80.06,
       19.7,
-      1
+      3
     ],
     [
       "CAR39",
@@ -5784,7 +5784,7 @@
       "Cumber's Caves",
       -80.07,
       19.69,
-      1
+      3
     ],
     [
       "CAR4",
@@ -5806,7 +5806,7 @@
       "Sarah's Set",
       -80.07,
       19.69,
-      1
+      2
     ],
     [
       "CAR41",
@@ -5817,6 +5817,94 @@
       "Snap Shot",
       -80.06,
       19.7,
+      3
+    ],
+    [
+      "CAR42",
+      "Cayman Islands",
+      "Tropical Atlantic",
+      "Central Caribbean",
+      "Greater Antilles",
+      "Jigsaw Puzzle",
+      -80.01,
+      19.67,
+      1
+    ],
+    [
+      "CAR43",
+      "Cayman Islands",
+      "Tropical Atlantic",
+      "Central Caribbean",
+      "Greater Antilles",
+      "Meadows",
+      -80.07,
+      19.69,
+      1
+    ],
+    [
+      "CAR44",
+      "Cayman Islands",
+      "Tropical Atlantic",
+      "Central Caribbean",
+      "Greater Antilles",
+      "Pizza Hut/Dot's Hot Spot",
+      -80.1,
+      19.68,
+      2
+    ],
+    [
+      "CAR45",
+      "Cayman Islands",
+      "Tropical Atlantic",
+      "Central Caribbean",
+      "Greater Antilles",
+      "Tibbett's Top",
+      -80.1,
+      19.67,
+      1
+    ],
+    [
+      "CAR46",
+      "Cayman Islands",
+      "Tropical Atlantic",
+      "Central Caribbean",
+      "Greater Antilles",
+      "Great Wall West/Henry's Beach",
+      -80.09,
+      19.68,
+      2
+    ],
+    [
+      "CAR47",
+      "Cayman Islands",
+      "Tropical Atlantic",
+      "Central Caribbean",
+      "Greater Antilles",
+      "Splash House/Bush Gardens",
+      -80.11,
+      19.67,
+      2
+    ],
+    [
+      "CAR48",
+      "Cayman Islands",
+      "Tropical Atlantic",
+      "Central Caribbean",
+      "Greater Antilles",
+      "Gay's Reef",
+      -80.09,
+      19.66,
+      1
+    ],
+    [
+      "CAR49",
+      "Cayman Islands",
+      "Tropical Atlantic",
+      "Central Caribbean",
+      "Greater Antilles",
+      "Soto Trader",
+      -80.08,
+      19.66,
       1
     ],
     [
@@ -7764,7 +7852,7 @@
       "South Flinders Horseshoe centre",
       148.51,
       -17.88,
-      4
+      6
     ],
     [
       "CS123",
@@ -7797,7 +7885,7 @@
       "Flinders S Cay Bommie",
       148.44,
       -17.71,
-      4
+      6
     ],
     [
       "CS126",
@@ -7808,7 +7896,7 @@
       "Flinders Ribbon Reef South Cay",
       148.44,
       -17.72,
-      6
+      8
     ],
     [
       "CS127",
@@ -7819,7 +7907,7 @@
       "Flinders Ribbon Reef South Cay SW",
       148.44,
       -17.72,
-      6
+      8
     ],
     [
       "CS128",
@@ -7830,7 +7918,7 @@
       "Flinders Cay Storm Bommie",
       148.46,
       -17.71,
-      6
+      8
     ],
     [
       "CS129",
@@ -7841,7 +7929,7 @@
       "Flinders Ribbon Reef South Cay E bommie",
       148.46,
       -17.7,
-      6
+      8
     ],
     [
       "CS13",
@@ -9274,6 +9362,28 @@
       1
     ],
     [
+      "CS256",
+      "Australia",
+      "Central Indo-Pacific",
+      "Coral Sea - Central",
+      "Coral Sea",
+      "Flora Reef Dropoff",
+      147.71,
+      -16.75,
+      2
+    ],
+    [
+      "CS257",
+      "Australia",
+      "Central Indo-Pacific",
+      "Coral Sea - Central",
+      "Coral Sea",
+      "Flora Reef Lagoon",
+      147.74,
+      -16.76,
+      2
+    ],
+    [
       "CS26",
       "Australia",
       "Central Indo-Pacific",
@@ -10152,6 +10262,105 @@
       151.84,
       -17.11,
       4
+    ],
+    [
+      "DOMR1",
+      "Dominican Republic",
+      "Tropical Atlantic",
+      "Dominican Republic",
+      "Greater Antilles",
+      "Coralina",
+      -68.85,
+      18.37,
+      1
+    ],
+    [
+      "DOMR2",
+      "Dominican Republic",
+      "Tropical Atlantic",
+      "Dominican Republic",
+      "Greater Antilles",
+      "Playita",
+      -68.85,
+      18.37,
+      1
+    ],
+    [
+      "DOMR3",
+      "Dominican Republic",
+      "Tropical Atlantic",
+      "Dominican Republic",
+      "Greater Antilles",
+      "Coco Reef",
+      -68.83,
+      18.34,
+      1
+    ],
+    [
+      "DOMR4",
+      "Dominican Republic",
+      "Tropical Atlantic",
+      "Dominican Republic",
+      "Greater Antilles",
+      "Viva Bayita Shallow",
+      -68.83,
+      18.35,
+      1
+    ],
+    [
+      "DOMR5",
+      "Dominican Republic",
+      "Tropical Atlantic",
+      "Dominican Republic",
+      "Greater Antilles",
+      "Fundemar",
+      -68.85,
+      18.36,
+      1
+    ],
+    [
+      "DOMR6",
+      "Dominican Republic",
+      "Tropical Atlantic",
+      "Dominican Republic",
+      "Greater Antilles",
+      "Penon",
+      -68.78,
+      18.25,
+      1
+    ],
+    [
+      "DOMR7",
+      "Dominican Republic",
+      "Tropical Atlantic",
+      "Dominican Republic",
+      "Greater Antilles",
+      "Parque",
+      -68.82,
+      18.33,
+      1
+    ],
+    [
+      "DOMR8",
+      "Dominican Republic",
+      "Tropical Atlantic",
+      "Dominican Republic",
+      "Greater Antilles",
+      "Cervicornis",
+      -69.0,
+      18.37,
+      1
+    ],
+    [
+      "DOMR9",
+      "Dominican Republic",
+      "Tropical Atlantic",
+      "Dominican Republic",
+      "Greater Antilles",
+      "Orbicella",
+      -69.0,
+      18.37,
+      1
     ],
     [
       "EI1",
@@ -15255,7 +15464,7 @@
       "Lady Musgrave Lagoon NW",
       152.41,
       -23.9,
-      1
+      3
     ],
     [
       "GBR10",
@@ -15288,7 +15497,7 @@
       "Tobias Reef Bommie",
       148.28,
       -19.1,
-      2
+      4
     ],
     [
       "GBR102",
@@ -15299,7 +15508,7 @@
       "Tobias Reef West",
       148.28,
       -19.1,
-      2
+      4
     ],
     [
       "GBR103",
@@ -15321,7 +15530,7 @@
       "Faith Sundowner",
       148.34,
       -19.27,
-      4
+      6
     ],
     [
       "GBR105",
@@ -15365,7 +15574,7 @@
       "Middle Percy NW",
       150.25,
       -21.64,
-      4
+      6
     ],
     [
       "GBR109",
@@ -15398,7 +15607,7 @@
       "Middle Percy A Frame",
       150.24,
       -21.65,
-      4
+      6
     ],
     [
       "GBR111",
@@ -15629,7 +15838,7 @@
       "North West Island anchorage",
       151.69,
       -23.3,
-      2
+      4
     ],
     [
       "GBR130",
@@ -15684,7 +15893,7 @@
       "Luncheon Bay",
       148.95,
       -20.07,
-      4
+      6
     ],
     [
       "GBR135",
@@ -15871,7 +16080,7 @@
       "North West Island southwest",
       151.69,
       -23.3,
-      2
+      4
     ],
     [
       "GBR150",
@@ -16542,7 +16751,7 @@
       "Petaj Bommie Milln Reef",
       146.27,
       -16.79,
-      9
+      11
     ],
     [
       "GBR205",
@@ -16564,7 +16773,7 @@
       "Whale Bommie Milln Reef",
       146.27,
       -16.78,
-      6
+      8
     ],
     [
       "GBR207",
@@ -17202,7 +17411,7 @@
       "Bait Reef1",
       149.07,
       -19.79,
-      10
+      12
     ],
     [
       "GBR260",
@@ -17744,6 +17953,17 @@
       1
     ],
     [
+      "GBR304",
+      "Australia",
+      "Central Indo-Pacific",
+      "Coral Sea - Central",
+      "Central and Southern Great Barrier Reef",
+      "Milln Back Reef",
+      146.27,
+      -16.79,
+      2
+    ],
+    [
       "GBR31",
       "Australia",
       "Central Indo-Pacific",
@@ -18247,7 +18467,7 @@
       "Bait Reef inner buoy",
       149.07,
       -19.81,
-      10
+      12
     ],
     [
       "GBR77",
@@ -22290,7 +22510,7 @@
       "KCCA11",
       "Canada",
       "Temperate Northern Pacific",
-      "British Columbia",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Ross Islets 2",
       -125.16,
@@ -22301,7 +22521,7 @@
       "KCCA13",
       "Canada",
       "Temperate Northern Pacific",
-      "British Columbia",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Second Beach South",
       -125.18,
@@ -22312,7 +22532,7 @@
       "KCCA19",
       "Canada",
       "Temperate Northern Pacific",
-      "British Columbia",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Wizard Island North Kelp",
       -125.16,
@@ -22323,7 +22543,7 @@
       "KCCA20",
       "Canada",
       "Temperate Northern Pacific",
-      "British Columbia",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Nanat Bay",
       -125.08,
@@ -22334,7 +22554,7 @@
       "KCCA23",
       "Canada",
       "Temperate Northern Pacific",
-      "British Columbia",
+      "Vancouver Island",
       "Oregon, Washington, Vancouver Coast and Shelf",
       "Flemming 114",
       -125.11,
@@ -25617,7 +25837,7 @@
       "Middle Cove",
       -52.7,
       47.65,
-      4
+      5
     ],
     [
       "NFLD10",
@@ -25661,7 +25881,7 @@
       "Bauline",
       -52.84,
       47.72,
-      4
+      6
     ],
     [
       "NFLD14",
@@ -25738,7 +25958,7 @@
       "Tappers Cove",
       -52.73,
       47.66,
-      8
+      10
     ],
     [
       "NFLD20",
@@ -25771,7 +25991,7 @@
       "Portugal Cove",
       -52.86,
       47.63,
-      6
+      8
     ],
     [
       "NFLD5",
@@ -34428,7 +34648,7 @@
       "Pipeline",
       152.14,
       -32.72,
-      75
+      76
     ],
     [
       "PS15",
@@ -34450,7 +34670,7 @@
       "Seahorse gardens",
       152.15,
       -32.72,
-      29
+      30
     ],
     [
       "PS17",
@@ -34461,7 +34681,7 @@
       "Fly Point Nelson Bay",
       152.15,
       -32.71,
-      110
+      111
     ],
     [
       "PS18",
@@ -34494,7 +34714,7 @@
       "Halifax Park",
       152.16,
       -32.71,
-      127
+      128
     ],
     [
       "PS21",
@@ -34835,7 +35055,7 @@
       "Little Beach West",
       152.16,
       -32.71,
-      87
+      88
     ],
     [
       "PS8",
@@ -36310,6 +36530,39 @@
       147.68,
       -43.1,
       4
+    ],
+    [
+      "RR01",
+      "Canada",
+      "Temperate Northern Pacific",
+      "Vancouver Island",
+      "Puget Trough/Georgia Basin",
+      "West Race Rocks",
+      -123.54,
+      48.3,
+      1
+    ],
+    [
+      "RR02",
+      "Canada",
+      "Temperate Northern Pacific",
+      "Vancouver Island",
+      "Puget Trough/Georgia Basin",
+      "North Race Rocks",
+      -123.53,
+      48.3,
+      1
+    ],
+    [
+      "RR03",
+      "Canada",
+      "Temperate Northern Pacific",
+      "Vancouver Island",
+      "Puget Trough/Georgia Basin",
+      "North Great Race",
+      -123.53,
+      48.3,
+      1
     ],
     [
       "RSA1",
@@ -44059,7 +44312,7 @@
       "USWC17",
       "Canada",
       "Temperate Northern Pacific",
-      "Vancouver",
+      "Vancouver Island",
       "Puget Trough/Georgia Basin",
       "Cottam Point  Nanaimo BC",
       -124.22,
@@ -44070,7 +44323,7 @@
       "USWC18",
       "Canada",
       "Temperate Northern Pacific",
-      "Vancouver",
+      "Vancouver Island",
       "Puget Trough/Georgia Basin",
       "Madrona Point SW  Nainaimo BC",
       -124.24,
@@ -44081,7 +44334,7 @@
       "USWC19",
       "Canada",
       "Temperate Northern Pacific",
-      "Vancouver",
+      "Vancouver Island",
       "Puget Trough/Georgia Basin",
       "Madrona Point NW  Nainaimo BC",
       -124.24,
@@ -44114,7 +44367,7 @@
       "USWC21",
       "Canada",
       "Temperate Northern Pacific",
-      "Vancouver",
+      "Vancouver Island",
       "Puget Trough/Georgia Basin",
       "Dolphin Beach East BC",
       -124.14,
@@ -44125,7 +44378,7 @@
       "USWC22",
       "Canada",
       "Temperate Northern Pacific",
-      "Vancouver",
+      "Vancouver Island",
       "Puget Trough/Georgia Basin",
       "Maple Cove  Vancouver I BC",
       -123.61,

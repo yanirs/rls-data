@@ -538,6 +538,13 @@
       "https://images.reeflifesurvey.com/1/species_ba_633e304e34c8d.w1000.h666.jpg"
     ]
   ],
+  "Acanthostracion polygonium": [
+    "Acanthostracion polygonium",
+    "",
+    null,
+    0,
+    []
+  ],
   "Acanthostracion polygonius": [
     "Acanthostracion polygonius",
     "Honeycomb cowfish, Acanthostracion polygonia",
@@ -1945,6 +1952,13 @@
     "",
     null,
     1,
+    []
+  ],
+  "Amblyraja radiata": [
+    "Amblyraja radiata",
+    "",
+    null,
+    2,
     []
   ],
   "Amblyrhynchotes honckenii": [
@@ -8222,6 +8236,13 @@
       "https://images.reeflifesurvey.com/1/species_27_6493b646eae45.w1000.h666.jpg"
     ]
   ],
+  "Carpilius corallinus": [
+    "Carpilius corallinus",
+    "",
+    null,
+    1,
+    []
+  ],
   "Carpilius maculatus": [
     "Carpilius maculatus",
     "",
@@ -12669,6 +12690,13 @@
       "https://images.reeflifesurvey.com/0/species_cc_57885da450401.w1000.h666.JPG"
     ]
   ],
+  "Clupea harengus": [
+    "Clupea harengus",
+    "",
+    null,
+    0,
+    []
+  ],
   "Clupea pallasii": [
     "Clupea pallasii",
     "Pacific herring",
@@ -13539,6 +13567,13 @@
       "https://images.reeflifesurvey.com/0/species_b4_577c5111acab3.w1000.h666.JPG"
     ]
   ],
+  "Conus daucus": [
+    "Conus daucus",
+    "",
+    null,
+    1,
+    []
+  ],
   "Conus distans": [
     "Conus distans",
     "Distantly-lineated cone",
@@ -14334,6 +14369,13 @@
     "Blue croaker",
     "https://reeflifesurvey.com/species/corvula-batabana/",
     0,
+    []
+  ],
+  "Coryphella trilineata": [
+    "Coryphella trilineata",
+    "",
+    null,
+    1,
     []
   ],
   "Coryphella trophina": [
@@ -18323,6 +18365,20 @@
     [
       "https://images.reeflifesurvey.com/0/species_db_57845d84574bb.w1000.h666.JPG"
     ]
+  ],
+  "Elacatinus cayman": [
+    "Elacatinus cayman",
+    "",
+    null,
+    2,
+    []
+  ],
+  "Elacatinus centralis": [
+    "Elacatinus centralis",
+    "",
+    null,
+    2,
+    []
   ],
   "Elacatinus dilepis": [
     "Elacatinus dilepis",
@@ -22851,7 +22907,7 @@
     "https://reeflifesurvey.com/species/goniocidaris-tubaria/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_82_5789725f8511c.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/1/species_f9_6695c86619072.w1000.h666.jpg"
     ]
   ],
   "Goniodiscaster acanthodes": [
@@ -26967,6 +27023,13 @@
     0,
     []
   ],
+  "Hypanus americanus": [
+    "Hypanus americanus",
+    "",
+    null,
+    2,
+    []
+  ],
   "Hyperlophus vittatus": [
     "Hyperlophus vittatus",
     "Sandy sprat",
@@ -29026,6 +29089,13 @@
       "https://images.reeflifesurvey.com/0/species_d8_5981e3ac498cd.w1000.h666.jpg"
     ]
   ],
+  "Leptosynapta albicans": [
+    "Leptosynapta albicans",
+    "",
+    null,
+    1,
+    []
+  ],
   "Lesueurigobius friesii": [
     "Lesueurigobius friesii",
     "Friess goby",
@@ -29656,6 +29726,13 @@
       "https://images.reeflifesurvey.com/0/species_d9_599a39864267b.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_c0_599a398ad2364.w1000.h666.JPG"
     ]
+  ],
+  "Lontra canadensis": [
+    "Lontra canadensis",
+    "",
+    null,
+    0,
+    []
   ],
   "Lopholithodes mandtii": [
     "Lopholithodes mandtii",
@@ -30393,6 +30470,13 @@
   ],
   "Lysmata spp.": [
     "Lysmata spp.",
+    "",
+    null,
+    1,
+    []
+  ],
+  "Lysmata wurdemanni": [
+    "Lysmata wurdemanni",
     "",
     null,
     1,
@@ -33189,6 +33273,13 @@
       "https://images.reeflifesurvey.com/0/species_d1_5774f9ef201ca.w1000.h666.jpg"
     ]
   ],
+  "Nardoa gomophia": [
+    "Nardoa gomophia",
+    "",
+    null,
+    1,
+    []
+  ],
   "Nardoa novaecaledoniae": [
     "Nardoa novaecaledoniae",
     "New Caledonian star",
@@ -35455,6 +35546,13 @@
     1,
     []
   ],
+  "Omalacantha spp.": [
+    "Omalacantha spp.",
+    "",
+    null,
+    1,
+    []
+  ],
   "Omegophora armilla": [
     "Omegophora armilla",
     "Ringed toadfish",
@@ -36928,6 +37026,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_1e_582c4c6c28653.w1000.h666.jpg"
     ]
+  ],
+  "Paguristes erythrops": [
+    "Paguristes erythrops",
+    "",
+    null,
+    1,
+    []
   ],
   "Paguristes frontalis": [
     "Paguristes frontalis",
@@ -39257,6 +39362,13 @@
       "https://images.reeflifesurvey.com/0/species_2a_57c7d64b8885b.w1000.h666.JPG"
     ]
   ],
+  "Pelia mutica": [
+    "Pelia mutica",
+    "",
+    null,
+    1,
+    []
+  ],
   "Pellasimnia brunneiterma": [
     "Pellasimnia brunneiterma",
     "A cowrie shell",
@@ -40345,7 +40457,6 @@
     "https://reeflifesurvey.com/species/phyllacanthus-imperialis/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_8f_57501f759b30e.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_ae_5791dba68fdcc.w1000.h666.jpg"
     ]
   ],
@@ -52705,6 +52816,13 @@
       "https://images.reeflifesurvey.com/1/species_06_663dbd31c171b.w1000.h666.JPG"
     ]
   ],
+  "Thor spp.": [
+    "Thor spp.",
+    "",
+    null,
+    1,
+    []
+  ],
   "Thorogobius ephippiatus": [
     "Thorogobius ephippiatus",
     "Leopard-spotted goby",
@@ -53814,6 +53932,13 @@
     [
       "https://images.reeflifesurvey.com/1/species_61_64943be93a992.w1000.h666.jpg"
     ]
+  ],
+  "Trimma sp. [marinae]": [
+    "Trimma sp. [marinae]",
+    "",
+    null,
+    2,
+    []
   ],
   "Trimma sp. [red head]": [
     "Trimma sp. [red head]",
