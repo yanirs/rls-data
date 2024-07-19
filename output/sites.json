@@ -8501,7 +8501,7 @@
       "Ashmore reef lagoon South",
       144.45,
       -10.45,
-      8
+      10
     ],
     [
       "CS186",
@@ -8512,7 +8512,7 @@
       "Ashmore South bommie",
       144.45,
       -10.43,
-      8
+      10
     ],
     [
       "CS187",
@@ -8523,7 +8523,7 @@
       "Ashmore South lagoon shore",
       144.45,
       -10.44,
-      8
+      10
     ],
     [
       "CS188",
@@ -8545,7 +8545,7 @@
       "Ashmore Rf Lagoon SW",
       144.43,
       -10.45,
-      8
+      10
     ],
     [
       "CS19",
@@ -8578,7 +8578,7 @@
       "Ashmore Rf Lagoon East Bommie",
       144.53,
       -10.37,
-      8
+      10
     ],
     [
       "CS192",
@@ -8589,7 +8589,7 @@
       "Ashmore reef SW anchorage",
       144.53,
       -10.38,
-      6
+      7
     ],
     [
       "CS193",
@@ -8644,7 +8644,7 @@
       "Ashmore NE Bommie",
       144.59,
       -10.23,
-      4
+      6
     ],
     [
       "CS198",
@@ -8655,7 +8655,7 @@
       "Ashmore NE Lagoon",
       144.59,
       -10.23,
-      4
+      6
     ],
     [
       "CS199",
@@ -8875,7 +8875,7 @@
       "Genicanthus Reef",
       144.41,
       -10.23,
-      2
+      4
     ],
     [
       "CS216",
@@ -8908,7 +8908,7 @@
       "Ctenochaetus Reef",
       144.41,
       -10.19,
-      2
+      4
     ],
     [
       "CS219",
@@ -17975,6 +17975,72 @@
       4
     ],
     [
+      "GBR314",
+      "Australia",
+      "Central Indo-Pacific",
+      "Capricorn-Bunker",
+      "Central and Southern Great Barrier Reef",
+      "Centre bommie (OTIB01)",
+      152.08,
+      -23.5,
+      1
+    ],
+    [
+      "GBR315",
+      "Australia",
+      "Central Indo-Pacific",
+      "Capricorn-Bunker",
+      "Central and Southern Great Barrier Reef",
+      "Nudibranch reef (OTIB02)",
+      152.08,
+      -23.49,
+      1
+    ],
+    [
+      "GBR316",
+      "Australia",
+      "Central Indo-Pacific",
+      "Capricorn-Bunker",
+      "Central and Southern Great Barrier Reef",
+      "The Maze (OTIB03)",
+      152.08,
+      -23.5,
+      1
+    ],
+    [
+      "GBR317",
+      "Australia",
+      "Central Indo-Pacific",
+      "Capricorn-Bunker",
+      "Central and Southern Great Barrier Reef",
+      "Big bommies (OTIB04)",
+      152.08,
+      -23.49,
+      1
+    ],
+    [
+      "GBR318",
+      "Australia",
+      "Central Indo-Pacific",
+      "Capricorn-Bunker",
+      "Central and Southern Great Barrier Reef",
+      "Sand flats (OTIB05)",
+      152.08,
+      -23.5,
+      1
+    ],
+    [
+      "GBR319",
+      "Australia",
+      "Central Indo-Pacific",
+      "Capricorn-Bunker",
+      "Central and Southern Great Barrier Reef",
+      "The gutter (OTIB06)",
+      152.09,
+      -23.5,
+      1
+    ],
+    [
       "GBR32",
       "Australia",
       "Central Indo-Pacific",
@@ -17984,6 +18050,105 @@
       146.5,
       -17.52,
       4
+    ],
+    [
+      "GBR320",
+      "Australia",
+      "Central Indo-Pacific",
+      "Capricorn-Bunker",
+      "Central and Southern Great Barrier Reef",
+      "Coral tree reef (OTIB07)",
+      152.06,
+      -23.5,
+      1
+    ],
+    [
+      "GBR321",
+      "Australia",
+      "Central Indo-Pacific",
+      "Capricorn-Bunker",
+      "Central and Southern Great Barrier Reef",
+      "Dog reef (OTIB08)",
+      152.06,
+      -23.5,
+      1
+    ],
+    [
+      "GBR322",
+      "Australia",
+      "Central Indo-Pacific",
+      "Capricorn-Bunker",
+      "Central and Southern Great Barrier Reef",
+      "Third lagoon old (OTIB09)",
+      152.05,
+      -23.49,
+      1
+    ],
+    [
+      "GBR323",
+      "Australia",
+      "Central Indo-Pacific",
+      "Capricorn-Bunker",
+      "Central and Southern Great Barrier Reef",
+      "Amphipod reef (OTIB10)",
+      152.07,
+      -23.49,
+      1
+    ],
+    [
+      "GBR324",
+      "Australia",
+      "Central Indo-Pacific",
+      "Capricorn-Bunker",
+      "Central and Southern Great Barrier Reef",
+      "Dave's notch (OTIB11)",
+      152.06,
+      -23.49,
+      1
+    ],
+    [
+      "GBR325",
+      "Australia",
+      "Central Indo-Pacific",
+      "Capricorn-Bunker",
+      "Central and Southern Great Barrier Reef",
+      "Round reef (OTIB12)",
+      152.05,
+      -23.5,
+      1
+    ],
+    [
+      "GBR326",
+      "Australia",
+      "Central Indo-Pacific",
+      "Capricorn-Bunker",
+      "Central and Southern Great Barrier Reef",
+      "Heads reef (OTIB13)",
+      152.05,
+      -23.5,
+      1
+    ],
+    [
+      "GBR327",
+      "Australia",
+      "Central Indo-Pacific",
+      "Capricorn-Bunker",
+      "Central and Southern Great Barrier Reef",
+      "Pestle reef (OTIB14)",
+      152.06,
+      -23.5,
+      1
+    ],
+    [
+      "GBR328",
+      "Australia",
+      "Central Indo-Pacific",
+      "Capricorn-Bunker",
+      "Central and Southern Great Barrier Reef",
+      "Flea reef (OTIB15)",
+      152.07,
+      -23.5,
+      1
     ],
     [
       "GBR33",
@@ -22460,7 +22625,7 @@
       "Inshore Boullanger Island",
       115.04,
       -30.35,
-      5
+      9
     ],
     [
       "JMP-S42",
@@ -26970,7 +27135,7 @@
       "A & D s Dilemma",
       113.94,
       -21.9,
-      1
+      3
     ],
     [
       "NMP16",
@@ -27003,7 +27168,7 @@
       "Rick s Folly",
       113.96,
       -21.92,
-      1
+      3
     ],
     [
       "NMP19",
@@ -27080,7 +27245,7 @@
       "Yalobia Bommie",
       113.76,
       -23.2,
-      13
+      15
     ],
     [
       "NMP25",
@@ -27169,6 +27334,72 @@
       113.76,
       -23.16,
       3
+    ],
+    [
+      "NMP36",
+      "Australia",
+      "Central Indo-Pacific",
+      "Ningaloo Reef - North",
+      "Ningaloo",
+      "Tantabiddi Boulders",
+      113.97,
+      -21.91,
+      2
+    ],
+    [
+      "NMP37",
+      "Australia",
+      "Central Indo-Pacific",
+      "Ningaloo Reef - North",
+      "Ningaloo",
+      "Tantabiddi Sanctuary Mooring",
+      113.97,
+      -21.91,
+      2
+    ],
+    [
+      "NMP38",
+      "Australia",
+      "Central Indo-Pacific",
+      "Ningaloo Reef - North",
+      "Ningaloo",
+      "Tantabiddi Reserve South",
+      113.96,
+      -21.91,
+      2
+    ],
+    [
+      "NMP39",
+      "Australia",
+      "Central Indo-Pacific",
+      "Ningaloo Reef - North",
+      "Ningaloo",
+      "Tantabiddi Outer Sanctuary",
+      113.97,
+      -21.91,
+      2
+    ],
+    [
+      "NMP40",
+      "Australia",
+      "Central Indo-Pacific",
+      "Ningaloo Reef - North",
+      "Ningaloo",
+      "Yardie Creek South",
+      113.78,
+      -22.36,
+      2
+    ],
+    [
+      "NMP41",
+      "Australia",
+      "Central Indo-Pacific",
+      "Ningaloo Reef - North",
+      "Ningaloo",
+      "Yalobia South Reef",
+      113.76,
+      -23.2,
+      2
     ],
     [
       "NMP6",
@@ -43638,6 +43869,17 @@
       2
     ],
     [
+      "TS29",
+      "Australia",
+      "Central Indo-Pacific",
+      "Torres Strait",
+      "Torres Strait Northern Great Barrier Reef",
+      "Half Way Island Boulders",
+      143.32,
+      -10.1,
+      2
+    ],
+    [
       "TS3",
       "Australia",
       "Central Indo-Pacific",
@@ -43647,6 +43889,39 @@
       141.91,
       -10.6,
       6
+    ],
+    [
+      "TS30",
+      "Australia",
+      "Central Indo-Pacific",
+      "Torres Strait",
+      "Torres Strait Northern Great Barrier Reef",
+      "Half Way Island Slope",
+      143.31,
+      -10.1,
+      2
+    ],
+    [
+      "TS31",
+      "Australia",
+      "Central Indo-Pacific",
+      "Torres Strait",
+      "Torres Strait Northern Great Barrier Reef",
+      "3/4 Reef",
+      143.69,
+      -10.07,
+      2
+    ],
+    [
+      "TS32",
+      "Australia",
+      "Central Indo-Pacific",
+      "Torres Strait",
+      "Torres Strait Northern Great Barrier Reef",
+      "Halfway Island 3",
+      143.31,
+      -10.1,
+      2
     ],
     [
       "TS4",
@@ -45835,7 +46110,7 @@
       "Turtle Bay Point2",
       113.74,
       -28.43,
-      2
+      4
     ],
     [
       "WA159",
@@ -45846,7 +46121,7 @@
       "Turtle Bay Point3",
       113.74,
       -28.42,
-      2
+      4
     ],
     [
       "WA16",
@@ -45868,7 +46143,7 @@
       "The Circle",
       113.77,
       -28.46,
-      2
+      4
     ],
     [
       "WA161",
@@ -46044,7 +46319,7 @@
       "Nourman Island",
       113.99,
       -28.86,
-      2
+      4
     ],
     [
       "WA177",
@@ -46190,6 +46465,17 @@
       2
     ],
     [
+      "WA189",
+      "Australia",
+      "Temperate Australasia",
+      "Shark Bay",
+      "Shark Bay",
+      "Cape Cuvier",
+      113.4,
+      -24.22,
+      2
+    ],
+    [
       "WA19",
       "Australia",
       "Temperate Australasia",
@@ -46199,6 +46485,61 @@
       115.08,
       -33.56,
       6
+    ],
+    [
+      "WA190",
+      "Australia",
+      "Temperate Australasia",
+      "Shark Bay",
+      "Shark Bay",
+      "Cleft Rock Inner",
+      113.17,
+      -24.81,
+      2
+    ],
+    [
+      "WA191",
+      "Australia",
+      "Temperate Australasia",
+      "Shark Bay",
+      "Shark Bay",
+      "Bernier Island Rocks",
+      113.41,
+      -24.22,
+      2
+    ],
+    [
+      "WA192",
+      "Australia",
+      "Temperate Australasia",
+      "Shark Bay",
+      "Shark Bay",
+      "Bernier Island Rock Lobster",
+      113.15,
+      -24.93,
+      2
+    ],
+    [
+      "WA193",
+      "Australia",
+      "Temperate Australasia",
+      "Shark Bay",
+      "Shark Bay",
+      "Red Cliffs Point",
+      113.15,
+      -24.93,
+      2
+    ],
+    [
+      "WA194",
+      "Australia",
+      "Temperate Australasia",
+      "Shark Bay",
+      "Shark Bay",
+      "Coral Scrape",
+      113.09,
+      -25.73,
+      2
     ],
     [
       "WA2",
@@ -46638,7 +46979,7 @@
       "Long I Dive trail bommie",
       113.77,
       -28.46,
-      6
+      8
     ],
     [
       "WA56",
@@ -46737,7 +47078,7 @@
       "Broken Down Point",
       113.24,
       -26.09,
-      2
+      4
     ],
     [
       "WA64",

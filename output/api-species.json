@@ -515,6 +515,13 @@
     0,
     []
   ],
+  "Acanthopagrus morrisonae": [
+    "Acanthopagrus morrisonae",
+    "",
+    null,
+    0,
+    []
+  ],
   "Acanthopagrus palmaris": [
     "Acanthopagrus palmaris",
     "Northwest Black Bream",
@@ -1646,6 +1653,13 @@
       "https://images.reeflifesurvey.com/0/species_69_5767608372386.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_fd_57883c4b341e5.w1000.h666.jpg"
     ]
+  ],
+  "Amblyeleotris randalli": [
+    "Amblyeleotris randalli",
+    "",
+    null,
+    2,
+    []
   ],
   "Amblyeleotris rubrimarginata": [
     "Amblyeleotris rubrimarginata",
@@ -6978,6 +6992,13 @@
     "Calcinus sp. (purple legs)",
     "Unidentified hermit crab",
     "https://reeflifesurvey.com/species/calcinus-sp-purple-legs/",
+    1,
+    []
+  ],
+  "Calcinus sp. (scarlet claw)": [
+    "Calcinus sp. (scarlet claw)",
+    "",
+    null,
     1,
     []
   ],
@@ -13584,6 +13605,13 @@
       "https://images.reeflifesurvey.com/0/species_08_5785909d3bfca.w1000.h666.JPG"
     ]
   ],
+  "Conus dorreensis": [
+    "Conus dorreensis",
+    "Conus (Virroconus) dorreensis",
+    "https://reeflifesurvey.com/species/conus-dorreensis/",
+    1,
+    []
+  ],
   "Conus ebraeus": [
     "Conus ebraeus",
     "Hebrew cone",
@@ -18984,6 +19012,13 @@
     2,
     []
   ],
+  "Enneapterygius pallidoserialis": [
+    "Enneapterygius pallidoserialis",
+    "",
+    null,
+    2,
+    []
+  ],
   "Enneapterygius rhabdotus": [
     "Enneapterygius rhabdotus",
     "Umpire triplefin",
@@ -19011,6 +19046,13 @@
       "https://images.reeflifesurvey.com/0/species_98_574eba4a1f251.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_07_574eba57b139a.w1000.h666.jpg"
     ]
+  ],
+  "Enneapterygius sp. [Abrolhos]": [
+    "Enneapterygius sp. [Abrolhos]",
+    "",
+    null,
+    2,
+    []
   ],
   "Enneapterygius sp. [Red Sea]": [
     "Enneapterygius sp. [Red Sea]",
@@ -42169,6 +42211,13 @@
       "https://images.reeflifesurvey.com/0/species_29_5a018f0d31e34.w1000.h666.jpg"
     ]
   ],
+  "Pollia spp.": [
+    "Pollia spp.",
+    "",
+    null,
+    1,
+    []
+  ],
   "Pollia undosa": [
     "Pollia undosa",
     "",
@@ -49426,6 +49475,13 @@
     0,
     []
   ],
+  "Siphopteron spp.": [
+    "Siphopteron spp.",
+    "",
+    null,
+    1,
+    []
+  ],
   "Smilasterias irregularis": [
     "Smilasterias irregularis",
     "Irregular seastar",
@@ -50811,6 +50867,13 @@
     "",
     null,
     2,
+    []
+  ],
+  "Stiliger aureomarginatus": [
+    "Stiliger aureomarginatus",
+    "",
+    null,
+    1,
     []
   ],
   "Stiliger smaragdinus": [
@@ -52825,6 +52888,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_a4_57959596db4ee.w1000.h666.JPG"
     ]
+  ],
+  "Thelenota rubralineata": [
+    "Thelenota rubralineata",
+    "",
+    null,
+    1,
+    []
   ],
   "Thelenota rubrolineata": [
     "Thelenota rubrolineata",
