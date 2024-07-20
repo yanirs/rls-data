@@ -517,8 +517,8 @@
   ],
   "Acanthopagrus morrisonae": [
     "Acanthopagrus morrisonae",
-    "",
-    null,
+    "Western yellowfin seabream",
+    "https://reeflifesurvey.com/species/acanthopagrus-morrisonae/",
     0,
     []
   ],
@@ -1656,8 +1656,8 @@
   ],
   "Amblyeleotris randalli": [
     "Amblyeleotris randalli",
-    "",
-    null,
+    "Randalls prawn goby",
+    "https://reeflifesurvey.com/species/amblyeleotris-randalli/",
     2,
     []
   ],
@@ -6997,8 +6997,8 @@
   ],
   "Calcinus sp. (scarlet claw)": [
     "Calcinus sp. (scarlet claw)",
-    "",
-    null,
+    "Crab",
+    "https://reeflifesurvey.com/species/calcinus-sp-scarlet-claw/",
     1,
     []
   ],
@@ -12474,6 +12474,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_a9_57897686c7834.w1000.h666.JPG"
     ]
+  ],
+  "Cladolabes schmeltzii": [
+    "Cladolabes schmeltzii",
+    "",
+    null,
+    1,
+    []
   ],
   "Cladolabes spp.": [
     "Cladolabes spp.",
@@ -19015,7 +19022,7 @@
   "Enneapterygius pallidoserialis": [
     "Enneapterygius pallidoserialis",
     "",
-    null,
+    "https://reeflifesurvey.com/species/enneapterygius-pallidoserialis/",
     2,
     []
   ],
@@ -19050,7 +19057,7 @@
   "Enneapterygius sp. [Abrolhos]": [
     "Enneapterygius sp. [Abrolhos]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/enneapterygius-sp-abrolhos/",
     2,
     []
   ],
@@ -20172,6 +20179,13 @@
     "Eviota cf. teresae",
     "Whitelined Eviota",
     "https://reeflifesurvey.com/species/eviota-cf-teresae/",
+    2,
+    []
+  ],
+  "Eviota cometa": [
+    "Eviota cometa",
+    "",
+    null,
     2,
     []
   ],
@@ -22149,6 +22163,13 @@
     "Glyptoparus sp. [Browse]",
     "",
     "https://reeflifesurvey.com/species/glyptoparus-sp-browse/",
+    2,
+    []
+  ],
+  "Glyptoparus spp.": [
+    "Glyptoparus spp.",
+    "",
+    null,
     2,
     []
   ],
@@ -34518,6 +34539,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_d0_57059c432d662.w1000.h666.jpg"
     ]
+  ],
+  "Neotrygon picta": [
+    "Neotrygon picta",
+    "",
+    null,
+    2,
+    []
   ],
   "Neotrygon trigonoides": [
     "Neotrygon trigonoides",
@@ -47739,6 +47767,13 @@
       "https://images.reeflifesurvey.com/0/species_36_57b024f8e5655.w1000.h666.jpg"
     ]
   ],
+  "Scomberoides spp.": [
+    "Scomberoides spp.",
+    "",
+    null,
+    0,
+    []
+  ],
   "Scomberoides tol": [
     "Scomberoides tol",
     "Needleskin queenfish",
@@ -50871,8 +50906,8 @@
   ],
   "Stiliger aureomarginatus": [
     "Stiliger aureomarginatus",
-    "",
-    null,
+    "Nudibranch",
+    "https://reeflifesurvey.com/species/stiliger-aureomarginatus/",
     1,
     []
   ],
@@ -52891,8 +52926,8 @@
   ],
   "Thelenota rubralineata": [
     "Thelenota rubralineata",
-    "",
-    null,
+    "Candy cane sea cucumber",
+    "https://reeflifesurvey.com/species/thelenota-rubralineata/",
     1,
     []
   ],
