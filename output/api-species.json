@@ -3348,19 +3348,6 @@
     2,
     []
   ],
-  "Apogon limenus": [
-    "Apogon limenus",
-    "Sydney cardinalfish, Four-lined Soldierfish",
-    "https://reeflifesurvey.com/species/apogon-limenus/",
-    2,
-    [
-      "https://images.reeflifesurvey.com/0/species_20_574d62e338dcc.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_bf_57688b05a0ecd.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/0/species_e3_574d61e7591df.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_a3_574d61e3097e1.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_76_57d9dc103c5ad.w1000.h666.JPG"
-    ]
-  ],
   "Apogon maculatus": [
     "Apogon maculatus",
     "Flamefish",
@@ -14644,7 +14631,9 @@
     "Black-breasted pipefish",
     "https://reeflifesurvey.com/species/corythoichthys-nigripectus/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_71_669dd8db4d6c9.w1000.h666.jpg"
+    ]
   ],
   "Corythoichthys ocellatus": [
     "Corythoichthys ocellatus",
@@ -14995,6 +14984,13 @@
     "",
     null,
     2,
+    []
+  ],
+  "Cronia amygdala": [
+    "Cronia amygdala",
+    "",
+    null,
+    1,
     []
   ],
   "Cronia aurantiaca": [
@@ -25317,6 +25313,13 @@
       "https://images.reeflifesurvey.com/0/species_ee_578ed72fa695c.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_97_578ed735821c1.w1000.h666.jpg"
     ]
+  ],
+  "Helotes sexlineatus": [
+    "Helotes sexlineatus",
+    "",
+    null,
+    0,
+    []
   ],
   "Hemiemblemaria simulus": [
     "Hemiemblemaria simulus",
@@ -36407,6 +36410,13 @@
       "https://images.reeflifesurvey.com/1/species_97_5c84ad8045fc8.w1000.h666.jpg"
     ]
   ],
+  "Ostorhinchus limenus": [
+    "Ostorhinchus limenus",
+    "",
+    null,
+    2,
+    []
+  ],
   "Ostorhinchus lineomaculatus": [
     "Ostorhinchus lineomaculatus",
     "",
@@ -47474,6 +47484,13 @@
       "https://images.reeflifesurvey.com/0/species_60_579ffe12790bc.w1000.h666.JPG"
     ]
   ],
+  "Scatophagus argus": [
+    "Scatophagus argus",
+    "",
+    null,
+    0,
+    []
+  ],
   "Schizophrys aspera": [
     "Schizophrys aspera",
     "Red spider crab",
@@ -48798,6 +48815,13 @@
     "Atkins fan scallop",
     "https://reeflifesurvey.com/species/semipallium-aktinos/",
     1,
+    []
+  ],
+  "Sepia grahami": [
+    "Sepia grahami",
+    "",
+    null,
+    2,
     []
   ],
   "Sepia officinalis": [

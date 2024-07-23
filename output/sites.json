@@ -17653,7 +17653,7 @@
       "Pelorus and Orpheus Islands West1",
       146.48,
       -18.57,
-      2
+      4
     ],
     [
       "GBR280",
@@ -18250,6 +18250,17 @@
       1
     ],
     [
+      "GBR329",
+      "Australia",
+      "Central Indo-Pacific",
+      "QLD inshore - Central",
+      "Central and Southern Great Barrier Reef",
+      "Snapper Bay Reef",
+      146.51,
+      -18.66,
+      2
+    ],
+    [
       "GBR33",
       "Australia",
       "Central Indo-Pacific",
@@ -18259,6 +18270,39 @@
       145.98,
       -16.93,
       6
+    ],
+    [
+      "GBR330",
+      "Australia",
+      "Central Indo-Pacific",
+      "GBR - Central",
+      "Central and Southern Great Barrier Reef",
+      "Harriet Bay",
+      146.49,
+      -18.66,
+      1
+    ],
+    [
+      "GBR331",
+      "Australia",
+      "Central Indo-Pacific",
+      "GBR - Central",
+      "Central and Southern Great Barrier Reef",
+      "South Pioneer Bay",
+      146.48,
+      -18.61,
+      1
+    ],
+    [
+      "GBR332",
+      "Australia",
+      "Central Indo-Pacific",
+      "GBR - Central",
+      "Central and Southern Great Barrier Reef",
+      "North East Point",
+      146.5,
+      -18.59,
+      2
     ],
     [
       "GBR34",
@@ -21921,7 +21965,7 @@
       "Captains Pt",
       150.71,
       -35.12,
-      84
+      86
     ],
     [
       "JBMP-S10",
@@ -21976,7 +22020,7 @@
       "GREEN POINT (GREEN ISLAND)",
       150.76,
       -35.02,
-      60
+      61
     ],
     [
       "JBMP-S15",
@@ -22020,7 +22064,7 @@
       "Bristol Pt",
       150.73,
       -35.13,
-      102
+      103
     ],
     [
       "JBMP-S19",
@@ -22075,7 +22119,7 @@
       "Drum and Drumstick",
       150.84,
       -35.05,
-      52
+      54
     ],
     [
       "JBMP-S23",
@@ -22119,7 +22163,7 @@
       "Outer Tubes",
       150.8,
       -35.09,
-      119
+      120
     ],
     [
       "JBMP-S27",
@@ -22163,7 +22207,7 @@
       "Honeymoon Bay 1km Sth",
       150.77,
       -35.07,
-      69
+      70
     ],
     [
       "JBMP-S6",
@@ -22196,7 +22240,7 @@
       "Plantation Point North",
       150.7,
       -35.07,
-      66
+      67
     ],
     [
       "JBMP-S9",
@@ -22240,7 +22284,7 @@
       "Tubes JB",
       150.8,
       -35.08,
-      1
+      2
     ],
     [
       "JBMP14",
@@ -22372,7 +22416,7 @@
       "Drum & Drum Sticks",
       150.84,
       -35.05,
-      15
+      16
     ],
     [
       "JBMP33",
@@ -34934,7 +34978,7 @@
       "NE North Rock",
       152.32,
       -32.6,
-      19
+      23
     ],
     [
       "PS10",
@@ -34945,7 +34989,7 @@
       "Fingal Bay Point - West",
       152.17,
       -32.75,
-      10
+      11
     ],
     [
       "PS11",
@@ -34978,7 +35022,7 @@
       "Pipeline",
       152.14,
       -32.72,
-      76
+      79
     ],
     [
       "PS15",
@@ -35011,7 +35055,7 @@
       "Fly Point Nelson Bay",
       152.15,
       -32.71,
-      111
+      114
     ],
     [
       "PS18",
@@ -35044,7 +35088,7 @@
       "Halifax Park",
       152.16,
       -32.71,
-      128
+      130
     ],
     [
       "PS21",
@@ -35110,7 +35154,7 @@
       "Fishermans bay west",
       152.09,
       -32.79,
-      7
+      9
     ],
     [
       "PS27",
@@ -35154,7 +35198,7 @@
       "Cabbage Tree Island West",
       152.22,
       -32.69,
-      37
+      40
     ],
     [
       "PS30",
@@ -35242,7 +35286,7 @@
       "Governers Wharf (Fingal Island)",
       152.19,
       -32.74,
-      46
+      49
     ],
     [
       "PS40",
@@ -35374,7 +35418,7 @@
       "Elephant Rock",
       152.33,
       -32.62,
-      15
+      19
     ],
     [
       "PS7",
@@ -35385,7 +35429,7 @@
       "Little Beach West",
       152.16,
       -32.71,
-      88
+      90
     ],
     [
       "PS8",
