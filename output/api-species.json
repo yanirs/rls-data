@@ -515,6 +515,13 @@
     0,
     []
   ],
+  "Acanthopagrus morrisonae": [
+    "Acanthopagrus morrisonae",
+    "Western yellowfin seabream",
+    "https://reeflifesurvey.com/species/acanthopagrus-morrisonae/",
+    0,
+    []
+  ],
   "Acanthopagrus palmaris": [
     "Acanthopagrus palmaris",
     "Northwest Black Bream",
@@ -537,6 +544,13 @@
     [
       "https://images.reeflifesurvey.com/1/species_ba_633e304e34c8d.w1000.h666.jpg"
     ]
+  ],
+  "Acanthostracion polygonium": [
+    "Acanthostracion polygonium",
+    "Honeycomb cowfish",
+    "https://reeflifesurvey.com/species/acanthostracion-polygonium/",
+    0,
+    []
   ],
   "Acanthostracion polygonius": [
     "Acanthostracion polygonius",
@@ -1640,6 +1654,13 @@
       "https://images.reeflifesurvey.com/0/species_fd_57883c4b341e5.w1000.h666.jpg"
     ]
   ],
+  "Amblyeleotris randalli": [
+    "Amblyeleotris randalli",
+    "Randalls prawn goby",
+    "https://reeflifesurvey.com/species/amblyeleotris-randalli/",
+    2,
+    []
+  ],
   "Amblyeleotris rubrimarginata": [
     "Amblyeleotris rubrimarginata",
     "Redmargin shrimpgoby",
@@ -1945,6 +1966,13 @@
     "",
     null,
     1,
+    []
+  ],
+  "Amblyraja radiata": [
+    "Amblyraja radiata",
+    "Thorny skate",
+    "https://reeflifesurvey.com/species/amblyraja-radiata/",
+    2,
     []
   ],
   "Amblyrhynchotes honckenii": [
@@ -3319,19 +3347,6 @@
     "https://reeflifesurvey.com/species/apogon-lachneri/",
     2,
     []
-  ],
-  "Apogon limenus": [
-    "Apogon limenus",
-    "Sydney cardinalfish, Four-lined Soldierfish",
-    "https://reeflifesurvey.com/species/apogon-limenus/",
-    2,
-    [
-      "https://images.reeflifesurvey.com/0/species_20_574d62e338dcc.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_bf_57688b05a0ecd.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/0/species_e3_574d61e7591df.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_a3_574d61e3097e1.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_76_57d9dc103c5ad.w1000.h666.JPG"
-    ]
   ],
   "Apogon maculatus": [
     "Apogon maculatus",
@@ -6967,6 +6982,13 @@
     1,
     []
   ],
+  "Calcinus sp. (scarlet claw)": [
+    "Calcinus sp. (scarlet claw)",
+    "Crab",
+    "https://reeflifesurvey.com/species/calcinus-sp-scarlet-claw/",
+    1,
+    []
+  ],
   "Calcinus sp. [Lesueur]": [
     "Calcinus sp. [Lesueur]",
     "",
@@ -8221,6 +8243,13 @@
       "https://images.reeflifesurvey.com/1/species_84_6493b6481eabc.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/1/species_27_6493b646eae45.w1000.h666.jpg"
     ]
+  ],
+  "Carpilius corallinus": [
+    "Carpilius corallinus",
+    "Batwing coral crab",
+    "https://reeflifesurvey.com/species/carpilius-corallinus/",
+    1,
+    []
   ],
   "Carpilius maculatus": [
     "Carpilius maculatus",
@@ -12433,6 +12462,13 @@
       "https://images.reeflifesurvey.com/0/species_a9_57897686c7834.w1000.h666.JPG"
     ]
   ],
+  "Cladolabes schmeltzii": [
+    "Cladolabes schmeltzii",
+    "Sea cucumber",
+    "https://reeflifesurvey.com/species/cladolabes-schmeltzii/",
+    1,
+    []
+  ],
   "Cladolabes spp.": [
     "Cladolabes spp.",
     "",
@@ -12668,6 +12704,13 @@
       "https://images.reeflifesurvey.com/0/species_33_57885dad640e2.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_cc_57885da450401.w1000.h666.JPG"
     ]
+  ],
+  "Clupea harengus": [
+    "Clupea harengus",
+    "Atlantic herring",
+    "https://reeflifesurvey.com/species/clupea-harengus/",
+    0,
+    []
   ],
   "Clupea pallasii": [
     "Clupea pallasii",
@@ -13539,6 +13582,13 @@
       "https://images.reeflifesurvey.com/0/species_b4_577c5111acab3.w1000.h666.JPG"
     ]
   ],
+  "Conus daucus": [
+    "Conus daucus",
+    "Carrot cone shell",
+    "https://reeflifesurvey.com/species/conus-daucus/",
+    1,
+    []
+  ],
   "Conus distans": [
     "Conus distans",
     "Distantly-lineated cone",
@@ -13548,6 +13598,13 @@
       "https://images.reeflifesurvey.com/0/species_f0_578590a3385ba.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_08_5785909d3bfca.w1000.h666.JPG"
     ]
+  ],
+  "Conus dorreensis": [
+    "Conus dorreensis",
+    "Conus (Virroconus) dorreensis",
+    "https://reeflifesurvey.com/species/conus-dorreensis/",
+    1,
+    []
   ],
   "Conus ebraeus": [
     "Conus ebraeus",
@@ -14336,6 +14393,13 @@
     0,
     []
   ],
+  "Coryphella trilineata": [
+    "Coryphella trilineata",
+    "Three-lined aeolid",
+    "https://reeflifesurvey.com/species/coryphella-trilineata/",
+    1,
+    []
+  ],
   "Coryphella trophina": [
     "Coryphella trophina",
     "Flabellina trophina, Himatina trophina",
@@ -14567,7 +14631,9 @@
     "Black-breasted pipefish",
     "https://reeflifesurvey.com/species/corythoichthys-nigripectus/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_71_669dd8db4d6c9.w1000.h666.jpg"
+    ]
   ],
   "Corythoichthys ocellatus": [
     "Corythoichthys ocellatus",
@@ -14918,6 +14984,13 @@
     "",
     null,
     2,
+    []
+  ],
+  "Cronia amygdala": [
+    "Cronia amygdala",
+    "",
+    null,
+    1,
     []
   ],
   "Cronia aurantiaca": [
@@ -18324,6 +18397,20 @@
       "https://images.reeflifesurvey.com/0/species_db_57845d84574bb.w1000.h666.JPG"
     ]
   ],
+  "Elacatinus cayman": [
+    "Elacatinus cayman",
+    "Cayman cleaner goby",
+    "https://reeflifesurvey.com/species/elacatinus-cayman/",
+    2,
+    []
+  ],
+  "Elacatinus centralis": [
+    "Elacatinus centralis",
+    "Cayman sponge goby",
+    "https://reeflifesurvey.com/species/elacatinus-centralis/",
+    2,
+    []
+  ],
   "Elacatinus dilepis": [
     "Elacatinus dilepis",
     "Orange-sided goby",
@@ -18396,6 +18483,13 @@
       "https://images.reeflifesurvey.com/0/species_15_582952b3c1701.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_24_582952b77ab2c.w1000.h666.jpg"
     ]
+  ],
+  "Elacatinus louisae": [
+    "Elacatinus louisae",
+    "Spotlight goby",
+    "https://reeflifesurvey.com/species/elacatinus-louisae/",
+    2,
+    []
   ],
   "Elacatinus oceanops": [
     "Elacatinus oceanops",
@@ -18673,6 +18767,13 @@
     2,
     []
   ],
+  "Emblemariopsis bahamensis": [
+    "Emblemariopsis bahamensis",
+    "Blackhead blenny",
+    "https://reeflifesurvey.com/species/emblemariopsis-bahamensis/",
+    2,
+    []
+  ],
   "Emblemariopsis signifer": [
     "Emblemariopsis signifer",
     "Flagfin blenny",
@@ -18914,6 +19015,13 @@
     2,
     []
   ],
+  "Enneapterygius pallidoserialis": [
+    "Enneapterygius pallidoserialis",
+    "",
+    "https://reeflifesurvey.com/species/enneapterygius-pallidoserialis/",
+    2,
+    []
+  ],
   "Enneapterygius rhabdotus": [
     "Enneapterygius rhabdotus",
     "Umpire triplefin",
@@ -18941,6 +19049,13 @@
       "https://images.reeflifesurvey.com/0/species_98_574eba4a1f251.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_07_574eba57b139a.w1000.h666.jpg"
     ]
+  ],
+  "Enneapterygius sp. [Abrolhos]": [
+    "Enneapterygius sp. [Abrolhos]",
+    "",
+    "https://reeflifesurvey.com/species/enneapterygius-sp-abrolhos/",
+    2,
+    []
   ],
   "Enneapterygius sp. [Red Sea]": [
     "Enneapterygius sp. [Red Sea]",
@@ -20060,6 +20175,13 @@
     "Eviota cf. teresae",
     "Whitelined Eviota",
     "https://reeflifesurvey.com/species/eviota-cf-teresae/",
+    2,
+    []
+  ],
+  "Eviota cometa": [
+    "Eviota cometa",
+    "Comet goby",
+    "https://reeflifesurvey.com/species/eviota-cometa/",
     2,
     []
   ],
@@ -22040,6 +22162,13 @@
     2,
     []
   ],
+  "Glyptoparus spp.": [
+    "Glyptoparus spp.",
+    "",
+    null,
+    2,
+    []
+  ],
   "Gnathanacanthus goetzeei": [
     "Gnathanacanthus goetzeei",
     "Red velvetfish, Gnathanacanthus goetzii",
@@ -22156,6 +22285,13 @@
     "Gobiidae spp.",
     "",
     null,
+    2,
+    []
+  ],
+  "Gobioclinus bucciferus": [
+    "Gobioclinus bucciferus",
+    "Puffcheek blenny",
+    "https://reeflifesurvey.com/species/gobioclinus-bucciferus/",
     2,
     []
   ],
@@ -22851,7 +22987,7 @@
     "https://reeflifesurvey.com/species/goniocidaris-tubaria/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_82_5789725f8511c.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/1/species_f9_6695c86619072.w1000.h666.jpg"
     ]
   ],
   "Goniodiscaster acanthodes": [
@@ -25178,6 +25314,13 @@
       "https://images.reeflifesurvey.com/0/species_97_578ed735821c1.w1000.h666.jpg"
     ]
   ],
+  "Helotes sexlineatus": [
+    "Helotes sexlineatus",
+    "",
+    null,
+    0,
+    []
+  ],
   "Hemiemblemaria simulus": [
     "Hemiemblemaria simulus",
     "",
@@ -26965,6 +27108,13 @@
     "",
     "https://reeflifesurvey.com/species/hydrophis-ornatus-ocellatus/",
     0,
+    []
+  ],
+  "Hypanus americanus": [
+    "Hypanus americanus",
+    "Southern stingray",
+    "https://reeflifesurvey.com/species/hypanus-americanus/",
+    2,
     []
   ],
   "Hyperlophus vittatus": [
@@ -29026,6 +29176,13 @@
       "https://images.reeflifesurvey.com/0/species_d8_5981e3ac498cd.w1000.h666.jpg"
     ]
   ],
+  "Leptosynapta albicans": [
+    "Leptosynapta albicans",
+    "Translucent sea cucumber",
+    "https://reeflifesurvey.com/species/leptosynapta-albicans/",
+    1,
+    []
+  ],
   "Lesueurigobius friesii": [
     "Lesueurigobius friesii",
     "Friess goby",
@@ -29656,6 +29813,13 @@
       "https://images.reeflifesurvey.com/0/species_d9_599a39864267b.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_c0_599a398ad2364.w1000.h666.JPG"
     ]
+  ],
+  "Lontra canadensis": [
+    "Lontra canadensis",
+    "River otter",
+    "https://reeflifesurvey.com/species/lontra-canadensis/",
+    0,
+    []
   ],
   "Lopholithodes mandtii": [
     "Lopholithodes mandtii",
@@ -30395,6 +30559,13 @@
     "Lysmata spp.",
     "",
     null,
+    1,
+    []
+  ],
+  "Lysmata wurdemanni": [
+    "Lysmata wurdemanni",
+    "Peppermint shrimp",
+    "https://reeflifesurvey.com/species/lysmata-wurdemanni/",
     1,
     []
   ],
@@ -33189,6 +33360,13 @@
       "https://images.reeflifesurvey.com/0/species_d1_5774f9ef201ca.w1000.h666.jpg"
     ]
   ],
+  "Nardoa gomophia": [
+    "Nardoa gomophia",
+    "Nippled seastar",
+    "https://reeflifesurvey.com/species/nardoa-gomophia/",
+    1,
+    []
+  ],
   "Nardoa novaecaledoniae": [
     "Nardoa novaecaledoniae",
     "New Caledonian star",
@@ -34365,6 +34543,13 @@
       "https://images.reeflifesurvey.com/0/species_d0_57059c432d662.w1000.h666.jpg"
     ]
   ],
+  "Neotrygon picta": [
+    "Neotrygon picta",
+    "Peppered maskray",
+    "https://reeflifesurvey.com/species/neotrygon-picta/",
+    2,
+    []
+  ],
   "Neotrygon trigonoides": [
     "Neotrygon trigonoides",
     "New Caledonian maskray",
@@ -35455,6 +35640,13 @@
     1,
     []
   ],
+  "Omalacantha spp.": [
+    "Omalacantha spp.",
+    "",
+    null,
+    1,
+    []
+  ],
   "Omegophora armilla": [
     "Omegophora armilla",
     "Ringed toadfish",
@@ -36218,6 +36410,13 @@
       "https://images.reeflifesurvey.com/1/species_97_5c84ad8045fc8.w1000.h666.jpg"
     ]
   ],
+  "Ostorhinchus limenus": [
+    "Ostorhinchus limenus",
+    "",
+    null,
+    2,
+    []
+  ],
   "Ostorhinchus lineomaculatus": [
     "Ostorhinchus lineomaculatus",
     "",
@@ -36928,6 +37127,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_1e_582c4c6c28653.w1000.h666.jpg"
     ]
+  ],
+  "Paguristes erythrops": [
+    "Paguristes erythrops",
+    "Red-banded hermit crab",
+    "https://reeflifesurvey.com/species/paguristes-erythrops/",
+    1,
+    []
   ],
   "Paguristes frontalis": [
     "Paguristes frontalis",
@@ -39257,6 +39463,13 @@
       "https://images.reeflifesurvey.com/0/species_2a_57c7d64b8885b.w1000.h666.JPG"
     ]
   ],
+  "Pelia mutica": [
+    "Pelia mutica",
+    "Cryptic teardrop crab",
+    "https://reeflifesurvey.com/species/pelia-mutica/",
+    1,
+    []
+  ],
   "Pellasimnia brunneiterma": [
     "Pellasimnia brunneiterma",
     "A cowrie shell",
@@ -40345,7 +40558,6 @@
     "https://reeflifesurvey.com/species/phyllacanthus-imperialis/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_8f_57501f759b30e.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_ae_5791dba68fdcc.w1000.h666.jpg"
     ]
   ],
@@ -42036,6 +42248,13 @@
       "https://images.reeflifesurvey.com/0/species_36_57381a2fef930.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_29_5a018f0d31e34.w1000.h666.jpg"
     ]
+  ],
+  "Pollia spp.": [
+    "Pollia spp.",
+    "",
+    null,
+    1,
+    []
   ],
   "Pollia undosa": [
     "Pollia undosa",
@@ -46057,6 +46276,13 @@
       "https://images.reeflifesurvey.com/0/species_df_578c3b6907b7a.w1000.h666.JPG"
     ]
   ],
+  "Risor ruber": [
+    "Risor ruber",
+    "Tusked goby",
+    "https://reeflifesurvey.com/species/risor-ruber/",
+    2,
+    []
+  ],
   "Roboastra gracilis": [
     "Roboastra gracilis",
     "Slender roboastra",
@@ -47258,6 +47484,13 @@
       "https://images.reeflifesurvey.com/0/species_60_579ffe12790bc.w1000.h666.JPG"
     ]
   ],
+  "Scatophagus argus": [
+    "Scatophagus argus",
+    "",
+    null,
+    0,
+    []
+  ],
   "Schizophrys aspera": [
     "Schizophrys aspera",
     "Red spider crab",
@@ -47550,6 +47783,13 @@
       "https://images.reeflifesurvey.com/0/species_2b_5a1cac29b425e.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_36_57b024f8e5655.w1000.h666.jpg"
     ]
+  ],
+  "Scomberoides spp.": [
+    "Scomberoides spp.",
+    "",
+    null,
+    0,
+    []
   ],
   "Scomberoides tol": [
     "Scomberoides tol",
@@ -48577,6 +48817,13 @@
     1,
     []
   ],
+  "Sepia grahami": [
+    "Sepia grahami",
+    "",
+    null,
+    2,
+    []
+  ],
   "Sepia officinalis": [
     "Sepia officinalis",
     "Common cuttlefish",
@@ -49285,6 +49532,13 @@
     "Long-tail weed-whiting",
     "https://reeflifesurvey.com/species/siphonognathus-tanyourus/",
     0,
+    []
+  ],
+  "Siphopteron spp.": [
+    "Siphopteron spp.",
+    "",
+    null,
+    1,
     []
   ],
   "Smilasterias irregularis": [
@@ -50672,6 +50926,13 @@
     "",
     null,
     2,
+    []
+  ],
+  "Stiliger aureomarginatus": [
+    "Stiliger aureomarginatus",
+    "Nudibranch",
+    "https://reeflifesurvey.com/species/stiliger-aureomarginatus/",
+    1,
     []
   ],
   "Stiliger smaragdinus": [
@@ -52687,6 +52948,13 @@
       "https://images.reeflifesurvey.com/0/species_a4_57959596db4ee.w1000.h666.JPG"
     ]
   ],
+  "Thelenota rubralineata": [
+    "Thelenota rubralineata",
+    "Candy cane sea cucumber",
+    "https://reeflifesurvey.com/species/thelenota-rubralineata/",
+    1,
+    []
+  ],
   "Thelenota rubrolineata": [
     "Thelenota rubrolineata",
     "",
@@ -52704,6 +52972,13 @@
       "https://images.reeflifesurvey.com/1/species_40_663dbb3cd600b.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_06_663dbd31c171b.w1000.h666.JPG"
     ]
+  ],
+  "Thor spp.": [
+    "Thor spp.",
+    "",
+    null,
+    1,
+    []
   ],
   "Thorogobius ephippiatus": [
     "Thorogobius ephippiatus",
@@ -53025,6 +53300,13 @@
     "Tigrigobius dilepis",
     "",
     "https://reeflifesurvey.com/species/tigrigobius-dilepis/",
+    2,
+    []
+  ],
+  "Tigrigobius macrodon": [
+    "Tigrigobius macrodon",
+    "Tiger goby",
+    "https://reeflifesurvey.com/species/tigrigobius-macrodon/",
     2,
     []
   ],
@@ -53624,7 +53906,19 @@
     "",
     "https://reeflifesurvey.com/species/tridacna-sp-cf-noae/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_9e_6695d1ce1e07f.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_2a_6695d1c806807.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_e1_6695d1c34e288.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_27_6695d1c576e03.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_d7_6695d1cf17d6a.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_79_6695d1d8288f6.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_e1_6695d1d63688e.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_12_6695d1d3cce22.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_8f_6695d1d141062.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_5d_6695d1ca4120f.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_bc_6695d1d9a2874.w1000.h666.jpg"
+    ]
   ],
   "Tridacna spp.": [
     "Tridacna spp.",
@@ -53814,6 +54108,13 @@
     [
       "https://images.reeflifesurvey.com/1/species_61_64943be93a992.w1000.h666.jpg"
     ]
+  ],
+  "Trimma sp. [marinae]": [
+    "Trimma sp. [marinae]",
+    "",
+    "https://reeflifesurvey.com/species/trimma-sp-marinae/",
+    2,
+    []
   ],
   "Trimma sp. [red head]": [
     "Trimma sp. [red head]",
