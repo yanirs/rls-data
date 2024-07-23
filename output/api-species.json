@@ -36412,10 +36412,16 @@
   ],
   "Ostorhinchus limenus": [
     "Ostorhinchus limenus",
-    "",
-    null,
+    "Sydneys Cardinalfish, Four-lined Soldierfish, Apogon limenus",
+    "https://reeflifesurvey.com/species/ostorhinchus-limenus/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_20_574d62e338dcc.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_bf_57688b05a0ecd.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/0/species_e3_574d61e7591df.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_a3_574d61e3097e1.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_76_57d9dc103c5ad.w1000.h666.JPG"
+    ]
   ],
   "Ostorhinchus lineomaculatus": [
     "Ostorhinchus lineomaculatus",
@@ -53891,7 +53897,9 @@
     1,
     [
       "https://images.reeflifesurvey.com/0/species_e0_5795c2ddd0848.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_35_5795c2d6b43a0.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_35_5795c2d6b43a0.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_b2_669f181ea2108.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_13_669f1b2c46908.w1000.h666.jpg"
     ]
   ],
   "Tridacna noae": [
@@ -53899,7 +53907,9 @@
     "Teardrop clam",
     "https://reeflifesurvey.com/species/tridacna-noae/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_b8_669f1378ee293.w1000.h666.jpg"
+    ]
   ],
   "Tridacna sp. [cf noae]": [
     "Tridacna sp. [cf noae]",
