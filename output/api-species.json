@@ -478,6 +478,13 @@
     1,
     []
   ],
+  "Acantholithodes hispidus": [
+    "Acantholithodes hispidus",
+    "",
+    null,
+    1,
+    []
+  ],
   "Acanthopagrus australis": [
     "Acanthopagrus australis",
     "Yellow fin bream, Australian Sea Bream, Black Bream, Bream, Common Bream, Eastern Black Bream, Sea Bream, Silver Bream, Surf Bream",
@@ -4823,6 +4830,13 @@
       "https://images.reeflifesurvey.com/0/species_2d_59db419311d1d.w1000.h666.jpg"
     ]
   ],
+  "Atherinosoma microstoma": [
+    "Atherinosoma microstoma",
+    "",
+    null,
+    0,
+    []
+  ],
   "Athyonidium chilensis": [
     "Athyonidium chilensis",
     "",
@@ -6612,6 +6626,13 @@
     1,
     []
   ],
+  "Cadlina spp.": [
+    "Cadlina spp.",
+    "",
+    null,
+    1,
+    []
+  ],
   "Cadlina sylviaearleae": [
     "Cadlina sylviaearleae",
     "Dorid nudibranch",
@@ -6851,6 +6872,13 @@
   ],
   "Calappidae spp.": [
     "Calappidae spp.",
+    "",
+    null,
+    1,
+    []
+  ],
+  "Calcinus dapsiles": [
+    "Calcinus dapsiles",
     "",
     null,
     1,
@@ -8265,6 +8293,13 @@
     "",
     null,
     1,
+    []
+  ],
+  "Carybdea xaymacana": [
+    "Carybdea xaymacana",
+    "",
+    null,
+    2,
     []
   ],
   "Casmaria ponderosa": [
@@ -10700,6 +10735,20 @@
     "Chlamys rubida",
     "Reddish scallop",
     "https://reeflifesurvey.com/species/chlamys-rubida/",
+    1,
+    []
+  ],
+  "Chlamys sp. (hastata)": [
+    "Chlamys sp. (hastata)",
+    "",
+    null,
+    1,
+    []
+  ],
+  "Chlamys spp.": [
+    "Chlamys spp.",
+    "",
+    null,
     1,
     []
   ],
@@ -21591,6 +21640,13 @@
       "https://images.reeflifesurvey.com/1/species_3b_64eed0dea2f77.w1000.h666.jpg"
     ]
   ],
+  "Gadus macrocephalus": [
+    "Gadus macrocephalus",
+    "",
+    null,
+    0,
+    []
+  ],
   "Gadus morhua": [
     "Gadus morhua",
     "Atlantic cod",
@@ -32222,6 +32278,13 @@
       "https://images.reeflifesurvey.com/0/species_dc_57e0c6d083d4a.w1000.h666.jpg"
     ]
   ],
+  "Mitra chalybeia": [
+    "Mitra chalybeia",
+    "[a mitre shell]",
+    "https://reeflifesurvey.com/species/mitra-chalybeia/",
+    1,
+    []
+  ],
   "Mitra contracta": [
     "Mitra contracta",
     "",
@@ -40432,6 +40495,13 @@
       "https://images.reeflifesurvey.com/1/species_be_636b1fe01f711.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_d5_636b1fb2b1410.w1000.h666.jpg"
     ]
+  ],
+  "Pholidae spp.": [
+    "Pholidae spp.",
+    "",
+    null,
+    2,
+    []
   ],
   "Pholidapus dybowskii": [
     "Pholidapus dybowskii",
@@ -51661,6 +51731,13 @@
       "https://images.reeflifesurvey.com/1/species_57_5dd08959eee5e.w1000.h666.jpg"
     ]
   ],
+  "Syngnathus californiensis": [
+    "Syngnathus californiensis",
+    "",
+    null,
+    2,
+    []
+  ],
   "Synodontidae spp.": [
     "Synodontidae spp.",
     "",
@@ -52360,6 +52437,13 @@
     "Telmessus acutidens",
     "Helmet crab",
     "https://reeflifesurvey.com/species/telmessus-acutidens/",
+    1,
+    []
+  ],
+  "Telmessus cheiragonus": [
+    "Telmessus cheiragonus",
+    "",
+    null,
     1,
     []
   ],
@@ -55290,6 +55374,13 @@
     "Unidentified whelk",
     "",
     null,
+    1,
+    []
+  ],
+  "Uniophora dyscrita": [
+    "Uniophora dyscrita",
+    "Western granular seastar",
+    "https://reeflifesurvey.com/species/uniophora-dyscrita/",
     1,
     []
   ],

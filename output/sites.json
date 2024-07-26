@@ -7423,7 +7423,7 @@
       "Margaret Brock Reef North 10",
       139.6,
       -36.95,
-      4
+      6
     ],
     [
       "COO33",
@@ -7456,7 +7456,7 @@
       "Kingston SZ 3",
       139.78,
       -36.74,
-      4
+      5
     ],
     [
       "COO36",
@@ -13729,6 +13729,17 @@
       2
     ],
     [
+      "EYR01",
+      "Australia",
+      "Temperate Australasia",
+      "Eyre Peninsula",
+      "South Australian Gulfs",
+      "Topgallant Island Inner",
+      134.61,
+      -33.71,
+      2
+    ],
+    [
       "EYR23",
       "Australia",
       "Temperate Australasia",
@@ -13781,7 +13792,7 @@
       "Pearson Island North",
       134.27,
       -33.94,
-      10
+      12
     ],
     [
       "EYR28",
@@ -13803,7 +13814,7 @@
       "Pearson Island east",
       134.27,
       -33.95,
-      8
+      10
     ],
     [
       "EYR30",
@@ -13814,7 +13825,7 @@
       "Pearson Island inner bay north",
       134.27,
       -33.95,
-      8
+      10
     ],
     [
       "EYR31",
@@ -13825,7 +13836,7 @@
       "Pearson Island inner bay south",
       134.27,
       -33.96,
-      8
+      10
     ],
     [
       "EYR32",
@@ -13836,7 +13847,7 @@
       "Flinders Island anchorage",
       134.49,
       -33.68,
-      8
+      10
     ],
     [
       "EYR33",
@@ -14012,7 +14023,7 @@
       "Flinders Island North",
       134.52,
       -33.68,
-      4
+      6
     ],
     [
       "EYR50",
@@ -20645,7 +20656,7 @@
       "2nd Valley Boat Shed",
       138.21,
       -35.51,
-      69
+      71
     ],
     [
       "GSV28",
@@ -20667,7 +20678,7 @@
       "Carrickalinga Head",
       138.34,
       -35.4,
-      40
+      42
     ],
     [
       "GSV30",
@@ -20876,7 +20887,7 @@
       "Dashwood Bay West",
       137.38,
       -35.59,
-      7
+      9
     ],
     [
       "GSV61",
@@ -20920,7 +20931,7 @@
       "Big_W",
       136.91,
       -35.68,
-      6
+      8
     ],
     [
       "GSV65",
@@ -20953,7 +20964,7 @@
       "Master Jack",
       136.77,
       -35.71,
-      4
+      6
     ],
     [
       "GSV68",
@@ -21008,7 +21019,7 @@
       "Shag rock",
       137.41,
       -35.59,
-      3
+      5
     ],
     [
       "GSV72",
@@ -21030,7 +21041,7 @@
       "Tea Tree Ledge",
       136.69,
       -35.74,
-      4
+      6
     ],
     [
       "GSV74",
@@ -21041,7 +21052,7 @@
       "Cape Torrens",
       136.72,
       -35.72,
-      4
+      6
     ],
     [
       "GSV75",
@@ -21063,7 +21074,7 @@
       "Cape Forbin South",
       136.78,
       -35.71,
-      1
+      3
     ],
     [
       "GSV77",
@@ -21074,7 +21085,7 @@
       "Snug Cove 2nd headland",
       136.85,
       -35.69,
-      2
+      4
     ],
     [
       "GSV78",
@@ -21151,7 +21162,7 @@
       "Green Cliffs",
       137.27,
       -35.6,
-      4
+      6
     ],
     [
       "GSV85",
@@ -21174,6 +21185,17 @@
       137.19,
       -35.62,
       7
+    ],
+    [
+      "GSV87",
+      "Australia",
+      "Temperate Australasia",
+      "Kangaroo Island",
+      "South Australian Gulfs",
+      "McDonnell Hill",
+      137.27,
+      -35.6,
+      2
     ],
     [
       "GSV9",
@@ -21217,7 +21239,7 @@
       "Rapid Bay Jetty",
       138.18,
       -35.52,
-      31
+      32
     ],
     [
       "GSV95",
@@ -21228,7 +21250,7 @@
       "Lasseters Reef",
       138.22,
       -35.51,
-      37
+      39
     ],
     [
       "GSV96",
@@ -25686,6 +25708,17 @@
       1
     ],
     [
+      "MUR1",
+      "Australia",
+      "Temperate Australasia",
+      "SA - Western",
+      "Great Australian Bight",
+      "D'Entrecasteaux Reef",
+      131.93,
+      -31.97,
+      2
+    ],
+    [
       "MUR18",
       "Australia",
       "Temperate Australasia",
@@ -25749,7 +25782,7 @@
       "Hat North",
       133.3,
       -32.52,
-      4
+      6
     ],
     [
       "MUR23",
@@ -25782,7 +25815,7 @@
       "St Francis Island North Point Outer (Sea Cave)",
       133.28,
       -32.49,
-      4
+      6
     ],
     [
       "MUR32",
@@ -25848,7 +25881,7 @@
       "St Francis Inside North Point",
       133.29,
       -32.49,
-      8
+      10
     ],
     [
       "MUR6",
@@ -26135,6 +26168,17 @@
       165.46,
       -21.69,
       1
+    ],
+    [
+      "NCMP-S14",
+      "Australia",
+      "Temperate Australasia",
+      "Ngari Capes",
+      "Leeuwin",
+      "Cosy Corner Outer",
+      115.02,
+      -34.26,
+      2
     ],
     [
       "NFLD1",
@@ -37783,7 +37827,7 @@
       "MRSPZ1",
       115.69,
       -32.36,
-      2
+      4
     ],
     [
       "SMP3",
@@ -37816,7 +37860,7 @@
       "TS1North",
       115.69,
       -32.34,
-      2
+      4
     ],
     [
       "SMP6",
@@ -37827,7 +37871,7 @@
       "PR1North",
       115.69,
       -32.33,
-      2
+      4
     ],
     [
       "SOL1",
@@ -41611,7 +41655,7 @@
       "Sisters Island West",
       145.58,
       -40.9,
-      16
+      18
     ],
     [
       "TAS344",
@@ -41732,7 +41776,7 @@
       "Donut Reef",
       145.5,
       -40.85,
-      9
+      11
     ],
     [
       "TAS356",
@@ -42161,7 +42205,7 @@
       "Blow Hole, King Island",
       144.13,
       -39.84,
-      8
+      11
     ],
     [
       "TAS396",
@@ -42249,7 +42293,7 @@
       "New Year Island",
       143.83,
       -39.67,
-      8
+      10
     ],
     [
       "TAS402",
@@ -42745,6 +42789,72 @@
       148.0,
       -43.14,
       1
+    ],
+    [
+      "TAS443",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - North East ",
+      "Bassian",
+      "Dinga's Delight",
+      148.28,
+      -40.9,
+      1
+    ],
+    [
+      "TAS444",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - North East ",
+      "Bassian",
+      "Pulfers Bank",
+      148.36,
+      -41.44,
+      1
+    ],
+    [
+      "TAS445",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - North East ",
+      "Bassian",
+      "Southern Cross Reef",
+      147.43,
+      -40.95,
+      3
+    ],
+    [
+      "TAS446",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - North East ",
+      "Bassian",
+      "Fancy Point",
+      147.35,
+      -43.21,
+      2
+    ],
+    [
+      "TAS447",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - North East ",
+      "Bassian",
+      "Ghost Forest",
+      148.3,
+      -40.93,
+      1
+    ],
+    [
+      "TAS448",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - North East ",
+      "Bassian",
+      "Bears Island, Three Hummock",
+      144.84,
+      -40.43,
+      3
     ],
     [
       "TAS45",
@@ -44801,7 +44911,7 @@
       "Cottam Point  Nanaimo BC",
       -124.22,
       49.32,
-      2
+      4
     ],
     [
       "USWC18",
@@ -44812,7 +44922,7 @@
       "Madrona Point SW  Nainaimo BC",
       -124.24,
       49.31,
-      1
+      2
     ],
     [
       "USWC19",
@@ -44823,7 +44933,7 @@
       "Madrona Point NW  Nainaimo BC",
       -124.24,
       49.31,
-      2
+      4
     ],
     [
       "USWC2",
@@ -44845,7 +44955,7 @@
       "Quathiaski Cove BC",
       -125.23,
       50.05,
-      2
+      4
     ],
     [
       "USWC21",
@@ -44856,7 +44966,7 @@
       "Dolphin Beach East BC",
       -124.14,
       49.29,
-      2
+      4
     ],
     [
       "USWC22",
@@ -45626,7 +45736,7 @@
       "Seal Is",
       117.98,
       -35.07,
-      3
+      5
     ],
     [
       "WA10",
@@ -45648,7 +45758,7 @@
       "Bald Island NW",
       118.44,
       -34.91,
-      2
+      3
     ],
     [
       "WA101",
@@ -45659,7 +45769,7 @@
       "Bald Island NW Cove",
       118.44,
       -34.91,
-      2
+      4
     ],
     [
       "WA102",
@@ -45670,7 +45780,7 @@
       "Investigator Island",
       120.87,
       -34.07,
-      8
+      10
     ],
     [
       "WA103",
@@ -45692,7 +45802,7 @@
       "Modrain Island NW Bay",
       122.25,
       -34.12,
-      2
+      4
     ],
     [
       "WA105",
@@ -45725,7 +45835,7 @@
       "Daw Island bay west",
       124.13,
       -33.85,
-      2
+      4
     ],
     [
       "WA108",
@@ -45747,7 +45857,7 @@
       "Michaelmas Reef North",
       118.01,
       -35.05,
-      1
+      3
     ],
     [
       "WA11",
@@ -46121,7 +46231,7 @@
       "Honeycomb Rocks",
       115.0,
       -33.67,
-      3
+      5
     ],
     [
       "WA140",
@@ -46176,7 +46286,7 @@
       "Point Ann",
       119.59,
       -34.17,
-      4
+      6
     ],
     [
       "WA145",
@@ -46187,7 +46297,7 @@
       "Point Charles Bay",
       119.58,
       -34.16,
-      4
+      6
     ],
     [
       "WA147",
@@ -46198,7 +46308,7 @@
       "Red Island",
       119.78,
       -34.04,
-      8
+      10
     ],
     [
       "WA149",
@@ -46462,7 +46572,7 @@
       "Busselton Jetty",
       115.34,
       -33.63,
-      6
+      7
     ],
     [
       "WA170",
@@ -46572,7 +46682,7 @@
       "Coral Gardens 2",
       115.23,
       -33.59,
-      9
+      11
     ],
     [
       "WA180",
@@ -46751,6 +46861,50 @@
       2
     ],
     [
+      "WA195",
+      "Australia",
+      "Temperate Australasia",
+      "Ngari Capes",
+      "Leeuwin",
+      "Scytothalia Slab",
+      115.3,
+      -34.52,
+      1
+    ],
+    [
+      "WA196",
+      "Australia",
+      "Temperate Australasia",
+      "WA - South west",
+      "Leeuwin",
+      "Peaceful Bay Outer",
+      116.93,
+      -35.04,
+      2
+    ],
+    [
+      "WA197",
+      "Australia",
+      "Temperate Australasia",
+      "WA - South west",
+      "Leeuwin",
+      "Stanley Island",
+      117.15,
+      -35.06,
+      2
+    ],
+    [
+      "WA199",
+      "Australia",
+      "Temperate Australasia",
+      "Albany",
+      "Leeuwin",
+      "Torndirrup Beach North",
+      117.94,
+      -35.12,
+      2
+    ],
+    [
       "WA2",
       "Australia",
       "Temperate Australasia",
@@ -46773,6 +46927,116 @@
       3
     ],
     [
+      "WA200",
+      "Australia",
+      "Temperate Australasia",
+      "WA - South Coast",
+      "Leeuwin",
+      "Twin Islands",
+      118.38,
+      -34.95,
+      1
+    ],
+    [
+      "WA201",
+      "Australia",
+      "Temperate Australasia",
+      "Recherche",
+      "Leeuwin",
+      "Investigator Island East",
+      120.87,
+      -34.07,
+      2
+    ],
+    [
+      "WA202",
+      "Australia",
+      "Temperate Australasia",
+      "Recherche",
+      "Leeuwin",
+      "Baynes Rock",
+      121.35,
+      -34.05,
+      1
+    ],
+    [
+      "WA203",
+      "Australia",
+      "Temperate Australasia",
+      "Recherche",
+      "Leeuwin",
+      "Boxer Island Channel",
+      121.68,
+      -33.99,
+      2
+    ],
+    [
+      "WA204",
+      "Australia",
+      "Temperate Australasia",
+      "Recherche",
+      "Leeuwin",
+      "Capp Island",
+      121.68,
+      -33.99,
+      2
+    ],
+    [
+      "WA205",
+      "Australia",
+      "Temperate Australasia",
+      "Recherche",
+      "Leeuwin",
+      "Boxer Island Pass",
+      121.68,
+      -33.99,
+      2
+    ],
+    [
+      "WA206",
+      "Australia",
+      "Temperate Northern Pacific",
+      "Recherche",
+      "Yellow Sea",
+      "Thomas Island",
+      121.98,
+      33.97,
+      2
+    ],
+    [
+      "WA207",
+      "Australia",
+      "Temperate Australasia",
+      "Recherche",
+      "Leeuwin",
+      "Cornwall Island Bay",
+      122.54,
+      -34.0,
+      1
+    ],
+    [
+      "WA208",
+      "Australia",
+      "Temperate Australasia",
+      "Recherche",
+      "Leeuwin",
+      "Victory Boat Harbour",
+      122.57,
+      -33.95,
+      2
+    ],
+    [
+      "WA209",
+      "Australia",
+      "Temperate Australasia",
+      "Recherche",
+      "Leeuwin",
+      "North Twin Peak Island",
+      122.83,
+      -33.99,
+      2
+    ],
+    [
       "WA21",
       "Australia",
       "Temperate Australasia",
@@ -46782,6 +47046,28 @@
       115.03,
       -33.53,
       4
+    ],
+    [
+      "WA210",
+      "Australia",
+      "Temperate Australasia",
+      "Recherche",
+      "Leeuwin",
+      "Middle Island",
+      123.21,
+      -34.08,
+      2
+    ],
+    [
+      "WA211",
+      "Australia",
+      "Temperate Australasia",
+      "Recherche",
+      "Leeuwin",
+      "Middle Island Corner",
+      123.21,
+      -34.09,
+      2
     ],
     [
       "WA22",
@@ -46825,7 +47111,7 @@
       "Bunbury North 1 - Leather Jacket Caves",
       115.65,
       -33.25,
-      1
+      3
     ],
     [
       "WA26",
@@ -47364,7 +47650,7 @@
       "Cheynes Reef",
       118.03,
       -35.04,
-      5
+      7
     ],
     [
       "WA70",
@@ -47485,7 +47771,7 @@
       "Peaceful Bay",
       116.93,
       -35.04,
-      1
+      3
     ],
     [
       "WA80",
@@ -47584,7 +47870,7 @@
       "Possession Pt",
       117.92,
       -35.04,
-      3
+      5
     ],
     [
       "WA90",
@@ -47650,7 +47936,7 @@
       "Devil's Lair",
       115.21,
       -33.59,
-      7
+      8
     ],
     [
       "WA98",
@@ -47661,7 +47947,7 @@
       "Squiggly Reef",
       115.24,
       -33.59,
-      9
+      11
     ],
     [
       "WA99",
@@ -47672,7 +47958,7 @@
       "Hippo Creek",
       115.2,
       -33.59,
-      8
+      10
     ],
     [
       "WELL1",
