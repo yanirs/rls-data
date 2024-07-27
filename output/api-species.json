@@ -480,8 +480,8 @@
   ],
   "Acantholithodes hispidus": [
     "Acantholithodes hispidus",
-    "",
-    null,
+    "Hairy-spined crab",
+    "https://reeflifesurvey.com/species/acantholithodes-hispidus/",
     1,
     []
   ],
@@ -3280,6 +3280,13 @@
     2,
     []
   ],
+  "Apogon aurolineatus": [
+    "Apogon aurolineatus",
+    "",
+    null,
+    2,
+    []
+  ],
   "Apogon binotatus": [
     "Apogon binotatus",
     "Barred cardinalfish",
@@ -4078,6 +4085,13 @@
     2,
     []
   ],
+  "Artedius spp.": [
+    "Artedius spp.",
+    "",
+    null,
+    2,
+    []
+  ],
   "Ascarosepion apama": [
     "Ascarosepion apama",
     "Giant cuttle, Sepia apama",
@@ -4670,6 +4684,13 @@
     1,
     []
   ],
+  "Astropyga magnifica": [
+    "Astropyga magnifica",
+    "",
+    null,
+    1,
+    []
+  ],
   "Astropyga pulvinata": [
     "Astropyga pulvinata",
     "",
@@ -4784,6 +4805,13 @@
     0,
     []
   ],
+  "Atherina spp.": [
+    "Atherina spp.",
+    "",
+    null,
+    0,
+    []
+  ],
   "Atherinason hepsetoides": [
     "Atherinason hepsetoides",
     "Deepwater hardyhead",
@@ -4832,8 +4860,8 @@
   ],
   "Atherinosoma microstoma": [
     "Atherinosoma microstoma",
-    "",
-    null,
+    "Smallmouth hardyhead",
+    "https://reeflifesurvey.com/species/atherinosoma-microstoma/",
     0,
     []
   ],
@@ -6879,8 +6907,8 @@
   ],
   "Calcinus dapsiles": [
     "Calcinus dapsiles",
-    "",
-    null,
+    "Hermit crab",
+    "https://reeflifesurvey.com/species/calcinus-dapsiles/",
     1,
     []
   ],
@@ -10740,8 +10768,8 @@
   ],
   "Chlamys sp. (hastata)": [
     "Chlamys sp. (hastata)",
-    "",
-    null,
+    "Scallop",
+    "https://reeflifesurvey.com/species/chlamys-sp-hastata/",
     1,
     []
   ],
@@ -12480,6 +12508,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_bd_59c86cc836043.w1000.h666.JPG"
     ]
+  ],
+  "Citharichthys spp.": [
+    "Citharichthys spp.",
+    "",
+    null,
+    2,
+    []
   ],
   "Citharichthys stigmaeus": [
     "Citharichthys stigmaeus",
@@ -18747,6 +18782,13 @@
       "https://images.reeflifesurvey.com/0/species_c4_57da63970d55c.w1000.h666.jpg"
     ]
   ],
+  "Elysia pratensis": [
+    "Elysia pratensis",
+    "",
+    null,
+    1,
+    []
+  ],
   "Elysia sp. [Gam]": [
     "Elysia sp. [Gam]",
     "",
@@ -20829,6 +20871,13 @@
     1,
     []
   ],
+  "Felimare bayeri": [
+    "Felimare bayeri",
+    "",
+    null,
+    1,
+    []
+  ],
   "Felimare bilineata": [
     "Felimare bilineata",
     "Hypselodoris bilineata",
@@ -21642,8 +21691,8 @@
   ],
   "Gadus macrocephalus": [
     "Gadus macrocephalus",
-    "",
-    null,
+    "Pacific cod",
+    "https://reeflifesurvey.com/species/gadus-macrocephalus/",
     0,
     []
   ],
@@ -26152,6 +26201,13 @@
       "https://images.reeflifesurvey.com/1/species_b6_636b127a7ab05.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_29_636b127cd9d7e.w1000.h666.jpg"
     ]
+  ],
+  "Hexabranchus morsom": [
+    "Hexabranchus morsom",
+    "",
+    null,
+    1,
+    []
   ],
   "Hexabranchus sanguineus": [
     "Hexabranchus sanguineus",
@@ -35703,6 +35759,13 @@
     1,
     []
   ],
+  "Omalacantha bicornuta": [
+    "Omalacantha bicornuta",
+    "",
+    null,
+    1,
+    []
+  ],
   "Omalacantha spp.": [
     "Omalacantha spp.",
     "",
@@ -40152,6 +40215,13 @@
       "https://images.reeflifesurvey.com/0/species_7f_582c4cb907709.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_f6_582c4cbed7663.w1000.h666.jpg"
     ]
+  ],
+  "Petrolisthes armatus": [
+    "Petrolisthes armatus",
+    "",
+    null,
+    1,
+    []
   ],
   "Petrolisthes desmarestii": [
     "Petrolisthes desmarestii",
@@ -51733,8 +51803,8 @@
   ],
   "Syngnathus californiensis": [
     "Syngnathus californiensis",
-    "",
-    null,
+    "Bay pipefish",
+    "https://reeflifesurvey.com/species/syngnathus-californiensis/",
     2,
     []
   ],
@@ -52442,8 +52512,8 @@
   ],
   "Telmessus cheiragonus": [
     "Telmessus cheiragonus",
-    "",
-    null,
+    "Helmet crab",
+    "https://reeflifesurvey.com/species/telmessus-cheiragonus/",
     1,
     []
   ],

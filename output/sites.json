@@ -2187,7 +2187,7 @@
       "West Longnose Point",
       150.21,
       -35.83,
-      28
+      30
     ],
     [
       "BMP-S15",
@@ -2231,7 +2231,7 @@
       "Yellow Rock",
       150.26,
       -35.73,
-      25
+      26
     ],
     [
       "BMP-S19",
@@ -2242,7 +2242,7 @@
       "North Head",
       150.27,
       -35.72,
-      30
+      31
     ],
     [
       "BMP-S2",
@@ -2264,7 +2264,7 @@
       "Acron Ledge",
       150.25,
       -35.72,
-      24
+      26
     ],
     [
       "BMP-S21",
@@ -2561,7 +2561,7 @@
       "Guerilla Bay Island South",
       150.23,
       -35.83,
-      13
+      15
     ],
     [
       "BMP10",
@@ -2836,7 +2836,7 @@
       "Whale Bay",
       150.22,
       -35.83,
-      8
+      10
     ],
     [
       "BMP4",
@@ -3265,7 +3265,7 @@
       "Crawl Cay",
       -82.12,
       9.27,
-      5
+      7
     ],
     [
       "BOCAS11",
@@ -3287,7 +3287,7 @@
       "Punta Caracal Reef",
       -82.3,
       9.38,
-      3
+      4
     ],
     [
       "BOCAS13",
@@ -3312,6 +3312,39 @@
       1
     ],
     [
+      "BOCAS15",
+      "Panama",
+      "Tropical Atlantic",
+      "Bocas Del Toro",
+      "Southwestern Caribbean",
+      "Juan Point",
+      -82.29,
+      9.3,
+      2
+    ],
+    [
+      "BOCAS16",
+      "Panama",
+      "Tropical Atlantic",
+      "Bocas Del Toro",
+      "Southwestern Caribbean",
+      "Rhino Reef",
+      -82.11,
+      9.24,
+      1
+    ],
+    [
+      "BOCAS17",
+      "Panama",
+      "Tropical Atlantic",
+      "Bocas Del Toro",
+      "Southwestern Caribbean",
+      "CK14",
+      -82.13,
+      9.25,
+      1
+    ],
+    [
       "BOCAS2",
       "Panama",
       "Tropical Atlantic",
@@ -3320,7 +3353,7 @@
       "Almirante",
       -82.34,
       9.29,
-      5
+      6
     ],
     [
       "BOCAS3",
@@ -3386,7 +3419,7 @@
       "STRI Point",
       -82.26,
       9.35,
-      6
+      8
     ],
     [
       "BOCAS9",
@@ -4079,7 +4112,7 @@
       "CBC 30 N",
       -88.08,
       16.8,
-      5
+      6
     ],
     [
       "BZE2",
@@ -6466,7 +6499,7 @@
       "South Reef",
       -88.08,
       16.78,
-      12
+      13
     ],
     [
       "CBC10",
@@ -6521,7 +6554,7 @@
       "Tobacco Reef 30",
       -88.07,
       16.87,
-      9
+      10
     ],
     [
       "CBC15",
@@ -6554,7 +6587,7 @@
       "Curlew patch reef",
       -88.1,
       16.78,
-      10
+      11
     ],
     [
       "CBC2",
@@ -6565,7 +6598,7 @@
       "CBC Reef",
       -88.08,
       16.8,
-      11
+      12
     ],
     [
       "CBC21",
@@ -6576,7 +6609,7 @@
       "South Reef 30 North",
       -88.08,
       16.78,
-      2
+      3
     ],
     [
       "CBC22",
@@ -6587,7 +6620,7 @@
       "Bread and Butter Patch",
       -88.16,
       16.77,
-      2
+      3
     ],
     [
       "CBC24",
@@ -6609,7 +6642,7 @@
       "CBC Lagoon 15",
       -88.09,
       16.81,
-      9
+      10
     ],
     [
       "CBC4",
@@ -6631,7 +6664,7 @@
       "CBC House Reef",
       -88.08,
       16.8,
-      8
+      9
     ],
     [
       "CBC7",
@@ -24396,7 +24429,7 @@
       "Cala Grande",
       10.3,
       42.31,
-      3
+      4
     ],
     [
       "MED4",
@@ -24682,7 +24715,7 @@
       "Punta Forata",
       10.33,
       42.32,
-      2
+      3
     ],
     [
       "MED63",
@@ -24693,7 +24726,7 @@
       "Cala Scirocco o Giunchi",
       10.33,
       42.32,
-      2
+      3
     ],
     [
       "MED64",
@@ -24704,7 +24737,7 @@
       "Cala dello Scoglio South",
       10.33,
       42.33,
-      2
+      3
     ],
     [
       "MED65",
@@ -24715,7 +24748,7 @@
       "Cala dello Scoglio North",
       10.33,
       42.34,
-      2
+      3
     ],
     [
       "MED66",
@@ -24737,7 +24770,7 @@
       "Punta Secca Marine Reserve",
       11.11,
       42.26,
-      2
+      4
     ],
     [
       "MED68",
@@ -24762,6 +24795,17 @@
       2
     ],
     [
+      "MED70",
+      "Italy",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Cala Ischiaiola Nord",
+      11.1,
+      42.25,
+      1
+    ],
+    [
       "MED71",
       "Italy",
       "Temperate Northern Atlantic",
@@ -24773,6 +24817,17 @@
       2
     ],
     [
+      "MED72",
+      "Italy",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Cala Ischiaiola Centro",
+      11.1,
+      42.25,
+      1
+    ],
+    [
       "MED73",
       "Italy",
       "Temperate Northern Atlantic",
@@ -24782,6 +24837,50 @@
       11.11,
       42.24,
       2
+    ],
+    [
+      "MED74",
+      "Italy",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Punta Rossa",
+      10.32,
+      42.31,
+      1
+    ],
+    [
+      "MED75",
+      "Italy",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Cala Ischiaiola Sud",
+      11.1,
+      42.24,
+      1
+    ],
+    [
+      "MED76",
+      "Italy",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Cala I Grottoni2",
+      11.1,
+      42.24,
+      1
+    ],
+    [
+      "MED77",
+      "Italy",
+      "Temperate Northern Atlantic",
+      "Mediterranean (central)",
+      "Western Mediterranean",
+      "Punta S. Francesco2",
+      11.12,
+      42.25,
+      1
     ],
     [
       "MED8",
@@ -27894,7 +27993,7 @@
       "The Gantry Bawley Point",
       150.4,
       -35.5,
-      14
+      16
     ],
     [
       "NSW2",
