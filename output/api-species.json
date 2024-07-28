@@ -3282,8 +3282,8 @@
   ],
   "Apogon aurolineatus": [
     "Apogon aurolineatus",
-    "",
-    null,
+    "Bridled cardinalfish",
+    "https://reeflifesurvey.com/species/apogon-aurolineatus/",
     2,
     []
   ],
@@ -4686,8 +4686,8 @@
   ],
   "Astropyga magnifica": [
     "Astropyga magnifica",
-    "",
-    null,
+    "Pale spine fire urchin",
+    "https://reeflifesurvey.com/species/astropyga-magnifica/",
     1,
     []
   ],
@@ -4911,6 +4911,13 @@
     "Atrina tasmanica",
     "Tasmanian razor clam",
     "https://reeflifesurvey.com/species/atrina-tasmanica/",
+    1,
+    []
+  ],
+  "Atrina vexillum": [
+    "Atrina vexillum",
+    "",
+    null,
     1,
     []
   ],
@@ -7059,6 +7066,13 @@
     1,
     []
   ],
+  "Calcinus sp. [antennae black white stripes]": [
+    "Calcinus sp. [antennae black white stripes]",
+    "",
+    null,
+    1,
+    []
+  ],
   "Calcinus sp. [black white striped antennae]": [
     "Calcinus sp. [black white striped antennae]",
     "",
@@ -7070,6 +7084,13 @@
     "Calcinus sp. [orange]",
     "",
     "https://reeflifesurvey.com/species/calcinus-sp-orange/",
+    1,
+    []
+  ],
+  "Calcinus sp. [red band claw]": [
+    "Calcinus sp. [red band claw]",
+    "",
+    null,
     1,
     []
   ],
@@ -14019,6 +14040,13 @@
       "https://images.reeflifesurvey.com/1/species_63_63478afe2ea56.w1000.h666.JPG"
     ]
   ],
+  "Conus terebra": [
+    "Conus terebra",
+    "",
+    null,
+    1,
+    []
+  ],
   "Conus tessulatus": [
     "Conus tessulatus",
     "Tesselate cone",
@@ -14748,6 +14776,13 @@
       "https://images.reeflifesurvey.com/0/species_3e_570d8828a5a3a.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_70_570d8857be0aa.w1000.h666.jpg"
     ]
+  ],
+  "Corythoichthys sp. (cf intestinalis)": [
+    "Corythoichthys sp. (cf intestinalis)",
+    "",
+    null,
+    2,
+    []
   ],
   "Corythoichthys sp. [1 RK]": [
     "Corythoichthys sp. [1 RK]",
@@ -17461,6 +17496,13 @@
       "https://images.reeflifesurvey.com/1/species_fe_600e29ef7b7d8.w1000.h666.JPG"
     ]
   ],
+  "Domecia hispida": [
+    "Domecia hispida",
+    "",
+    null,
+    1,
+    []
+  ],
   "Domeciidae spp.": [
     "Domeciidae spp.",
     "",
@@ -18379,6 +18421,13 @@
       "https://images.reeflifesurvey.com/0/species_a3_576dd9de96f3f.w1000.h666.jpg"
     ]
   ],
+  "Ecsenius sp. [bicolor]": [
+    "Ecsenius sp. [bicolor]",
+    "",
+    null,
+    2,
+    []
+  ],
   "Ecsenius sp. [black and green]": [
     "Ecsenius sp. [black and green]",
     "",
@@ -18784,8 +18833,8 @@
   ],
   "Elysia pratensis": [
     "Elysia pratensis",
-    "",
-    null,
+    "Lined Elysia",
+    "https://reeflifesurvey.com/species/elysia-pratensis/",
     1,
     []
   ],
@@ -18862,6 +18911,20 @@
     "Emblemariopsis bahamensis",
     "Blackhead blenny",
     "https://reeflifesurvey.com/species/emblemariopsis-bahamensis/",
+    2,
+    []
+  ],
+  "Emblemariopsis carib": [
+    "Emblemariopsis carib",
+    "Spikefin Glass Blenny",
+    "https://reeflifesurvey.com/species/emblemariopsis-carib/",
+    2,
+    []
+  ],
+  "Emblemariopsis pricei": [
+    "Emblemariopsis pricei",
+    "Seafan blenny",
+    "https://reeflifesurvey.com/species/emblemariopsis-pricei/",
     2,
     []
   ],
@@ -19195,6 +19258,13 @@
     "Enoplometopus antillensis",
     "Flaming reef lobster",
     "https://reeflifesurvey.com/species/enoplometopus-antillensis/",
+    1,
+    []
+  ],
+  "Enoplometopus occidentalis": [
+    "Enoplometopus occidentalis",
+    "",
+    null,
     1,
     []
   ],
@@ -20873,8 +20943,8 @@
   ],
   "Felimare bayeri": [
     "Felimare bayeri",
-    "",
-    null,
+    "Colourful sea slug",
+    "https://reeflifesurvey.com/species/felimare-bayeri/",
     1,
     []
   ],
@@ -21467,6 +21537,13 @@
   ],
   "Fromia sp. (indica cf)": [
     "Fromia sp. (indica cf)",
+    "",
+    null,
+    1,
+    []
+  ],
+  "Fromia sp. [Northwestern]": [
+    "Fromia sp. [Northwestern]",
     "",
     null,
     1,
@@ -24893,6 +24970,13 @@
     0,
     []
   ],
+  "Haliotis asinina": [
+    "Haliotis asinina",
+    "",
+    null,
+    1,
+    []
+  ],
   "Haliotis australis": [
     "Haliotis australis",
     "[an abalone]",
@@ -26204,8 +26288,8 @@
   ],
   "Hexabranchus morsom": [
     "Hexabranchus morsom",
-    "",
-    null,
+    "Caribbean Spanish dancer",
+    "https://reeflifesurvey.com/species/hexabranchus-morsom/",
     1,
     []
   ],
@@ -26806,6 +26890,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_84_578eed77229f5.w1000.h666.jpg"
     ]
+  ],
+  "Holothuria flavomaculata": [
+    "Holothuria flavomaculata",
+    "",
+    null,
+    1,
+    []
   ],
   "Holothuria forskali": [
     "Holothuria forskali",
@@ -28912,6 +29003,13 @@
       "https://images.reeflifesurvey.com/1/species_3c_6347a04e7b4d1.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/1/species_c6_655ed11472cad.w1000.h666.jpg"
     ]
+  ],
+  "Latirus sp. (purple)": [
+    "Latirus sp. (purple)",
+    "",
+    null,
+    1,
+    []
   ],
   "Latirus spp.": [
     "Latirus spp.",
@@ -34653,6 +34751,13 @@
       "https://images.reeflifesurvey.com/0/species_aa_57a44a91b3e31.w1000.h666.jpg"
     ]
   ],
+  "Neotrygon leylandi": [
+    "Neotrygon leylandi",
+    "",
+    null,
+    2,
+    []
+  ],
   "Neotrygon ningalooensis": [
     "Neotrygon ningalooensis",
     "Ningaloo Maskray, Painted Maskray",
@@ -35761,8 +35866,8 @@
   ],
   "Omalacantha bicornuta": [
     "Omalacantha bicornuta",
-    "",
-    null,
+    "Speck Claw Decorator Crab",
+    "https://reeflifesurvey.com/species/omalacantha-bicornuta/",
     1,
     []
   ],
@@ -36203,6 +36308,13 @@
     "Pacific beakfish",
     "https://reeflifesurvey.com/species/oplegnathus-insignis/",
     0,
+    []
+  ],
+  "Oplopomops spp.": [
+    "Oplopomops spp.",
+    "",
+    null,
+    2,
     []
   ],
   "Oplopomus atherinoides?": [
@@ -37222,6 +37334,13 @@
       "https://images.reeflifesurvey.com/0/species_35_5738127e54240.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_11_579990d04adfb.w1000.h666.JPG"
     ]
+  ],
+  "Paguridae sp. [brush claws]": [
+    "Paguridae sp. [brush claws]",
+    "",
+    null,
+    1,
+    []
   ],
   "Paguridae sp. [hairy hermit Humann]": [
     "Paguridae sp. [hairy hermit Humann]",
@@ -40218,8 +40337,8 @@
   ],
   "Petrolisthes armatus": [
     "Petrolisthes armatus",
-    "",
-    null,
+    "Green porcelain crab",
+    "https://reeflifesurvey.com/species/petrolisthes-armatus/",
     1,
     []
   ],
@@ -44431,6 +44550,13 @@
   ],
   "Pseudoceros sp. (contrarius)": [
     "Pseudoceros sp. (contrarius)",
+    "",
+    null,
+    1,
+    []
+  ],
+  "Pseudoceros sp. (orange)": [
+    "Pseudoceros sp. (orange)",
     "",
     null,
     1,
@@ -52183,6 +52309,13 @@
       "https://images.reeflifesurvey.com/0/species_65_5a02b4007a62b.w1000.h666.jpg"
     ]
   ],
+  "Tambja affinis": [
+    "Tambja affinis",
+    "",
+    null,
+    1,
+    []
+  ],
   "Tambja capensis": [
     "Tambja capensis",
     "Black nudibranch",
@@ -52561,6 +52694,13 @@
     "Terebra amanda",
     "Amandas auger",
     "https://reeflifesurvey.com/species/terebra-amanda/",
+    1,
+    []
+  ],
+  "Terebra babylonia": [
+    "Terebra babylonia",
+    "",
+    null,
     1,
     []
   ],
