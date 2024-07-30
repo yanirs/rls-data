@@ -13792,7 +13792,7 @@
       "Pearson Island Bay NW",
       134.27,
       -33.94,
-      8
+      10
     ],
     [
       "EYR25",
@@ -13836,7 +13836,7 @@
       "Pearson Island SE bay",
       134.27,
       -33.96,
-      10
+      12
     ],
     [
       "EYR29",
@@ -20249,7 +20249,7 @@
       "Sunset Cove South",
       138.23,
       -35.5,
-      16
+      18
     ],
     [
       "GSV164",
@@ -20678,7 +20678,7 @@
       "Shag Rock Carrickalinga",
       138.33,
       -35.4,
-      40
+      42
     ],
     [
       "GSV26",
@@ -20986,7 +20986,7 @@
       "Harveys Return",
       136.65,
       -35.75,
-      3
+      4
     ],
     [
       "GSV67",
@@ -25870,7 +25870,7 @@
       "East Bay",
       133.31,
       -32.5,
-      4
+      6
     ],
     [
       "MUR22",
@@ -25969,7 +25969,7 @@
       "Petrel Cove East",
       133.3,
       -32.5,
-      12
+      14
     ],
     [
       "MUR5",
@@ -45948,6 +45948,17 @@
       24
     ],
     [
+      "WA-SH4",
+      "Australia",
+      "Temperate Australasia",
+      "Ngari Capes",
+      "Leeuwin",
+      "Wernberg kelp",
+      115.02,
+      -34.27,
+      2
+    ],
+    [
       "WA1",
       "Australia",
       "Temperate Australasia",
@@ -46011,7 +46022,7 @@
       "Modrain Island NW",
       122.26,
       -34.12,
-      2
+      4
     ],
     [
       "WA104",
@@ -46033,7 +46044,7 @@
       "Cornwall Island coral",
       122.54,
       -34.0,
-      2
+      4
     ],
     [
       "WA106",
@@ -46066,7 +46077,7 @@
       "Daw Island bay east",
       124.14,
       -33.85,
-      2
+      4
     ],
     [
       "WA109",
@@ -46473,7 +46484,7 @@
       "Whalebone Point",
       119.53,
       -34.36,
-      4
+      6
     ],
     [
       "WA142",
@@ -46550,7 +46561,7 @@
       "Canal Rocks East",
       115.0,
       -33.67,
-      4
+      6
     ],
     [
       "WA150",
@@ -47114,6 +47125,17 @@
       2
     ],
     [
+      "WA198",
+      "Australia",
+      "Temperate Australasia",
+      "Albany",
+      "Leeuwin",
+      "Torndirrup Beach South",
+      117.95,
+      -35.12,
+      2
+    ],
+    [
       "WA199",
       "Australia",
       "Temperate Australasia",
@@ -47386,7 +47408,7 @@
       "Seal Cove",
       118.06,
       -35.06,
-      4
+      6
     ],
     [
       "WA30",
