@@ -33229,7 +33229,7 @@
       "Niuatoputapu passage west",
       -173.76,
       -15.93,
-      2
+      4
     ],
     [
       "PAC47",
@@ -33240,7 +33240,7 @@
       "Niuatoputapu lagoon",
       -173.77,
       -15.93,
-      1
+      3
     ],
     [
       "PAC48",
@@ -33251,7 +33251,7 @@
       "Niuatoputapu motu1",
       -173.78,
       -15.93,
-      2
+      4
     ],
     [
       "PAC49",
@@ -33262,7 +33262,7 @@
       "Niuatoputapu motu2",
       -173.78,
       -15.93,
-      2
+      4
     ],
     [
       "PAC5",
@@ -33284,7 +33284,7 @@
       "Niuatoputapu motu3",
       -173.77,
       -15.93,
-      2
+      4
     ],
     [
       "PAC51",
@@ -43976,7 +43976,7 @@
       "Blue Lagoon Island",
       -174.15,
       -18.72,
-      1
+      3
     ],
     [
       "TONGA11",
@@ -43987,7 +43987,7 @@
       "Blue Lagoon",
       -174.15,
       -18.72,
-      1
+      3
     ],
     [
       "TONGA12",
@@ -43998,7 +43998,7 @@
       "Hunga lagoon Outer",
       -174.14,
       -18.69,
-      2
+      4
     ],
     [
       "TONGA13",
@@ -44009,7 +44009,7 @@
       "Lua Kapa Island",
       -174.14,
       -18.69,
-      1
+      2
     ],
     [
       "TONGA14",
@@ -44020,7 +44020,7 @@
       "Otea Point",
       -174.04,
       -18.69,
-      1
+      3
     ],
     [
       "TONGA2",
@@ -44031,7 +44031,73 @@
       "Uoleva Island",
       -174.42,
       -19.84,
-      1
+      2
+    ],
+    [
+      "TONGA24",
+      "Tonga",
+      "Central Indo-Pacific",
+      "Tonga",
+      "Tonga Islands",
+      "Tatafa Coral Gardens",
+      -174.43,
+      -19.87,
+      2
+    ],
+    [
+      "TONGA25",
+      "Tonga",
+      "Central Indo-Pacific",
+      "Tonga",
+      "Tonga Islands",
+      "Tatafa",
+      -174.42,
+      -19.88,
+      2
+    ],
+    [
+      "TONGA26",
+      "Tonga",
+      "Central Indo-Pacific",
+      "Tonga",
+      "Tonga Islands",
+      "Uoleva Island West",
+      -174.43,
+      -19.85,
+      2
+    ],
+    [
+      "TONGA27",
+      "Tonga",
+      "Central Indo-Pacific",
+      "Tonga",
+      "Tonga Islands",
+      "Hakau Kito",
+      -174.41,
+      -19.84,
+      2
+    ],
+    [
+      "TONGA28",
+      "Tonga",
+      "Central Indo-Pacific",
+      "Tonga",
+      "Tonga Islands",
+      "Luangahu Island East",
+      -174.47,
+      -19.88,
+      2
+    ],
+    [
+      "TONGA29",
+      "Tonga",
+      "Central Indo-Pacific",
+      "Tonga",
+      "Tonga Islands",
+      "Luangahu Island Reef",
+      -174.48,
+      -19.87,
+      2
     ],
     [
       "TONGA3",
@@ -44045,6 +44111,116 @@
       1
     ],
     [
+      "TONGA30",
+      "Tonga",
+      "Central Indo-Pacific",
+      "Tonga",
+      "Tonga Islands",
+      "Luangahu Outer Reef",
+      -174.47,
+      -19.87,
+      2
+    ],
+    [
+      "TONGA31",
+      "Tonga",
+      "Central Indo-Pacific",
+      "Tonga",
+      "Tonga Islands",
+      "Nukunamo Outer Reef",
+      -174.29,
+      -19.71,
+      2
+    ],
+    [
+      "TONGA32",
+      "Tonga",
+      "Central Indo-Pacific",
+      "Tonga",
+      "Tonga Islands",
+      "Nukunamo Beach Bommies",
+      -174.28,
+      -19.71,
+      2
+    ],
+    [
+      "TONGA33",
+      "Tonga",
+      "Central Indo-Pacific",
+      "Tonga",
+      "Tonga Islands",
+      "Crawshaw Shoals",
+      -174.34,
+      -19.72,
+      2
+    ],
+    [
+      "TONGA34",
+      "Tonga",
+      "Central Indo-Pacific",
+      "Tonga",
+      "Tonga Islands",
+      "Muitoa Reef",
+      -174.3,
+      -19.65,
+      2
+    ],
+    [
+      "TONGA35",
+      "Tonga",
+      "Central Indo-Pacific",
+      "Tonga",
+      "Tonga Islands",
+      "Ha'ano Island Reef",
+      -174.29,
+      -19.68,
+      2
+    ],
+    [
+      "TONGA36",
+      "Tonga",
+      "Central Indo-Pacific",
+      "Tonga",
+      "Tonga Islands",
+      "Port Maurelle",
+      -174.03,
+      -18.7,
+      2
+    ],
+    [
+      "TONGA37",
+      "Tonga",
+      "Central Indo-Pacific",
+      "Tonga",
+      "Tonga Islands",
+      "Foelifuka Island Bommie",
+      -174.14,
+      -18.71,
+      2
+    ],
+    [
+      "TONGA38",
+      "Tonga",
+      "Central Indo-Pacific",
+      "Tonga",
+      "Tonga Islands",
+      "Foeata Island Headland Reef",
+      -174.13,
+      -18.71,
+      2
+    ],
+    [
+      "TONGA39",
+      "Australia",
+      "Central Indo-Pacific",
+      "Tonga",
+      "Tonga Islands",
+      "Foeata Island South Reef",
+      -174.14,
+      -18.72,
+      1
+    ],
+    [
       "TONGA4",
       "Tonga",
       "Central Indo-Pacific",
@@ -44053,6 +44229,105 @@
       "Ha'afeva West Reef",
       -174.73,
       -19.94,
+      2
+    ],
+    [
+      "TONGA40",
+      "Tonga",
+      "Central Indo-Pacific",
+      "Tonga",
+      "Tonga Islands",
+      "Coral Garden North",
+      -174.1,
+      -18.71,
+      2
+    ],
+    [
+      "TONGA41",
+      "Tonga",
+      "Central Indo-Pacific",
+      "Tonga",
+      "Tonga Islands",
+      "Kulo Island",
+      -174.1,
+      -18.72,
+      2
+    ],
+    [
+      "TONGA42",
+      "Tonga",
+      "Central Indo-Pacific",
+      "Tonga",
+      "Tonga Islands",
+      "Langito'o Island North",
+      -174.08,
+      -18.73,
+      2
+    ],
+    [
+      "TONGA43",
+      "Tonga",
+      "Central Indo-Pacific",
+      "Tonga",
+      "Tonga Islands",
+      "Pagodas North",
+      -174.08,
+      -18.73,
+      2
+    ],
+    [
+      "TONGA44",
+      "Tonga",
+      "Central Indo-Pacific",
+      "Tonga",
+      "Tonga Islands",
+      "Pagodas South",
+      -174.08,
+      -18.74,
+      2
+    ],
+    [
+      "TONGA45",
+      "Tonga",
+      "Central Indo-Pacific",
+      "Tonga",
+      "Tonga Islands",
+      "Langito'o Island West",
+      -174.1,
+      -18.73,
+      2
+    ],
+    [
+      "TONGA46",
+      "Ton",
+      "Central Indo-Pacific",
+      "Tonga",
+      "Tonga Islands",
+      "Ovaka Coral Canyons",
+      -174.11,
+      -18.74,
+      2
+    ],
+    [
+      "TONGA47",
+      "Tonga",
+      "Eastern Indo-Pacific",
+      "Tonga",
+      "Samoa Islands",
+      "Hak Autu'utu'u Island fingers",
+      -173.79,
+      -15.93,
+      2
+    ],
+    [
+      "TONGA48",
+      "Tonga",
+      "Eastern Indo-Pacific",
+      "Tonga",
+      "Samoa Islands",
+      "Hakautu Island Outer Reef",
+      -173.8,
+      -15.92,
       2
     ],
     [
@@ -44097,7 +44372,7 @@
       "Coral Gardens",
       -174.1,
       -18.71,
-      1
+      3
     ],
     [
       "TONGA9",
@@ -44108,7 +44383,7 @@
       "Lape Island",
       -174.08,
       -18.72,
-      1
+      3
     ],
     [
       "TS1",

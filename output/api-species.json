@@ -12955,6 +12955,13 @@
     1,
     []
   ],
+  "Colobometridae spp.": [
+    "Colobometridae spp.",
+    "",
+    null,
+    1,
+    []
+  ],
   "Colochirus quadrangularis": [
     "Colochirus quadrangularis",
     "Thorny sea cucumber",
@@ -21153,6 +21160,13 @@
       "https://images.reeflifesurvey.com/0/species_77_57107acab07bc.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_c7_57107acfcabb0.w1000.h666.jpg"
     ]
+  ],
+  "Filifusus filamentosus": [
+    "Filifusus filamentosus",
+    "",
+    null,
+    1,
+    []
   ],
   "Fissurella crassa": [
     "Fissurella crassa",
@@ -35381,7 +35395,7 @@
   "Nudibranchia sp. (yellow orange spots)": [
     "Nudibranchia sp. (yellow orange spots)",
     "",
-    null,
+    "https://reeflifesurvey.com/species/nudibranchia-sp-yellow-orange-spots/",
     1,
     []
   ],
@@ -41066,6 +41080,13 @@
     1,
     []
   ],
+  "Phyllidiopsis spp.": [
+    "Phyllidiopsis spp.",
+    "",
+    null,
+    1,
+    []
+  ],
   "Phyllodesmium briareum": [
     "Phyllodesmium briareum",
     "",
@@ -42938,6 +42959,13 @@
     0,
     []
   ],
+  "Pomacentrus flavioculus": [
+    "Pomacentrus flavioculus",
+    "",
+    null,
+    0,
+    []
+  ],
   "Pomacentrus fuscidorsalis": [
     "Pomacentrus fuscidorsalis",
     "Tahitian reef-damsel, Pomachromis fuscidorsalis",
@@ -43006,6 +43034,13 @@
     "Pomacentrus littoralis",
     "Smoky damsel",
     "https://reeflifesurvey.com/species/pomacentrus-littoralis/",
+    0,
+    []
+  ],
+  "Pomacentrus maafu": [
+    "Pomacentrus maafu",
+    "",
+    null,
     0,
     []
   ],
@@ -54364,6 +54399,13 @@
       "https://images.reeflifesurvey.com/1/species_d4_5ed715d16fd09.w1000.h666.JPG"
     ]
   ],
+  "Trimma milta": [
+    "Trimma milta",
+    "",
+    null,
+    2,
+    []
+  ],
   "Trimma nasa": [
     "Trimma nasa",
     "",
@@ -55334,6 +55376,13 @@
       "https://images.reeflifesurvey.com/1/species_d4_6347f01c43740.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/1/species_01_6347f019a71f3.w1000.h666.JPG"
     ]
+  ],
+  "Tutufa spp.": [
+    "Tutufa spp.",
+    "",
+    null,
+    1,
+    []
   ],
   "Tutufa tenuigranosa": [
     "Tutufa tenuigranosa",
@@ -56667,6 +56716,13 @@
       "https://images.reeflifesurvey.com/0/species_49_57a2bb54be74f.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_07_57a2bb5ff0658.w1000.h666.JPG"
     ]
+  ],
+  "Zygometra spp.": [
+    "Zygometra spp.",
+    "",
+    null,
+    1,
+    []
   ],
   "Zygometrid sp. [Catoptometra rubroflava cf]": [
     "Zygometrid sp. [Catoptometra rubroflava cf]",
