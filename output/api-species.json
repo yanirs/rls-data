@@ -20330,6 +20330,13 @@
       "https://images.reeflifesurvey.com/0/species_d9_5768c8cd88da8.w1000.h666.jpg"
     ]
   ],
+  "Eviota bilunula": [
+    "Eviota bilunula",
+    "",
+    "https://reeflifesurvey.com/species/eviota-bilunula/",
+    2,
+    []
+  ],
   "Eviota bimaculata": [
     "Eviota bimaculata",
     "Two spot fringe-finned goby",
@@ -21164,7 +21171,7 @@
   "Filifusus filamentosus": [
     "Filifusus filamentosus",
     "",
-    null,
+    "https://reeflifesurvey.com/species/filifusus-filamentosus/",
     1,
     []
   ],
@@ -42961,8 +42968,8 @@
   ],
   "Pomacentrus flavioculus": [
     "Pomacentrus flavioculus",
-    "",
-    null,
+    "Yellow-eye damsel",
+    "https://reeflifesurvey.com/species/pomacentrus-flavioculus/",
     0,
     []
   ],
@@ -43039,8 +43046,8 @@
   ],
   "Pomacentrus maafu": [
     "Pomacentrus maafu",
-    "",
-    null,
+    "Coral damselfish",
+    "https://reeflifesurvey.com/species/pomacentrus-maafu/",
     0,
     []
   ],
@@ -48531,6 +48538,13 @@
       "https://images.reeflifesurvey.com/0/species_33_577dd4e21a430.w1000.h666.JPG"
     ]
   ],
+  "Scorpaenopsis oxycephalus": [
+    "Scorpaenopsis oxycephalus",
+    "",
+    "https://reeflifesurvey.com/species/scorpaenopsis-oxycephalus/",
+    2,
+    []
+  ],
   "Scorpaenopsis papuensis": [
     "Scorpaenopsis papuensis",
     "Papua Scorpionfish",
@@ -48555,6 +48569,13 @@
       "https://images.reeflifesurvey.com/0/species_08_57141b069bddc.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_bb_577dd7ca8ff2d.w1000.h666.JPG"
     ]
+  ],
+  "Scorpaenopsis sp. (Tonga)": [
+    "Scorpaenopsis sp. (Tonga)",
+    "",
+    "https://reeflifesurvey.com/species/scorpaenopsis-sp-tonga/",
+    2,
+    []
   ],
   "Scorpaenopsis spp.": [
     "Scorpaenopsis spp.",
@@ -54402,7 +54423,7 @@
   "Trimma milta": [
     "Trimma milta",
     "",
-    null,
+    "https://reeflifesurvey.com/species/trimma-milta/",
     2,
     []
   ],
