@@ -2233,6 +2233,13 @@
       "https://images.reeflifesurvey.com/0/species_cf_56f0b1780a347.w1000.h666.jpg"
     ]
   ],
+  "Amphiprion pacificus": [
+    "Amphiprion pacificus",
+    "Pacific anemonefish",
+    "https://reeflifesurvey.com/species/amphiprion-pacificus/",
+    0,
+    []
+  ],
   "Amphiprion percula": [
     "Amphiprion percula",
     "Eastern Clown Anemonefish, Blackfinned Clownfish, Clownfish, Orange Clown Anemonefish, Orange Clownfish",
@@ -13482,6 +13489,13 @@
     1,
     []
   ],
+  "Comatulidae spp.": [
+    "Comatulidae spp.",
+    "",
+    null,
+    1,
+    []
+  ],
   "Cominella adspersa": [
     "Cominella adspersa",
     "",
@@ -20635,6 +20649,13 @@
       "https://images.reeflifesurvey.com/1/species_cf_5ed497f245013.w1000.h666.jpg"
     ]
   ],
+  "Eviota sp. [cf punctulata]": [
+    "Eviota sp. [cf punctulata]",
+    "",
+    "https://reeflifesurvey.com/species/eviota-sp-cf-punctulata/",
+    2,
+    []
+  ],
   "Eviota sp. [green]": [
     "Eviota sp. [green]",
     "",
@@ -20836,6 +20857,13 @@
     "Facelina auriculata",
     "",
     "https://reeflifesurvey.com/species/facelina-auriculata/",
+    1,
+    []
+  ],
+  "Facelina spp.": [
+    "Facelina spp.",
+    "",
+    null,
     1,
     []
   ],
@@ -38307,6 +38335,13 @@
     "Paragobiodon echinocephalus",
     "Redhead Stylophora Goby",
     "https://reeflifesurvey.com/species/paragobiodon-echinocephalus/",
+    2,
+    []
+  ],
+  "Paragobiodon modestus": [
+    "Paragobiodon modestus",
+    "Redhead Pocillopora Goby",
+    "https://reeflifesurvey.com/species/paragobiodon-modestus/",
     2,
     []
   ],

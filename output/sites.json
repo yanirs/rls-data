@@ -33328,7 +33328,7 @@
       "Uonokuhahaki3",
       -174.48,
       -19.96,
-      1
+      3
     ],
     [
       "PAC55",
@@ -44023,6 +44023,17 @@
       3
     ],
     [
+      "TONGA18",
+      "Tonga",
+      "Central Indo-Pacific",
+      "Tonga",
+      "Tonga Islands",
+      "Nomuka Iki Channel",
+      -174.81,
+      -20.27,
+      2
+    ],
+    [
       "TONGA2",
       "Tonga",
       "Central Indo-Pacific",
@@ -44032,6 +44043,39 @@
       -174.42,
       -19.84,
       2
+    ],
+    [
+      "TONGA20",
+      "Tonga",
+      "Central Indo-Pacific",
+      "Tonga",
+      "Tonga Islands",
+      "Wickham Reef",
+      -174.77,
+      -20.07,
+      1
+    ],
+    [
+      "TONGA21",
+      "Tonga",
+      "Central Indo-Pacific",
+      "Tonga",
+      "Tonga Islands",
+      "Kao Island South",
+      -175.02,
+      -19.69,
+      2
+    ],
+    [
+      "TONGA23",
+      "Tonga",
+      "Central Indo-Pacific",
+      "Tonga",
+      "Tonga Islands",
+      "Kao Island South East",
+      -175.02,
+      -19.69,
+      1
     ],
     [
       "TONGA24",
@@ -44211,7 +44255,7 @@
     ],
     [
       "TONGA39",
-      "Australia",
+      "Tonga",
       "Central Indo-Pacific",
       "Tonga",
       "Tonga Islands",
@@ -44229,7 +44273,7 @@
       "Ha'afeva West Reef",
       -174.73,
       -19.94,
-      2
+      4
     ],
     [
       "TONGA40",
@@ -44299,7 +44343,7 @@
     ],
     [
       "TONGA46",
-      "Ton",
+      "Tonga",
       "Central Indo-Pacific",
       "Tonga",
       "Tonga Islands",
@@ -44350,7 +44394,7 @@
       "Fonuaika NE",
       -174.7,
       -20.11,
-      1
+      3
     ],
     [
       "TONGA7",
@@ -44361,7 +44405,7 @@
       "'O'ua NE",
       -174.68,
       -20.02,
-      1
+      2
     ],
     [
       "TONGA8",
@@ -46022,7 +46066,7 @@
       "Olives",
       144.23,
       -38.41,
-      4
+      6
     ],
     [
       "VIC34",
@@ -46033,7 +46077,7 @@
       "Ingoldsby Inner",
       144.21,
       -38.41,
-      4
+      6
     ],
     [
       "VIC35",
@@ -46055,7 +46099,7 @@
       "Phyco Reef",
       144.33,
       -38.35,
-      4
+      6
     ],
     [
       "VIC37",
@@ -46066,7 +46110,7 @@
       "East of Olives",
       144.24,
       -38.41,
-      12
+      14
     ],
     [
       "VIC38",
@@ -46088,7 +46132,7 @@
       "Rocky Point",
       144.32,
       -38.35,
-      12
+      14
     ],
     [
       "VIC4",
