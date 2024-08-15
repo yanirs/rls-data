@@ -22933,7 +22933,7 @@
       "L'Esperance Rock N",
       -178.83,
       -31.35,
-      2
+      4
     ],
     [
       "KER10",
@@ -22944,7 +22944,7 @@
       "Egeria Rock",
       -177.89,
       -29.25,
-      2
+      4
     ],
     [
       "KER11",
@@ -22955,7 +22955,7 @@
       "Milne Rocks",
       -177.9,
       -29.28,
-      2
+      4
     ],
     [
       "KER12",
@@ -22966,7 +22966,7 @@
       "Milne Rocks W",
       -177.9,
       -29.28,
-      2
+      4
     ],
     [
       "KER13",
@@ -22991,6 +22991,61 @@
       3
     ],
     [
+      "KER15",
+      "New Zealand",
+      "Temperate Australasia",
+      "Kermadecs",
+      "Kermadec Island",
+      "Stella Passage",
+      -178.56,
+      -30.54,
+      2
+    ],
+    [
+      "KER16",
+      "New Zealand",
+      "Temperate Australasia",
+      "Kermadecs",
+      "Kermadec Island",
+      "Macauley Island, NW",
+      -178.44,
+      -30.23,
+      1
+    ],
+    [
+      "KER17",
+      "New Zealand",
+      "Temperate Australasia",
+      "Kermadecs",
+      "Kermadec Island",
+      "Macauley Rocks",
+      -178.41,
+      -30.23,
+      2
+    ],
+    [
+      "KER18",
+      "New Zealand",
+      "Temperate Australasia",
+      "Kermadecs",
+      "Kermadec Island",
+      "Turtle Bay",
+      -177.89,
+      -29.26,
+      2
+    ],
+    [
+      "KER19",
+      "New Zealand",
+      "Temperate Australasia",
+      "Kermadecs",
+      "Kermadec Island",
+      "Meyer Island North",
+      -177.88,
+      -29.24,
+      2
+    ],
+    [
       "KER2",
       "New Zealand",
       "Temperate Australasia",
@@ -22999,7 +23054,7 @@
       "L'Esperance Rock S",
       -178.83,
       -31.36,
-      1
+      2
     ],
     [
       "KER3",
@@ -23010,7 +23065,7 @@
       "Curtis Is",
       -178.56,
       -30.54,
-      2
+      3
     ],
     [
       "KER4",
@@ -23021,7 +23076,7 @@
       "Cheeseman Is",
       -178.57,
       -30.54,
-      2
+      3
     ],
     [
       "KER5",
@@ -23032,7 +23087,7 @@
       "Macaulay South",
       -178.43,
       -30.24,
-      2
+      3
     ],
     [
       "KER6",
@@ -23076,7 +23131,7 @@
       "Te Konui Pt",
       -177.9,
       -29.28,
-      3
+      5
     ],
     [
       "KG-S1",
@@ -33339,7 +33394,7 @@
       "Kelesia Reef1",
       -174.75,
       -20.5,
-      2
+      4
     ],
     [
       "PAC56",
@@ -33350,7 +33405,7 @@
       "Kelesia Reef2",
       -174.74,
       -20.5,
-      2
+      4
     ],
     [
       "PAC57",
@@ -33361,7 +33416,7 @@
       "Kelesia Lagoon",
       -174.74,
       -20.5,
-      1
+      2
     ],
     [
       "PAC58",
@@ -33372,7 +33427,7 @@
       "Pangaimotu",
       -175.16,
       -21.12,
-      2
+      4
     ],
     [
       "PAC59",
@@ -33383,7 +33438,7 @@
       "Euaiki1",
       -174.98,
       -21.11,
-      2
+      4
     ],
     [
       "PAC6",
@@ -33405,7 +33460,7 @@
       "Euaiki2",
       -174.98,
       -21.11,
-      2
+      4
     ],
     [
       "PAC61",
@@ -44021,6 +44076,28 @@
       -174.04,
       -18.69,
       3
+    ],
+    [
+      "TONGA15",
+      "Tonga",
+      "Central Indo-Pacific",
+      "Tonga",
+      "Tonga Islands",
+      "Kelefesia",
+      -174.74,
+      -20.5,
+      2
+    ],
+    [
+      "TONGA16",
+      "Tonga",
+      "Central Indo-Pacific",
+      "Tonga",
+      "Tonga Islands",
+      "Nomuka Bommie",
+      -174.8,
+      -20.28,
+      2
     ],
     [
       "TONGA18",
