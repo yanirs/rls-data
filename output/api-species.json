@@ -23909,10 +23909,12 @@
   ],
   "Gymnothorax obesus": [
     "Gymnothorax obesus",
-    "",
-    null,
+    "Speckled Moray",
+    "https://reeflifesurvey.com/species/gymnothorax-obesus/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_0e_57a46257ee346.w1000.h666.jpg"
+    ]
   ],
   "Gymnothorax panamensis": [
     "Gymnothorax panamensis",
@@ -39707,8 +39709,8 @@
   ],
   "Patiriella oliveri": [
     "Patiriella oliveri",
-    "",
-    null,
+    "Olive seastar",
+    "https://reeflifesurvey.com/species/patiriella-oliveri/",
     1,
     []
   ],
@@ -46578,8 +46580,8 @@
   ],
   "Rhynchocinetes brucei": [
     "Rhynchocinetes brucei",
-    "",
-    null,
+    "Bruces Hingeback shrimp",
+    "https://reeflifesurvey.com/species/rhynchocinetes-brucei/",
     1,
     []
   ],
