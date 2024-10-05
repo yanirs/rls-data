@@ -3840,6 +3840,13 @@
       "https://images.reeflifesurvey.com/1/species_fc_5e61cb668be1d.w1000.h666.JPG"
     ]
   ],
+  "Arestorides argus": [
+    "Arestorides argus",
+    "",
+    null,
+    1,
+    []
+  ],
   "Argobuccinum pustulosum": [
     "Argobuccinum pustulosum",
     "Triton shell, Pustular Triton, Swollen Trumpet, Argobuccinium pustulosum, Argobuccinum vexillum",
@@ -9111,6 +9118,13 @@
     1,
     []
   ],
+  "Cerithium citrinum": [
+    "Cerithium citrinum",
+    "",
+    null,
+    1,
+    []
+  ],
   "Cerithium columna": [
     "Cerithium columna",
     "",
@@ -9135,6 +9149,13 @@
     1,
     []
   ],
+  "Cerithium munitum": [
+    "Cerithium munitum",
+    "",
+    null,
+    1,
+    []
+  ],
   "Cerithium nodulosum": [
     "Cerithium nodulosum",
     "Nodulose creeper",
@@ -9153,6 +9174,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_c4_59c86075362e2.w1000.h666.JPG"
     ]
+  ],
+  "Cerithium salebrosum": [
+    "Cerithium salebrosum",
+    "",
+    null,
+    1,
+    []
   ],
   "Cerithium spp.": [
     "Cerithium spp.",
@@ -14055,6 +14083,13 @@
     1,
     []
   ],
+  "Conus stercusmuscarum": [
+    "Conus stercusmuscarum",
+    "",
+    null,
+    1,
+    []
+  ],
   "Conus striatus": [
     "Conus striatus",
     "Striated cone",
@@ -15559,6 +15594,13 @@
     "Ctenogobius saepepallens",
     "Dash goby, Gobionellus saepepallens",
     "https://reeflifesurvey.com/species/ctenogobius-saepepallens/",
+    2,
+    []
+  ],
+  "Ctenogobius spp.": [
+    "Ctenogobius spp.",
+    "",
+    null,
     2,
     []
   ],
@@ -18422,6 +18464,13 @@
     2,
     []
   ],
+  "Ecsenius portenoyi": [
+    "Ecsenius portenoyi",
+    "",
+    null,
+    2,
+    []
+  ],
   "Ecsenius prooculis": [
     "Ecsenius prooculis",
     "Striped coralblenny",
@@ -19247,6 +19296,13 @@
   ],
   "Enneapterygius spp.": [
     "Enneapterygius spp.",
+    "",
+    null,
+    2,
+    []
+  ],
+  "Enneapterygius triserialis": [
+    "Enneapterygius triserialis",
     "",
     null,
     2,
@@ -20378,6 +20434,13 @@
     2,
     []
   ],
+  "Eviota dorsogilva": [
+    "Eviota dorsogilva",
+    "",
+    null,
+    2,
+    []
+  ],
   "Eviota fallax": [
     "Eviota fallax",
     "Twin dwarfgoby",
@@ -20412,6 +20475,13 @@
       "https://images.reeflifesurvey.com/0/species_5d_56fb2ee9750b8.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_e2_57d743d0afb01.w1000.h666.jpg"
     ]
+  ],
+  "Eviota infulata": [
+    "Eviota infulata",
+    "",
+    null,
+    2,
+    []
   ],
   "Eviota lachdeberei": [
     "Eviota lachdeberei",
@@ -20663,6 +20733,13 @@
       "https://images.reeflifesurvey.com/1/species_5e_66c2b4a76cba2.w1000.h666.jpg"
     ]
   ],
+  "Eviota sp. [cf sigillata]": [
+    "Eviota sp. [cf sigillata]",
+    "",
+    null,
+    2,
+    []
+  ],
   "Eviota sp. [green]": [
     "Eviota sp. [green]",
     "",
@@ -20784,7 +20861,7 @@
   "Eviota taeiae": [
     "Eviota taeiae",
     "",
-    null,
+    "https://reeflifesurvey.com/species/eviota-taeiae/",
     2,
     []
   ],
@@ -23480,6 +23557,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_78_576b7dc2107e7.w1000.h666.JPG"
     ]
+  ],
+  "Gunnellichthys pleurotaenia": [
+    "Gunnellichthys pleurotaenia",
+    "",
+    null,
+    0,
+    []
   ],
   "Gymnanthenea globigera": [
     "Gymnanthenea globigera",
@@ -29907,6 +29991,13 @@
     "Black waspfish",
     "https://reeflifesurvey.com/species/liocranium-praepositum/",
     2,
+    []
+  ],
+  "Liomera spp.": [
+    "Liomera spp.",
+    "",
+    null,
+    1,
     []
   ],
   "Liopropoma rubre": [
@@ -37549,8 +37640,8 @@
   ],
   "Paguritta kroppi": [
     "Paguritta kroppi",
-    "",
-    null,
+    "Kropps coral hermit crab",
+    "https://reeflifesurvey.com/species/paguritta-kroppi/",
     1,
     []
   ],
@@ -44908,6 +44999,13 @@
       "https://images.reeflifesurvey.com/0/species_ee_577512c6ad343.w1000.h666.jpg"
     ]
   ],
+  "Pseudochromis jamesi": [
+    "Pseudochromis jamesi",
+    "",
+    null,
+    2,
+    []
+  ],
   "Pseudochromis marshallensis": [
     "Pseudochromis marshallensis",
     "Marshall dottyback",
@@ -46457,6 +46555,13 @@
       "https://images.reeflifesurvey.com/0/species_c4_5795823a10807.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_70_5795824010de9.w1000.h666.JPG"
     ]
+  ],
+  "Rhinoclavis articulata": [
+    "Rhinoclavis articulata",
+    "",
+    null,
+    1,
+    []
   ],
   "Rhinoclavis aspera": [
     "Rhinoclavis aspera",
@@ -49319,6 +49424,13 @@
     "",
     null,
     2,
+    []
+  ],
+  "Septa hepatica": [
+    "Septa hepatica",
+    "",
+    null,
+    1,
     []
   ],
   "Seriola dumerili": [
