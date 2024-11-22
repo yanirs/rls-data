@@ -275,6 +275,13 @@
       "https://images.reeflifesurvey.com/0/species_60_577db1d56f50f.w1000.h666.JPG"
     ]
   ],
+  "Acanthemblemaria chaplini": [
+    "Acanthemblemaria chaplini",
+    "",
+    null,
+    2,
+    []
+  ],
   "Acanthemblemaria crockeri": [
     "Acanthemblemaria crockeri",
     "Browncheek blenny",
@@ -9162,6 +9169,13 @@
       "https://images.reeflifesurvey.com/0/species_2c_5843bebdc5de2.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_4f_5c89c92318d82.w1000.h666.jpg"
     ]
+  ],
+  "Cerithium guinaicum": [
+    "Cerithium guinaicum",
+    "",
+    null,
+    1,
+    []
   ],
   "Cerithium litteratum": [
     "Cerithium litteratum",
@@ -36572,6 +36586,13 @@
     2,
     []
   ],
+  "Opistognathus whitehursti": [
+    "Opistognathus whitehursti",
+    "",
+    null,
+    2,
+    []
+  ],
   "Oplegnathus conwayi": [
     "Oplegnathus conwayi",
     "Cuckoo bass, Cape Knifejaw",
@@ -41271,6 +41292,13 @@
       "https://images.reeflifesurvey.com/0/species_e2_576382b76e865.w1000.h666.JPG"
     ]
   ],
+  "Phyllidiella granulata": [
+    "Phyllidiella granulata",
+    "",
+    null,
+    1,
+    []
+  ],
   "Phyllidiella lizae": [
     "Phyllidiella lizae",
     "Lizs phyllidiella, Nudibranch",
@@ -41922,6 +41950,13 @@
       "https://images.reeflifesurvey.com/0/species_02_5774ff656baaa.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_14_64b8869dd9c24.w1000.h666.jpg"
     ]
+  ],
+  "Plakobranchus spp.": [
+    "Plakobranchus spp.",
+    "",
+    null,
+    1,
+    []
   ],
   "Planaxidae spp.": [
     "Planaxidae spp.",
@@ -50628,6 +50663,13 @@
       "https://images.reeflifesurvey.com/0/species_25_582c51a3c7861.w1000.h666.jpg"
     ]
   ],
+  "Sphyraena borealis": [
+    "Sphyraena borealis",
+    "",
+    null,
+    0,
+    []
+  ],
   "Sphyraena ensis": [
     "Sphyraena ensis",
     "Barracuda",
@@ -51319,6 +51361,13 @@
     "Stephanolepis cirrhifer",
     "Threadsail filefish",
     "https://reeflifesurvey.com/species/stephanolepis-cirrhifer/",
+    0,
+    []
+  ],
+  "Stephanolepis hispida": [
+    "Stephanolepis hispida",
+    "",
+    null,
     0,
     []
   ],
