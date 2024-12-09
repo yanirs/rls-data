@@ -6059,7 +6059,9 @@
     "White berthella nudibranch, Berthella chacei",
     "https://reeflifesurvey.com/species/boreoberthella-chacei/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_10_675642a421395.w1000.h666.JPG"
+    ]
   ],
   "Boreogadus saida": [
     "Boreogadus saida",
@@ -10783,7 +10785,8 @@
     "https://reeflifesurvey.com/species/chirolophis-nugator/",
     2,
     [
-      "https://images.reeflifesurvey.com/1/species_a7_64f80c995cfe8.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/1/species_a7_64f80c995cfe8.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_94_6756434e4086a.w1000.h666.JPG"
     ]
   ],
   "Chironemus georgianus": [
@@ -11215,7 +11218,9 @@
     "Longhorn decorator crab",
     "https://reeflifesurvey.com/species/chorilia-longipes/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_f7_6756453b35f5d.w1000.h666.jpg"
+    ]
   ],
   "Chorus giganteus": [
     "Chorus giganteus",
@@ -42375,11 +42380,11 @@
     "https://reeflifesurvey.com/species/plectorhinchus-picus/",
     0,
     [
+      "https://images.reeflifesurvey.com/0/species_96_577b5cf1212e9.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_78_573bceae45d9a.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_70_574e88fff0069.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_40_579dd815c6d00.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_eb_573bcea85c111.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_96_577b5cf1212e9.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_4a_573bceb3520d4.w1000.h666.JPG"
     ]
   ],
@@ -43212,8 +43217,8 @@
     [
       "https://images.reeflifesurvey.com/0/species_d8_56e89387d110f.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_f8_56e8938f95a77.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_3d_5fe316e7a5ce9.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_4f_56e894041e1b0.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_3d_5fe316e7a5ce9.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_bb_5fe316e4e457d.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_1c_5fe316eb0e284.w1000.h666.jpg"
     ]
@@ -55556,7 +55561,6 @@
     1,
     [
       "https://images.reeflifesurvey.com/1/species_f2_5eb0ffc8e003e.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/0/species_a5_576373b36d670.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/1/species_e1_5eb0f8085c71d.w1000.h666.JPG"
     ]
   ],
