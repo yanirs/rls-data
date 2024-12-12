@@ -5616,13 +5616,6 @@
     1,
     []
   ],
-  "Berthella californica": [
-    "Berthella californica",
-    "Sea slug",
-    "https://reeflifesurvey.com/species/berthella-californica/",
-    1,
-    []
-  ],
   "Berthella martensi": [
     "Berthella martensi",
     "Martens sidegill",
@@ -14621,7 +14614,9 @@
     "Three-lined aeolid",
     "https://reeflifesurvey.com/species/coryphella-trilineata/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_93_675648106dbbc.w1000.h666.jpg"
+    ]
   ],
   "Coryphella trophina": [
     "Coryphella trophina",
@@ -19436,6 +19431,7 @@
     [
       "https://images.reeflifesurvey.com/1/species_25_64ffc1d89abf0.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_05_64ffc1d6d9350.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_f7_67564aa45655e.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/1/species_53_64ffc2ff9669e.w1000.h666.jpg"
     ]
   ],
@@ -25320,6 +25316,7 @@
     1,
     [
       "https://images.reeflifesurvey.com/0/species_85_59db4c411a357.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_ca_67564b3000fa5.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/1/species_23_6501506f4f7e6.w1000.h666.jpg"
     ]
   ],
@@ -25508,7 +25505,9 @@
     "Hairy crab",
     "https://reeflifesurvey.com/species/hapalogaster-mertensii/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_ce_67564c73540ff.w1000.h666.jpg"
+    ]
   ],
   "Haploblepharus edwardsii": [
     "Haploblepharus edwardsii",
@@ -26710,7 +26709,9 @@
     "Spiny red star",
     "https://reeflifesurvey.com/species/hippasteria-spinosa/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_42_67564e3c7d7b1.w1000.h666.jpg"
+    ]
   ],
   "Hippocampus abdominalis": [
     "Hippocampus abdominalis",
@@ -29970,7 +29971,8 @@
     "https://reeflifesurvey.com/species/limacia-cockerelli/",
     1,
     [
-      "https://images.reeflifesurvey.com/1/species_77_64d2f7a92df8f.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/1/species_77_64d2f7a92df8f.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_a1_675650023f293.w1000.h666.JPG"
     ]
   ],
   "Limacia mcdonaldi": [
@@ -36242,7 +36244,9 @@
     "Wroblewskis Wentletrap",
     "https://reeflifesurvey.com/species/opalia-wroblewskyi/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_9b_675653edb9fc4.w1000.h666.jpg"
+    ]
   ],
   "Opeatostoma pseudodon": [
     "Opeatostoma pseudodon",
@@ -37534,7 +37538,9 @@
     "Porcelain crab",
     "https://reeflifesurvey.com/species/pachycheles-pubescens/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_72_675657e035a6c.w1000.h666.jpg"
+    ]
   ],
   "Pachygrapsus marmoratus": [
     "Pachygrapsus marmoratus",
@@ -37868,7 +37874,9 @@
     "Hermit crab",
     "https://reeflifesurvey.com/species/pagurus-beringanus/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_3e_67565993c505c.w1000.h666.jpg"
+    ]
   ],
   "Pagurus bernhardus": [
     "Pagurus bernhardus",
@@ -38099,7 +38107,9 @@
     "California longbeak shrimp",
     "https://reeflifesurvey.com/species/pandalus-gurneyi/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_45_675659d302521.w1000.h666.jpeg"
+    ]
   ],
   "Pandalus montagui": [
     "Pandalus montagui",
@@ -41072,6 +41082,7 @@
     "https://reeflifesurvey.com/species/pholis-clemensi/",
     2,
     [
+      "https://images.reeflifesurvey.com/1/species_2c_67565a202c654.w1000.h666.jpeg",
       "https://images.reeflifesurvey.com/1/species_bd_64ffc6e165ed9.w1000.h666.jpg"
     ]
   ],
@@ -42720,7 +42731,10 @@
     "C-o sole",
     "https://reeflifesurvey.com/species/pleuronichthys-coenosus/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_33_675674bb37f78.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_4f_67565d69db9cf.w1000.h666.jpg"
+    ]
   ],
   "Pleuroploca australasia": [
     "Pleuroploca australasia",
@@ -42988,7 +43002,8 @@
     1,
     [
       "https://images.reeflifesurvey.com/1/species_7b_64d449dd68f8e.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/1/species_97_64f442c5db2aa.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_97_64f442c5db2aa.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_4a_675674e8cf871.w1000.h666.JPG"
     ]
   ],
   "Polycladida sp. (hairy)": [
@@ -46206,6 +46221,7 @@
     "https://reeflifesurvey.com/species/pugettia-producta/",
     1,
     [
+      "https://images.reeflifesurvey.com/1/species_ea_67567544a0901.w1000.h666.jpeg",
       "https://images.reeflifesurvey.com/0/species_90_59db3bec3d620.w1000.h666.jpg"
     ]
   ],
@@ -46221,7 +46237,9 @@
     "Cryptic kelp crab",
     "https://reeflifesurvey.com/species/pugettia-richii/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_9a_6756794d304d4.w1000.h666.jpg"
+    ]
   ],
   "Pugettia spp.": [
     "Pugettia spp.",
@@ -46847,7 +46865,9 @@
     "Rhinoceros crab",
     "https://reeflifesurvey.com/species/rhinolithodes-wosnessenskii/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_af_67567c691fccd.w1000.h666.jpg"
+    ]
   ],
   "Rhinomuraena quaesita": [
     "Rhinomuraena quaesita",
@@ -47056,7 +47076,10 @@
     "California rock crab",
     "https://reeflifesurvey.com/species/romaleon-antennarium/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_7f_67568011aaca5.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_54_675680107807d.w1000.h666.jpg"
+    ]
   ],
   "Romaleon branneri": [
     "Romaleon branneri",
@@ -52395,7 +52418,9 @@
     "Manacled sculpin",
     "https://reeflifesurvey.com/species/synchirus-gilli/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_d6_675681ecd4fcf.w1000.h666.jpeg"
+    ]
   ],
   "Syngnathidae spp.": [
     "Syngnathidae spp.",
