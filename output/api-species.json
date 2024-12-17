@@ -3015,7 +3015,9 @@
     "A nudibranch",
     "https://reeflifesurvey.com/species/aphelodoris-berghi/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_a5_675fb234a8cc8.w1000.h666.JPG"
+    ]
   ],
   "Aphelodoris gigas": [
     "Aphelodoris gigas",
@@ -8841,7 +8843,8 @@
     "https://reeflifesurvey.com/species/cephalopholis-boenak/",
     2,
     [
-      "https://images.reeflifesurvey.com/0/species_fe_57146d40f1aee.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_fe_57146d40f1aee.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_0e_675fb1524e631.w1000.h666.JPG"
     ]
   ],
   "Cephalopholis cruentata": [
@@ -19231,7 +19234,12 @@
     "",
     "https://reeflifesurvey.com/species/enneapterygius-etheostomus/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_c7_675fa4b595bc3.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_1a_675fa4c315c36.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_3a_675fa4d044ed1.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_06_675fa4cc9bdf8.w1000.h666.jpg"
+    ]
   ],
   "Enneapterygius flavoccipitis": [
     "Enneapterygius flavoccipitis",
@@ -19937,7 +19945,11 @@
     "Threespot grouper",
     "https://reeflifesurvey.com/species/epinephelus-trimaculatus/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_cc_675fa9591000b.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_a3_675fa970e8357.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_ce_675fa9884bb16.w1000.h666.jpg"
+    ]
   ],
   "Epinephelus tukula": [
     "Epinephelus tukula",
@@ -24995,11 +25007,13 @@
     "https://reeflifesurvey.com/species/halichoeres-nigrescens/",
     0,
     [
-      "https://images.reeflifesurvey.com/0/species_88_574ba9ea0ac2e.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/1/species_4f_5fe30cfb361f2.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_88_574ba9ea0ac2e.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_08_675faa6908a29.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_89_5771e0d07e16f.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_bd_574ba9fc56246.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/0/species_58_5720019b6b7ce.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/1/species_d8_675faabc413a3.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_59_675fab0ecdf18.w1000.h666.jpg"
     ]
   ],
   "Halichoeres notospilus": [
@@ -25186,7 +25200,11 @@
     "Chinese wrasse",
     "https://reeflifesurvey.com/species/halichoeres-tenuispinis/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_05_675fabb951c91.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_41_675fabbfd4db0.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_83_675fabc50fe87.w1000.h666.jpg"
+    ]
   ],
   "Halichoeres timorensis": [
     "Halichoeres timorensis",
@@ -28272,7 +28290,11 @@
     "Campbells goby",
     "https://reeflifesurvey.com/species/istigobius-campbelli/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_d9_675fac9d08c7d.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_6c_675faca602e7a.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_f4_675facb12671e.w1000.h666.jpg"
+    ]
   ],
   "Istigobius decoratus": [
     "Istigobius decoratus",
@@ -39391,7 +39413,11 @@
     "",
     "https://reeflifesurvey.com/species/parioglossus-dotui/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_10_675fadbeb3be2.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_fa_675fadba867b4.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_78_675fadaceb430.w1000.h666.jpg"
+    ]
   ],
   "Parioglossus interruptus": [
     "Parioglossus interruptus",
@@ -41313,7 +41339,9 @@
     "",
     "https://reeflifesurvey.com/species/phyllidiella-granulata/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_d7_675fb0f61d0bf.w1000.h666.JPG"
+    ]
   ],
   "Phyllidiella lizae": [
     "Phyllidiella lizae",
@@ -45828,7 +45856,9 @@
       "https://images.reeflifesurvey.com/0/species_17_574e5787a8c27.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_18_579f3cd2b342e.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_2d_577cf3c85fba3.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_ee_574e578c94a4d.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_ee_574e578c94a4d.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_db_675fae66e3112.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_33_675fae68630dc.w1000.h666.jpg"
     ]
   ],
   "Pteragogus flagellifer": [
@@ -49468,7 +49498,11 @@
     "False kelpfish, Sebasticus marmoratus",
     "https://reeflifesurvey.com/species/sebastiscus-marmoratus/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_7f_675faed31d720.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_6c_675faed8117ed.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_47_675faee14bfe4.w1000.h666.jpg"
+    ]
   ],
   "Sectator ocyurus": [
     "Sectator ocyurus",
