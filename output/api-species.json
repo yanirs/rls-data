@@ -16032,7 +16032,9 @@
     "coral black-fingered crab",
     "https://reeflifesurvey.com/species/cymo-melanodactylus/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_fb_6764e41842774.w1000.h666.JPG"
+    ]
   ],
   "Cymo quadrilobatus": [
     "Cymo quadrilobatus",
@@ -20548,14 +20550,21 @@
     "Shouldermark dwarfgoby",
     "https://reeflifesurvey.com/species/eviota-infulata/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_b8_6764cfc7c19a8.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_d5_6764cee73c5fc.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_03_6764cee7ddd2c.w1000.h666.jpg"
+    ]
   ],
   "Eviota karaspila": [
     "Eviota karaspila",
     "",
     "https://reeflifesurvey.com/species/eviota-karaspila/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_ef_6764e1e3ea911.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_0a_6764e2ae8757a.w1000.h666.jpg"
+    ]
   ],
   "Eviota lachdeberei": [
     "Eviota lachdeberei",
@@ -20937,7 +20946,11 @@
     "",
     "https://reeflifesurvey.com/species/eviota-taeiae/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_c4_6764dc796daab.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_dd_6764dc789ba3f.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_38_6764dc77b333e.w1000.h666.jpg"
+    ]
   ],
   "Eviota teresae": [
     "Eviota teresae",
@@ -21718,7 +21731,8 @@
     [
       "https://images.reeflifesurvey.com/0/species_10_5716e02d6c682.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_e2_5716e0332dd01.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/0/species_d2_578ec0e569f47.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_d2_578ec0e569f47.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_1b_6764cb2954ba1.w1000.h666.jpg"
     ]
   ],
   "Fromia nodosa": [
@@ -27962,7 +27976,8 @@
     1,
     [
       "https://images.reeflifesurvey.com/0/species_6c_57de35e4e5d80.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_35_57de3594c2226.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_35_57de3594c2226.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_5f_6764cb4b79867.w1000.h666.jpg"
     ]
   ],
   "Hypselodoris obscura": [
@@ -35582,7 +35597,9 @@
     "Sevengill shark",
     "https://reeflifesurvey.com/species/notorynchus-cepedianus/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_9c_6764e2f86717c.w1000.h666.JPG"
+    ]
   ],
   "Notosceles serratifrons": [
     "Notosceles serratifrons",
@@ -38921,9 +38938,7 @@
     2,
     [
       "https://images.reeflifesurvey.com/0/species_56_57469cc6041a2.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_67_574504325cf8a.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/0/species_91_57594267664de.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/0/species_cf_577a3134df28e.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/0/species_67_574504325cf8a.w1000.h666.JPG"
     ]
   ],
   "Parapercis millepunctata": [
@@ -41263,7 +41278,9 @@
     "Carlsonhoffs phyllidia ",
     "https://reeflifesurvey.com/species/phyllidia-carlsonhoffi/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_51_6764caf190cd4.w1000.h666.jpg"
+    ]
   ],
   "Phyllidia coelestis": [
     "Phyllidia coelestis",
@@ -53331,7 +53348,9 @@
     "crab",
     "https://reeflifesurvey.com/species/tetralia-glaberrima/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_d8_6764e38bb509c.w1000.h666.JPG"
+    ]
   ],
   "Tetralia nigrolineata": [
     "Tetralia nigrolineata",
@@ -56716,7 +56735,9 @@
     "Nudibranch",
     "https://reeflifesurvey.com/species/verconia-laboutei/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_d0_6764e3d46154a.w1000.h666.JPG"
+    ]
   ],
   "Verconia norba": [
     "Verconia norba",
