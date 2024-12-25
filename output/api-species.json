@@ -8402,6 +8402,13 @@
       "https://images.reeflifesurvey.com/0/species_0e_59c8606037fd5.w1000.h666.jpg"
     ]
   ],
+  "Cassiopea maremetens": [
+    "Cassiopea maremetens",
+    "",
+    null,
+    2,
+    []
+  ],
   "Cassis cornuta": [
     "Cassis cornuta",
     "Horned helmet",
@@ -20500,6 +20507,13 @@
     "Eviota cometa",
     "Comet goby",
     "https://reeflifesurvey.com/species/eviota-cometa/",
+    2,
+    []
+  ],
+  "Eviota distigma": [
+    "Eviota distigma",
+    "",
+    "https://reeflifesurvey.com/species/eviota-distigma/",
     2,
     []
   ],
@@ -32890,6 +32904,13 @@
       "https://images.reeflifesurvey.com/1/species_28_619b201682f33.w1000.h666.jpg"
     ]
   ],
+  "Mobula spp.": [
+    "Mobula spp.",
+    "",
+    null,
+    0,
+    []
+  ],
   "Mobula tarapacana": [
     "Mobula tarapacana",
     "",
@@ -41672,6 +41693,13 @@
       "https://images.reeflifesurvey.com/0/species_67_573ae837017bc.w1000.h666.jpg"
     ]
   ],
+  "Pilumnidae spp.": [
+    "Pilumnidae spp.",
+    "",
+    null,
+    1,
+    []
+  ],
   "Pilumnus monilifer": [
     "Pilumnus monilifer",
     "Hairy crab",
@@ -49546,6 +49574,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_b6_573563b45cd6a.w1000.h666.jpg"
     ]
+  ],
+  "Selar spp.": [
+    "Selar spp.",
+    "",
+    null,
+    0,
+    []
   ],
   "Selaroides leptolepis": [
     "Selaroides leptolepis",
