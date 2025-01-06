@@ -23540,7 +23540,10 @@
     "",
     "https://reeflifesurvey.com/species/gourmya-gourmyi/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_e5_677b2927c62e0.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_71_677b292a84ff0.w1000.h666.jpg"
+    ]
   ],
   "Gracila albomarginata": [
     "Gracila albomarginata",
