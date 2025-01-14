@@ -6,7 +6,7 @@ on:
     - cron: '23 0 * * *'  # Daily at 00:23 UTC.
 jobs:
   update-data:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       # See https://github.com/marketplace/actions/add-commit#working-with-prs for why two steps are needed.
       - name: Check out repository code (scheduled)
