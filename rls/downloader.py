@@ -14,7 +14,7 @@ _logger = logging.getLogger("rls.processor")
 def download_survey_data(survey_data_dir: Path) -> None:
     """Download RLS CSV data files to the given directory, creating it if needed."""
     verify_empty_dir(survey_data_dir)
-    ThreadPoolExecutor(max_workers=3).map(
+    results = ThreadPoolExecutor(max_workers=3).map(
         _download_survey_data_file,
         [
             (
@@ -33,6 +33,8 @@ def download_survey_data(survey_data_dir: Path) -> None:
         # Five minutes should be plenty of time to download the largest file (m1).
         timeout=300,
     )
+    for result in results:
+        result.result()
 
 
 def _download_survey_data_file(url_and_out_path: tuple[str, Path]) -> None:
