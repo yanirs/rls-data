@@ -51,7 +51,7 @@ jobs:
       # verifies that they're reflected in pages that can be scraped.
       - name: Download species.json
         run: |
-          curl -sS --compressed \
+          curl -sS --compressed --fail \
             "https://reeflifesurvey.com/species/api/species.json?v=$(date --utc +%s)" \
             | jq \
             > output/species.json
@@ -60,7 +60,7 @@ jobs:
       # Removing the first column (FID) because it changes on every request.
       - name: Download raw_species.csv
         run: |
-          curl -sS --compressed \
+          curl -sS --compressed --fail \
             "https://geoserver-123.aodn.org.au/geoserver/imos/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=imos%3Aep_species_list_data&outputFormat=csv" \
             | cut -d, -f2- \
             | sort -n \

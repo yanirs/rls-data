@@ -1210,6 +1210,13 @@
     2,
     []
   ],
+  "Aequorea victoria": [
+    "Aequorea victoria",
+    "",
+    null,
+    2,
+    []
+  ],
   "Aetapcus maculatus": [
     "Aetapcus maculatus",
     "Warty prowfish",
@@ -1273,6 +1280,13 @@
     "Agathistoma lividomaculatum",
     "West Indian tegula",
     "https://reeflifesurvey.com/species/agathistoma-lividomaculatum/",
+    1,
+    []
+  ],
+  "Aglaja ocelligera": [
+    "Aglaja ocelligera",
+    "",
+    null,
     1,
     []
   ],
@@ -1380,6 +1394,13 @@
   ],
   "Alcyonium antarcticum": [
     "Alcyonium antarcticum",
+    "",
+    null,
+    1,
+    []
+  ],
+  "Aldisa spp.": [
+    "Aldisa spp.",
     "",
     null,
     1,
@@ -4193,6 +4214,13 @@
       "https://images.reeflifesurvey.com/0/species_80_579553b7406cb.w1000.h666.jpg"
     ]
   ],
+  "Ascelichthys rhodorus": [
+    "Ascelichthys rhodorus",
+    "",
+    null,
+    2,
+    []
+  ],
   "Asemichthys taylori": [
     "Asemichthys taylori",
     "Spinynose sculpin",
@@ -5610,6 +5638,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_2f_570b43064f4dd.w1000.h666.jpg"
     ]
+  ],
+  "Bermudella mija": [
+    "Bermudella mija",
+    "",
+    null,
+    1,
+    []
   ],
   "Bertheliniinae spp.": [
     "Bertheliniinae spp.",
@@ -13730,6 +13765,13 @@
     0,
     []
   ],
+  "Conus anabathrum": [
+    "Conus anabathrum",
+    "",
+    null,
+    1,
+    []
+  ],
   "Conus anemone": [
     "Conus anemone",
     "Anemone cone",
@@ -15477,6 +15519,13 @@
     [
       "https://images.reeflifesurvey.com/1/species_5a_64d2f37781af7.w1000.h666.jpg"
     ]
+  ],
+  "Cryptonatica aleutica": [
+    "Cryptonatica aleutica",
+    "",
+    null,
+    1,
+    []
   ],
   "Cryptotomus roseus": [
     "Cryptotomus roseus",
@@ -17561,6 +17610,13 @@
     1,
     []
   ],
+  "Discorsopagurus schmitti": [
+    "Discorsopagurus schmitti",
+    "",
+    null,
+    1,
+    []
+  ],
   "Discotrema crinophilum": [
     "Discotrema crinophilum",
     "Crinoid Clingfish",
@@ -18039,6 +18095,13 @@
       "https://images.reeflifesurvey.com/0/species_cb_5705d5ec310a6.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_77_5705d607c625e.w1000.h666.jpg"
     ]
+  ],
+  "Echidnocerus cibarius": [
+    "Echidnocerus cibarius",
+    "",
+    null,
+    1,
+    []
   ],
   "Echinarachnius parma": [
     "Echinarachnius parma",
@@ -24656,6 +24719,13 @@
     1,
     []
   ],
+  "Halicarcinus rostratus": [
+    "Halicarcinus rostratus",
+    "",
+    null,
+    1,
+    []
+  ],
   "Halichoeres adustus": [
     "Halichoeres adustus",
     "Black wrasse",
@@ -25871,6 +25941,13 @@
     "Hemilepidotus jordani",
     "Yellow irish lord",
     "https://reeflifesurvey.com/species/hemilepidotus-jordani/",
+    2,
+    []
+  ],
+  "Hemilepidotus spp.": [
+    "Hemilepidotus spp.",
+    "",
+    null,
     2,
     []
   ],
@@ -30426,6 +30503,13 @@
       "https://images.reeflifesurvey.com/1/species_64_65011ba188fa9.w1000.h666.jpeg"
     ]
   ],
+  "Lottia spp.": [
+    "Lottia spp.",
+    "",
+    null,
+    1,
+    []
+  ],
   "Lovettia sealii": [
     "Lovettia sealii",
     "Tasmanian whitebait",
@@ -32142,6 +32226,13 @@
       "https://images.reeflifesurvey.com/1/species_55_5e291b7826ac6.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/1/species_fc_5e291b7d6867d.w1000.h666.JPG"
     ]
+  ],
+  "Menippe mercenaria": [
+    "Menippe mercenaria",
+    "",
+    null,
+    1,
+    []
   ],
   "Meoma ventricosa": [
     "Meoma ventricosa",
@@ -37606,6 +37697,20 @@
       "https://images.reeflifesurvey.com/1/species_72_675657e035a6c.w1000.h666.jpg"
     ]
   ],
+  "Pachycheles rudis": [
+    "Pachycheles rudis",
+    "",
+    null,
+    1,
+    []
+  ],
+  "Pachycheles spp.": [
+    "Pachycheles spp.",
+    "",
+    null,
+    1,
+    []
+  ],
   "Pachygrapsus marmoratus": [
     "Pachygrapsus marmoratus",
     "",
@@ -37955,6 +38060,13 @@
     "Pagurus brevidactylus",
     "Shortfinger hermit crab",
     "https://reeflifesurvey.com/species/pagurus-brevidactylus/",
+    1,
+    []
+  ],
+  "Pagurus caurinus": [
+    "Pagurus caurinus",
+    "",
+    null,
     1,
     []
   ],
@@ -39413,6 +39525,13 @@
   ],
   "Pareques spp.": [
     "Pareques spp.",
+    "",
+    null,
+    0,
+    []
+  ],
+  "Pareques umbrosus": [
+    "Pareques umbrosus",
     "",
     null,
     0,
@@ -44232,6 +44351,13 @@
     2,
     []
   ],
+  "Pristotis obtusirostris": [
+    "Pristotis obtusirostris",
+    "",
+    "https://reeflifesurvey.com/species/pristotis-obtusirostris/",
+    0,
+    []
+  ],
   "Prognathodes aculeatus": [
     "Prognathodes aculeatus",
     "Butterbun, Chaetodon aculeatus",
@@ -47203,6 +47329,13 @@
       "https://images.reeflifesurvey.com/0/species_01_5753be0197fed.w1000.h666.JPG"
     ]
   ],
+  "Rostanga pulchra": [
+    "Rostanga pulchra",
+    "",
+    null,
+    1,
+    []
+  ],
   "Ruanoho decemdigitatus": [
     "Ruanoho decemdigitatus",
     "Long-finned triplefin",
@@ -47234,6 +47367,13 @@
       "https://images.reeflifesurvey.com/0/species_8c_577a1166d185e.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_e1_5785ad833ee51.w1000.h666.JPG"
     ]
+  ],
+  "Rypticus bistrispinus": [
+    "Rypticus bistrispinus",
+    "",
+    null,
+    2,
+    []
   ],
   "Rypticus nigripinnis": [
     "Rypticus nigripinnis",
