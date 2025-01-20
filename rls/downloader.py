@@ -33,8 +33,8 @@ def download_survey_data(survey_data_dir: Path) -> None:
         # Five minutes should be plenty of time to download the largest file (m1).
         timeout=300,
     )
-    for result in results:
-        result.result()
+    for _ in results:
+        pass
 
 
 def _download_survey_data_file(url_and_out_path: tuple[str, Path]) -> None:
