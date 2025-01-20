@@ -44,7 +44,7 @@ jobs:
           poetry install
 
       - name: Download RLS survey data
-        run: poetry run rls-data download-survey-data data/rls-surveys/ && ls -lah data/rls-surveys/
+        run: poetry run rls-data download-survey-data data/rls-surveys/ && ls -lah data/rls-surveys/ && cat data/rls-surveys/m1.csv
 
       # It's possible to extract the species data from species.json without scraping,
       # but this approach acts as a monitor that tracks changes to species.json and
