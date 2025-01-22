@@ -1285,8 +1285,8 @@
   ],
   "Aglaja ocelligera": [
     "Aglaja ocelligera",
-    "",
-    null,
+    "Spotted aglaja",
+    "https://reeflifesurvey.com/species/aglaja-ocelligera/",
     1,
     []
   ],
@@ -2776,6 +2776,13 @@
       "https://images.reeflifesurvey.com/0/species_1a_578f4df55fba2.w1000.h666.jpg"
     ]
   ],
+  "Anoplarchus spp.": [
+    "Anoplarchus spp.",
+    "",
+    null,
+    2,
+    []
+  ],
   "Anoplocapros amygdaloides": [
     "Anoplocapros amygdaloides",
     "Western smooth boxfish, Anoplocapros robustus",
@@ -4127,6 +4134,13 @@
     2,
     []
   ],
+  "Artedius fenestralis": [
+    "Artedius fenestralis",
+    "Padded sculpin",
+    "https://reeflifesurvey.com/species/artedius-fenestralis/",
+    2,
+    []
+  ],
   "Artedius harringtoni": [
     "Artedius harringtoni",
     "Scalyhead sculpin",
@@ -4216,8 +4230,8 @@
   ],
   "Ascelichthys rhodorus": [
     "Ascelichthys rhodorus",
-    "",
-    null,
+    "Rosylip sculpin",
+    "https://reeflifesurvey.com/species/ascelichthys-rhodorus/",
     2,
     []
   ],
@@ -5641,8 +5655,8 @@
   ],
   "Bermudella mija": [
     "Bermudella mija",
-    "",
-    null,
+    "Nudibranch",
+    "https://reeflifesurvey.com/species/bermudella-mija/",
     1,
     []
   ],
@@ -12895,6 +12909,13 @@
     2,
     []
   ],
+  "Clinocottus acuticeps": [
+    "Clinocottus acuticeps",
+    "Sharpnose sculpin",
+    "https://reeflifesurvey.com/species/clinocottus-acuticeps/",
+    2,
+    []
+  ],
   "Clinus spp.": [
     "Clinus spp.",
     "",
@@ -13767,8 +13788,8 @@
   ],
   "Conus anabathrum": [
     "Conus anabathrum",
-    "",
-    null,
+    "Florida cone shell",
+    "https://reeflifesurvey.com/species/conus-anabathrum/",
     1,
     []
   ],
@@ -15523,7 +15544,7 @@
   "Cryptonatica aleutica": [
     "Cryptonatica aleutica",
     "",
-    null,
+    "https://reeflifesurvey.com/species/cryptonatica-aleutica/",
     1,
     []
   ],
@@ -17612,8 +17633,8 @@
   ],
   "Discorsopagurus schmitti": [
     "Discorsopagurus schmitti",
-    "",
-    null,
+    "Tubeworm hermit",
+    "https://reeflifesurvey.com/species/discorsopagurus-schmitti/",
     1,
     []
   ],
@@ -18098,8 +18119,8 @@
   ],
   "Echidnocerus cibarius": [
     "Echidnocerus cibarius",
-    "",
-    null,
+    "Puget sound king crab",
+    "https://reeflifesurvey.com/species/echidnocerus-cibarius/",
     1,
     []
   ],
@@ -22803,6 +22824,13 @@
     2,
     []
   ],
+  "Gobioclinus kalisherae": [
+    "Gobioclinus kalisherae",
+    "Downy blenny",
+    "https://reeflifesurvey.com/species/gobioclinus-kalisherae/",
+    2,
+    []
+  ],
   "Gobiodon ?histrio": [
     "Gobiodon ?histrio",
     "",
@@ -24721,8 +24749,8 @@
   ],
   "Halicarcinus rostratus": [
     "Halicarcinus rostratus",
-    "",
-    null,
+    "Beaked flat spider crab",
+    "https://reeflifesurvey.com/species/halicarcinus-rostratus/",
     1,
     []
   ],
@@ -25941,6 +25969,13 @@
     "Hemilepidotus jordani",
     "Yellow irish lord",
     "https://reeflifesurvey.com/species/hemilepidotus-jordani/",
+    2,
+    []
+  ],
+  "Hemilepidotus spinosus": [
+    "Hemilepidotus spinosus",
+    "Brown Irish lord",
+    "https://reeflifesurvey.com/species/hemilepidotus-spinosus/",
     2,
     []
   ],
@@ -32229,8 +32264,8 @@
   ],
   "Menippe mercenaria": [
     "Menippe mercenaria",
-    "",
-    null,
+    "Miami stone crab",
+    "https://reeflifesurvey.com/species/menippe-mercenaria/",
     1,
     []
   ],
@@ -37699,8 +37734,8 @@
   ],
   "Pachycheles rudis": [
     "Pachycheles rudis",
-    "",
-    null,
+    "Thickclaw porcelain crab",
+    "https://reeflifesurvey.com/species/pachycheles-rudis/",
     1,
     []
   ],
@@ -38065,8 +38100,8 @@
   ],
   "Pagurus caurinus": [
     "Pagurus caurinus",
-    "",
-    null,
+    "Greenmark hermit",
+    "https://reeflifesurvey.com/species/pagurus-caurinus/",
     1,
     []
   ],
@@ -39532,8 +39567,8 @@
   ],
   "Pareques umbrosus": [
     "Pareques umbrosus",
-    "",
-    null,
+    "Cubbyu",
+    "https://reeflifesurvey.com/species/pareques-umbrosus/",
     0,
     []
   ],
@@ -47331,8 +47366,8 @@
   ],
   "Rostanga pulchra": [
     "Rostanga pulchra",
-    "",
-    null,
+    "Red dorid",
+    "https://reeflifesurvey.com/species/rostanga-pulchra/",
     1,
     []
   ],
@@ -47370,8 +47405,8 @@
   ],
   "Rypticus bistrispinus": [
     "Rypticus bistrispinus",
-    "",
-    null,
+    "Soapfish",
+    "https://reeflifesurvey.com/species/rypticus-bistrispinus/",
     2,
     []
   ],
@@ -49083,6 +49118,13 @@
     "Scorpaenodes parvipinnis",
     "Coral scorpionfish",
     "https://reeflifesurvey.com/species/scorpaenodes-parvipinnis/",
+    2,
+    []
+  ],
+  "Scorpaenodes scaber": [
+    "Scorpaenodes scaber",
+    "",
+    null,
     2,
     []
   ],
@@ -55134,6 +55176,13 @@
     "Trimma nasa",
     "",
     "https://reeflifesurvey.com/species/trimma-nasa/",
+    2,
+    []
+  ],
+  "Trimma necopinum": [
+    "Trimma necopinum",
+    "",
+    "https://reeflifesurvey.com/species/trimma-necopinum/",
     2,
     []
   ],
