@@ -37796,6 +37796,13 @@
       "https://images.reeflifesurvey.com/1/species_01_636b2f514c105.w1000.h666.jpg"
     ]
   ],
+  "Paciocinebrina interfossa": [
+    "Paciocinebrina interfossa",
+    "",
+    null,
+    1,
+    []
+  ],
   "Pagellus acarne": [
     "Pagellus acarne",
     "Axillary seabream",
@@ -38143,6 +38150,13 @@
       "https://images.reeflifesurvey.com/1/species_d4_636b24c6a2b19.w1000.h666.jpg"
     ]
   ],
+  "Pagurus hirsutiusculus": [
+    "Pagurus hirsutiusculus",
+    "",
+    null,
+    1,
+    []
+  ],
   "Pagurus hirtimanus": [
     "Pagurus hirtimanus",
     "",
@@ -38328,6 +38342,13 @@
     "Pandalus montagui",
     "",
     "https://reeflifesurvey.com/species/pandalus-montagui/",
+    1,
+    []
+  ],
+  "Pandalus platyceros": [
+    "Pandalus platyceros",
+    "",
+    null,
     1,
     []
   ],
@@ -41038,6 +41059,13 @@
     "Red steenbras",
     "https://reeflifesurvey.com/species/petrus-rupestris/",
     0,
+    []
+  ],
+  "Phacellophora camtschatica": [
+    "Phacellophora camtschatica",
+    "",
+    null,
+    2,
     []
   ],
   "Phalacrocorax pelagicus": [
@@ -49123,10 +49151,13 @@
   ],
   "Scorpaenodes scaber": [
     "Scorpaenodes scaber",
-    "",
-    null,
+    "Pygmy Scorpionfish",
+    "https://reeflifesurvey.com/species/scorpaenodes-scaber/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_6c_6347ed6b34578.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_57_6347ed690bfc2.w1000.h666.jpg"
+    ]
   ],
   "Scorpaenodes sp. [Elizabeth Reef]": [
     "Scorpaenodes sp. [Elizabeth Reef]",

@@ -2058,6 +2058,28 @@
       1
     ],
     [
+      "BCQ01",
+      "Canada",
+      "Temperate Northern Pacific",
+      "Vancouver Island",
+      "Puget Trough/Georgia Basin",
+      "Moulds Bay",
+      -125.19,
+      50.13,
+      2
+    ],
+    [
+      "BCQ02",
+      "Canada",
+      "Temperate Northern Pacific",
+      "Vancouver Island",
+      "Puget Trough/Georgia Basin",
+      "Wawakie",
+      -125.17,
+      50.04,
+      1
+    ],
+    [
       "BI-S1",
       "Australia",
       "Temperate Australasia",
@@ -46154,7 +46176,7 @@
       "Cottam Point  Nanaimo BC",
       -124.22,
       49.32,
-      4
+      6
     ],
     [
       "USWC18",
@@ -46165,7 +46187,7 @@
       "Madrona Point SW  Nainaimo BC",
       -124.24,
       49.31,
-      2
+      3
     ],
     [
       "USWC19",
@@ -46176,7 +46198,7 @@
       "Madrona Point NW  Nainaimo BC",
       -124.24,
       49.31,
-      4
+      6
     ],
     [
       "USWC2",
@@ -46198,7 +46220,7 @@
       "Quathiaski Cove BC",
       -125.23,
       50.05,
-      4
+      6
     ],
     [
       "USWC21",
@@ -46209,7 +46231,7 @@
       "Dolphin Beach East BC",
       -124.14,
       49.29,
-      4
+      6
     ],
     [
       "USWC22",
