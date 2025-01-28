@@ -37798,8 +37798,8 @@
   ],
   "Paciocinebrina interfossa": [
     "Paciocinebrina interfossa",
-    "",
-    null,
+    "Sculptured Rocksnail",
+    "https://reeflifesurvey.com/species/paciocinebrina-interfossa/",
     1,
     []
   ],
@@ -38153,7 +38153,7 @@
   "Pagurus hirsutiusculus": [
     "Pagurus hirsutiusculus",
     "",
-    null,
+    "https://reeflifesurvey.com/species/pagurus-hirsutiusculus/",
     1,
     []
   ],
@@ -38348,7 +38348,7 @@
   "Pandalus platyceros": [
     "Pandalus platyceros",
     "",
-    null,
+    "https://reeflifesurvey.com/species/pandalus-platyceros/",
     1,
     []
   ],
@@ -44419,7 +44419,9 @@
     "",
     "https://reeflifesurvey.com/species/pristotis-obtusirostris/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_f0_6792e68e25226.w1000.h666.JPG"
+    ]
   ],
   "Prognathodes aculeatus": [
     "Prognathodes aculeatus",
