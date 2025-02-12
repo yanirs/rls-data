@@ -14,7 +14,7 @@ _logger = logging.getLogger("rls.processor")
 def download_survey_data(survey_data_dir: Path) -> None:
     """Download RLS CSV data files to the given directory, creating it if needed."""
     verify_empty_dir(survey_data_dir)
-    results = ThreadPoolExecutor(max_workers=3).map(
+    results = ThreadPoolExecutor(max_workers=1).map(
         _download_survey_data_file,
         [
             (
