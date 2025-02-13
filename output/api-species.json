@@ -3396,15 +3396,6 @@
       "https://images.reeflifesurvey.com/0/species_d4_57843e6f30041.w1000.h666.JPG"
     ]
   ],
-  "Apogon fasciatus": [
-    "Apogon fasciatus",
-    "Broadbanded cardinalfish",
-    "https://reeflifesurvey.com/species/apogon-fasciatus/",
-    2,
-    [
-      "https://images.reeflifesurvey.com/0/species_06_56ef66de8b15d.w1000.h666.jpg"
-    ]
-  ],
   "Apogon imberbis": [
     "Apogon imberbis",
     "Cardinal fish",
@@ -37087,10 +37078,12 @@
   ],
   "Ostorhinchus fasciatus": [
     "Ostorhinchus fasciatus",
-    "",
-    null,
+    "Broadbanded cardinalfish, Apogon fasciatus",
+    "https://reeflifesurvey.com/species/ostorhinchus-fasciatus/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_06_56ef66de8b15d.w1000.h666.jpg"
+    ]
   ],
   "Ostorhinchus flavus": [
     "Ostorhinchus flavus",
