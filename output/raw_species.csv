@@ -196,7 +196,6 @@ species_id,recorded_species_name,species_name,taxon,reporting_name,phylum,class_
 269,Octopus tetricus,Octopus tetricus,Octopus tetricus,Octopus tetricus,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus,Gloomy octopus,1193.8164,11.4121,1.265,80,,Cephalopods,Molluscs,5206,Octopus gibbsi,POINT (0 0),267,6281
 270,Agnewia tritoniformis,Agnewia tritoniformis,Agnewia tritoniformis,Agnewia tritoniformis,Mollusca,Gastropoda,Neogastropoda,Muricidae,Agnewia,Murex shell,482.779,20.6478,5.797,3,,Sea snails and slugs,Molluscs,,,POINT (0 0),268,
 271,Jasus edwardsii,Jasus edwardsii,Jasus edwardsii,Jasus edwardsii,Arthropoda,Malacostraca,Decapoda,Palinuridae,Jasus,Southern rock lobster,878.4212,37.5246,2.7316,23,,Higher crustaceans,Arthropods,,,POINT (0 0),270,
-273,Plagusia chabrus,Plagusia chabrus,Plagusia chabrus,Plagusia chabrus,Arthropoda,Malacostraca,Decapoda,Plagusiidae,Plagusia,Red bait crab,1490.1365,40.471,2.2434,7,,Higher crustaceans,Arthropods,,,POINT (0 0),272,
 280,Cymbiola magnifica,Cymbiola magnifica,Cymbiola magnifica,Cymbiola magnifica,Mollusca,Gastropoda,Neogastropoda,Volutidae,Cymbiola,Magnificent volute,184.1474,7.2539,1.0769,36,,Sea snails and slugs,Molluscs,,,POINT (0 0),279,
 282,Barbatia pistachia,Barbatia pistachia,Barbatia pistachia,Barbatia pistachia,Mollusca,Bivalvia,Arcoida,Arcidae,Barbatia,Bivalve,562.5132,1.7986,1.6667,,,Bivalves,Molluscs,,,POINT (0 0),281,
 283,Xenostrobus pulex,Xenostrobus pulex,Xenostrobus pulex,Xenostrobus pulex,Mollusca,Bivalvia,Mytiloida,Mytilidae,Xenostrobus,Mussel,146.1713,4.0404,46.25,,,Bivalves,Molluscs,,,POINT (0 0),282,
@@ -4859,7 +4858,7 @@ species_id,recorded_species_name,species_name,taxon,reporting_name,phylum,class_
 6550,Pagurus traversi,Pagurus traversi,Pagurus traversi,Pagurus traversi,Arthropoda,Malacostraca,Decapoda,Paguridae,Pagurus,,10,100,4,,,Higher crustaceans,Arthropods,,,POINT (0 0),7941,
 6551,Maurea punctulata,Maurea punctulata,Maurea punctulata,Maurea punctulata,Mollusca,Gastropoda,Trochida,Calliostomatidae,Maurea,,10,100,1,,,Sea snails and slugs,Molluscs,,,POINT (0 0),7942,
 6552,Alloiodoris lanuginata,Alloiodoris lanuginata,Alloiodoris lanuginata,Alloiodoris lanuginata,Mollusca,Gastropoda,Nudibranchia,Discodorididae,Alloiodoris,,10,100,1,,,Sea snails and slugs,Molluscs,,,POINT (0 0),7943,
-6553,Guinusia chabrus,Guinusia chabrus,Guinusia chabrus,Guinusia chabrus,Arthropoda,Malacostraca,Decapoda,Plagusiidae,Guinusia,,344.6877,17.3252,1.59,,,Higher crustaceans,Arthropods,,,POINT (0 0),7944,
+6553,Guinusia chabrus,Guinusia chabrus,Guinusia chabrus,Guinusia chabrus,Arthropoda,Malacostraca,Decapoda,Plagusiidae,Guinusia,,1471.5449,41.7306,2.1889,,,Higher crustaceans,Arthropods,273,Plagusia chabrus,POINT (0 0),7944,272
 6554,Oppomorus noduliferus,Oppomorus noduliferus,Oppomorus noduliferus,Oppomorus noduliferus,Mollusca,Gastropoda,Neogastropoda,Muricidae,Oppomorus,,10,16.6667,30,,,Sea snails and slugs,Molluscs,,,POINT (0 0),7946,
 6555,Divalucina cumingi,Divalucina cumingi,Divalucina cumingi,Divalucina cumingi,Mollusca,Bivalvia,Lucinida,Lucinidae,Divalucina,,10,20,3,,,Bivalves,Molluscs,,,POINT (0 0),7947,
 6557,Favartia brazieri,Favartia brazieri,Favartia brazieri,Favartia brazieri,Mollusca,Gastropoda,Neogastropoda,Muricidae,Favartia,Sea snail,21.6002,5.5556,1,,,Sea snails and slugs,Molluscs,,,POINT (0 0),7949,
