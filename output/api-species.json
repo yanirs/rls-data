@@ -3396,15 +3396,6 @@
       "https://images.reeflifesurvey.com/0/species_d4_57843e6f30041.w1000.h666.JPG"
     ]
   ],
-  "Apogon fasciatus": [
-    "Apogon fasciatus",
-    "Broadbanded cardinalfish",
-    "https://reeflifesurvey.com/species/apogon-fasciatus/",
-    2,
-    [
-      "https://images.reeflifesurvey.com/0/species_06_56ef66de8b15d.w1000.h666.jpg"
-    ]
-  ],
   "Apogon imberbis": [
     "Apogon imberbis",
     "Cardinal fish",
@@ -11520,6 +11511,13 @@
       "https://images.reeflifesurvey.com/1/species_2d_5fe30ad84ef13.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_3b_576b56274e32d.w1000.h666.jpg"
     ]
+  ],
+  "Chromis norfolkensis": [
+    "Chromis norfolkensis",
+    "",
+    null,
+    0,
+    []
   ],
   "Chromis notata": [
     "Chromis notata",
@@ -28129,6 +28127,13 @@
       "https://images.reeflifesurvey.com/0/species_b4_579ae21077ce7.w1000.h666.JPG"
     ]
   ],
+  "Hypselodoris sp. [11]": [
+    "Hypselodoris sp. [11]",
+    "",
+    null,
+    1,
+    []
+  ],
   "Hypselodoris spp.": [
     "Hypselodoris spp.",
     "",
@@ -37087,10 +37092,12 @@
   ],
   "Ostorhinchus fasciatus": [
     "Ostorhinchus fasciatus",
-    "",
-    null,
+    "Broadbanded cardinalfish, Apogon fasciatus",
+    "https://reeflifesurvey.com/species/ostorhinchus-fasciatus/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_06_56ef66de8b15d.w1000.h666.jpg"
+    ]
   ],
   "Ostorhinchus flavus": [
     "Ostorhinchus flavus",
@@ -42207,18 +42214,6 @@
       "https://images.reeflifesurvey.com/1/species_24_5e83ef988b583.w1000.h666.jpg"
     ]
   ],
-  "Plagusia chabrus": [
-    "Plagusia chabrus",
-    "Red bait crab, Cleft-fronted Shore Crab, Sally Lightfoot",
-    "https://reeflifesurvey.com/species/plagusia-chabrus/",
-    1,
-    [
-      "https://images.reeflifesurvey.com/0/species_72_575025df24099.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_dc_575025b66dceb.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_43_5750260a83aca.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_28_5791f3b7101e5.w1000.h666.jpg"
-    ]
-  ],
   "Plagusia spp.": [
     "Plagusia spp.",
     "",
@@ -45279,6 +45274,13 @@
     [
       "https://images.reeflifesurvey.com/1/species_43_6347ea204c22a.w1000.h666.JPG"
     ]
+  ],
+  "Pseudoceros sp. [pink-netted]": [
+    "Pseudoceros sp. [pink-netted]",
+    "",
+    null,
+    1,
+    []
   ],
   "Pseudoceros sp. [red mottled]": [
     "Pseudoceros sp. [red mottled]",

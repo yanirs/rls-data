@@ -26915,7 +26915,7 @@
       "The Crack Nepean Island",
       167.96,
       -29.07,
-      7
+      10
     ],
     [
       "NI10",
@@ -26926,7 +26926,18 @@
       "Slaughterhouse Bay",
       167.96,
       -29.06,
-      10
+      12
+    ],
+    [
+      "NI11",
+      "Australia",
+      "Central Indo-Pacific",
+      "Norfolk Island",
+      "Lord Howe and Norfolk Islands",
+      "Fish Bowl Nepean",
+      167.97,
+      -29.07,
+      4
     ],
     [
       "NI12",
@@ -26937,7 +26948,7 @@
       "Lone Pine",
       167.96,
       -29.06,
-      3
+      5
     ],
     [
       "NI13",
@@ -26948,7 +26959,7 @@
       "Emily Bay Salthouse",
       167.96,
       -29.06,
-      3
+      6
     ],
     [
       "NI14",
@@ -26959,7 +26970,7 @@
       "Sydney Bay Anchorage",
       167.95,
       -29.06,
-      4
+      6
     ],
     [
       "NI15",
@@ -26970,7 +26981,7 @@
       "Gun Club",
       167.92,
       -29.01,
-      4
+      8
     ],
     [
       "NI16",
@@ -26981,7 +26992,7 @@
       "Jacky Jack",
       167.95,
       -29.13,
-      1
+      5
     ],
     [
       "NI17",
@@ -26992,7 +27003,29 @@
       "Ball Bay nth",
       167.99,
       -29.05,
-      2
+      5
+    ],
+    [
+      "NI18",
+      "Australia",
+      "Central Indo-Pacific",
+      "Norfolk Island",
+      "Lord Howe and Norfolk Islands",
+      "Elephant Rock NI",
+      167.96,
+      -29.01,
+      4
+    ],
+    [
+      "NI19",
+      "Australia",
+      "Central Indo-Pacific",
+      "Norfolk Island",
+      "Lord Howe and Norfolk Islands",
+      "Simon's Water",
+      167.99,
+      -29.02,
+      4
     ],
     [
       "NI2",
@@ -27003,7 +27036,29 @@
       "Kawa 200m west Kingston Jetty",
       167.95,
       -29.06,
-      6
+      8
+    ],
+    [
+      "NI20",
+      "Australia",
+      "Central Indo-Pacific",
+      "Norfolk Island",
+      "Lord Howe and Norfolk Islands",
+      "Barny's Duffy",
+      167.92,
+      -29.03,
+      3
+    ],
+    [
+      "NI21",
+      "Australia",
+      "Central Indo-Pacific",
+      "Norfolk Island",
+      "Lord Howe and Norfolk Islands",
+      "100 Acre Reserve",
+      167.92,
+      -29.05,
+      4
     ],
     [
       "NI3",
@@ -27014,7 +27069,7 @@
       "Kawa 2 Shark Gully",
       167.92,
       -29.0,
-      5
+      7
     ],
     [
       "NI4",
@@ -27025,7 +27080,7 @@
       "Kawa 3 Mullins Bay",
       167.92,
       -29.0,
-      5
+      7
     ],
     [
       "NI5",
@@ -27036,7 +27091,7 @@
       "King Jim",
       167.94,
       -29.0,
-      5
+      9
     ],
     [
       "NI6",
@@ -27047,7 +27102,7 @@
       "Anson Bay",
       167.92,
       -29.01,
-      6
+      9
     ],
     [
       "NI7",
@@ -27058,7 +27113,7 @@
       "Shark Point Phillip Island",
       167.94,
       -29.12,
-      6
+      11
     ],
     [
       "NI8",
@@ -27069,7 +27124,7 @@
       "The Hoof, Phillip Island",
       167.96,
       -29.12,
-      5
+      9
     ],
     [
       "NI9",
@@ -27080,7 +27135,7 @@
       "Emily Bay",
       167.96,
       -29.06,
-      6
+      8
     ],
     [
       "NIC1",
