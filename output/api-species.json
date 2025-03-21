@@ -5649,7 +5649,9 @@
     "Nudibranch",
     "https://reeflifesurvey.com/species/bermudella-mija/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_30_67dc94a734a73.w1000.h666.JPG"
+    ]
   ],
   "Bertheliniinae spp.": [
     "Bertheliniinae spp.",
@@ -26099,7 +26101,9 @@
     "Estuary stingray",
     "https://reeflifesurvey.com/species/hemitrygon-fluviorum/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_ac_67dc9509d4c5c.w1000.h666.JPG"
+    ]
   ],
   "Heniochus acuminatus": [
     "Heniochus acuminatus",
@@ -52031,7 +52035,9 @@
     "Nudibranch",
     "https://reeflifesurvey.com/species/stiliger-aureomarginatus/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_f0_67dc945c752bf.w1000.h666.JPG"
+    ]
   ],
   "Stiliger smaragdinus": [
     "Stiliger smaragdinus",
@@ -53654,7 +53660,10 @@
     "Turretfish",
     "https://reeflifesurvey.com/species/tetrosomus-concatenatus/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_ac_67dc957cb735d.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_a4_67dc95a75ffdd.w1000.h666.JPG"
+    ]
   ],
   "Tetrosomus gibbosus": [
     "Tetrosomus gibbosus",
