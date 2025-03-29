@@ -15254,8 +15254,8 @@
     "https://reeflifesurvey.com/species/cristiceps-australis/",
     2,
     [
-      "https://images.reeflifesurvey.com/0/species_95_576c9ec0e0bd1.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_91_5d32bd1e81fcb.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_91_5d32bd1e81fcb.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_bd_67e4d022060b5.w1000.h666.JPG"
     ]
   ],
   "Cristiceps spp.": [
@@ -15377,7 +15377,11 @@
     "",
     "https://reeflifesurvey.com/species/cryptasterias-turqueti/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_4e_67e63c91c0a8c.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_ee_67e63ca10018d.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_5d_67e63ca6591ff.w1000.h666.jpg"
+    ]
   ],
   "Cryptichthys jojettae": [
     "Cryptichthys jojettae",
@@ -26595,7 +26599,9 @@
     "",
     "https://reeflifesurvey.com/species/heterocucumis-steineni/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_f5_67e63ce3b50f4.w1000.h666.jpg"
+    ]
   ],
   "Heterodontus francisci": [
     "Heterodontus francisci",
@@ -34024,7 +34030,9 @@
     "Antarctic limpet",
     "https://reeflifesurvey.com/species/nacella-concinna/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_af_67e63cfda15eb.w1000.h666.jpg"
+    ]
   ],
   "Nacella deaurata": [
     "Nacella deaurata",
@@ -35774,7 +35782,9 @@
     "Black rockcod",
     "https://reeflifesurvey.com/species/notothenia-coriiceps/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_65_67e63d18767c6.w1000.h666.jpg"
+    ]
   ],
   "Notothenia spp.": [
     "Notothenia spp.",
@@ -36097,7 +36107,9 @@
     "",
     "https://reeflifesurvey.com/species/odontaster-meridionalis/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_41_67e639a739d83.w1000.h666.jpg"
+    ]
   ],
   "Odontaster penicillatus": [
     "Odontaster penicillatus",
@@ -36122,7 +36134,11 @@
     "",
     "https://reeflifesurvey.com/species/odontaster-validus/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_97_67e63b7b971a7.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_fe_67e63b7eec37a.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_03_67e63b923feba.w1000.h666.jpg"
+    ]
   ],
   "Odontocymbiola magellanica": [
     "Odontocymbiola magellanica",
@@ -51758,7 +51774,9 @@
     "",
     "https://reeflifesurvey.com/species/sterechinus-neumayeri/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_77_67e63d3b985cd.w1000.h666.jpg"
+    ]
   ],
   "Stethojulis albovittata": [
     "Stethojulis albovittata",
