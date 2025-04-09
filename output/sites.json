@@ -2187,7 +2187,7 @@
       "Tollgates Outer Mid Bay",
       150.26,
       -35.75,
-      29
+      32
     ],
     [
       "BMP-S12",
@@ -2242,7 +2242,7 @@
       "Jimmies Island",
       150.23,
       -35.82,
-      30
+      32
     ],
     [
       "BMP-S17",
@@ -2330,7 +2330,7 @@
       "Lilly Pilly North",
       150.23,
       -35.77,
-      32
+      35
     ],
     [
       "BMP-S24",
@@ -2385,7 +2385,7 @@
       "Richmond Point",
       150.3,
       -35.69,
-      20
+      22
     ],
     [
       "BMP-S29",
@@ -2803,7 +2803,7 @@
       "Caulerpa Reef",
       150.26,
       -35.75,
-      10
+      13
     ],
     [
       "BMP28",
@@ -2872,6 +2872,17 @@
       10
     ],
     [
+      "BMP33",
+      "Australia",
+      "Temperate Australasia",
+      "Batemans",
+      "Cape Howe",
+      "Barlings Island",
+      150.2,
+      -35.83,
+      2
+    ],
+    [
       "BMP4",
       "Australia",
       "Temperate Australasia",
@@ -2880,7 +2891,7 @@
       "Dalmeny Reserve N point",
       150.13,
       -36.16,
-      1
+      2
     ],
     [
       "BMP46",
@@ -3167,17 +3178,6 @@
       -125.06,
       48.9,
       3
-    ],
-    [
-      "BMSC28",
-      "Canada",
-      "Temperate Northern Pacific",
-      "Vancouver Island",
-      "Oregon, Washington, Vancouver Coast and Shelf",
-      "Swiss Boy",
-      -125.13,
-      48.92,
-      4
     ],
     [
       "BMSC3",
@@ -35341,7 +35341,7 @@
       "Annulus (Popes Eye)",
       144.7,
       -38.28,
-      59
+      61
     ],
     [
       "PPH-S13",
@@ -35385,7 +35385,7 @@
       "Kelp Bed Drift",
       144.63,
       -38.28,
-      38
+      40
     ],
     [
       "PPH-S17",
@@ -35440,7 +35440,7 @@
       "Sth Channel Fort",
       144.8,
       -38.31,
-      50
+      52
     ],
     [
       "PPH-S5",
@@ -35484,7 +35484,7 @@
       "Nepean Inner East",
       144.66,
       -38.3,
-      102
+      104
     ],
     [
       "PPH-S9",
@@ -35495,7 +35495,7 @@
       "Lonsdale Kelp Outer",
       144.63,
       -38.29,
-      65
+      67
     ],
     [
       "PPH18",
@@ -35517,7 +35517,7 @@
       "Portsea Bay Reef",
       144.71,
       -38.32,
-      22
+      24
     ],
     [
       "PPH20",
@@ -35836,7 +35836,7 @@
       "Seahorse gardens",
       152.15,
       -32.72,
-      30
+      31
     ],
     [
       "PS17",
@@ -35880,7 +35880,7 @@
       "Halifax Park",
       152.16,
       -32.71,
-      130
+      131
     ],
     [
       "PS21",
@@ -36551,7 +36551,7 @@
       "Wolf Rock",
       153.18,
       -25.9,
-      2
+      3
     ],
     [
       "RAJA1",
@@ -41248,7 +41248,7 @@
       "Lagoon Bay",
       147.97,
       -42.88,
-      12
+      14
     ],
     [
       "TAS236",
@@ -47067,7 +47067,7 @@
       "Ogden Breakwater Middle Stairs",
       -123.39,
       48.41,
-      2
+      4
     ],
     [
       "VICT2",
