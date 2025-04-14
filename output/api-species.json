@@ -12808,6 +12808,13 @@
       "https://images.reeflifesurvey.com/1/species_3e_6493d150e5153.w1000.h666.jpg"
     ]
   ],
+  "Clarkcomanthus mirabilis": [
+    "Clarkcomanthus mirabilis",
+    "",
+    null,
+    1,
+    []
+  ],
   "Clarkcomanthus mirus": [
     "Clarkcomanthus mirus",
     "",
@@ -15081,6 +15088,13 @@
       "https://images.reeflifesurvey.com/1/species_e8_64f686296ae79.w1000.h666.jpg"
     ]
   ],
+  "Crassicantharus noumeensis": [
+    "Crassicantharus noumeensis",
+    "",
+    null,
+    1,
+    []
+  ],
   "Crassilabrum crassilabrum": [
     "Crassilabrum crassilabrum",
     "",
@@ -16580,6 +16594,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_8c_58295215bcaf2.w1000.h666.jpg"
     ]
+  ],
+  "Debris - Cloth": [
+    "Debris - Cloth",
+    "",
+    null,
+    1,
+    []
   ],
   "Debris - Fishing gear": [
     "Debris - Fishing gear",
@@ -18649,6 +18670,13 @@
       "https://images.reeflifesurvey.com/0/species_a3_576dd9de96f3f.w1000.h666.jpg"
     ]
   ],
+  "Ecsenius sellifer": [
+    "Ecsenius sellifer",
+    "",
+    null,
+    2,
+    []
+  ],
   "Ecsenius sp. [bicolor]": [
     "Ecsenius sp. [bicolor]",
     "",
@@ -20558,6 +20586,13 @@
       "https://images.reeflifesurvey.com/0/species_6f_5768c517b1896.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_06_576fa8a6c4a43.w1000.h666.jpg"
     ]
+  ],
+  "Eviota bacata": [
+    "Eviota bacata",
+    "",
+    null,
+    2,
+    []
   ],
   "Eviota bifasciata": [
     "Eviota bifasciata",
@@ -24651,6 +24686,13 @@
       "https://images.reeflifesurvey.com/1/species_82_6493c37bbb27d.w1000.h666.JPG"
     ]
   ],
+  "Halgerda carlsoni": [
+    "Halgerda carlsoni",
+    "",
+    null,
+    1,
+    []
+  ],
   "Halgerda dichromis": [
     "Halgerda dichromis",
     "",
@@ -24868,6 +24910,13 @@
       "https://images.reeflifesurvey.com/0/species_35_57451de611137.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_83_574522a2d6339.w1000.h666.jpg"
     ]
+  ],
+  "Halichoeres claudia": [
+    "Halichoeres claudia",
+    "",
+    null,
+    0,
+    []
   ],
   "Halichoeres cosmetus": [
     "Halichoeres cosmetus",
@@ -25758,6 +25807,13 @@
       "https://images.reeflifesurvey.com/1/species_88_619b1c98d544d.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_ca_619b1cada6201.w1000.h666.jpg"
     ]
+  ],
+  "Helcogramma rhinoceros": [
+    "Helcogramma rhinoceros",
+    "",
+    null,
+    2,
+    []
   ],
   "Helcogramma sp. [Fredrick Reef]": [
     "Helcogramma sp. [Fredrick Reef]",
@@ -28069,6 +28125,13 @@
       "https://images.reeflifesurvey.com/0/species_9c_57917e8b28070.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_17_57917e839c067.w1000.h666.JPG"
     ]
+  ],
+  "Hypselodoris decorata": [
+    "Hypselodoris decorata",
+    "",
+    null,
+    1,
+    []
   ],
   "Hypselodoris imperialis": [
     "Hypselodoris imperialis",
@@ -32643,6 +32706,13 @@
     "Micrognathus crinitus",
     "Banded pipefish, Micrognathus ensenadae",
     "https://reeflifesurvey.com/species/micrognathus-crinitus/",
+    2,
+    []
+  ],
+  "Micrognathus spp.": [
+    "Micrognathus spp.",
+    "",
+    null,
     2,
     []
   ],
@@ -42898,6 +42968,13 @@
     2,
     []
   ],
+  "Plesiocolochirus ignavus": [
+    "Plesiocolochirus ignavus",
+    "",
+    null,
+    1,
+    []
+  ],
   "Plesiocolochirus ignavus\u00a0": [
     "Plesiocolochirus ignavus\u00a0",
     "",
@@ -45870,6 +45947,13 @@
       "https://images.reeflifesurvey.com/0/species_1d_57930a5b13237.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_4d_5e6eb8fbda299.w1000.h666.JPG"
     ]
+  ],
+  "Pseudopaguristes kuekenthali": [
+    "Pseudopaguristes kuekenthali",
+    "",
+    null,
+    1,
+    []
   ],
   "Pseudopaguristes monoporus": [
     "Pseudopaguristes monoporus",
@@ -49269,6 +49353,13 @@
     "Scorpaenopsis eschmeyeri",
     "",
     "https://reeflifesurvey.com/species/scorpaenopsis-eschmeyeri/",
+    2,
+    []
+  ],
+  "Scorpaenopsis macrochir": [
+    "Scorpaenopsis macrochir",
+    "",
+    null,
     2,
     []
   ],
@@ -54992,6 +55083,13 @@
     1,
     []
   ],
+  "Trapeziidae spp.": [
+    "Trapeziidae spp.",
+    "",
+    null,
+    1,
+    []
+  ],
   "Trematomus hansoni": [
     "Trematomus hansoni",
     "Striped rockcod",
@@ -56103,6 +56201,13 @@
       "https://images.reeflifesurvey.com/0/species_a8_57ad0d7a9d231.w1000.h666.jpg"
     ]
   ],
+  "Turbo laminiferus": [
+    "Turbo laminiferus",
+    "",
+    null,
+    1,
+    []
+  ],
   "Turbo militaris": [
     "Turbo militaris",
     "",
@@ -57079,6 +57184,13 @@
       "https://images.reeflifesurvey.com/0/species_5b_576242e1bbaa1.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_75_576242e4936eb.w1000.h666.JPG"
     ]
+  ],
+  "Verulux cypselurus": [
+    "Verulux cypselurus",
+    "",
+    null,
+    2,
+    []
   ],
   "Vexillum crocatum": [
     "Vexillum crocatum",

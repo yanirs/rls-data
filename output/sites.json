@@ -26519,7 +26519,7 @@
       "Abore Bomie Inside",
       166.27,
       -22.37,
-      1
+      2
     ],
     [
       "NC10",
@@ -26585,7 +26585,7 @@
       "Yate Iya",
       166.97,
       -22.17,
-      1
+      2
     ],
     [
       "NC16",
@@ -26596,6 +26596,17 @@
       "Fausse Passe de Uitoe",
       166.18,
       -22.29,
+      2
+    ],
+    [
+      "NC19",
+      "New Caledonia",
+      "Central Indo-Pacific",
+      "New Caledonia",
+      "New Caledonia",
+      "Coral Garden Passe de Uitoe",
+      166.08,
+      -22.14,
       1
     ],
     [
@@ -26607,7 +26618,7 @@
       "Petite U",
       165.92,
       -22.02,
-      1
+      2
     ],
     [
       "NC3",
@@ -26618,7 +26629,7 @@
       "Dumbea Passe Inner",
       166.26,
       -22.36,
-      1
+      2
     ],
     [
       "NC4",
@@ -35330,7 +35341,7 @@
       "Lonsdale Kelp Inner",
       144.63,
       -38.29,
-      97
+      99
     ],
     [
       "PPH-S12",
@@ -35341,7 +35352,7 @@
       "Annulus (Popes Eye)",
       144.7,
       -38.28,
-      61
+      63
     ],
     [
       "PPH-S13",
@@ -35396,7 +35407,7 @@
       "Kelp Beds",
       144.64,
       -38.28,
-      52
+      54
     ],
     [
       "PPH-S18",
@@ -35440,7 +35451,7 @@
       "Sth Channel Fort",
       144.8,
       -38.31,
-      52
+      54
     ],
     [
       "PPH-S5",
@@ -35495,7 +35506,7 @@
       "Lonsdale Kelp Outer",
       144.63,
       -38.29,
-      67
+      69
     ],
     [
       "PPH18",
@@ -35517,7 +35528,7 @@
       "Portsea Bay Reef",
       144.71,
       -38.32,
-      24
+      26
     ],
     [
       "PPH20",
@@ -46737,6 +46748,435 @@
       "Tranquility Reef",
       168.23,
       -17.56,
+      4
+    ],
+    [
+      "VAN10",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Blacksand Slab",
+      169.25,
+      -19.39,
+      2
+    ],
+    [
+      "VAN11",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Aniwa Canyon",
+      169.6,
+      -19.22,
+      2
+    ],
+    [
+      "VAN12",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Aniwa Wall",
+      169.6,
+      -19.22,
+      2
+    ],
+    [
+      "VAN13",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Aniwa Arcatus",
+      169.6,
+      -19.23,
+      2
+    ],
+    [
+      "VAN14",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Nipmi Lows Point",
+      168.98,
+      -18.77,
+      2
+    ],
+    [
+      "VAN15",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Vetiel Point",
+      169.01,
+      -18.81,
+      2
+    ],
+    [
+      "VAN16",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Supmu Point",
+      169.01,
+      -18.83,
+      2
+    ],
+    [
+      "VAN17",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Umatuo Point",
+      168.99,
+      -18.84,
+      2
+    ],
+    [
+      "VAN18",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Pango Point",
+      168.29,
+      -17.74,
+      2
+    ],
+    [
+      "VAN19",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Malapoa Point",
+      168.29,
+      -17.74,
+      2
+    ],
+    [
+      "VAN2",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Porumea Channel",
+      168.21,
+      -17.57,
+      2
+    ],
+    [
+      "VAN20",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Mele Bay North Reef",
+      168.24,
+      -17.7,
+      2
+    ],
+    [
+      "VAN21",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Blue Bay",
+      168.24,
+      -17.7,
+      2
+    ],
+    [
+      "VAN22",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Eretoka North",
+      168.16,
+      -17.63,
+      2
+    ],
+    [
+      "VAN23",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Eretoka Central",
+      168.15,
+      -17.64,
+      2
+    ],
+    [
+      "VAN24",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Cook Reef East",
+      168.29,
+      -17.05,
+      2
+    ],
+    [
+      "VAN25",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Cook Reef Northeast",
+      168.26,
+      -17.04,
+      2
+    ],
+    [
+      "VAN26",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Teterigi Point Rocks",
+      168.12,
+      -15.38,
+      2
+    ],
+    [
+      "VAN27",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Teterigi Point",
+      168.12,
+      -15.38,
+      2
+    ],
+    [
+      "VAN28",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Anmari",
+      168.14,
+      -15.39,
+      2
+    ],
+    [
+      "VAN29",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Uncle Tommy Bommie",
+      168.13,
+      -15.38,
+      2
+    ],
+    [
+      "VAN3",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Port Resolution Reef",
+      169.49,
+      -19.52,
+      2
+    ],
+    [
+      "VAN30",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Nagohune Point",
+      167.99,
+      -15.27,
+      2
+    ],
+    [
+      "VAN31",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Vatuhi Vavine Rock",
+      167.98,
+      -15.27,
+      2
+    ],
+    [
+      "VAN32",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Vuinago Point",
+      167.98,
+      -15.28,
+      2
+    ],
+    [
+      "VAN33",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Singo Loloaru Point",
+      167.97,
+      -15.27,
+      2
+    ],
+    [
+      "VAN34",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Million Dollar Point",
+      167.24,
+      -15.53,
+      2
+    ],
+    [
+      "VAN35",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Aisari Bay Outer Reef",
+      167.21,
+      -15.57,
+      2
+    ],
+    [
+      "VAN36",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Aisari Bay Reef",
+      167.21,
+      -15.57,
+      2
+    ],
+    [
+      "VAN37",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Patumbuma Outer Reef",
+      167.29,
+      -15.54,
+      2
+    ],
+    [
+      "VAN38",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Narurundo Point",
+      167.28,
+      -15.54,
+      2
+    ],
+    [
+      "VAN39",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Aese South Point",
+      167.26,
+      -15.46,
+      2
+    ],
+    [
+      "VAN4",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Tanna North",
+      169.31,
+      -19.32,
+      2
+    ],
+    [
+      "VAN40",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Naoreure Point",
+      167.25,
+      -15.47,
+      2
+    ],
+    [
+      "VAN5",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Tanna North Boulders",
+      169.3,
+      -19.32,
+      2
+    ],
+    [
+      "VAN6",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Tanna North Slabs",
+      169.27,
+      -19.33,
+      2
+    ],
+    [
+      "VAN7",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Tanna Northwest",
+      169.25,
+      -19.07,
+      2
+    ],
+    [
+      "VAN8",
+      "Vanuatu",
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Tanna Northwest Rocks",
+      169.25,
+      -19.38,
+      2
+    ],
+    [
+      "VAN9",
+      NaN,
+      "Central Indo-Pacific",
+      "Vanuatu",
+      "Vanuatu",
+      "Lenafa",
+      169.25,
+      -19.38,
       2
     ],
     [
