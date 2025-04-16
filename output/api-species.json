@@ -3178,6 +3178,7 @@
     "https://reeflifesurvey.com/species/aplodactylus-westralis/",
     0,
     [
+      "https://images.reeflifesurvey.com/1/species_94_67fdf6e7e342a.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/1/species_41_6256b3e39a2f9.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_89_57fafba801583.w1000.h666.JPG"
     ]
@@ -15193,7 +15194,9 @@
     "Magnificent cowrie",
     "https://reeflifesurvey.com/species/cribrarula-exmouthensis-magnifica/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_13_67fdf7cfdee28.w1000.h666.JPG"
+    ]
   ],
   "Cribrarula fallax": [
     "Cribrarula fallax",
@@ -20922,6 +20925,13 @@
       "https://images.reeflifesurvey.com/0/species_37_5770b511d1962.w1000.h666.jpg"
     ]
   ],
+  "Eviota sp. [cf bifasciata]": [
+    "Eviota sp. [cf bifasciata]",
+    "",
+    null,
+    2,
+    []
+  ],
   "Eviota sp. [cf hosei]": [
     "Eviota sp. [cf hosei]",
     "",
@@ -21052,6 +21062,13 @@
       "https://images.reeflifesurvey.com/0/species_82_5770b98b5e7da.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_e0_6494e315ef005.w1000.h666.jpg"
     ]
+  ],
+  "Eviota sp. [zebrina cf]": [
+    "Eviota sp. [zebrina cf]",
+    "",
+    null,
+    2,
+    []
   ],
   "Eviota spilota": [
     "Eviota spilota",
@@ -25763,6 +25780,13 @@
     "Helcogramma albimacula",
     "Whitespot triplefin",
     "https://reeflifesurvey.com/species/helcogramma-albimacula/",
+    2,
+    []
+  ],
+  "Helcogramma atauroensis": [
+    "Helcogramma atauroensis",
+    "",
+    null,
     2,
     []
   ],
@@ -38670,7 +38694,8 @@
     "https://reeflifesurvey.com/species/parablennius-postoculomaculatus/",
     2,
     [
-      "https://images.reeflifesurvey.com/1/species_93_6347d14f0d1bd.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/1/species_93_6347d14f0d1bd.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_1a_67fdf6b3d9744.w1000.h666.JPG"
     ]
   ],
   "Parablennius rouxi": [
@@ -52567,7 +52592,8 @@
     2,
     [
       "https://images.reeflifesurvey.com/0/species_50_58d4dc94ed67f.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_2f_596af0b09d2fd.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_2f_596af0b09d2fd.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_81_67fdf79852377.w1000.h666.JPG"
     ]
   ],
   "Swiftopecten swiftii": [
