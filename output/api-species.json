@@ -5356,6 +5356,13 @@
       "https://images.reeflifesurvey.com/0/species_a7_56e76cda2d2c0.w1000.h666.jpg"
     ]
   ],
+  "Azurina multilineata": [
+    "Azurina multilineata",
+    "",
+    null,
+    0,
+    []
+  ],
   "Babakina anadoni": [
     "Babakina anadoni",
     "",
@@ -11490,18 +11497,6 @@
     "https://reeflifesurvey.com/species/chromis-lineata/",
     0,
     []
-  ],
-  "Chromis multilineata": [
-    "Chromis multilineata",
-    "Brown chromis",
-    "https://reeflifesurvey.com/species/chromis-multilineata/",
-    0,
-    [
-      "https://images.reeflifesurvey.com/0/species_27_582950fed1204.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_4e_58295112d1306.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_62_576c9f3790c30.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_e0_5829510696208.w1000.h666.jpg"
-    ]
   ],
   "Chromis nitida": [
     "Chromis nitida",
