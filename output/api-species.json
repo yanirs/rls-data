@@ -5358,10 +5358,15 @@
   ],
   "Azurina multilineata": [
     "Azurina multilineata",
-    "",
-    null,
+    "Brown chromis, Chromis multilineata",
+    "https://reeflifesurvey.com/species/azurina-multilineata/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_27_582950fed1204.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_4e_58295112d1306.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_62_576c9f3790c30.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_e0_5829510696208.w1000.h666.jpg"
+    ]
   ],
   "Babakina anadoni": [
     "Babakina anadoni",
@@ -23809,10 +23814,15 @@
   ],
   "Guinusia chabrus": [
     "Guinusia chabrus",
-    "",
+    "Cleft-fronted Shore Crab, Sally Lightfoot, Plagusia chabrus",
     "https://reeflifesurvey.com/species/guinusia-chabrus/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_72_575025df24099.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_dc_575025b66dceb.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_43_5750260a83aca.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_28_5791f3b7101e5.w1000.h666.jpg"
+    ]
   ],
   "Gunnellichthys monostigma": [
     "Gunnellichthys monostigma",
@@ -37951,7 +37961,7 @@
   ],
   "Pagrus auratus": [
     "Pagrus auratus",
-    "Snapper, Bream, Cockney, Cockney Bream, Cockney Snapper, Golden Snapper, Old Man Snapper, Pink Snapper, Porgy, Red Bream, Red Pargo, Sea Bream, Squire, Squirefish",
+    "Snapper, Bream, Cockney, Cockney Bream, Cockney Snapper, Golden Snapper, Old Man Snapper, Pink Snapper, Porgy, Red Bream, Red Pargo, Sea Bream, Squire, Squirefish, Chrysophrys auratus",
     "https://reeflifesurvey.com/species/pagrus-auratus/",
     0,
     [
