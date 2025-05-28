@@ -11517,8 +11517,8 @@
   ],
   "Chromis norfolkensis": [
     "Chromis norfolkensis",
-    "",
-    null,
+    "Norfolk chromis",
+    "https://reeflifesurvey.com/species/chromis-norfolkensis/",
     0,
     []
   ],
@@ -12812,7 +12812,7 @@
   "Clarkcomanthus mirabilis": [
     "Clarkcomanthus mirabilis",
     "",
-    null,
+    "https://reeflifesurvey.com/species/clarkcomanthus-mirabilis/",
     1,
     []
   ],
@@ -15093,8 +15093,8 @@
   ],
   "Crassicantharus noumeensis": [
     "Crassicantharus noumeensis",
-    "",
-    null,
+    "Gold banded latirus",
+    "https://reeflifesurvey.com/species/crassicantharus-noumeensis/",
     1,
     []
   ],
@@ -18679,8 +18679,8 @@
   ],
   "Ecsenius sellifer": [
     "Ecsenius sellifer",
-    "",
-    null,
+    "Saddle blenny",
+    "https://reeflifesurvey.com/species/ecsenius-sellifer/",
     2,
     []
   ],
@@ -20596,8 +20596,8 @@
   ],
   "Eviota bacata": [
     "Eviota bacata",
-    "",
-    null,
+    "Pearl dwarfgoby",
+    "https://reeflifesurvey.com/species/eviota-bacata/",
     2,
     []
   ],
@@ -20932,7 +20932,7 @@
   "Eviota sp. [cf bifasciata]": [
     "Eviota sp. [cf bifasciata]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/eviota-sp-cf-bifasciata/",
     2,
     []
   ],
@@ -21070,7 +21070,7 @@
   "Eviota sp. [zebrina cf]": [
     "Eviota sp. [zebrina cf]",
     "",
-    null,
+    "https://reeflifesurvey.com/species/eviota-sp-zebrina-cf/",
     2,
     []
   ],
@@ -24714,8 +24714,8 @@
   ],
   "Halgerda carlsoni": [
     "Halgerda carlsoni",
-    "",
-    null,
+    "Carlson sea slug",
+    "https://reeflifesurvey.com/species/halgerda-carlsoni/",
     1,
     []
   ],
@@ -24939,8 +24939,8 @@
   ],
   "Halichoeres claudia": [
     "Halichoeres claudia",
-    "",
-    null,
+    "Ornamental Wrasse",
+    "https://reeflifesurvey.com/species/halichoeres-claudia/",
     0,
     []
   ],
@@ -25794,8 +25794,8 @@
   ],
   "Helcogramma atauroensis": [
     "Helcogramma atauroensis",
-    "",
-    null,
+    "Red-anal triplefin",
+    "https://reeflifesurvey.com/species/helcogramma-atauroensis/",
     2,
     []
   ],
@@ -25844,7 +25844,7 @@
   "Helcogramma rhinoceros": [
     "Helcogramma rhinoceros",
     "",
-    null,
+    "https://reeflifesurvey.com/species/helcogramma-rhinoceros/",
     2,
     []
   ],
@@ -28162,7 +28162,7 @@
   "Hypselodoris decorata": [
     "Hypselodoris decorata",
     "",
-    null,
+    "https://reeflifesurvey.com/species/hypselodoris-decorata/",
     1,
     []
   ],
@@ -28235,8 +28235,8 @@
   ],
   "Hypselodoris sp. [11]": [
     "Hypselodoris sp. [11]",
-    "",
-    null,
+    "Nudibranch",
+    "https://reeflifesurvey.com/species/hypselodoris-sp-11/",
     1,
     []
   ],
@@ -36062,7 +36062,10 @@
     "Octopus",
     "https://reeflifesurvey.com/species/octopus-berrima/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_ce_68351d7c953ed.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_a5_68351da0a16e1.w1000.h666.jpg"
+    ]
   ],
   "Octopus bimaculatus": [
     "Octopus bimaculatus",
@@ -36112,9 +36115,7 @@
     "Pale octopus",
     "https://reeflifesurvey.com/species/octopus-pallidus/",
     2,
-    [
-      "https://images.reeflifesurvey.com/0/species_a1_59d18fdf2bbb9.w1000.h666.jpg"
-    ]
+    []
   ],
   "Octopus rubescens": [
     "Octopus rubescens",
@@ -41537,7 +41538,7 @@
   "Phorcus lineatus": [
     "Phorcus lineatus",
     "",
-    null,
+    "https://reeflifesurvey.com/species/phorcus-lineatus/",
     1,
     []
   ],
@@ -43011,15 +43012,8 @@
   ],
   "Plesiocolochirus ignavus": [
     "Plesiocolochirus ignavus",
-    "",
-    null,
-    1,
-    []
-  ],
-  "Plesiocolochirus ignavus\u00a0": [
-    "Plesiocolochirus ignavus\u00a0",
-    "",
-    null,
+    "Sea cucumber, Plesiocolochirus ignavus\u00a0",
+    "https://reeflifesurvey.com/species/plesiocolochirus-ignavus/",
     1,
     []
   ],
@@ -45429,8 +45423,8 @@
   ],
   "Pseudoceros sp. [pink-netted]": [
     "Pseudoceros sp. [pink-netted]",
-    "",
-    null,
+    "Undescribed flatworm",
+    "https://reeflifesurvey.com/species/pseudoceros-sp-pink-netted/",
     1,
     []
   ],
@@ -45846,8 +45840,8 @@
   ],
   "Pseudojuloides splendens": [
     "Pseudojuloides splendens",
-    "",
-    null,
+    "Splendid wrasse",
+    "https://reeflifesurvey.com/species/pseudojuloides-splendens/",
     0,
     []
   ],
@@ -45998,8 +45992,8 @@
   ],
   "Pseudopaguristes kuekenthali": [
     "Pseudopaguristes kuekenthali",
-    "",
-    null,
+    "Hermit crab",
+    "https://reeflifesurvey.com/species/pseudopaguristes-kuekenthali/",
     1,
     []
   ],
@@ -49406,8 +49400,8 @@
   ],
   "Scorpaenopsis macrochir": [
     "Scorpaenopsis macrochir",
-    "",
-    null,
+    "Flasher scorpionfish",
+    "https://reeflifesurvey.com/species/scorpaenopsis-macrochir/",
     2,
     []
   ],
@@ -56251,8 +56245,8 @@
   ],
   "Turbo laminiferus": [
     "Turbo laminiferus",
-    "",
-    null,
+    "Turban shell",
+    "https://reeflifesurvey.com/species/turbo-laminiferus/",
     1,
     []
   ],
@@ -57235,8 +57229,8 @@
   ],
   "Verulux cypselurus": [
     "Verulux cypselurus",
-    "",
-    null,
+    "Swallowtail cardinalfish",
+    "https://reeflifesurvey.com/species/verulux-cypselurus/",
     2,
     []
   ],
