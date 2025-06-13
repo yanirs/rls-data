@@ -29587,7 +29587,11 @@
     "Striped trumpeter",
     "https://reeflifesurvey.com/species/latris-lineata/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_b2_684b7edb3a4e0.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_e7_684b7edca5185.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_34_684b7ed99b0ea.w1000.h666.jpg"
+    ]
   ],
   "Latropiscis purpurissatus": [
     "Latropiscis purpurissatus",
