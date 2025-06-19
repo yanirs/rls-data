@@ -4614,7 +4614,9 @@
     1,
     [
       "https://images.reeflifesurvey.com/1/species_00_5ed46302c7f63.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_29_5ed4630746556.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_29_5ed4630746556.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_e8_68522c941d176.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_06_68522c936118e.w1000.h666.jpg"
     ]
   ],
   "Astralium rotularia": [
@@ -7111,7 +7113,9 @@
     "",
     "https://reeflifesurvey.com/species/calcinus-pulcher/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_20_68522ece27a88.w1000.h666.JPG"
+    ]
   ],
   "Calcinus seurati": [
     "Calcinus seurati",
@@ -9227,7 +9231,8 @@
     1,
     [
       "https://images.reeflifesurvey.com/0/species_2c_5843bebdc5de2.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_4f_5c89c92318d82.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_4f_5c89c92318d82.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_9d_68522e816847b.w1000.h666.JPG"
     ]
   ],
   "Cerithium guinaicum": [
@@ -9249,7 +9254,9 @@
     "",
     "https://reeflifesurvey.com/species/cerithium-munitum/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_1c_685238cdc9db8.w1000.h666.jpg"
+    ]
   ],
   "Cerithium nodulosum": [
     "Cerithium nodulosum",
@@ -9275,7 +9282,9 @@
     "Shell",
     "https://reeflifesurvey.com/species/cerithium-salebrosum/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_41_68523be439a46.w1000.h666.jpg"
+    ]
   ],
   "Cerithium spp.": [
     "Cerithium spp.",
@@ -12814,7 +12823,10 @@
     "",
     "https://reeflifesurvey.com/species/clarkcomanthus-mirabilis/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_8a_68522886976ae.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_3d_68522885ac5b6.w1000.h666.jpg"
+    ]
   ],
   "Clarkcomanthus mirus": [
     "Clarkcomanthus mirus",
@@ -14134,7 +14146,8 @@
     1,
     [
       "https://images.reeflifesurvey.com/0/species_06_5785839fceb6e.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_d5_578583a402e2c.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_d5_578583a402e2c.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_dc_68522f2c2f1f3.w1000.h666.jpg"
     ]
   ],
   "Conus retifer": [
@@ -18225,7 +18238,9 @@
     1,
     [
       "https://images.reeflifesurvey.com/0/species_6f_576f8225b3e22.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_23_578c87d9351c3.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_23_578c87d9351c3.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_06_6852395a5f7a8.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_45_6852395b1db99.w1000.h666.jpg"
     ]
   ],
   "Echinaster sepositus": [
@@ -20599,7 +20614,9 @@
     "Pearl dwarfgoby",
     "https://reeflifesurvey.com/species/eviota-bacata/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_d1_685244d28d07f.w1000.h666.jpg"
+    ]
   ],
   "Eviota bifasciata": [
     "Eviota bifasciata",
@@ -20766,7 +20783,11 @@
     "Neon Eviota",
     "https://reeflifesurvey.com/species/eviota-pellucida/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_2d_68522ff01225b.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_18_68525272091b6.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_1f_685252714bfdf.w1000.h666.jpg"
+    ]
   ],
   "Eviota prasina": [
     "Eviota prasina",
@@ -20934,7 +20955,9 @@
     "",
     "https://reeflifesurvey.com/species/eviota-sp-cf-bifasciata/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_70_68524018a0cb6.w1000.h666.jpg"
+    ]
   ],
   "Eviota sp. [cf hosei]": [
     "Eviota sp. [cf hosei]",
@@ -21074,7 +21097,10 @@
     "",
     "https://reeflifesurvey.com/species/eviota-sp-zebrina-cf/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_f0_68524fb3e6501.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_dc_68524fb4a3aff.w1000.h666.jpg"
+    ]
   ],
   "Eviota spilota": [
     "Eviota spilota",
@@ -21901,7 +21927,8 @@
     "https://reeflifesurvey.com/species/fromia-nodosa/",
     1,
     [
-      "https://images.reeflifesurvey.com/1/species_12_619b1a70d07bc.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_12_619b1a70d07bc.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_21_68523c8661835.w1000.h666.jpg"
     ]
   ],
   "Fromia pacifica": [
@@ -21942,7 +21969,9 @@
     "",
     "https://reeflifesurvey.com/species/fromia-sp-cf-indica/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_59_6852398d2a04f.w1000.h666.jpg"
+    ]
   ],
   "Fromia spp.": [
     "Fromia spp.",
@@ -24721,7 +24750,8 @@
     1,
     [
       "https://images.reeflifesurvey.com/1/species_44_68512b2a2e4eb.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_f2_68512b3234b54.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_f2_68512b3234b54.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_5b_68522a3f2bbdf.w1000.h666.jpg"
     ]
   ],
   "Halgerda dichromis": [
@@ -29508,14 +29538,19 @@
     "",
     "https://reeflifesurvey.com/species/latirus-amplustre/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_e0_68523a52db2ce.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_b1_68523a53e7d19.w1000.h666.jpg"
+    ]
   ],
   "Latirus belcheri": [
     "Latirus belcheri",
     "Belchers latirus",
     "https://reeflifesurvey.com/species/latirus-belcheri/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_62_68523af34ae17.w1000.h666.jpg"
+    ]
   ],
   "Latirus gibbulus": [
     "Latirus gibbulus",
@@ -40953,7 +40988,8 @@
     1,
     [
       "https://images.reeflifesurvey.com/1/species_49_6347d37671a6f.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/1/species_13_6347d379d8c91.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/1/species_13_6347d379d8c91.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_87_68522ac890d1e.w1000.h666.jpg"
     ]
   ],
   "Peristernia spp.": [
@@ -44202,7 +44238,8 @@
     "https://reeflifesurvey.com/species/pontiometra-andersoni/",
     1,
     [
-      "https://images.reeflifesurvey.com/1/species_3f_6493d1d32baf0.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/1/species_3f_6493d1d32baf0.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_88_68523c501e00e.w1000.h666.jpg"
     ]
   ],
   "Poraniopsis echinaster": [
@@ -45035,7 +45072,8 @@
     1,
     [
       "https://images.reeflifesurvey.com/0/species_d5_57bcc780f1555.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/1/species_1c_5e080ce38dea1.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_1c_5e080ce38dea1.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_28_6852316ad3178.w1000.h666.jpg"
     ]
   ],
   "Pseudobiceros fulgor": [
@@ -45269,7 +45307,8 @@
     1,
     [
       "https://images.reeflifesurvey.com/0/species_44_579309a45a357.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_42_5e0811c474212.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_42_5e0811c474212.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_cf_68523732d82a9.w1000.h666.jpg"
     ]
   ],
   "Pseudoceros dimidiatus (cf)": [
@@ -53812,7 +53851,8 @@
     "https://reeflifesurvey.com/species/tetralia-rubridactyla/",
     1,
     [
-      "https://images.reeflifesurvey.com/1/species_d4_668762916fac4.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/1/species_d4_668762916fac4.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_55_685235422288a.w1000.h666.jpg"
     ]
   ],
   "Tetralia spp.": [
@@ -54420,7 +54460,8 @@
     1,
     [
       "https://images.reeflifesurvey.com/0/species_df_579596d2f2870.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_9b_579596dede002.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_9b_579596dede002.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_c4_6852335468504.w1000.h666.jpg"
     ]
   ],
   "Thuridilla hoffae": [
@@ -55083,7 +55124,8 @@
     1,
     [
       "https://images.reeflifesurvey.com/1/species_2f_6687608492fb5.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_08_668760b9d46e4.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/1/species_08_668760b9d46e4.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_a7_68523cf17a499.w1000.h666.jpg"
     ]
   ],
   "Trapezia flavopunctata": [
@@ -55117,6 +55159,7 @@
     1,
     [
       "https://images.reeflifesurvey.com/1/species_6c_66875868991e1.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_26_6852365d9ebca.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_9f_6645a38d26b3f.w1000.h666.jpg"
     ]
   ],
@@ -57223,7 +57266,8 @@
     "https://reeflifesurvey.com/species/verconia-varians/",
     1,
     [
-      "https://images.reeflifesurvey.com/1/species_fc_5b08dfb14f8ac.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/1/species_fc_5b08dfb14f8ac.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_c8_68523f1d0444a.w1000.h666.jpg"
     ]
   ],
   "Verconia verconis": [
@@ -57248,7 +57292,10 @@
     "",
     "https://reeflifesurvey.com/species/vexillum-crocatum/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_fb_68523b73c2262.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_1b_68523b74819c1.w1000.h666.jpg"
+    ]
   ],
   "Vexillum ebenus": [
     "Vexillum ebenus",
