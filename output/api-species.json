@@ -10656,6 +10656,13 @@
       "https://images.reeflifesurvey.com/0/species_9c_56fa4c68a763d.w1000.h666.jpg"
     ]
   ],
+  "Chelon richardsonii": [
+    "Chelon richardsonii",
+    "",
+    null,
+    0,
+    []
+  ],
   "Chelonia mydas": [
     "Chelonia mydas",
     "Green Turtle",
@@ -10824,6 +10831,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_1b_5788458a310bc.w1000.h666.JPG"
     ]
+  ],
+  "Chirodactylus jessicalenorum": [
+    "Chirodactylus jessicalenorum",
+    "",
+    null,
+    0,
+    []
   ],
   "Chirodactylus spectabilis": [
     "Chirodactylus spectabilis",
@@ -11940,6 +11954,13 @@
     "Chromogobius zebratus",
     "",
     "https://reeflifesurvey.com/species/chromogobius-zebratus/",
+    2,
+    []
+  ],
+  "Chrysaora africana": [
+    "Chrysaora africana",
+    "",
+    null,
     2,
     []
   ],
@@ -16141,6 +16162,13 @@
     [
       "https://images.reeflifesurvey.com/1/species_eb_6493b99d62907.w1000.h666.JPG"
     ]
+  ],
+  "Cymbula compressa": [
+    "Cymbula compressa",
+    "",
+    null,
+    1,
+    []
   ],
   "Cymo melanodactylus": [
     "Cymo melanodactylus",
@@ -21950,6 +21978,13 @@
       "https://images.reeflifesurvey.com/0/species_10_578ec308b7249.w1000.h666.jpg"
     ]
   ],
+  "Fromia schultzei": [
+    "Fromia schultzei",
+    "",
+    null,
+    1,
+    []
+  ],
   "Fromia sp. (indica cf)": [
     "Fromia sp. (indica cf)",
     "",
@@ -22254,6 +22289,13 @@
       "https://images.reeflifesurvey.com/0/species_cc_5736ffc8230bd.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_86_5dd08140b7ccc.w1000.h666.jpg"
     ]
+  ],
+  "Galeichthys ater": [
+    "Galeichthys ater",
+    "",
+    null,
+    2,
+    []
   ],
   "Galeocerdo cuvier": [
     "Galeocerdo cuvier",
@@ -26112,6 +26154,13 @@
     "",
     null,
     2,
+    []
+  ],
+  "Hemiocnus insolens": [
+    "Hemiocnus insolens",
+    "",
+    null,
+    1,
     []
   ],
   "Hemiramphidae spp.": [
@@ -40198,6 +40247,13 @@
     2,
     []
   ],
+  "Parvulastra dyscrita": [
+    "Parvulastra dyscrita",
+    "",
+    null,
+    1,
+    []
+  ],
   "Parvulastra exigua": [
     "Parvulastra exigua",
     "Rockpool star",
@@ -47129,6 +47185,13 @@
     2,
     []
   ],
+  "Rhabdosargus globiceps": [
+    "Rhabdosargus globiceps",
+    "",
+    null,
+    0,
+    []
+  ],
   "Rhabdosargus holubi": [
     "Rhabdosargus holubi",
     "Cape stumpnose",
@@ -49578,6 +49641,13 @@
       "https://images.reeflifesurvey.com/0/species_7f_577de5ba6f61c.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_50_577de5c3a99d4.w1000.h666.jpg"
     ]
+  ],
+  "Scutellastra barbara": [
+    "Scutellastra barbara",
+    "",
+    null,
+    1,
+    []
   ],
   "Scutellastra chapmani": [
     "Scutellastra chapmani",
