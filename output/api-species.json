@@ -4878,7 +4878,10 @@
     "Sand smelt",
     "https://reeflifesurvey.com/species/atherina-presbyter/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_aa_685cd161ae822.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_d3_685cd165b30c4.w1000.h666.JPG"
+    ]
   ],
   "Atherina spp.": [
     "Atherina spp.",
@@ -10645,7 +10648,10 @@
     "Golden grey mullet, Liza aurata",
     "https://reeflifesurvey.com/species/chelon-auratus/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_ab_685cdf6190958.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_b0_685cdf6042ab6.w1000.h666.jpg"
+    ]
   ],
   "Chelon labrosus": [
     "Chelon labrosus",
@@ -10658,8 +10664,8 @@
   ],
   "Chelon richardsonii": [
     "Chelon richardsonii",
-    "",
-    null,
+    "South African mullet",
+    "https://reeflifesurvey.com/species/chelon-richardsonii/",
     0,
     []
   ],
@@ -10834,8 +10840,8 @@
   ],
   "Chirodactylus jessicalenorum": [
     "Chirodactylus jessicalenorum",
-    "",
-    null,
+    "Natal fingerfin",
+    "https://reeflifesurvey.com/species/chirodactylus-jessicalenorum/",
     0,
     []
   ],
@@ -21980,8 +21986,8 @@
   ],
   "Fromia schultzei": [
     "Fromia schultzei",
-    "",
-    null,
+    "Granular starfish",
+    "https://reeflifesurvey.com/species/fromia-schultzei/",
     1,
     []
   ],
@@ -22292,8 +22298,8 @@
   ],
   "Galeichthys ater": [
     "Galeichthys ater",
-    "",
-    null,
+    "Black Sea catfish",
+    "https://reeflifesurvey.com/species/galeichthys-ater/",
     2,
     []
   ],
@@ -26158,8 +26164,8 @@
   ],
   "Hemiocnus insolens": [
     "Hemiocnus insolens",
-    "",
-    null,
+    "Red-chested sea cucumber",
+    "https://reeflifesurvey.com/species/hemiocnus-insolens/",
     1,
     []
   ],
@@ -30498,7 +30504,9 @@
     "Montagus seasnail",
     "https://reeflifesurvey.com/species/liparis-montagui/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_34_685cda89431a3.w1000.h666.JPG"
+    ]
   ],
   "Liparis spp.": [
     "Liparis spp.",
@@ -30519,7 +30527,10 @@
     "Shanny",
     "https://reeflifesurvey.com/species/lipophrys-pholis/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_3a_685cd2131fc1f.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_6a_685cd20f3ec25.w1000.h666.JPG"
+    ]
   ],
   "Lissocampus caudalis": [
     "Lissocampus caudalis",
@@ -34814,7 +34825,8 @@
     [
       "https://images.reeflifesurvey.com/0/species_7e_5750281464c43.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_96_5732824e68b2c.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_95_57c91e84d08fd.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_95_57c91e84d08fd.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_8b_685cb3f4aa49e.w1000.h666.JPG"
     ]
   ],
   "Nemadactylus macropterus": [
@@ -36294,6 +36306,7 @@
     "https://reeflifesurvey.com/species/odax-pullus/",
     0,
     [
+      "https://images.reeflifesurvey.com/1/species_28_685cb4f043083.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_d8_57f708eae6c25.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_00_5c3e818ae9196.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_35_66692382221da.w1000.h666.jpg"
@@ -40249,8 +40262,8 @@
   ],
   "Parvulastra dyscrita": [
     "Parvulastra dyscrita",
-    "",
-    null,
+    "Seastar",
+    "https://reeflifesurvey.com/species/parvulastra-dyscrita/",
     1,
     []
   ],
@@ -47187,8 +47200,8 @@
   ],
   "Rhabdosargus globiceps": [
     "Rhabdosargus globiceps",
-    "",
-    null,
+    "White stumpnose",
+    "https://reeflifesurvey.com/species/rhabdosargus-globiceps/",
     0,
     []
   ],
@@ -55066,7 +55079,8 @@
     [
       "https://images.reeflifesurvey.com/0/species_04_57392c091ab0c.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_97_57392c0e75d71.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_bb_579e8ef75e84c.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/0/species_bb_579e8ef75e84c.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_0c_685cb7babd3b2.w1000.h666.jpg"
     ]
   ],
   "Trachurus symmetricus": [
