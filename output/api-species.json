@@ -1191,7 +1191,11 @@
     "Queen scallop",
     "https://reeflifesurvey.com/species/aequipecten-opercularis/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_af_686234a1974a6.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_5a_686234a3d1d2a.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_8c_686234a6a7800.w1000.h666.jpg"
+    ]
   ],
   "Aequipecten tehuelchus": [
     "Aequipecten tehuelchus",
@@ -2565,7 +2569,9 @@
     "Atlantic ancula",
     "https://reeflifesurvey.com/species/ancula-gibbosa/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_3d_68622ca468789.w1000.h666.jpg"
+    ]
   ],
   "Ancula sp. [gibbosa]": [
     "Ancula sp. [gibbosa]",
@@ -7304,7 +7310,9 @@
     "https://reeflifesurvey.com/species/callionymus-lyra/",
     2,
     [
-      "https://images.reeflifesurvey.com/1/species_53_5dcb3b98cf6ca.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_1d_68634326b94fc.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_d7_6863432214073.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_af_68634323f0729.w1000.h666.JPG"
     ]
   ],
   "Callioplana marginata": [
@@ -7595,7 +7603,11 @@
     "Ox crab",
     "https://reeflifesurvey.com/species/cancer-pagurus/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_17_686343f958d8c.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_04_686343f7e7f3b.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_7d_686343f6a3e67.w1000.h666.jpg"
+    ]
   ],
   "Cancer productus": [
     "Cancer productus",
@@ -17952,7 +17964,12 @@
     "Sea lemon, Archidoris pseudoargus",
     "https://reeflifesurvey.com/species/doris-pseudoargus/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_75_686341c4ee50f.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_77_686341be1f346.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_b2_686341c38c505.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_02_686341c0de4e1.w1000.h666.jpg"
+    ]
   ],
   "Doris wellingtonensis": [
     "Doris wellingtonensis",
@@ -18459,7 +18476,11 @@
     "European edible sea urchin",
     "https://reeflifesurvey.com/species/echinus-esculentus/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_8c_6861f4b941aef.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_ca_6861f4c76a932.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_8c_6861f4c98fd7a.w1000.h666.jpg"
+    ]
   ],
   "Ecsenius ?frontalis": [
     "Ecsenius ?frontalis",
@@ -21524,7 +21545,9 @@
     "",
     "https://reeflifesurvey.com/species/felimida-krohni/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_1d_68622a62ef0fe.w1000.h666.jpg"
+    ]
   ],
   "Felimida luteorosea": [
     "Felimida luteorosea",
@@ -22260,14 +22283,20 @@
     "Squat lobster",
     "https://reeflifesurvey.com/species/galathea-dispersa/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_0b_68620d51b7ec9.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_55_68620d5038a3c.w1000.h666.jpg"
+    ]
   ],
   "Galathea nexa": [
     "Galathea nexa",
     "Squat lobster",
     "https://reeflifesurvey.com/species/galathea-nexa/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_d8_68620ef26b81f.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_b6_68620ef3c6347.w1000.h666.jpg"
+    ]
   ],
   "Galathea spp.": [
     "Galathea spp.",
@@ -27667,7 +27696,9 @@
     "Holothuria (Platyperona) sanctori",
     "https://reeflifesurvey.com/species/holothuria-sanctori/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_ac_6862071a00939.w1000.h666.jpg"
+    ]
   ],
   "Holothuria scabra": [
     "Holothuria scabra",
@@ -27802,7 +27833,10 @@
     "European lobster",
     "https://reeflifesurvey.com/species/homarus-gammarus/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_84_686220f39c0a3.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_97_686220b271ac3.w1000.h666.JPG"
+    ]
   ],
   "Hoplodoris grandiflora": [
     "Hoplodoris grandiflora",
@@ -28443,7 +28477,9 @@
     "Scorpion spider crab",
     "https://reeflifesurvey.com/species/inachus-dorsettensis/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_85_686213496daa7.w1000.h666.jpg"
+    ]
   ],
   "Inachus phalangium": [
     "Inachus phalangium",
@@ -28884,7 +28920,9 @@
     "",
     "https://reeflifesurvey.com/species/jorunna-tomentosa/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_c8_68634563d8ade.w1000.h666.JPG"
+    ]
   ],
   "Kaloplocamus acutus": [
     "Kaloplocamus acutus",
@@ -30455,7 +30493,12 @@
     "Blue-leg swimcrab",
     "https://reeflifesurvey.com/species/liocarcinus-depurator/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_df_686226665a018.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_ef_686226682fce4.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_42_6862266a0e65f.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_98_6862266d14395.w1000.h666.jpg"
+    ]
   ],
   "Liocarcinus sp. (depurator)": [
     "Liocarcinus sp. (depurator)",
@@ -33711,7 +33754,9 @@
     "Long-clawed squat lobster",
     "https://reeflifesurvey.com/species/munida-rugosa/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_cb_6862150ad2346.w1000.h666.JPG"
+    ]
   ],
   "Muraena argus": [
     "Muraena argus",
@@ -34631,7 +34676,12 @@
     "Velvet swimming crab",
     "https://reeflifesurvey.com/species/necora-puber/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_38_6862299229b25.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_ce_68622993b61be.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_42_6862299539c8b.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_54_68622997a61d5.w1000.h666.jpg"
+    ]
   ],
   "Nectamia ?luxuria": [
     "Nectamia ?luxuria",
@@ -38340,7 +38390,11 @@
     "Common hermit crab",
     "https://reeflifesurvey.com/species/pagurus-bernhardus/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_ca_686222807b752.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_ae_68622282be8d1.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_c4_686222842237b.w1000.h666.JPG"
+    ]
   ],
   "Pagurus brevidactylus": [
     "Pagurus brevidactylus",
@@ -38457,7 +38511,9 @@
     "Hairy hermit crab",
     "https://reeflifesurvey.com/species/pagurus-pubescens/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_ac_6862248b3bc02.w1000.h666.jpg"
+    ]
   ],
   "Pagurus sinuatus": [
     "Pagurus sinuatus",
@@ -40508,7 +40564,10 @@
     "Great scallop",
     "https://reeflifesurvey.com/species/pecten-maximus/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_71_6862367ac7e5d.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_95_6862367d021bb.w1000.h666.JPG"
+    ]
   ],
   "Pecten spp.": [
     "Pecten spp.",
@@ -46411,7 +46470,9 @@
     "",
     "https://reeflifesurvey.com/species/pteraster-militaris/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_ed_6861fe7e3f7dc.w1000.h666.jpg"
+    ]
   ],
   "Pteraster tesselatus": [
     "Pteraster tesselatus",
@@ -50960,7 +51021,9 @@
     "Northern sun star",
     "https://reeflifesurvey.com/species/solaster-endeca/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_d1_6861ffc6182d7.w1000.h666.jpg"
+    ]
   ],
   "Solaster stimpsoni": [
     "Solaster stimpsoni",
