@@ -3538,7 +3538,11 @@
     "",
     "https://reeflifesurvey.com/species/apogonichthyoides-pseudotaeniatus/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_07_686366ea51335.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_54_686358b3ad648.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_31_686367b24dcb3.w1000.h666.jpg"
+    ]
   ],
   "Apogonichthyoides timorensis": [
     "Apogonichthyoides timorensis",
@@ -8925,7 +8929,8 @@
     2,
     [
       "https://images.reeflifesurvey.com/0/species_fe_57146d40f1aee.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_0e_675fb1524e631.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/1/species_0e_675fb1524e631.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_32_6863682c9bbf8.w1000.h666.JPG"
     ]
   ],
   "Cephalopholis cruentata": [
@@ -11569,7 +11574,9 @@
     "https://reeflifesurvey.com/species/chromis-notata/",
     0,
     [
-      "https://images.reeflifesurvey.com/0/species_a4_5892899196474.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/0/species_a4_5892899196474.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_09_6863688cb1ecf.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_ab_6863689d359f6.w1000.h666.jpg"
     ]
   ],
   "Chromis opercularis": [
@@ -13173,7 +13180,8 @@
     "https://reeflifesurvey.com/species/colochirus-quadrangularis/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_28_580438cc71680.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/0/species_28_580438cc71680.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_a9_68635cfa07b47.w1000.h666.jpg"
     ]
   ],
   "Colochirus robustus": [
@@ -26070,7 +26078,10 @@
     "Anthocidaris crassispina",
     "https://reeflifesurvey.com/species/heliocidaris-crassispina/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_53_68635d8cc0e1a.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_db_68635be989692.w1000.h666.jpg"
+    ]
   ],
   "Heliocidaris erythrogramma": [
     "Heliocidaris erythrogramma",
@@ -26467,6 +26478,9 @@
     "https://reeflifesurvey.com/species/henricia-sanguinolenta/",
     1,
     [
+      "https://images.reeflifesurvey.com/1/species_8b_686347ada4ec5.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_9f_686347b12181c.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_e5_686347af527b7.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_48_5a018d8f96d9a.w1000.h666.jpg"
     ]
   ],
@@ -27893,7 +27907,8 @@
     "https://reeflifesurvey.com/species/hyas-araneus/",
     1,
     [
-      "https://images.reeflifesurvey.com/1/species_9d_662862d95b1ec.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_9d_662862d95b1ec.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_d2_686346f2d828b.w1000.h666.JPG"
     ]
   ],
   "Hyas coarctatus": [
@@ -27902,7 +27917,8 @@
     "https://reeflifesurvey.com/species/hyas-coarctatus/",
     1,
     [
-      "https://images.reeflifesurvey.com/1/species_4b_65014d724e3d4.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_4b_65014d724e3d4.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_44_68634853a2c94.w1000.h666.JPG"
     ]
   ],
   "Hyastenus elatus": [
@@ -30377,7 +30393,9 @@
     "Orange-clubbed sea slug",
     "https://reeflifesurvey.com/species/limacia-clavigera/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_d3_686348b9312ab.w1000.h666.jpg"
+    ]
   ],
   "Limacia cockerelli": [
     "Limacia cockerelli",
@@ -32144,7 +32162,8 @@
     "https://reeflifesurvey.com/species/mauritia-arabica/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_0f_57de46e229c3c.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_0f_57de46e229c3c.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_24_68635c5ca630a.w1000.h666.jpg"
     ]
   ],
   "Mauritia depressa": [
@@ -39753,7 +39772,10 @@
     "",
     "https://reeflifesurvey.com/species/parasalenia-gratiosa/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_2c_686357e9ae1ac.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_5e_686357e783aff.w1000.h666.jpg"
+    ]
   ],
   "Parasalenia poehlii": [
     "Parasalenia poehlii",
@@ -43550,7 +43572,8 @@
     "https://reeflifesurvey.com/species/polycera-faeroensis/",
     1,
     [
-      "https://images.reeflifesurvey.com/1/species_17_5dd086526c1a3.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_17_5dd086526c1a3.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_1c_68634988a1ace.w1000.h666.JPG"
     ]
   ],
   "Polycera hedgpethi": [
@@ -53438,7 +53461,12 @@
     "",
     "https://reeflifesurvey.com/species/takifugu-alboplumbeus/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_f5_68635ab0e9b6f.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_59_68635aaea1808.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_70_68635aad44fca.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_97_68635ab2aaa52.w1000.h666.jpg"
+    ]
   ],
   "Takifugu niphobles": [
     "Takifugu niphobles",
@@ -54506,7 +54534,8 @@
     "https://reeflifesurvey.com/species/thorogobius-ephippiatus/",
     2,
     [
-      "https://images.reeflifesurvey.com/1/species_9a_5dd089ee0bf00.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_9a_5dd089ee0bf00.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_ef_68634a1f1b74f.w1000.h666.JPG"
     ]
   ],
   "Thorunna arbuta": [
@@ -56025,7 +56054,9 @@
     "Tritonia hombergi",
     "https://reeflifesurvey.com/species/tritonia-hombergii/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_d3_68634b06979c8.w1000.h666.jpg"
+    ]
   ],
   "Tritonia incerta": [
     "Tritonia incerta",
