@@ -4148,17 +4148,6 @@
       2
     ],
     [
-      "BZE1",
-      "Belize",
-      "Tropical Atlantic",
-      "Belize",
-      "Western Caribbean",
-      "CBC 30 N",
-      -88.08,
-      16.8,
-      6
-    ],
-    [
       "BZE2",
       "Belize",
       "Tropical Atlantic",
@@ -6643,6 +6632,17 @@
       -88.08,
       16.8,
       12
+    ],
+    [
+      "CBC20",
+      "Belize",
+      "Tropical Atlantic",
+      "Belize",
+      "Western Caribbean",
+      "CBC 30 N",
+      -88.08,
+      16.8,
+      6
     ],
     [
       "CBC21",
@@ -37206,7 +37206,7 @@
       "RED1",
       "Egypt",
       "Western Indo-Pacific",
-      "Red Sea",
+      "Red Sea - Egypt",
       "Northern and Central Red Sea",
       "Habili Ali",
       35.99,
@@ -37250,7 +37250,7 @@
       "RED13",
       "Egypt",
       "Western Indo-Pacific",
-      "Red Sea",
+      "Red Sea - Egypt",
       "Northern and Central Red Sea",
       "Gotta Marsa Alam",
       34.94,
@@ -37305,7 +37305,7 @@
       "RED18",
       "Saudi Arabia",
       "Western Indo-Pacific",
-      "Red Sea",
+      "Red Sea - Saudi",
       "Northern and Central Red Sea",
       "Al Muwaileh",
       35.44,
