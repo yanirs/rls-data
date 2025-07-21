@@ -4439,6 +4439,13 @@
       "https://images.reeflifesurvey.com/0/species_99_5a018c25c6142.w1000.h666.jpg"
     ]
   ],
+  "Asterias rubens": [
+    "Asterias rubens",
+    "",
+    null,
+    1,
+    []
+  ],
   "Asterina fimbriata": [
     "Asterina fimbriata",
     "Scale star, Patiriella fimbriata",
@@ -18329,7 +18336,7 @@
   ],
   "Echinaster sepositus": [
     "Echinaster sepositus",
-    "Red starfish, Asterias rubens, Echinaster (Echinaster) sepositus",
+    "Red starfish, Echinaster (Echinaster) sepositus",
     "https://reeflifesurvey.com/species/echinaster-sepositus/",
     1,
     [
