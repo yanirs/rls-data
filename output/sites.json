@@ -5740,7 +5740,7 @@
       "Windjammer wreck",
       -82.94,
       24.62,
-      4
+      6
     ],
     [
       "CAR30",
@@ -6587,7 +6587,7 @@
       "Tobacco Reef 30",
       -88.07,
       16.87,
-      10
+      11
     ],
     [
       "CBC15",
@@ -6620,7 +6620,7 @@
       "Curlew patch reef",
       -88.1,
       16.78,
-      11
+      12
     ],
     [
       "CBC2",
@@ -6631,7 +6631,7 @@
       "CBC Reef",
       -88.08,
       16.8,
-      12
+      13
     ],
     [
       "CBC20",
@@ -6642,7 +6642,7 @@
       "CBC 30 N",
       -88.08,
       16.8,
-      6
+      7
     ],
     [
       "CBC21",
@@ -6653,7 +6653,7 @@
       "South Reef 30 North",
       -88.08,
       16.78,
-      3
+      4
     ],
     [
       "CBC22",
@@ -6664,7 +6664,7 @@
       "Bread and Butter Patch",
       -88.16,
       16.77,
-      3
+      4
     ],
     [
       "CBC24",
@@ -6675,6 +6675,28 @@
       "Curlew Bank",
       -88.08,
       16.79,
+      3
+    ],
+    [
+      "CBC28",
+      "Belize",
+      "Tropical Atlantic",
+      "Belize",
+      "Western Caribbean",
+      "Hangman South",
+      -88.15,
+      16.82,
+      1
+    ],
+    [
+      "CBC29",
+      "Belize",
+      "Tropical Atlantic",
+      "Belize",
+      "Western Caribbean",
+      "South Reef 30 South",
+      -88.08,
+      16.77,
       2
     ],
     [
@@ -6686,7 +6708,18 @@
       "CBC Lagoon 15",
       -88.09,
       16.81,
-      10
+      11
+    ],
+    [
+      "CBC31",
+      "Belize",
+      "Tropical Atlantic",
+      "Belize",
+      "Western Caribbean",
+      "CBC 45 North",
+      -88.08,
+      16.81,
+      1
     ],
     [
       "CBC4",
@@ -6708,7 +6741,7 @@
       "CBC House Reef",
       -88.08,
       16.8,
-      9
+      10
     ],
     [
       "CBC7",
@@ -10537,6 +10570,171 @@
       -69.0,
       18.37,
       1
+    ],
+    [
+      "DT-1D2",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Black Coral Rock",
+      -83.0,
+      24.7,
+      2
+    ],
+    [
+      "DT-1P1",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "White Shoal",
+      -82.9,
+      24.64,
+      2
+    ],
+    [
+      "DT-1P3",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Prolifera Patch",
+      -82.87,
+      24.62,
+      2
+    ],
+    [
+      "DT-1P4",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Temptation Rock",
+      -82.93,
+      24.64,
+      2
+    ],
+    [
+      "DT-1P5",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Mayer's Peak",
+      -82.94,
+      24.61,
+      2
+    ],
+    [
+      "DT-1P6",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Loggerhead Patch",
+      -82.92,
+      24.64,
+      2
+    ],
+    [
+      "DT-1P7",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Little Africa",
+      -82.92,
+      24.64,
+      2
+    ],
+    [
+      "DT-1PA",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "The Maze",
+      -82.95,
+      24.61,
+      2
+    ],
+    [
+      "DT-1PB",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Davis Rock",
+      -82.91,
+      24.69,
+      3
+    ],
+    [
+      "DT-1PC",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Texas Rock",
+      -82.89,
+      24.68,
+      3
+    ],
+    [
+      "DT-DRTO1",
+      "Australia",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Ok every time",
+      -83.03,
+      24.65,
+      2
+    ],
+    [
+      "DT-DRTO2",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Leah's Lump",
+      -82.81,
+      24.66,
+      1
+    ],
+    [
+      "DT-IP2",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Palmata Patch",
+      -82.87,
+      24.62,
+      2
+    ],
+    [
+      "DT-MRQ1",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Lion's Den",
+      -82.12,
+      24.45,
+      2
+    ],
+    [
+      "DT-MRQ2",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Sponge Bath",
+      -82.21,
+      24.48,
+      2
     ],
     [
       "EI1",
@@ -27751,7 +27949,7 @@
       "Monck Head",
       113.76,
       -23.18,
-      21
+      24
     ],
     [
       "NMP-C3",
@@ -27762,7 +27960,7 @@
       "Coral Bay Central",
       113.75,
       -23.14,
-      21
+      23
     ],
     [
       "NMP-C4",
@@ -27773,7 +27971,7 @@
       "Yalobia Passage",
       113.76,
       -23.2,
-      21
+      24
     ],
     [
       "NMP-P2",
@@ -27784,7 +27982,7 @@
       "Pelican Nth",
       113.78,
       -23.32,
-      21
+      24
     ],
     [
       "NMP-S1",
@@ -27795,7 +27993,7 @@
       "Dugong",
       113.76,
       -22.87,
-      23
+      26
     ],
     [
       "NMP-S2",
@@ -27806,7 +28004,7 @@
       "Bruboodjoo",
       113.78,
       -22.93,
-      23
+      26
     ],
     [
       "NMP-S3",
@@ -27817,7 +28015,7 @@
       "Coral Bay DEC1",
       113.75,
       -23.13,
-      22
+      24
     ],
     [
       "NMP-S4",
@@ -27828,7 +28026,7 @@
       "Pelican Sth",
       113.78,
       -23.33,
-      19
+      22
     ],
     [
       "NMP1",
@@ -27839,7 +28037,7 @@
       "Point Maud Outer",
       113.75,
       -23.11,
-      19
+      21
     ],
     [
       "NMP10",
@@ -27861,7 +28059,7 @@
       "Maud RZ2",
       113.76,
       -23.21,
-      17
+      19
     ],
     [
       "NMP12",
@@ -27949,7 +28147,7 @@
       "Maud SZ Nth",
       113.74,
       -23.09,
-      18
+      20
     ],
     [
       "NMP2",
@@ -27971,7 +28169,7 @@
       "Oyster rocks buoy",
       113.82,
       -23.04,
-      18
+      20
     ],
     [
       "NMP21",
@@ -27982,7 +28180,7 @@
       "Coral Bay (Sanctuary zone)",
       113.77,
       -23.14,
-      8
+      9
     ],
     [
       "NMP22",
@@ -28037,7 +28235,7 @@
       "Outside Yalobia South",
       113.75,
       -23.22,
-      11
+      13
     ],
     [
       "NMP27",
@@ -28048,7 +28246,7 @@
       "Coral Bay Offshore",
       113.74,
       -23.13,
-      13
+      15
     ],
     [
       "NMP28",
@@ -28235,7 +28433,7 @@
       "Maud SZ external",
       113.76,
       -23.18,
-      14
+      16
     ],
     [
       "NMP9",
@@ -37409,7 +37607,7 @@
       "Green Island Reserve 1",
       115.5,
       -32.02,
-      48
+      50
     ],
     [
       "RI10",
@@ -37420,7 +37618,7 @@
       "Kingston Reef",
       115.56,
       -31.99,
-      36
+      38
     ],
     [
       "RI11",
@@ -37519,7 +37717,7 @@
       "Parakeet",
       115.52,
       -31.99,
-      21
+      23
     ],
     [
       "RI2",
@@ -37530,7 +37728,7 @@
       "The Count",
       115.56,
       -32.02,
-      44
+      45
     ],
     [
       "RI20",
@@ -37574,7 +37772,7 @@
       "Roe Reef",
       115.54,
       -31.97,
-      48
+      50
     ],
     [
       "RI24",
@@ -37651,7 +37849,7 @@
       "Crystal palace",
       115.55,
       -32.02,
-      41
+      42
     ],
     [
       "RI6",
@@ -37662,7 +37860,7 @@
       "Pocillopora Reef",
       115.53,
       -32.03,
-      43
+      45
     ],
     [
       "RI7",
@@ -37695,7 +37893,7 @@
       "Armstrong Bay",
       115.5,
       -31.99,
-      42
+      44
     ],
     [
       "RR",
@@ -40478,7 +40676,7 @@
       "Roberts Point",
       147.28,
       -43.15,
-      12
+      13
     ],
     [
       "TAS166",

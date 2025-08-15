@@ -3458,6 +3458,20 @@
       "https://images.reeflifesurvey.com/0/species_68_578443b1a88f8.w1000.h666.JPG"
     ]
   ],
+  "Apogon pseudomaculatus": [
+    "Apogon pseudomaculatus",
+    "",
+    null,
+    2,
+    []
+  ],
+  "Apogon quadrisquamatus": [
+    "Apogon quadrisquamatus",
+    "",
+    null,
+    2,
+    []
+  ],
   "Apogon retrosella": [
     "Apogon retrosella",
     "Barspot cardinalfish",
@@ -5310,6 +5324,13 @@
     0,
     []
   ],
+  "Axiidae spp.": [
+    "Axiidae spp.",
+    "",
+    null,
+    1,
+    []
+  ],
   "Axiopsis serratifrons": [
     "Axiopsis serratifrons",
     "Serrated axiid",
@@ -7007,6 +7028,13 @@
       "https://images.reeflifesurvey.com/0/species_69_58294e5ba9bf2.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_e9_57d7909e03f7a.w1000.h666.jpg"
     ]
+  ],
+  "Calamus nodosus": [
+    "Calamus nodosus",
+    "",
+    null,
+    0,
+    []
   ],
   "Calamus penna": [
     "Calamus penna",
@@ -11480,6 +11508,13 @@
       "https://images.reeflifesurvey.com/0/species_fc_576b541b2088c.w1000.h666.jpg"
     ]
   ],
+  "Chromis enchrysurus": [
+    "Chromis enchrysurus",
+    "",
+    null,
+    0,
+    []
+  ],
   "Chromis flavaxilla": [
     "Chromis flavaxilla",
     "Arabian chromis",
@@ -13098,6 +13133,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_16_5892900fe33ac.w1000.h666.JPG"
     ]
+  ],
+  "Clypeaster rosaceus": [
+    "Clypeaster rosaceus",
+    "",
+    null,
+    1,
+    []
   ],
   "Clypeasteridae spp.": [
     "Clypeasteridae spp.",
@@ -18217,6 +18259,13 @@
       "https://images.reeflifesurvey.com/0/species_38_582952a2460f1.w1000.h666.jpg"
     ]
   ],
+  "Echeneis spp.": [
+    "Echeneis spp.",
+    "",
+    null,
+    0,
+    []
+  ],
   "Echidna catenata": [
     "Echidna catenata",
     "Chain moray",
@@ -18924,6 +18973,13 @@
     2,
     []
   ],
+  "Elacatinus colini": [
+    "Elacatinus colini",
+    "",
+    null,
+    2,
+    []
+  ],
   "Elacatinus dilepis": [
     "Elacatinus dilepis",
     "Orange-sided goby",
@@ -18996,6 +19052,13 @@
       "https://images.reeflifesurvey.com/0/species_15_582952b3c1701.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_24_582952b77ab2c.w1000.h666.jpg"
     ]
+  ],
+  "Elacatinus lori": [
+    "Elacatinus lori",
+    "",
+    null,
+    2,
+    []
   ],
   "Elacatinus louisae": [
     "Elacatinus louisae",
@@ -19298,6 +19361,13 @@
     "Emblemariopsis carib",
     "Spikefin Glass Blenny",
     "https://reeflifesurvey.com/species/emblemariopsis-carib/",
+    2,
+    []
+  ],
+  "Emblemariopsis diaphana": [
+    "Emblemariopsis diaphana",
+    "",
+    null,
     2,
     []
   ],
@@ -20847,6 +20917,13 @@
     2,
     []
   ],
+  "Eviota longirostris": [
+    "Eviota longirostris",
+    "",
+    null,
+    2,
+    []
+  ],
   "Eviota melasma": [
     "Eviota melasma",
     "Headspot Eviota, Black-spotted Pygmygoby, Headspot Pygmygoby, Melasma Pygmygoby",
@@ -21155,6 +21232,13 @@
     [
       "https://images.reeflifesurvey.com/1/species_35_6494374b9c42b.w1000.h666.jpg"
     ]
+  ],
+  "Eviota sp. [red head]": [
+    "Eviota sp. [red head]",
+    "",
+    null,
+    2,
+    []
   ],
   "Eviota sp. [sigillata]": [
     "Eviota sp. [sigillata]",
@@ -21803,6 +21887,13 @@
       "https://images.reeflifesurvey.com/1/species_8c_5dd0800a41936.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_25_5dd0800d24a1a.w1000.h666.jpg"
     ]
+  ],
+  "Flabellina engeli": [
+    "Flabellina engeli",
+    "",
+    null,
+    1,
+    []
   ],
   "Flabellina marcusorum": [
     "Flabellina marcusorum",
@@ -23045,6 +23136,13 @@
     "Gobioclinus kalisherae",
     "Downy blenny",
     "https://reeflifesurvey.com/species/gobioclinus-kalisherae/",
+    2,
+    []
+  ],
+  "Gobioclinus spp.": [
+    "Gobioclinus spp.",
+    "",
+    null,
     2,
     []
   ],
@@ -26164,6 +26262,13 @@
     0,
     []
   ],
+  "Hemiemblemaria simula": [
+    "Hemiemblemaria simula",
+    "",
+    null,
+    2,
+    []
+  ],
   "Hemiemblemaria simulus": [
     "Hemiemblemaria simulus",
     "",
@@ -26249,6 +26354,13 @@
     "Hemiocnus insolens",
     "Red-chested sea cucumber",
     "https://reeflifesurvey.com/species/hemiocnus-insolens/",
+    1,
+    []
+  ],
+  "Hemipolygona carinifera": [
+    "Hemipolygona carinifera",
+    "",
+    null,
     1,
     []
   ],
@@ -26627,6 +26739,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_48_59db4fc7ee6c1.w1000.h666.jpg"
     ]
+  ],
+  "Hesperisternia multangulus": [
+    "Hesperisternia multangulus",
+    "",
+    null,
+    1,
+    []
   ],
   "Hesperocidaris asteriscus": [
     "Hesperocidaris asteriscus",
@@ -28019,6 +28138,13 @@
     0,
     []
   ],
+  "Hypleurochilus bermudensis": [
+    "Hypleurochilus bermudensis",
+    "",
+    null,
+    2,
+    []
+  ],
   "Hypleurochilus geminatus": [
     "Hypleurochilus geminatus",
     "",
@@ -29294,6 +29420,13 @@
     0,
     []
   ],
+  "Labrisomidae spp.": [
+    "Labrisomidae spp.",
+    "",
+    null,
+    2,
+    []
+  ],
   "Labrisomus cricota": [
     "Labrisomus cricota",
     "Mock blenny",
@@ -30399,6 +30532,13 @@
     "",
     null,
     2,
+    []
+  ],
+  "Leucozonia nassa": [
+    "Leucozonia nassa",
+    "",
+    null,
+    1,
     []
   ],
   "Leucozonia ocellata": [
@@ -39228,6 +39368,20 @@
     2,
     []
   ],
+  "Paragobiodon lacunicolus": [
+    "Paragobiodon lacunicolus",
+    "",
+    null,
+    2,
+    []
+  ],
+  "Paragobiodon melanosoma": [
+    "Paragobiodon melanosoma",
+    "",
+    null,
+    2,
+    []
+  ],
   "Paragobiodon modestus": [
     "Paragobiodon modestus",
     "Redhead Pocillopora Goby",
@@ -41169,6 +41323,16 @@
     1,
     []
   ],
+  "Periclimenes pedersoni": [
+    "Periclimenes pedersoni",
+    "Pederson cleaner shrimp",
+    "https://reeflifesurvey.com/species/periclimenes-pedersoni/",
+    1,
+    [
+      "https://images.reeflifesurvey.com/1/species_39_5ee6b5ca63e8a.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_3f_57e36becb8808.w1000.h666.jpg"
+    ]
+  ],
   "Peristernia australiensis": [
     "Peristernia australiensis",
     "",
@@ -41678,6 +41842,13 @@
     "Phimochirus operculatus",
     "Polka dotted hermit",
     "https://reeflifesurvey.com/species/phimochirus-operculatus/",
+    1,
+    []
+  ],
+  "Phimochirus spp.": [
+    "Phimochirus spp.",
+    "",
+    null,
     1,
     []
   ],
@@ -42288,6 +42459,13 @@
   ],
   "Pilumnidae spp.": [
     "Pilumnidae spp.",
+    "",
+    null,
+    1,
+    []
+  ],
+  "Pilumnus floridanus": [
+    "Pilumnus floridanus",
     "",
     null,
     1,
@@ -42914,7 +43092,7 @@
   ],
   "Plectorhinchus caeruleonothus": [
     "Plectorhinchus caeruleonothus",
-    "Blue bastard, Plectorhinchus sp. [schotaf]",
+    "Blue bastard",
     "https://reeflifesurvey.com/species/plectorhinchus-caeruleonothus/",
     0,
     [
@@ -49307,6 +49485,13 @@
       "https://images.reeflifesurvey.com/0/species_82_582c4e697e9ba.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_b9_57d93f155de78.w1000.h666.jpg"
     ]
+  ],
+  "Scomberomorus semifasciatus": [
+    "Scomberomorus semifasciatus",
+    "",
+    null,
+    0,
+    []
   ],
   "Scomberomorus sierra": [
     "Scomberomorus sierra",
@@ -57368,6 +57553,13 @@
     "Vanderhorstia ornatissima",
     "Ornate prawn-goby",
     "https://reeflifesurvey.com/species/vanderhorstia-ornatissima/",
+    2,
+    []
+  ],
+  "Vanderhorstia sp. [phaeosticta]": [
+    "Vanderhorstia sp. [phaeosticta]",
+    "",
+    null,
     2,
     []
   ],
