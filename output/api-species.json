@@ -23413,18 +23413,6 @@
       "https://images.reeflifesurvey.com/0/species_f0_56f8b031184e8.w1000.h666.jpg"
     ]
   ],
-  "Gobiusculus flavescens": [
-    "Gobiusculus flavescens",
-    "Two-spotted goby",
-    "https://reeflifesurvey.com/species/gobiusculus-flavescens/",
-    2,
-    [
-      "https://images.reeflifesurvey.com/0/species_d0_5737014f6e422.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_71_5737015f1f2b0.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_74_57370137b5f0a.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_37_5737018e2fba5.w1000.h666.jpg"
-    ]
-  ],
   "Godiva spp.": [
     "Godiva spp.",
     "",
@@ -44559,6 +44547,18 @@
     "https://reeflifesurvey.com/species/pomatoschistus-bathi/",
     2,
     []
+  ],
+  "Pomatoschistus flavescens": [
+    "Pomatoschistus flavescens",
+    "Gobiusculus flavescens",
+    "https://reeflifesurvey.com/species/pomatoschistus-flavescens/",
+    2,
+    [
+      "https://images.reeflifesurvey.com/0/species_d0_5737014f6e422.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_71_5737015f1f2b0.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_74_57370137b5f0a.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_37_5737018e2fba5.w1000.h666.jpg"
+    ]
   ],
   "Pomatoschistus microps": [
     "Pomatoschistus microps",
