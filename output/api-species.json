@@ -29753,7 +29753,8 @@
     "https://reeflifesurvey.com/species/lamellaria-australis/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_cb_57de3c72f1c45.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_cb_57de3c72f1c45.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_9b_68c3c804c7ee0.w1000.h666.JPG"
     ]
   ],
   "Lamellaria spp.": [
@@ -45886,7 +45887,9 @@
     "Susans flatworm",
     "https://reeflifesurvey.com/species/pseudoceros-susanae/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_bd_68c3c7690da3f.w1000.h666.JPG"
+    ]
   ],
   "Pseudocheilinops ataenia": [
     "Pseudocheilinops ataenia",
