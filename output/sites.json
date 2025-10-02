@@ -1233,6 +1233,116 @@
       1
     ],
     [
+      "ANT10",
+      "Antarctica",
+      "Southern Ocean",
+      "Antarctica",
+      "Antarctic Peninsula",
+      "Portal Point",
+      -61.76,
+      -64.5,
+      1
+    ],
+    [
+      "ANT11",
+      "Antarctica",
+      "Southern Ocean",
+      "Antarctica",
+      "Antarctic Peninsula",
+      "Guvernoren Wreck",
+      -62.0,
+      -64.54,
+      1
+    ],
+    [
+      "ANT12",
+      "Antarctica",
+      "Southern Ocean",
+      "Antarctica",
+      "Antarctic Peninsula",
+      "Petermann Island",
+      -64.14,
+      -65.17,
+      1
+    ],
+    [
+      "ANT13",
+      "Antarctica",
+      "Southern Ocean",
+      "Antarctica",
+      "Antarctic Peninsula",
+      "Argentine Islands",
+      -64.24,
+      -65.25,
+      1
+    ],
+    [
+      "ANT14",
+      "Antarctica",
+      "Southern Ocean",
+      "Antarctica",
+      "Antarctic Peninsula",
+      "North Point, Linblad Cove",
+      -59.46,
+      -63.82,
+      1
+    ],
+    [
+      "ANT15",
+      "Antarctica",
+      "Southern Ocean",
+      "Antarctica",
+      "Antarctic Peninsula",
+      "Brown Bluff, Hat Rock",
+      -56.87,
+      -63.52,
+      1
+    ],
+    [
+      "ANT16",
+      "Antarctica",
+      "Southern Ocean",
+      "Antarctica",
+      "Antarctic Peninsula",
+      "Vega Island Cliff",
+      -57.34,
+      -63.79,
+      1
+    ],
+    [
+      "ANT17",
+      "Antarctica",
+      "Southern Ocean",
+      "Antarctica",
+      "Antarctic Peninsula",
+      "Portal Point North",
+      -61.76,
+      -64.5,
+      1
+    ],
+    [
+      "ANT18",
+      "Antarctica",
+      "Southern Ocean",
+      "Antarctica",
+      "Antarctic Peninsula",
+      "Recess Cover Islet",
+      -61.6,
+      -64.52,
+      1
+    ],
+    [
+      "ANT19",
+      "Antarctica",
+      "Southern Ocean",
+      "Antarctica",
+      "South Shetland Islands",
+      "Deception Island Entrance",
+      -60.56,
+      -62.99,
+      1
+    ],
+    [
       "ANT2",
       "Antarctica",
       "Southern Ocean",
@@ -1934,7 +2044,7 @@
       "Liberty wreck",
       115.59,
       -8.28,
-      2
+      3
     ],
     [
       "BALI2",
@@ -1945,7 +2055,7 @@
       "Paradise House reef",
       115.59,
       -8.28,
-      12
+      13
     ],
     [
       "BALI3",
@@ -1956,7 +2066,7 @@
       "Drop off below temple",
       115.6,
       -8.28,
-      3
+      4
     ],
     [
       "BALI4",
@@ -1967,7 +2077,7 @@
       "Opposite Mimpi Resort",
       115.59,
       -8.28,
-      3
+      4
     ],
     [
       "BC1",
@@ -3290,6 +3400,105 @@
       4
     ],
     [
+      "BO1",
+      "Norway",
+      "Temperate Northern Atlantic",
+      "Bod\u00f8",
+      "Northern Norway and Finnmark",
+      "Saltbrygga",
+      14.63,
+      67.23,
+      2
+    ],
+    [
+      "BO10",
+      "Norway",
+      "Temperate Northern Atlantic",
+      "Bod\u00f8",
+      "Northern Norway and Finnmark",
+      "Vollvika",
+      14.62,
+      67.38,
+      2
+    ],
+    [
+      "BO11",
+      "Norway",
+      "Temperate Northern Atlantic",
+      "Bod\u00f8",
+      "Northern Norway and Finnmark",
+      "Festv\u00e5g",
+      14.78,
+      67.44,
+      2
+    ],
+    [
+      "BO12",
+      "Norway",
+      "Temperate Northern Atlantic",
+      "Bod\u00f8",
+      "Northern Norway and Finnmark",
+      "Kjellen",
+      14.62,
+      67.23,
+      1
+    ],
+    [
+      "BO13",
+      "Norway",
+      "Temperate Northern Atlantic",
+      "Bod\u00f8",
+      "Northern Norway and Finnmark",
+      "Sandhorn\u00f8y Bridge East",
+      14.26,
+      67.06,
+      2
+    ],
+    [
+      "BO14",
+      "Norway",
+      "Temperate Northern Atlantic",
+      "Bod\u00f8",
+      "Northern Norway and Finnmark",
+      "Sandhorn\u00f8y Bridge West",
+      14.24,
+      67.06,
+      1
+    ],
+    [
+      "BO15",
+      "Norway",
+      "Temperate Northern Atlantic",
+      "Bod\u00f8",
+      "Northern Norway and Finnmark",
+      "Sandvika",
+      15.54,
+      67.39,
+      2
+    ],
+    [
+      "BO2",
+      "Norway",
+      "Temperate Northern Atlantic",
+      "Bod\u00f8",
+      "Northern Norway and Finnmark",
+      "Ersvika sud",
+      14.73,
+      67.28,
+      1
+    ],
+    [
+      "BO8",
+      "Norway",
+      "Temperate Northern Atlantic",
+      "Bod\u00f8",
+      "Northern Norway and Finnmark",
+      "Tverlandet Bridge North",
+      14.72,
+      67.31,
+      1
+    ],
+    [
       "BOCAS1",
       "Panama",
       "Tropical Atlantic",
@@ -3838,6 +4047,105 @@
       -38.94,
       -17.7,
       2
+    ],
+    [
+      "BRA11",
+      "Brazil",
+      "Temperate South America",
+      "Sao Paulo (Brazil)",
+      "Southeastern Brazil",
+      "Sao Pedro Reef",
+      -45.45,
+      -23.88,
+      2
+    ],
+    [
+      "BRA12",
+      "Brazil",
+      "Temperate South America",
+      "Sao Paulo (Brazil)",
+      "Southeastern Brazil",
+      "Eustacio Reef",
+      -45.24,
+      -23.84,
+      2
+    ],
+    [
+      "BRA13",
+      "Brazil",
+      "Temperate South America",
+      "Sao Paulo (Brazil)",
+      "Southeastern Brazil",
+      "Buzios Reef",
+      -45.12,
+      -23.8,
+      2
+    ],
+    [
+      "BRA14",
+      "Brazil",
+      "Temperate South America",
+      "Sao Paulo (Brazil)",
+      "Southeastern Brazil",
+      "Sombrio Reef",
+      -45.25,
+      -23.9,
+      2
+    ],
+    [
+      "BRA15",
+      "Brazil",
+      "Temperate South America",
+      "Sao Paulo (Brazil)",
+      "Southeastern Brazil",
+      "Portinho Reef",
+      -45.41,
+      -23.84,
+      1
+    ],
+    [
+      "BRA16",
+      "Brazil",
+      "Temperate South America",
+      "Sao Paulo (Brazil)",
+      "Southeastern Brazil",
+      "Montao de Triago Reef",
+      -45.77,
+      -23.86,
+      2
+    ],
+    [
+      "BRA17",
+      "Brazil",
+      "Temperate South America",
+      "Sao Paulo (Brazil)",
+      "Southeastern Brazil",
+      "Ilha Vitoria Reef",
+      -45.02,
+      -23.74,
+      2
+    ],
+    [
+      "BRA18",
+      "Brazil",
+      "Temperate South America",
+      "Sao Paulo (Brazil)",
+      "Southeastern Brazil",
+      "Asilhas Reef",
+      -45.72,
+      -23.8,
+      2
+    ],
+    [
+      "BRA19",
+      "Brazil",
+      "Temperate South America",
+      "Sao Paulo (Brazil)",
+      "Southeastern Brazil",
+      "CEBIMar Reef",
+      -45.42,
+      -23.83,
+      1
     ],
     [
       "BRA2",
@@ -10385,94 +10693,6 @@
       4
     ],
     [
-      "DC1",
-      "United States",
-      "Tropical Atlantic",
-      "Miami",
-      "Floridian",
-      "Dade County 1",
-      -80.1,
-      25.84,
-      2
-    ],
-    [
-      "DC2",
-      "United States",
-      "Tropical Atlantic",
-      "Miami",
-      "Floridian",
-      "Dade County 2",
-      -80.09,
-      25.84,
-      2
-    ],
-    [
-      "DC3",
-      "United States",
-      "Tropical Atlantic",
-      "Miami",
-      "Floridian",
-      "Dade County 3",
-      -80.09,
-      25.84,
-      2
-    ],
-    [
-      "DC4",
-      "United States",
-      "Tropical Atlantic",
-      "Miami",
-      "Floridian",
-      "Dade County 4",
-      -80.09,
-      25.67,
-      2
-    ],
-    [
-      "DC5",
-      "United States",
-      "Tropical Atlantic",
-      "Miami",
-      "Floridian",
-      "Dade County 5",
-      -80.09,
-      25.65,
-      2
-    ],
-    [
-      "DC6",
-      "United States",
-      "Tropical Atlantic",
-      "Miami",
-      "Floridian",
-      "Dade County 6",
-      -80.11,
-      25.95,
-      2
-    ],
-    [
-      "DC7",
-      "United States",
-      "Tropical Atlantic",
-      "Miami",
-      "Floridian",
-      "Dade County 7",
-      -80.09,
-      25.96,
-      2
-    ],
-    [
-      "DC8",
-      "United States",
-      "Tropical Atlantic",
-      "Miami",
-      "Floridian",
-      "Dade County 8",
-      -80.12,
-      25.68,
-      2
-    ],
-    [
       "DOMR1",
       "Dominican Republic",
       "Tropical Atlantic",
@@ -10481,6 +10701,17 @@
       "Coralina",
       -68.85,
       18.37,
+      3
+    ],
+    [
+      "DOMR14",
+      "Dominican Republic",
+      "Tropical Atlantic",
+      "Dominican Republic",
+      "Greater Antilles",
+      "Vitoria Reef",
+      -68.78,
+      18.2,
       1
     ],
     [
@@ -10492,7 +10723,7 @@
       "Playita",
       -68.85,
       18.37,
-      1
+      3
     ],
     [
       "DOMR3",
@@ -10503,7 +10734,7 @@
       "Coco Reef",
       -68.83,
       18.34,
-      1
+      2
     ],
     [
       "DOMR4",
@@ -10514,7 +10745,7 @@
       "Viva Bayita Shallow",
       -68.83,
       18.35,
-      1
+      3
     ],
     [
       "DOMR5",
@@ -10525,7 +10756,7 @@
       "Fundemar",
       -68.85,
       18.36,
-      1
+      2
     ],
     [
       "DOMR6",
@@ -10536,7 +10767,7 @@
       "Penon",
       -68.78,
       18.25,
-      1
+      3
     ],
     [
       "DOMR7",
@@ -10547,7 +10778,7 @@
       "Parque",
       -68.82,
       18.33,
-      1
+      3
     ],
     [
       "DOMR8",
@@ -10558,7 +10789,7 @@
       "Cervicornis",
       -69.0,
       18.37,
-      1
+      2
     ],
     [
       "DOMR9",
@@ -10569,7 +10800,7 @@
       "Orbicella",
       -69.0,
       18.37,
-      1
+      3
     ],
     [
       "DT-1D2",
@@ -10683,7 +10914,7 @@
     ],
     [
       "DT-DRTO1",
-      "Australia",
+      "United States",
       "Tropical Atlantic",
       "Florida Keys",
       "Floridian",
@@ -14103,17 +14334,6 @@
       2
     ],
     [
-      "EYR01",
-      "Australia",
-      "Temperate Australasia",
-      "Eyre Peninsula",
-      "South Australian Gulfs",
-      "Topgallant Island Inner",
-      134.61,
-      -33.71,
-      2
-    ],
-    [
       "EYR23",
       "Australia",
       "Temperate Australasia",
@@ -14613,11 +14833,11 @@
       "Australia",
       "Temperate Australasia",
       "Eyre Peninsula",
-      "South Australian Gulfs",
+      "Leeuwin",
       "Topgallant Island",
-      134.62,
-      -33.72,
-      4
+      113.46,
+      -33.71,
+      6
     ],
     [
       "EYR70",
@@ -14994,6 +15214,820 @@
       1
     ],
     [
+      "FLO1",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Eastern Sambo Deep (5D3)",
+      -81.67,
+      24.49,
+      2
+    ],
+    [
+      "FLO10",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Coffins Patch E FL",
+      -80.96,
+      24.69,
+      4
+    ],
+    [
+      "FLO11",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Coffins Patch W FL",
+      -80.96,
+      24.69,
+      4
+    ],
+    [
+      "FLO12",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Looe Reef Deep FL",
+      -81.42,
+      24.54,
+      2
+    ],
+    [
+      "FLO13",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Looe Reef West FL",
+      -81.41,
+      24.55,
+      4
+    ],
+    [
+      "FLO14",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Looe Reef Marker Post FL",
+      -81.41,
+      24.55,
+      4
+    ],
+    [
+      "FLO15",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Pillar Patch FL",
+      -80.97,
+      24.68,
+      4
+    ],
+    [
+      "FLO16",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Vaca Key Bight East FL",
+      -81.03,
+      24.69,
+      4
+    ],
+    [
+      "FLO17",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Delta Shoal Marathon FL",
+      -81.09,
+      24.63,
+      4
+    ],
+    [
+      "FLO18",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "West Washer Women (5P1)",
+      -81.59,
+      24.55,
+      2
+    ],
+    [
+      "FLO19",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Wonderland (5P5)",
+      -81.5,
+      24.56,
+      2
+    ],
+    [
+      "FLO2",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Western Sambo Deep (5D4)",
+      -81.72,
+      24.48,
+      2
+    ],
+    [
+      "FLO20",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Western Sambo Shallow (5S4)",
+      -81.72,
+      24.48,
+      2
+    ],
+    [
+      "FLO21",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Rock Key Shallow (5S5)",
+      -81.86,
+      24.45,
+      2
+    ],
+    [
+      "FLO22",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Jaap Reef (5P4)",
+      -81.58,
+      24.59,
+      2
+    ],
+    [
+      "FLO23",
+      "United States",
+      "Tropical Atlantic",
+      "Miami - Broward County",
+      "Floridian",
+      "Sunkist, FL",
+      -80.07,
+      26.25,
+      1
+    ],
+    [
+      "FLO24",
+      "United States",
+      "Tropical Atlantic",
+      "Miami - Broward County",
+      "Floridian",
+      "Sunrise Blvd, FL",
+      -80.1,
+      26.14,
+      3
+    ],
+    [
+      "FLO25",
+      "United States",
+      "Tropical Atlantic",
+      "Miami - Broward County",
+      "Floridian",
+      "Dania Beach",
+      -80.11,
+      26.05,
+      1
+    ],
+    [
+      "FLO26",
+      "United States",
+      "Tropical Atlantic",
+      "Miami - Broward County",
+      "Floridian",
+      "John U. Lloyd Beach State Park",
+      -80.1,
+      26.08,
+      3
+    ],
+    [
+      "FLO27",
+      "United States",
+      "Tropical Atlantic",
+      "Miami - Broward County",
+      "Floridian",
+      "Vista Park",
+      -80.09,
+      26.16,
+      1
+    ],
+    [
+      "FLO28",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Sombrero Deep (5D1)",
+      -81.11,
+      24.62,
+      2
+    ],
+    [
+      "FLO29",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Looe Key Deep (5D2)",
+      -81.42,
+      24.54,
+      2
+    ],
+    [
+      "FLO3",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Rock Key Deep (5D5)",
+      -81.86,
+      24.45,
+      2
+    ],
+    [
+      "FLO31",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Looe Key Shallow (5S2)",
+      -81.41,
+      24.55,
+      2
+    ],
+    [
+      "FLO32",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Tennessee Deep (7D2)",
+      -80.76,
+      24.75,
+      2
+    ],
+    [
+      "FLO33",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "West Turtle Shoal (7P1)",
+      -80.97,
+      24.7,
+      2
+    ],
+    [
+      "FLO34",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Dustan Rocks (7P2)",
+      -81.03,
+      24.69,
+      2
+    ],
+    [
+      "FLO35",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Rawa Reef (7P3)",
+      -80.94,
+      24.72,
+      2
+    ],
+    [
+      "FLO36",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Thor (7P4)",
+      -81.05,
+      24.67,
+      2
+    ],
+    [
+      "FLO37",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Tennessee Shallow (7S2)",
+      -80.78,
+      24.75,
+      2
+    ],
+    [
+      "FLO38",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Carysfort Shallow (9S1)",
+      -80.21,
+      25.22,
+      2
+    ],
+    [
+      "FLO39",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Molasses Shallow (9S3)",
+      -80.38,
+      25.01,
+      2
+    ],
+    [
+      "FLO4",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Sombrero Light W FL",
+      -81.11,
+      24.63,
+      5
+    ],
+    [
+      "FLO40",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Molasses Deep (9D3)",
+      -80.38,
+      25.01,
+      2
+    ],
+    [
+      "FLO41",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Conch Deep (9D4)",
+      -80.45,
+      24.95,
+      2
+    ],
+    [
+      "FLO42",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Conch Shallow (9S4)",
+      -80.46,
+      24.96,
+      2
+    ],
+    [
+      "FLO43",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Turtle (9P1)",
+      -80.22,
+      25.29,
+      2
+    ],
+    [
+      "FLO44",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Carysfort Deep (9D1)",
+      -80.21,
+      25.22,
+      2
+    ],
+    [
+      "FLO45",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Alligator Deep (7D1)",
+      -80.62,
+      24.85,
+      2
+    ],
+    [
+      "FLO46",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Alligator Shallow (7S1)",
+      -80.62,
+      24.85,
+      2
+    ],
+    [
+      "FLO47",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Two Patches (9P5)",
+      -80.44,
+      25.02,
+      2
+    ],
+    [
+      "FLO48",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Sand Key Shallow (2S1)",
+      -81.88,
+      24.45,
+      2
+    ],
+    [
+      "FLO49",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Sand Key Deep (2D1)",
+      -81.88,
+      24.45,
+      2
+    ],
+    [
+      "FLO5",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Sombrero Light E FL",
+      -81.11,
+      24.63,
+      4
+    ],
+    [
+      "FLO50",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Eastern Sambo Shallow (5S3)",
+      -81.66,
+      24.49,
+      2
+    ],
+    [
+      "FLO51",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Red Dun Reef (5P6)",
+      -81.66,
+      24.52,
+      2
+    ],
+    [
+      "FLO52",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Smith Shoal (2P1)",
+      -81.92,
+      24.72,
+      2
+    ],
+    [
+      "FLO53",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Content Keys (3H1)",
+      -81.49,
+      24.82,
+      2
+    ],
+    [
+      "FLO54",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Porter Patch (9P3)",
+      -80.32,
+      25.1,
+      2
+    ],
+    [
+      "FLO55",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Grecian Rocks (9S2)",
+      -80.31,
+      25.11,
+      2
+    ],
+    [
+      "FLO56",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Admiral (9P4)",
+      -80.39,
+      25.04,
+      2
+    ],
+    [
+      "FLO57",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Burr Fish (9P6)",
+      -80.47,
+      25.0,
+      2
+    ],
+    [
+      "FLO58",
+      "United States",
+      "Tropical Atlantic",
+      "Miami - Dade County",
+      "Floridian",
+      "Dade County 1",
+      -80.1,
+      25.84,
+      2
+    ],
+    [
+      "FLO59",
+      "United States",
+      "Tropical Atlantic",
+      "Miami - Dade County",
+      "Floridian",
+      "Dade County 2",
+      -80.09,
+      25.84,
+      2
+    ],
+    [
+      "FLO6",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Sombrero Light FL",
+      -81.11,
+      24.63,
+      4
+    ],
+    [
+      "FLO60",
+      "United States",
+      "Tropical Atlantic",
+      "Miami - Dade County",
+      "Floridian",
+      "Dade County 3",
+      -80.09,
+      25.84,
+      2
+    ],
+    [
+      "FLO61",
+      "United States",
+      "Tropical Atlantic",
+      "Miami - Dade County",
+      "Floridian",
+      "Dade County 4",
+      -80.09,
+      25.67,
+      2
+    ],
+    [
+      "FLO62",
+      "United States",
+      "Tropical Atlantic",
+      "Miami - Dade County",
+      "Floridian",
+      "Dade County 5",
+      -80.09,
+      25.65,
+      2
+    ],
+    [
+      "FLO63",
+      "United States",
+      "Tropical Atlantic",
+      "Miami - Dade County",
+      "Floridian",
+      "Dade County 6",
+      -80.11,
+      25.95,
+      2
+    ],
+    [
+      "FLO64",
+      "United States",
+      "Tropical Atlantic",
+      "Miami - Dade County",
+      "Floridian",
+      "Dade County 7",
+      -80.09,
+      25.96,
+      2
+    ],
+    [
+      "FLO65",
+      "United States",
+      "Tropical Atlantic",
+      "Miami - Dade County",
+      "Floridian",
+      "Dade County 8",
+      -80.12,
+      25.68,
+      2
+    ],
+    [
+      "FLO66",
+      "United States",
+      "Tropical Atlantic",
+      "Miami - Palm Beach County",
+      "Floridian",
+      "Palm Beach 2",
+      -80.02,
+      26.68,
+      2
+    ],
+    [
+      "FLO67",
+      "United States",
+      "Tropical Atlantic",
+      "Miami - Palm Beach County",
+      "Floridian",
+      "Palm Beach 3",
+      -80.02,
+      26.71,
+      2
+    ],
+    [
+      "FLO68",
+      "United States",
+      "Tropical Atlantic",
+      "Miami - Palm Beach County",
+      "Floridian",
+      "Palm Beach 4",
+      -80.04,
+      26.49,
+      2
+    ],
+    [
+      "FLO69",
+      "United States",
+      "Tropical Atlantic",
+      "Miami - Palm Beach County",
+      "Floridian",
+      "Palm Beach 5",
+      -80.05,
+      26.44,
+      2
+    ],
+    [
+      "FLO7",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Sombrero Light Deep FL",
+      -81.11,
+      24.62,
+      4
+    ],
+    [
+      "FLO70",
+      "United States",
+      "Tropical Atlantic",
+      "Miami - Broward County",
+      "Floridian",
+      "Broward County 5",
+      -80.07,
+      26.3,
+      2
+    ],
+    [
+      "FLO71",
+      "United States",
+      "Tropical Atlantic",
+      "Miami - Broward County",
+      "Floridian",
+      "Broward County 2",
+      -80.08,
+      26.16,
+      2
+    ],
+    [
+      "FLO72",
+      "United States",
+      "Tropical Atlantic",
+      "Miami - Broward County",
+      "Floridian",
+      "Broward County 1",
+      -80.1,
+      26.15,
+      2
+    ],
+    [
+      "FLO73",
+      "United States",
+      "Tropical Atlantic",
+      "Miami - Broward County",
+      "Floridian",
+      "Broward County 3",
+      -80.08,
+      26.16,
+      2
+    ],
+    [
+      "FLO74",
+      "United States",
+      "Tropical Atlantic",
+      "Miami - Broward County",
+      "Floridian",
+      "Broward County 4",
+      -80.09,
+      26.15,
+      2
+    ],
+    [
+      "FLO75",
+      "United States",
+      "Tropical Atlantic",
+      "Miami - Broward County",
+      "Floridian",
+      "Broward County A",
+      -80.1,
+      26.15,
+      2
+    ],
+    [
+      "FLO8",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Vaca Key Bight FL",
+      -81.06,
+      24.69,
+      5
+    ],
+    [
+      "FLO9",
+      "United States",
+      "Tropical Atlantic",
+      "Florida Keys",
+      "Floridian",
+      "Vaca Key Bight S FL",
+      -81.05,
+      24.68,
+      4
+    ],
+    [
       "FLORES1",
       "Indonesia",
       "Central Indo-Pacific",
@@ -15002,7 +16036,18 @@
       "Pulau Besar Maragajong",
       122.34,
       -8.49,
-      1
+      3
+    ],
+    [
+      "FLORES10",
+      "Indonesia",
+      "Central Indo-Pacific",
+      "Flores",
+      "Lesser Sunda",
+      "Talibura",
+      122.5,
+      -8.52,
+      2
     ],
     [
       "FLORES2",
@@ -15013,7 +16058,7 @@
       "Ruteng",
       122.33,
       -8.45,
-      1
+      3
     ],
     [
       "FLORES3",
@@ -15024,7 +16069,7 @@
       "Taat  Pulau Besar",
       122.33,
       -8.44,
-      1
+      3
     ],
     [
       "FLORES4",
@@ -15046,7 +16091,7 @@
       "South Pasar Sari  Gosong Bone Atoll",
       122.46,
       -8.48,
-      1
+      3
     ],
     [
       "FLORES6",
@@ -15057,7 +16102,7 @@
       "Pulau Babi South",
       122.5,
       -8.44,
-      1
+      3
     ],
     [
       "FLORES7",
@@ -15068,7 +16113,29 @@
       "Tanjung Darat",
       122.48,
       -8.48,
-      1
+      3
+    ],
+    [
+      "FLORES8",
+      "Indonesia",
+      "Central Indo-Pacific",
+      "Flores",
+      "Lesser Sunda",
+      "Pondok",
+      122.48,
+      -8.5,
+      2
+    ],
+    [
+      "FLORES9",
+      "Indonesia",
+      "Central Indo-Pacific",
+      "Flores",
+      "Lesser Sunda",
+      "Nord Panga Batang",
+      122.47,
+      -8.47,
+      2
     ],
     [
       "FP1",
@@ -18423,7 +19490,7 @@
       "OTI01 - Far left reef",
       152.08,
       -23.49,
-      2
+      3
     ],
     [
       "GBR294",
@@ -18434,7 +19501,7 @@
       "OTI03 - Long reef",
       152.07,
       -23.5,
-      2
+      3
     ],
     [
       "GBR295",
@@ -18445,7 +19512,7 @@
       "OTI05 - Running man reef",
       152.08,
       -23.49,
-      2
+      3
     ],
     [
       "GBR296",
@@ -18456,7 +19523,7 @@
       "OTI06 - Right reef",
       152.09,
       -23.49,
-      2
+      3
     ],
     [
       "GBR297",
@@ -18467,7 +19534,7 @@
       "OTI08 - Shortie reef",
       152.08,
       -23.5,
-      2
+      3
     ],
     [
       "GBR298",
@@ -18478,7 +19545,7 @@
       "OTI10 - Bendy reef",
       152.08,
       -23.5,
-      2
+      3
     ],
     [
       "GBR299",
@@ -18489,7 +19556,7 @@
       "OTI13 - Red buoy reef",
       152.09,
       -23.5,
-      2
+      3
     ],
     [
       "GBR3",
@@ -18522,7 +19589,7 @@
       "OTI15 - Middle reef",
       152.09,
       -23.5,
-      2
+      3
     ],
     [
       "GBR301",
@@ -18533,7 +19600,7 @@
       "OTIA1 - Labyrinth",
       152.09,
       -23.5,
-      2
+      3
     ],
     [
       "GBR302",
@@ -18544,7 +19611,7 @@
       "OTIA2 - Far pocket",
       152.08,
       -23.49,
-      2
+      3
     ],
     [
       "GBR303",
@@ -18555,7 +19622,7 @@
       "OTIA7 - Alex's reef",
       152.04,
       -23.49,
-      2
+      3
     ],
     [
       "GBR304",
@@ -18687,7 +19754,7 @@
       "Centre bommie (OTIB01)",
       152.08,
       -23.5,
-      2
+      3
     ],
     [
       "GBR315",
@@ -18698,7 +19765,7 @@
       "Nudibranch reef (OTIB02)",
       152.08,
       -23.49,
-      2
+      3
     ],
     [
       "GBR316",
@@ -18709,7 +19776,7 @@
       "The Maze (OTIB03)",
       152.08,
       -23.5,
-      2
+      3
     ],
     [
       "GBR317",
@@ -18720,7 +19787,7 @@
       "Big bommies (OTIB04)",
       152.08,
       -23.49,
-      2
+      3
     ],
     [
       "GBR318",
@@ -18731,7 +19798,7 @@
       "Sand flats (OTIB05)",
       152.08,
       -23.5,
-      2
+      3
     ],
     [
       "GBR319",
@@ -18742,7 +19809,7 @@
       "The gutter (OTIB06)",
       152.09,
       -23.5,
-      2
+      3
     ],
     [
       "GBR32",
@@ -18764,7 +19831,7 @@
       "Coral tree reef (OTIB07)",
       152.06,
       -23.5,
-      2
+      3
     ],
     [
       "GBR321",
@@ -18775,7 +19842,7 @@
       "Dog reef (OTIB08)",
       152.06,
       -23.5,
-      2
+      3
     ],
     [
       "GBR322",
@@ -18786,7 +19853,7 @@
       "Third lagoon old (OTIB09)",
       152.05,
       -23.49,
-      2
+      3
     ],
     [
       "GBR323",
@@ -18797,7 +19864,7 @@
       "Amphipod reef (OTIB10)",
       152.07,
       -23.49,
-      2
+      3
     ],
     [
       "GBR324",
@@ -18808,7 +19875,7 @@
       "Dave's notch (OTIB11)",
       152.06,
       -23.49,
-      2
+      3
     ],
     [
       "GBR325",
@@ -18819,7 +19886,7 @@
       "Round reef (OTIB12)",
       152.05,
       -23.5,
-      2
+      3
     ],
     [
       "GBR326",
@@ -18830,7 +19897,7 @@
       "Heads reef (OTIB13)",
       152.05,
       -23.5,
-      2
+      3
     ],
     [
       "GBR327",
@@ -18841,7 +19908,7 @@
       "Pestle reef (OTIB14)",
       152.06,
       -23.5,
-      2
+      3
     ],
     [
       "GBR328",
@@ -18852,7 +19919,7 @@
       "Flea reef (OTIB15)",
       152.07,
       -23.5,
-      2
+      3
     ],
     [
       "GBR329",
@@ -20183,7 +21250,7 @@
       "Stenhouse Bay",
       136.95,
       -35.27,
-      3
+      5
     ],
     [
       "GSV104",
@@ -20194,7 +21261,7 @@
       "Edithburgh Jetty",
       137.75,
       -35.08,
-      3
+      5
     ],
     [
       "GSV105",
@@ -20227,7 +21294,7 @@
       "Olivers Reef",
       138.64,
       -35.55,
-      17
+      19
     ],
     [
       "GSV108",
@@ -20260,7 +21327,7 @@
       "Outside Granite island",
       138.63,
       -35.57,
-      24
+      26
     ],
     [
       "GSV110",
@@ -20612,7 +21679,7 @@
       "Newland Head",
       138.53,
       -35.64,
-      16
+      18
     ],
     [
       "GSV140",
@@ -20656,7 +21723,7 @@
       "Flat Irons",
       138.56,
       -35.62,
-      28
+      30
     ],
     [
       "GSV150",
@@ -20887,7 +21954,7 @@
       "The Bluff",
       138.61,
       -35.59,
-      36
+      38
     ],
     [
       "GSV170",
@@ -20964,7 +22031,7 @@
       "Haystack Island NE",
       136.91,
       -35.32,
-      8
+      10
     ],
     [
       "GSV177",
@@ -20986,7 +22053,7 @@
       "Cable Bay",
       136.9,
       -35.29,
-      12
+      14
     ],
     [
       "GSV179",
@@ -21096,7 +22163,7 @@
       "Point Yorke",
       137.19,
       -35.23,
-      8
+      10
     ],
     [
       "GSV188",
@@ -21118,7 +22185,7 @@
       "Troubridge Point",
       137.67,
       -35.17,
-      8
+      9
     ],
     [
       "GSV19",
@@ -21151,7 +22218,7 @@
       "Edithburgh",
       137.75,
       -35.08,
-      8
+      10
     ],
     [
       "GSV192",
@@ -21185,6 +22252,17 @@
       137.89,
       -34.66,
       4
+    ],
+    [
+      "GSV195",
+      "Australia",
+      "Temperate Australasia",
+      "Yorke Peninsula",
+      "South Australian Gulfs",
+      "Foul Bay South",
+      137.17,
+      -35.24,
+      2
     ],
     [
       "GSV2",
@@ -21327,7 +22405,7 @@
       "Whalebone Reef",
       138.61,
       -35.57,
-      28
+      30
     ],
     [
       "GSV41",
@@ -21998,7 +23076,7 @@
       "Basalt Island",
       114.37,
       22.31,
-      2
+      3
     ],
     [
       "HK2",
@@ -22020,7 +23098,7 @@
       "Bluff Island",
       114.35,
       22.33,
-      2
+      3
     ],
     [
       "HK4",
@@ -22053,7 +23131,7 @@
       "Sharp Island",
       114.29,
       22.36,
-      2
+      3
     ],
     [
       "HK7",
@@ -22065,6 +23143,17 @@
       114.29,
       22.36,
       2
+    ],
+    [
+      "HK8",
+      "China",
+      "Central Indo-Pacific",
+      "Hong Kong",
+      "Southern China",
+      "Shelter Island North",
+      114.29,
+      22.33,
+      1
     ],
     [
       "HMASCAN",
@@ -22614,7 +23703,7 @@
       "Dart Point East (Grouper Coast South)",
       150.77,
       -35.07,
-      81
+      85
     ],
     [
       "JBMP-S13",
@@ -22647,7 +23736,7 @@
       "Bowen Island NW",
       150.77,
       -35.11,
-      101
+      105
     ],
     [
       "JBMP-S16",
@@ -22658,7 +23747,7 @@
       "Bowens Island SW",
       150.76,
       -35.12,
-      82
+      85
     ],
     [
       "JBMP-S17",
@@ -22680,7 +23769,7 @@
       "Bristol Pt",
       150.73,
       -35.13,
-      104
+      106
     ],
     [
       "JBMP-S19",
@@ -22702,7 +23791,7 @@
       "The Docks 1 The Gulch",
       150.8,
       -35.08,
-      137
+      144
     ],
     [
       "JBMP-S20",
@@ -22735,7 +23824,7 @@
       "Drum and Drumstick",
       150.84,
       -35.05,
-      56
+      60
     ],
     [
       "JBMP-S23",
@@ -22768,7 +23857,7 @@
       "Plantation Point South",
       150.7,
       -35.07,
-      48
+      50
     ],
     [
       "JBMP-S26",
@@ -22779,7 +23868,7 @@
       "Outer Tubes",
       150.8,
       -35.09,
-      123
+      129
     ],
     [
       "JBMP-S27",
@@ -22801,7 +23890,7 @@
       "The Docks 2 Inner Tubes",
       150.79,
       -35.08,
-      128
+      134
     ],
     [
       "JBMP-S4",
@@ -22812,7 +23901,7 @@
       "The Docks 3 North Black Boat Cove",
       150.79,
       -35.08,
-      91
+      97
     ],
     [
       "JBMP-S5",
@@ -22977,7 +24066,7 @@
       "Groper Coast North",
       150.77,
       -35.07,
-      12
+      14
     ],
     [
       "JBMP22",
@@ -23032,7 +24121,7 @@
       "Drum & Drum Sticks",
       150.84,
       -35.05,
-      17
+      20
     ],
     [
       "JBMP33",
@@ -23142,7 +24231,7 @@
       "Nursery steps",
       150.77,
       -35.11,
-      28
+      32
     ],
     [
       "JBMP44",
@@ -28308,9 +29397,9 @@
       "Australia",
       "Central Indo-Pacific",
       "Ningaloo Reef - North",
-      "Ningaloo",
+      "Exmouth to Broome",
       "Muiron Islands NE Mooring",
-      113.34,
+      114.34,
       -21.66,
       2
     ],
@@ -34541,50 +35630,6 @@
       3
     ],
     [
-      "PB2",
-      "United States",
-      "Tropical Atlantic",
-      "Miami",
-      "Floridian",
-      "Palm Beach 2",
-      -80.02,
-      26.68,
-      2
-    ],
-    [
-      "PB3",
-      "United States",
-      "Tropical Atlantic",
-      "Miami",
-      "Floridian",
-      "Palm Beach 3",
-      -80.02,
-      26.71,
-      2
-    ],
-    [
-      "PB4",
-      "United States",
-      "Tropical Atlantic",
-      "Miami",
-      "Floridian",
-      "Palm Beach 4",
-      -80.04,
-      26.49,
-      2
-    ],
-    [
-      "PB5",
-      "United States",
-      "Tropical Atlantic",
-      "Miami",
-      "Floridian",
-      "Palm Beach 5",
-      -80.05,
-      26.44,
-      2
-    ],
-    [
       "PD-S10",
       "Australia",
       "Temperate Australasia",
@@ -34604,7 +35649,7 @@
       "North Whalers Point",
       145.93,
       -43.3,
-      48
+      52
     ],
     [
       "PD-S12",
@@ -34626,7 +35671,7 @@
       "Shark Jaw Gulch, 10m",
       145.84,
       -43.31,
-      40
+      44
     ],
     [
       "PD-S14",
@@ -34648,7 +35693,7 @@
       "Shark Jaw",
       145.85,
       -43.3,
-      40
+      44
     ],
     [
       "PD-S16",
@@ -34659,7 +35704,7 @@
       "West Pyramid",
       145.82,
       -43.3,
-      40
+      44
     ],
     [
       "PD-S17",
@@ -34670,7 +35715,7 @@
       "Inner Saddle South West Point",
       145.9,
       -43.31,
-      92
+      96
     ],
     [
       "PD-S18",
@@ -34681,7 +35726,7 @@
       "Breaksea Island South",
       145.97,
       -43.33,
-      40
+      44
     ],
     [
       "PD-S19",
@@ -34692,7 +35737,7 @@
       "Normans Bay",
       145.93,
       -43.37,
-      28
+      32
     ],
     [
       "PD-S20",
@@ -34736,7 +35781,7 @@
       "Inner Saddle Bight Middle Reef, 10m",
       145.9,
       -43.3,
-      40
+      44
     ],
     [
       "PD-S24",
@@ -34758,7 +35803,7 @@
       "Whalers Point, Whalers Beach, 5m",
       145.92,
       -43.29,
-      40
+      44
     ],
     [
       "PD-S26",
@@ -34824,7 +35869,7 @@
       "Spain Bay",
       145.96,
       -43.36,
-      48
+      52
     ],
     [
       "PHMP23",
@@ -36023,7 +37068,7 @@
       "Pipeline",
       152.14,
       -32.72,
-      81
+      83
     ],
     [
       "PS15",
@@ -36056,7 +37101,7 @@
       "Fly Point Nelson Bay",
       152.15,
       -32.71,
-      124
+      126
     ],
     [
       "PS18",
@@ -36430,7 +37475,7 @@
       "Little Beach West",
       152.16,
       -32.71,
-      96
+      100
     ],
     [
       "PS8",
@@ -37511,6 +38556,17 @@
       1
     ],
     [
+      "RED19",
+      "Saudi Arabia",
+      "Western Indo-Pacific",
+      "Red Sea - Saudi",
+      "Northern and Central Red Sea",
+      "Tahla N",
+      39.05,
+      22.29,
+      1
+    ],
+    [
       "RED2",
       "Egypt",
       "Western Indo-Pacific",
@@ -37520,6 +38576,116 @@
       35.85,
       23.34,
       1
+    ],
+    [
+      "RED20",
+      "Saudi Arabia",
+      "Western Indo-Pacific",
+      "Red Sea - Saudi",
+      "Northern and Central Red Sea",
+      "Likme",
+      39.07,
+      22.28,
+      2
+    ],
+    [
+      "RED21",
+      "Saudi Arabia",
+      "Western Indo-Pacific",
+      "Red Sea - Saudi",
+      "Northern and Central Red Sea",
+      "Abu Romah",
+      38.92,
+      22.56,
+      2
+    ],
+    [
+      "RED22",
+      "Saudi Arabia",
+      "Western Indo-Pacific",
+      "Red Sea - Saudi",
+      "Northern and Central Red Sea",
+      "Lecka",
+      38.95,
+      22.52,
+      1
+    ],
+    [
+      "RED23",
+      "Saudi Arabia",
+      "Western Indo-Pacific",
+      "Red Sea - Saudi",
+      "Northern and Central Red Sea",
+      "Al Mutarbj",
+      38.94,
+      22.43,
+      3
+    ],
+    [
+      "RED24",
+      "Saudi Arabia",
+      "Western Indo-Pacific",
+      "Red Sea - Saudi",
+      "Northern and Central Red Sea",
+      "Al Horba",
+      39.06,
+      22.37,
+      2
+    ],
+    [
+      "RED25",
+      "Saudi Arabia",
+      "Western Indo-Pacific",
+      "Red Sea - Saudi",
+      "Northern and Central Red Sea",
+      "Abu Hzia",
+      39.04,
+      22.33,
+      2
+    ],
+    [
+      "RED26",
+      "Saudi Arabia",
+      "Western Indo-Pacific",
+      "Red Sea - Saudi",
+      "Northern and Central Red Sea",
+      "Shib Nazar",
+      38.85,
+      22.32,
+      2
+    ],
+    [
+      "RED27",
+      "Saudi Arabia",
+      "Western Indo-Pacific",
+      "Red Sea - Saudi",
+      "Northern and Central Red Sea",
+      "Awwam",
+      39.07,
+      22.31,
+      1
+    ],
+    [
+      "RED28",
+      "Saudi Arabia",
+      "Western Indo-Pacific",
+      "Red Sea - Saudi",
+      "Northern and Central Red Sea",
+      "Al Fahal exposed",
+      38.96,
+      22.3,
+      3
+    ],
+    [
+      "RED29",
+      "Saudi Arabia",
+      "Western Indo-Pacific",
+      "Red Sea - Saudi",
+      "Northern and Central Red Sea",
+      "Al Fahal sheltered",
+      38.97,
+      22.3,
+      2
     ],
     [
       "RED3",
@@ -38300,7 +39466,7 @@
       "Crooked Billet Bay",
       147.7,
       -43.15,
-      4
+      12
     ],
     [
       "SBIR24",
@@ -39345,7 +40511,7 @@
       "Bare Island South",
       151.23,
       -33.99,
-      17
+      19
     ],
     [
       "SYD19",
@@ -39356,7 +40522,7 @@
       "Bare Island",
       151.23,
       -33.99,
-      28
+      31
     ],
     [
       "SYD2",
@@ -39378,7 +40544,7 @@
       "Bare Island North",
       151.23,
       -33.99,
-      33
+      35
     ],
     [
       "SYD21",
@@ -39400,7 +40566,7 @@
       "Gordons Bay",
       151.26,
       -33.92,
-      18
+      19
     ],
     [
       "SYD24",
@@ -39466,7 +40632,7 @@
       "The Gap",
       151.29,
       -33.84,
-      18
+      19
     ],
     [
       "SYD3",
@@ -39499,7 +40665,7 @@
       "Green Point Camp Cove",
       151.28,
       -33.84,
-      29
+      31
     ],
     [
       "SYD32",
@@ -39532,7 +40698,7 @@
       "Camp Cove middle reef",
       151.28,
       -33.84,
-      30
+      31
     ],
     [
       "SYD35",
@@ -39543,7 +40709,7 @@
       "Camp Cove NE",
       151.28,
       -33.84,
-      20
+      21
     ],
     [
       "SYD36",
@@ -39565,7 +40731,7 @@
       "Middle Head Sth 2",
       151.26,
       -33.83,
-      17
+      18
     ],
     [
       "SYD38",
@@ -39576,7 +40742,7 @@
       "Middle Head Sth",
       151.27,
       -33.83,
-      32
+      33
     ],
     [
       "SYD39",
@@ -39686,7 +40852,7 @@
       "BLUE FISH POINT - NORTH HEAD SYDNEY",
       151.31,
       -33.81,
-      24
+      26
     ],
     [
       "SYD48",
@@ -39697,7 +40863,7 @@
       "Fairlight Point",
       151.28,
       -33.8,
-      17
+      18
     ],
     [
       "SYD49",
@@ -39708,7 +40874,7 @@
       "Fairlight",
       151.27,
       -33.8,
-      26
+      27
     ],
     [
       "SYD5",
@@ -39730,7 +40896,7 @@
       "Shelly Beach",
       151.3,
       -33.8,
-      35
+      36
     ],
     [
       "SYD51",
@@ -39741,7 +40907,7 @@
       "Fairy Bower",
       151.29,
       -33.8,
-      26
+      28
     ],
     [
       "SYD52",
@@ -39752,7 +40918,7 @@
       "Shelley Beach North",
       151.3,
       -33.8,
-      35
+      36
     ],
     [
       "SYD53",
@@ -40027,7 +41193,7 @@
       "Deep Glen Bay",
       147.99,
       -42.97,
-      3
+      9
     ],
     [
       "TAS105",
@@ -40104,7 +41270,7 @@
       "Cox's Bight Outer",
       146.21,
       -43.53,
-      1
+      2
     ],
     [
       "TAS111",
@@ -40115,7 +41281,7 @@
       "Coxs Bight Central",
       146.21,
       -43.52,
-      1
+      3
     ],
     [
       "TAS112",
@@ -40280,7 +41446,7 @@
       "Actaeon Island S2",
       146.99,
       -43.53,
-      7
+      15
     ],
     [
       "TAS132",
@@ -40291,7 +41457,7 @@
       "New Harbour",
       146.15,
       -43.52,
-      8
+      10
     ],
     [
       "TAS133",
@@ -40445,7 +41611,7 @@
       "Actaeon Island",
       147.0,
       -43.53,
-      26
+      28
     ],
     [
       "TAS146",
@@ -40467,7 +41633,7 @@
       "Forrester Point",
       146.01,
       -43.34,
-      2
+      4
     ],
     [
       "TAS148",
@@ -40511,7 +41677,7 @@
       "Munday Island",
       146.01,
       -43.34,
-      2
+      4
     ],
     [
       "TAS152",
@@ -40643,7 +41809,7 @@
       "Trumpeter Bay South",
       147.4,
       -43.17,
-      4
+      10
     ],
     [
       "TAS163",
@@ -40742,7 +41908,7 @@
       "Apex Point",
       147.72,
       -43.11,
-      4
+      12
     ],
     [
       "TAS171",
@@ -40951,7 +42117,7 @@
       "BbaySewagePlant",
       147.33,
       -43.02,
-      1
+      7
     ],
     [
       "TAS192",
@@ -41710,7 +42876,7 @@
       "Fossil Cliffs (East)",
       148.11,
       -42.58,
-      16
+      22
     ],
     [
       "TAS259",
@@ -43228,7 +44394,7 @@
       "Partridge Island",
       147.1,
       -43.4,
-      1
+      9
     ],
     [
       "TAS40",
@@ -43316,7 +44482,7 @@
       "Fortescue Bay 2",
       147.97,
       -43.14,
-      6
+      12
     ],
     [
       "TAS407",
@@ -43470,7 +44636,7 @@
       "Outside Canoe Bay N",
       147.96,
       -43.13,
-      1
+      7
     ],
     [
       "TAS42",
@@ -43525,7 +44691,7 @@
       "Sisters Bay",
       147.02,
       -43.43,
-      1
+      9
     ],
     [
       "TAS424",
@@ -43690,7 +44856,7 @@
       "Fortescue Bay North",
       147.97,
       -43.13,
-      3
+      6
     ],
     [
       "TAS438",
@@ -43825,6 +44991,17 @@
       3
     ],
     [
+      "TAS449",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - South",
+      "Bassian",
+      "Pedra N",
+      146.98,
+      -43.86,
+      2
+    ],
+    [
       "TAS45",
       "Australia",
       "Temperate Australasia",
@@ -43834,6 +45011,116 @@
       147.32,
       -43.08,
       1
+    ],
+    [
+      "TAS450",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - South",
+      "Bassian",
+      "Eddystone Rock, Pedra",
+      147.0,
+      -43.85,
+      2
+    ],
+    [
+      "TAS451",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - South",
+      "Bassian",
+      "Mewstone Rock 2",
+      146.37,
+      -43.74,
+      2
+    ],
+    [
+      "TAS452",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - South",
+      "Bassian",
+      "Maatsuyker 2",
+      146.28,
+      -43.64,
+      2
+    ],
+    [
+      "TAS453",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - South",
+      "Bassian",
+      "Walker Island, Maatsuyker",
+      146.28,
+      -43.63,
+      2
+    ],
+    [
+      "TAS454",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - South",
+      "Bassian",
+      "New Harbour Outer",
+      146.15,
+      -43.52,
+      2
+    ],
+    [
+      "TAS455",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - South",
+      "Bassian",
+      "Actaeon Island East",
+      147.0,
+      -43.53,
+      3
+    ],
+    [
+      "TAS456",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - South",
+      "Bassian",
+      "Southport Island South",
+      147.01,
+      -43.48,
+      2
+    ],
+    [
+      "TAS457",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - North East ",
+      "Bassian",
+      "Boulder Point",
+      148.26,
+      -40.89,
+      8
+    ],
+    [
+      "TAS458",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - North East ",
+      "Bassian",
+      "Peggy's Point",
+      148.31,
+      -41.87,
+      6
+    ],
+    [
+      "TAS459",
+      "Australia",
+      "Temperate Australasia",
+      "Bicheno",
+      "Bassian",
+      "Cape Lodi 2",
+      148.32,
+      -41.9,
+      6
     ],
     [
       "TAS46",
@@ -43847,6 +45134,116 @@
       3
     ],
     [
+      "TAS460",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - South East",
+      "Bassian",
+      "Trumpeter Bay Control",
+      147.4,
+      -43.14,
+      6
+    ],
+    [
+      "TAS461",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - South East",
+      "Bassian",
+      "Primrose West",
+      147.64,
+      -42.89,
+      8
+    ],
+    [
+      "TAS462",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - South East",
+      "Bassian",
+      "Spectacle Island",
+      147.6,
+      -42.87,
+      6
+    ],
+    [
+      "TAS463",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - South East",
+      "Bassian",
+      "Lufra Cove",
+      147.94,
+      -43.01,
+      6
+    ],
+    [
+      "TAS464",
+      "Australia",
+      "Temperate Australasia",
+      "Maria Island",
+      "Bassian",
+      "Fossil Cliffs Kelp Site",
+      148.08,
+      -42.58,
+      6
+    ],
+    [
+      "TAS465",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - South East",
+      "Bassian",
+      "Munroe Bight",
+      147.97,
+      -43.18,
+      6
+    ],
+    [
+      "TAS466",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - South East",
+      "Bassian",
+      "Penguin Island",
+      147.37,
+      -43.35,
+      6
+    ],
+    [
+      "TAS467",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - South East",
+      "Bassian",
+      "Safety Cove",
+      147.86,
+      -43.18,
+      6
+    ],
+    [
+      "TAS468",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - South East",
+      "Bassian",
+      "Point Puer",
+      147.87,
+      -43.16,
+      6
+    ],
+    [
+      "TAS469",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - South East",
+      "Bassian",
+      "Sloping Island Kelp Forest",
+      147.64,
+      -42.96,
+      8
+    ],
+    [
       "TAS47",
       "Australia",
       "Temperate Australasia",
@@ -43856,6 +45253,61 @@
       147.73,
       -43.11,
       1
+    ],
+    [
+      "TAS470",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - South East",
+      "Bassian",
+      "Surveyor's Cove",
+      147.89,
+      -43.16,
+      6
+    ],
+    [
+      "TAS471",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - South East",
+      "Bassian",
+      "Wedge Island Kelp Forest",
+      147.68,
+      -43.14,
+      8
+    ],
+    [
+      "TAS472",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - South East",
+      "Bassian",
+      "Actaeon Island Kelp South",
+      146.99,
+      -43.54,
+      2
+    ],
+    [
+      "TAS473",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - North East ",
+      "Bassian",
+      "Ben's Creek",
+      148.3,
+      -40.94,
+      6
+    ],
+    [
+      "TAS474",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - North East ",
+      "Bassian",
+      "Inshore Georges Rocks",
+      148.3,
+      -40.93,
+      8
     ],
     [
       "TAS48",
@@ -44328,7 +45780,7 @@
       "Mewstone Rock",
       146.37,
       -43.74,
-      3
+      5
     ],
     [
       "TAS91",
@@ -45956,7 +47408,7 @@
       "Broad Craig",
       -2.13,
       55.9,
-      2
+      4
     ],
     [
       "UK10",
@@ -45967,6 +47419,39 @@
       "Creagan Bridge",
       -5.29,
       56.55,
+      4
+    ],
+    [
+      "UK11",
+      "United Kingdom",
+      "Temperate Northern Atlantic",
+      "Scotland (west)",
+      "Celtic Seas",
+      "No air reef",
+      -5.16,
+      56.68,
+      2
+    ],
+    [
+      "UK12",
+      "United Kingdom",
+      "Temperate Northern Atlantic",
+      "Scotland (west)",
+      "Celtic Seas",
+      "Ellenabeich Cliff",
+      -5.65,
+      56.3,
+      2
+    ],
+    [
+      "UK13",
+      "United Kingdom",
+      "Temperate Northern Atlantic",
+      "Scotland (west)",
+      "Celtic Seas",
+      "Oban Holiday Park",
+      -5.52,
+      56.39,
       2
     ],
     [
@@ -45978,7 +47463,7 @@
       "Big Green Carr",
       -2.13,
       55.9,
-      2
+      4
     ],
     [
       "UK3",
@@ -45989,7 +47474,7 @@
       "Greenends Gully",
       -2.08,
       55.88,
-      2
+      4
     ],
     [
       "UK4",
@@ -46000,7 +47485,7 @@
       "Eyemouth2",
       -2.08,
       55.88,
-      2
+      4
     ],
     [
       "UK5",
@@ -46011,7 +47496,7 @@
       "Cathedral Rock",
       -2.13,
       55.9,
-      2
+      4
     ],
     [
       "UK6",
@@ -46022,7 +47507,7 @@
       "Seagull Rock",
       -2.13,
       55.9,
-      2
+      4
     ],
     [
       "UK7",
@@ -46033,7 +47518,7 @@
       "13 Steps W",
       -5.28,
       56.55,
-      3
+      5
     ],
     [
       "UK8",
@@ -46055,7 +47540,7 @@
       "Bonawe Point",
       -5.23,
       56.45,
-      2
+      4
     ],
     [
       "USEC1",
@@ -46067,94 +47552,6 @@
       -70.64,
       42.69,
       5
-    ],
-    [
-      "USEC10",
-      "United States",
-      "Tropical Atlantic",
-      "Florida Keys",
-      "Floridian",
-      "Coffins Patch E FL",
-      -80.96,
-      24.69,
-      4
-    ],
-    [
-      "USEC11",
-      "United States",
-      "Tropical Atlantic",
-      "Florida Keys",
-      "Floridian",
-      "Coffins Patch W FL",
-      -80.96,
-      24.69,
-      4
-    ],
-    [
-      "USEC12",
-      "United States",
-      "Tropical Atlantic",
-      "Florida Keys",
-      "Floridian",
-      "Looe Reef Deep FL",
-      -81.42,
-      24.54,
-      2
-    ],
-    [
-      "USEC13",
-      "United States",
-      "Tropical Atlantic",
-      "Florida Keys",
-      "Floridian",
-      "Looe Reef West FL",
-      -81.41,
-      24.55,
-      4
-    ],
-    [
-      "USEC14",
-      "United States",
-      "Tropical Atlantic",
-      "Florida Keys",
-      "Floridian",
-      "Looe Reef Marker Post FL",
-      -81.41,
-      24.55,
-      4
-    ],
-    [
-      "USEC15",
-      "United States",
-      "Tropical Atlantic",
-      "Florida Keys",
-      "Floridian",
-      "Pillar Patch FL",
-      -80.97,
-      24.68,
-      4
-    ],
-    [
-      "USEC16",
-      "United States",
-      "Tropical Atlantic",
-      "Florida Keys",
-      "Floridian",
-      "Vaca Key Bight East FL",
-      -81.03,
-      24.69,
-      4
-    ],
-    [
-      "USEC17",
-      "United States",
-      "Tropical Atlantic",
-      "Florida Keys",
-      "Floridian",
-      "Delta Shoal Marathon FL",
-      -81.09,
-      24.63,
-      4
     ],
     [
       "USEC18",
@@ -46223,61 +47620,6 @@
       3
     ],
     [
-      "USEC23",
-      "United States",
-      "Tropical Atlantic",
-      "Florida Keys",
-      "Floridian",
-      "Sunkist, FL",
-      -80.07,
-      26.25,
-      1
-    ],
-    [
-      "USEC24",
-      "United States",
-      "Tropical Atlantic",
-      "Florida Keys",
-      "Floridian",
-      "Sunrise Blvd, FL",
-      -80.1,
-      26.14,
-      1
-    ],
-    [
-      "USEC25",
-      "United States",
-      "Tropical Atlantic",
-      "Florida Keys",
-      "Floridian",
-      "Dania Beach",
-      -80.11,
-      26.05,
-      1
-    ],
-    [
-      "USEC26",
-      "United States",
-      "Tropical Atlantic",
-      "Florida Keys",
-      "Floridian",
-      "John U. Lloyd Beach State Park",
-      -80.1,
-      26.08,
-      1
-    ],
-    [
-      "USEC27",
-      "United States",
-      "Tropical Atlantic",
-      "Florida Keys",
-      "Floridian",
-      "Vista Park",
-      -80.09,
-      26.16,
-      1
-    ],
-    [
       "USEC3",
       "United States",
       "Temperate Northern Atlantic",
@@ -46289,70 +47631,81 @@
       1
     ],
     [
-      "USEC4",
+      "USVI1",
       "United States",
       "Tropical Atlantic",
-      "Florida Keys",
-      "Floridian",
-      "Sombrero Light W FL",
-      -81.11,
-      24.63,
-      3
+      "U.S. Virgin Islands",
+      "Eastern Caribbean",
+      "Coculus Rock Reef",
+      -64.86,
+      18.31,
+      1
     ],
     [
-      "USEC5",
+      "USVI11",
       "United States",
       "Tropical Atlantic",
-      "Florida Keys",
-      "Floridian",
-      "Sombrero Light E FL",
-      -81.11,
-      24.63,
-      4
+      "U.S. Virgin Islands",
+      "Eastern Caribbean",
+      "Brewer's Bay Reef",
+      -64.98,
+      18.34,
+      2
     ],
     [
-      "USEC6",
+      "USVI16",
       "United States",
       "Tropical Atlantic",
-      "Florida Keys",
-      "Floridian",
-      "Sombrero Light FL",
-      -81.11,
-      24.63,
-      4
+      "U.S. Virgin Islands",
+      "Eastern Caribbean",
+      "Perseverance Reef",
+      -65.0,
+      18.35,
+      2
     ],
     [
-      "USEC7",
+      "USVI2",
       "United States",
       "Tropical Atlantic",
-      "Florida Keys",
-      "Floridian",
-      "Sombrero Light Deep FL",
-      -81.11,
-      24.62,
-      4
+      "U.S. Virgin Islands",
+      "Eastern Caribbean",
+      "Christmas Cove Reef",
+      -64.84,
+      18.31,
+      2
     ],
     [
-      "USEC8",
+      "USVI21",
       "United States",
       "Tropical Atlantic",
-      "Florida Keys",
-      "Floridian",
-      "Vaca Key Bight FL",
-      -81.06,
-      24.69,
-      5
+      "U.S. Virgin Islands",
+      "Eastern Caribbean",
+      "East Gregerie Channel Reef",
+      -64.94,
+      18.32,
+      2
     ],
     [
-      "USEC9",
+      "USVI5",
       "United States",
       "Tropical Atlantic",
-      "Florida Keys",
-      "Floridian",
-      "Vaca Key Bight S FL",
-      -81.05,
-      24.68,
-      4
+      "U.S. Virgin Islands",
+      "Eastern Caribbean",
+      "Calf & Cow Reef",
+      -64.85,
+      18.31,
+      2
+    ],
+    [
+      "USVI9",
+      "United States",
+      "Tropical Atlantic",
+      "U.S. Virgin Islands",
+      "Eastern Caribbean",
+      "Cowpet Reef",
+      -64.84,
+      18.31,
+      2
     ],
     [
       "USWC1",
