@@ -17789,7 +17789,11 @@
     "",
     "https://reeflifesurvey.com/species/diplasterias-brucei/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_72_68e713f772fd0.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_2e_68e713e398bce.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_4b_68e71436c7b6b.w1000.h666.JPG"
+    ]
   ],
   "Diplectrum bivittatum": [
     "Diplectrum bivittatum",
@@ -23457,7 +23461,11 @@
     "Giant Antarctic Isopod",
     "https://reeflifesurvey.com/species/glyptonotus-antarcticus/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_5c_68e7182da7484.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_ea_68e7186ddc986.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_91_68e7188b1e5fd.w1000.h666.jpg"
+    ]
   ],
   "Glyptoparus delicatulus": [
     "Glyptoparus delicatulus",
@@ -26550,7 +26558,9 @@
     "Antarctic spiney plunderfish",
     "https://reeflifesurvey.com/species/harpagifer-antarcticus/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_26_68e7192b2333a.w1000.h666.JPG"
+    ]
   ],
   "Harpago chiragra": [
     "Harpago chiragra",
@@ -35907,7 +35917,9 @@
     "Southern Ocean snail",
     "https://reeflifesurvey.com/species/neobuccinum-eatoni/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_64_68e719ba4f57c.w1000.h666.JPG"
+    ]
   ],
   "Neocirrhites armatus": [
     "Neocirrhites armatus",
@@ -36952,7 +36964,8 @@
     "https://reeflifesurvey.com/species/notothenia-coriiceps/",
     2,
     [
-      "https://images.reeflifesurvey.com/1/species_65_67e63d18767c6.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_65_67e63d18767c6.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_53_68e71a7154931.w1000.h666.JPG"
     ]
   ],
   "Notothenia spp.": [
@@ -37279,7 +37292,8 @@
     "https://reeflifesurvey.com/species/odontaster-meridionalis/",
     1,
     [
-      "https://images.reeflifesurvey.com/1/species_41_67e639a739d83.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_41_67e639a739d83.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_cc_68e71b47d35d0.w1000.h666.JPG"
     ]
   ],
   "Odontaster penicillatus": [
@@ -37315,7 +37329,7 @@
     [
       "https://images.reeflifesurvey.com/1/species_97_67e63b7b971a7.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_fe_67e63b7eec37a.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_03_67e63b923feba.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_44_68e71c9f4eaef.w1000.h666.JPG"
     ]
   ],
   "Odontocymbiola magellanica": [
@@ -53465,7 +53479,8 @@
     "https://reeflifesurvey.com/species/sterechinus-neumayeri/",
     1,
     [
-      "https://images.reeflifesurvey.com/1/species_77_67e63d3b985cd.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_77_67e63d3b985cd.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_75_68e71d649f89c.w1000.h666.JPG"
     ]
   ],
   "Stethojulis albovittata": [
@@ -56765,7 +56780,11 @@
     "Emerald rockcod",
     "https://reeflifesurvey.com/species/trematomus-bernacchii/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_17_68e71d977dee6.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_26_68e71d9676ce8.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_03_68e71d954f168.w1000.h666.JPG"
+    ]
   ],
   "Trematomus hansoni": [
     "Trematomus hansoni",
