@@ -2421,8 +2421,8 @@
     [
       "https://images.reeflifesurvey.com/0/species_a4_573a52674a53e.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_2b_573a525ee60b9.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_f2_5744f88a39144.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_dc_5744f883b9f0b.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_f2_5744f88a39144.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_08_5768747615aa8.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_59_57c92e91d4997.w1000.h666.jpg"
     ]
@@ -7297,7 +7297,9 @@
     "https://reeflifesurvey.com/species/calcinus-pulcher/",
     1,
     [
-      "https://images.reeflifesurvey.com/1/species_20_68522ece27a88.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/1/species_cf_68ed98edd92bd.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_76_68ed98bf5d61e.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_c8_68ed985bd7a46.w1000.h666.JPG"
     ]
   ],
   "Calcinus seurati": [
@@ -11516,9 +11518,7 @@
     "Dark-spot tuskfish",
     "https://reeflifesurvey.com/species/choerodon-monostigma/",
     0,
-    [
-      "https://images.reeflifesurvey.com/1/species_dd_63478305ad5c5.w1000.h666.jpg"
-    ]
+    []
   ],
   "Choerodon rubescens": [
     "Choerodon rubescens",
@@ -11829,7 +11829,9 @@
     "Lined Puller",
     "https://reeflifesurvey.com/species/chromis-lineata/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_1a_68ed8ca469557.w1000.h666.jpg"
+    ]
   ],
   "Chromis nitida": [
     "Chromis nitida",
@@ -16301,10 +16303,10 @@
     "https://reeflifesurvey.com/species/culcita-novaeguineae/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_ed_5716db3b76fa5.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_33_5716db409695c.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_44_57858c4976693.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_40_57858c52e0f8a.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_ed_5716db3b76fa5.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_f7_57858c7653416.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_d8_57858c8b17cf9.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_94_57858f2a90a4e.w1000.h666.jpg"
@@ -18772,8 +18774,7 @@
     1,
     [
       "https://images.reeflifesurvey.com/1/species_28_6256b6ae94f89.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_f2_59d1821c90bc7.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/0/species_71_59d182249b7fa.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/0/species_f2_59d1821c90bc7.w1000.h666.JPG"
     ]
   ],
   "Echinocardium spp.": [
@@ -23689,8 +23690,8 @@
     [
       "https://images.reeflifesurvey.com/1/species_59_5f044b54880e7.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_3a_5f044b511a7db.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_c5_5769fd348c83a.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/1/species_2d_5f044b4b8080d.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_c5_5769fd348c83a.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_2d_5716e8ba61d66.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_f2_5981dccb803a7.w1000.h666.jpg"
     ]
@@ -25822,8 +25823,8 @@
     [
       "https://images.reeflifesurvey.com/0/species_06_574c266eb884c.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_79_57d3b50685b90.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_48_5747ef1bab146.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_1a_5747ef2751868.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_1a_5747ef2751868.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_48_5747ef1bab146.w1000.h666.jpg"
     ]
   ],
   "Halichoeres iridis": [
@@ -30323,6 +30324,9 @@
     "https://reeflifesurvey.com/species/lambis-lambis/",
     1,
     [
+      "https://images.reeflifesurvey.com/1/species_5c_68ed8fa41f236.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_f6_68ed8ffc7f09c.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_53_68ed90339931e.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_91_57de3a81d4772.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_92_57de3ac9b4da5.w1000.h666.jpg"
     ]
@@ -34348,7 +34352,6 @@
     [
       "https://images.reeflifesurvey.com/1/species_1f_619b206778987.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_e1_573e3da662482.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_d1_58d87e8142323.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_f5_573e3daba4932.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_10_58d87e84b6798.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_9d_573e3dba4af60.w1000.h666.JPG"
@@ -45910,7 +45913,6 @@
     [
       "https://images.reeflifesurvey.com/0/species_81_56fb56972194a.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_37_56fb569e49c4a.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_a6_577cabef25773.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_dd_5797332c67025.w1000.h666.jpg"
     ]
   ],
@@ -47865,7 +47867,6 @@
     0,
     [
       "https://images.reeflifesurvey.com/0/species_8c_573aaec5acc50.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_56_577d991c51427.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_e7_686df57a45c06.w1000.h666.JPG"
     ]
   ],
@@ -50022,9 +50023,9 @@
     [
       "https://images.reeflifesurvey.com/0/species_83_574ab0d6c07db.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_80_574ab0d106f96.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_d1_573bc5234aa2d.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_e8_573bc51720b45.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_ed_574ab14968a93.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_e8_573bc51720b45.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_d1_573bc5234aa2d.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_8b_574ab13752af9.w1000.h666.jpg"
     ]
   ],
@@ -50967,9 +50968,9 @@
     "https://reeflifesurvey.com/species/scorpaenopsis-possi/",
     2,
     [
-      "https://images.reeflifesurvey.com/0/species_5e_57141b0122ae2.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_08_57141b069bddc.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_bb_577dd7ca8ff2d.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/0/species_bb_577dd7ca8ff2d.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/0/species_5e_57141b0122ae2.w1000.h666.jpg"
     ]
   ],
   "Scorpaenopsis sp. (Tonga)": [
@@ -54713,7 +54714,6 @@
     2,
     [
       "https://images.reeflifesurvey.com/0/species_b2_598a8172863bb.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_98_588043c446a08.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_21_588043c748122.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_a3_588043cbd6d6e.w1000.h666.jpg"
     ]
