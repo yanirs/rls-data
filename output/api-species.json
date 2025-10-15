@@ -7328,7 +7328,10 @@
     "Crab",
     "https://reeflifesurvey.com/species/calcinus-sp-scarlet-claw/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_c2_68eee409adf84.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_a9_68eee4136ac67.w1000.h666.JPG"
+    ]
   ],
   "Calcinus sp. [Lesueur]": [
     "Calcinus sp. [Lesueur]",
@@ -7349,14 +7352,19 @@
     "",
     "https://reeflifesurvey.com/species/calcinus-sp-antennae-black-white-stripes/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_89_68eee45c7216a.w1000.h666.JPG"
+    ]
   ],
   "Calcinus sp. [black white striped antennae]": [
     "Calcinus sp. [black white striped antennae]",
     "",
     "https://reeflifesurvey.com/species/calcinus-sp-black-white-striped-antennae/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_ab_68eee5307888c.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_e9_68eee534536e2.w1000.h666.JPG"
+    ]
   ],
   "Calcinus sp. [orange]": [
     "Calcinus sp. [orange]",
@@ -7377,7 +7385,10 @@
     "",
     "https://reeflifesurvey.com/species/calcinus-sp-red-band-claw/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_28_68eee497640ad.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_18_68eee4da2f5ac.w1000.h666.JPG"
+    ]
   ],
   "Calcinus spicatus": [
     "Calcinus spicatus",
@@ -19218,7 +19229,10 @@
     "",
     "https://reeflifesurvey.com/species/ecsenius-sp-black-and-green/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_ae_68eed5597db8f.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_ad_68eed55a47a9d.w1000.h666.JPG"
+    ]
   ],
   "Ecsenius sp. [black eye]": [
     "Ecsenius sp. [black eye]",
@@ -27030,8 +27044,7 @@
     0,
     [
       "https://images.reeflifesurvey.com/0/species_c4_56e73207418da.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_a6_577203bce4d5d.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/1/species_77_686df46e18a44.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/0/species_a6_577203bce4d5d.w1000.h666.JPG"
     ]
   ],
   "Heniochus chrysostomus": [
@@ -27051,7 +27064,8 @@
     "https://reeflifesurvey.com/species/heniochus-diphreutes/",
     0,
     [
-      "https://images.reeflifesurvey.com/0/species_03_56e737c50251c.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_03_56e737c50251c.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_aa_68eda6d7e89a5.w1000.h666.jpg"
     ]
   ],
   "Heniochus intermedius": [
@@ -32977,7 +32991,11 @@
     "Magnum sea cucumber",
     "https://reeflifesurvey.com/species/massinium-magnum/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_d0_68edb1834e21c.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_fd_68edb18584582.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_cd_68edb18862c5a.w1000.h666.JPG"
+    ]
   ],
   "Mauligobius maderensis": [
     "Mauligobius maderensis",
@@ -33652,7 +33670,9 @@
     "",
     "https://reeflifesurvey.com/species/mexichromis-festiva-cf/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_e1_68eedfcc78abd.w1000.h666.JPG"
+    ]
   ],
   "Mexichromis macropus": [
     "Mexichromis macropus",
@@ -38933,7 +38953,9 @@
     "Terebra felina",
     "https://reeflifesurvey.com/species/oxymeris-felina/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_09_68eedc00264bf.w1000.h666.JPG"
+    ]
   ],
   "Oxymonacanthus longirostris": [
     "Oxymonacanthus longirostris",
@@ -46800,7 +46822,9 @@
     "",
     "https://reeflifesurvey.com/species/pseudoceros-sp-orange/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_39_68eed9ecdbbc1.w1000.h666.JPG"
+    ]
   ],
   "Pseudoceros sp. (sp.11 Paul Humann)": [
     "Pseudoceros sp. (sp.11 Paul Humann)",
@@ -55319,7 +55343,9 @@
     "Sea snail",
     "https://reeflifesurvey.com/species/terebra-babylonia/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_85_68eedbb2b7e15.w1000.h666.jpg"
+    ]
   ],
   "Terebra ornata": [
     "Terebra ornata",
