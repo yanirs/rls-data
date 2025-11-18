@@ -8954,6 +8954,13 @@
       "https://images.reeflifesurvey.com/0/species_60_5842772ec5791.w1000.h666.jpg"
     ]
   ],
+  "Centropyge cocosensis": [
+    "Centropyge cocosensis",
+    "",
+    null,
+    0,
+    []
+  ],
   "Centropyge eibli": [
     "Centropyge eibli",
     "Eibls angelfish, Blacktail Angelfish, Scribbled Angelfish, Centropyge eibeli",
@@ -11324,6 +11331,13 @@
       "https://images.reeflifesurvey.com/0/species_19_574abd57cea83.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_4e_574abd730ad46.w1000.h666.jpg"
     ]
+  ],
+  "Chlorurus enneacanthus": [
+    "Chlorurus enneacanthus",
+    "",
+    null,
+    0,
+    []
   ],
   "Chlorurus frontalis": [
     "Chlorurus frontalis",
@@ -17224,6 +17238,13 @@
     "Dendrochirus barberi",
     "Hawaiian lionfish",
     "https://reeflifesurvey.com/species/dendrochirus-barberi/",
+    2,
+    []
+  ],
+  "Dendrochirus biocellatus": [
+    "Dendrochirus biocellatus",
+    "",
+    null,
     2,
     []
   ],
@@ -25629,6 +25650,13 @@
       "https://images.reeflifesurvey.com/0/species_47_576fac0486995.w1000.h666.jpg"
     ]
   ],
+  "Halichoeres bicolor": [
+    "Halichoeres bicolor",
+    "",
+    null,
+    0,
+    []
+  ],
   "Halichoeres binotopsis": [
     "Halichoeres binotopsis",
     "Banded rainbow fish",
@@ -32215,6 +32243,13 @@
       "https://images.reeflifesurvey.com/0/species_6d_57294bbff3969.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_82_5774aa081ed65.w1000.h666.JPG"
     ]
+  ],
+  "Luzonichthys earlei": [
+    "Luzonichthys earlei",
+    "",
+    null,
+    0,
+    []
   ],
   "Luzonichthys spp.": [
     "Luzonichthys spp.",
@@ -44223,6 +44258,13 @@
       "https://images.reeflifesurvey.com/1/species_ea_5da18c7a62d66.w1000.h666.jpg"
     ]
   ],
+  "Plectroglyphidodon insularis": [
+    "Plectroglyphidodon insularis",
+    "",
+    null,
+    0,
+    []
+  ],
   "Plectroglyphidodon johnstonianus": [
     "Plectroglyphidodon johnstonianus",
     "Johnstons damsel, Blue-eye Damsel, Johnston Damsel, Johnston Island Damsel, Widebar Damsel",
@@ -47883,6 +47925,13 @@
       "https://images.reeflifesurvey.com/0/species_ab_577d87c271b7b.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_cf_577d87b263ad8.w1000.h666.jpg"
     ]
+  ],
+  "Pterocaesio lativittata": [
+    "Pterocaesio lativittata",
+    "",
+    null,
+    0,
+    []
   ],
   "Pterocaesio marri": [
     "Pterocaesio marri",
@@ -55959,6 +56008,13 @@
     "Thorunna arbuta",
     "Digidentis arbuta",
     "https://reeflifesurvey.com/species/thorunna-arbuta/",
+    1,
+    []
+  ],
+  "Thorunna australis": [
+    "Thorunna australis",
+    "",
+    null,
     1,
     []
   ],

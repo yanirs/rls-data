@@ -7632,7 +7632,7 @@
       "Flying Fish Cove Boat Ramp",
       105.67,
       -10.43,
-      4
+      6
     ],
     [
       "CI10",
@@ -7654,7 +7654,7 @@
       "FFC Wharf",
       105.67,
       -10.43,
-      1
+      3
     ],
     [
       "CI12",
@@ -7676,7 +7676,7 @@
       "Middle Beach West",
       105.63,
       -10.46,
-      1
+      2
     ],
     [
       "CI14",
@@ -7687,7 +7687,62 @@
       "Flying Fish Cove CI",
       105.67,
       -10.43,
+      2
+    ],
+    [
+      "CI15",
+      "Australia",
+      "Central Indo-Pacific",
+      "Christmas Island",
+      "Cocos-Keeling/Christmas Island",
+      "Barracuda Bay",
+      105.6,
+      -10.47,
       1
+    ],
+    [
+      "CI16",
+      "Australia",
+      "Central Indo-Pacific",
+      "Christmas Island",
+      "Cocos-Keeling/Christmas Island",
+      "Fuel Buoy2",
+      105.66,
+      -10.44,
+      1
+    ],
+    [
+      "CI17",
+      "Australia",
+      "Central Indo-Pacific",
+      "Christmas Island",
+      "Cocos-Keeling/Christmas Island",
+      "Perpendicular Wall",
+      105.56,
+      -10.45,
+      1
+    ],
+    [
+      "CI18",
+      "Australia",
+      "Central Indo-Pacific",
+      "Christmas Island",
+      "Cocos-Keeling/Christmas Island",
+      "Lynnys",
+      105.63,
+      -10.46,
+      1
+    ],
+    [
+      "CI19",
+      "Australia",
+      "Central Indo-Pacific",
+      "Christmas Island",
+      "Cocos-Keeling/Christmas Island",
+      "Thunder Dome",
+      105.61,
+      -10.47,
+      2
     ],
     [
       "CI2",
@@ -7698,7 +7753,7 @@
       "Phosphate Wharf",
       105.67,
       -10.43,
-      1
+      2
     ],
     [
       "CI3",
@@ -7709,7 +7764,7 @@
       "Smith Point",
       105.67,
       -10.43,
-      1
+      2
     ],
     [
       "CI4",
@@ -7720,7 +7775,7 @@
       "Cultural Centre",
       105.67,
       -10.42,
-      1
+      3
     ],
     [
       "CI5",
@@ -7742,7 +7797,7 @@
       "West White Beach",
       105.58,
       -10.46,
-      2
+      3
     ],
     [
       "CI7",
@@ -7775,7 +7830,95 @@
       "Ethel Beach",
       105.71,
       -10.46,
+      2
+    ],
+    [
+      "COC1",
+      "Australia",
+      "Central Indo-Pacific",
+      "Cocos Island",
+      "Cocos-Keeling/Christmas Island",
+      "Cabbage Patch",
+      96.84,
+      -12.09,
+      2
+    ],
+    [
+      "COC2",
+      "Australia",
+      "Central Indo-Pacific",
+      "Cocos Island",
+      "Cocos-Keeling/Christmas Island",
+      "Kats Kables",
+      96.87,
+      -12.09,
+      2
+    ],
+    [
+      "COC3",
+      "Australia",
+      "Central Indo-Pacific",
+      "Cocos Island",
+      "Cocos-Keeling/Christmas Island",
+      "Rose Wall",
+      96.84,
+      -12.09,
+      2
+    ],
+    [
+      "COC4",
+      "Australia",
+      "Central Indo-Pacific",
+      "Cocos Island",
+      "Cocos-Keeling/Christmas Island",
+      "Fan Wall",
+      96.87,
+      -12.09,
+      2
+    ],
+    [
+      "COC5",
+      NaN,
+      "Central Indo-Pacific",
+      "Cocos Island",
+      "Cocos-Keeling/Christmas Island",
+      "Winter Wall",
+      96.84,
+      -12.09,
       1
+    ],
+    [
+      "COC6",
+      "Australia",
+      "Central Indo-Pacific",
+      "Cocos Island",
+      "Cocos-Keeling/Christmas Island",
+      "Claire's Corner",
+      96.86,
+      -12.09,
+      2
+    ],
+    [
+      "COC7",
+      "Australia",
+      "Central Indo-Pacific",
+      "Cocos Island",
+      "Cocos-Keeling/Christmas Island",
+      "Two Trees",
+      96.82,
+      -12.16,
+      2
+    ],
+    [
+      "COC8",
+      "Australia",
+      "Central Indo-Pacific",
+      "Cocos Island",
+      "Cocos-Keeling/Christmas Island",
+      "Q Station Bay",
+      96.82,
+      -12.17,
+      2
     ],
     [
       "COO18",
