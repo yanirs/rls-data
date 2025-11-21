@@ -2877,6 +2877,13 @@
       "https://images.reeflifesurvey.com/0/species_8b_5742fdf60c8f4.w1000.h666.JPG"
     ]
   ],
+  "Anoplodactylus lentus": [
+    "Anoplodactylus lentus",
+    "",
+    null,
+    1,
+    []
+  ],
   "Antedon bifida": [
     "Antedon bifida",
     "Rosy feather star",
@@ -3785,6 +3792,13 @@
       "https://images.reeflifesurvey.com/0/species_ab_56f8b44aa071f.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_94_56f8b49c3d153.w1000.h666.jpg"
     ]
+  ],
+  "Arbacia punctulata": [
+    "Arbacia punctulata",
+    "",
+    null,
+    1,
+    []
   ],
   "Arbacia spatuligera": [
     "Arbacia spatuligera",
@@ -7144,6 +7158,13 @@
       "https://images.reeflifesurvey.com/0/species_e9_57d7909e03f7a.w1000.h666.jpg"
     ]
   ],
+  "Calamus leucosteus": [
+    "Calamus leucosteus",
+    "",
+    null,
+    0,
+    []
+  ],
   "Calamus nodosus": [
     "Calamus nodosus",
     "Knobbed porgy",
@@ -8914,6 +8935,20 @@
     "Common snook",
     "https://reeflifesurvey.com/species/centropomus-undecimalis/",
     0,
+    []
+  ],
+  "Centropristis ocyurus": [
+    "Centropristis ocyurus",
+    "",
+    null,
+    2,
+    []
+  ],
+  "Centropristis striata": [
+    "Centropristis striata",
+    "",
+    null,
+    2,
     []
   ],
   "Centropyge acanthops": [
@@ -15290,6 +15325,13 @@
       "https://images.reeflifesurvey.com/0/species_e8_57d7993b3b3c8.w1000.h666.jpg"
     ]
   ],
+  "Coryphopterus punctipectophorus": [
+    "Coryphopterus punctipectophorus",
+    "",
+    null,
+    2,
+    []
+  ],
   "Coryphopterus spp.": [
     "Coryphopterus spp.",
     "",
@@ -17931,6 +17973,13 @@
       "https://images.reeflifesurvey.com/0/species_53_56f12db72f5d7.w1000.h666.jpg"
     ]
   ],
+  "Diplodus holbrookii": [
+    "Diplodus holbrookii",
+    "",
+    null,
+    0,
+    []
+  ],
   "Diplodus noct": [
     "Diplodus noct",
     "",
@@ -18782,6 +18831,13 @@
       "https://images.reeflifesurvey.com/0/species_a8_5736edf70ff6d.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_fb_5736edea8ee5b.w1000.h666.jpg"
     ]
+  ],
+  "Echinaster spinulosus": [
+    "Echinaster spinulosus",
+    "",
+    null,
+    1,
+    []
   ],
   "Echinaster spp.": [
     "Echinaster spp.",
@@ -25713,6 +25769,13 @@
       "https://images.reeflifesurvey.com/0/species_11_5771d0c01fe3c.w1000.h666.jpg"
     ]
   ],
+  "Halichoeres caudalis": [
+    "Halichoeres caudalis",
+    "",
+    null,
+    0,
+    []
+  ],
   "Halichoeres chierchiae": [
     "Halichoeres chierchiae",
     "Wounded wrasse",
@@ -29234,6 +29297,20 @@
       "https://images.reeflifesurvey.com/0/species_25_5785dcc2ed02a.w1000.h666.JPG"
     ]
   ],
+  "Hypsoblennius hentz": [
+    "Hypsoblennius hentz",
+    "",
+    null,
+    2,
+    []
+  ],
+  "Hypsoblennius invemar": [
+    "Hypsoblennius invemar",
+    "",
+    null,
+    2,
+    []
+  ],
   "Hypsoblennius sordidus": [
     "Hypsoblennius sordidus",
     "",
@@ -30359,6 +30436,13 @@
       "https://images.reeflifesurvey.com/0/species_53_57c254ea61123.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_30_57293721ee088.w1000.h666.jpg"
     ]
+  ],
+  "Lagodon rhomboides": [
+    "Lagodon rhomboides",
+    "",
+    null,
+    0,
+    []
   ],
   "Lambis lambis": [
     "Lambis lambis",
@@ -31919,6 +32003,13 @@
     0,
     []
   ],
+  "Lutjanus campechanus": [
+    "Lutjanus campechanus",
+    "",
+    null,
+    0,
+    []
+  ],
   "Lutjanus carponotatus": [
     "Lutjanus carponotatus",
     "Spanish flag snapper, Dusky-striped Sea-perch, Dusky-striped Snapper, Gold-banded Sea Perch, Golden-banded Snapper, Spanish Flag, Striped Seaperch, Stripey, Stripey Sea Perch",
@@ -32470,6 +32561,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_28_57de4357df35e.w1000.h666.jpg"
     ]
+  ],
+  "Macrocypraea spp.": [
+    "Macrocypraea spp.",
+    "",
+    null,
+    1,
+    []
   ],
   "Macrocypraea zebra": [
     "Macrocypraea zebra",
@@ -33430,6 +33528,13 @@
       "https://images.reeflifesurvey.com/1/species_55_5e291b7826ac6.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/1/species_fc_5e291b7d6867d.w1000.h666.JPG"
     ]
+  ],
+  "Menidia menidia": [
+    "Menidia menidia",
+    "",
+    null,
+    0,
+    []
   ],
   "Menippe mercenaria": [
     "Menippe mercenaria",
@@ -34649,6 +34754,13 @@
     0,
     []
   ],
+  "Mullus auratus": [
+    "Mullus auratus",
+    "",
+    null,
+    0,
+    []
+  ],
   "Mullus barbatus": [
     "Mullus barbatus",
     "Red mullet",
@@ -34860,6 +34972,13 @@
     2,
     []
   ],
+  "Mycteroperca microlepis": [
+    "Mycteroperca microlepis",
+    "",
+    null,
+    0,
+    []
+  ],
   "Mycteroperca olfax": [
     "Mycteroperca olfax",
     "Sailfin grouper, Colorado Grouper, Yellow Grouper",
@@ -34870,6 +34989,13 @@
       "https://images.reeflifesurvey.com/0/species_cc_5782cffc5b9b8.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_39_5785cf270f5a7.w1000.h666.JPG"
     ]
+  ],
+  "Mycteroperca phenax": [
+    "Mycteroperca phenax",
+    "",
+    null,
+    0,
+    []
   ],
   "Mycteroperca rosacea": [
     "Mycteroperca rosacea",
@@ -38117,6 +38243,13 @@
     1,
     []
   ],
+  "Opsanus tau": [
+    "Opsanus tau",
+    "",
+    null,
+    2,
+    []
+  ],
   "Optivus agastos": [
     "Optivus agastos",
     "Slender roughy, Optivus elongatus",
@@ -38226,6 +38359,13 @@
       "https://images.reeflifesurvey.com/1/species_98_636b365465e1e.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_15_636b364e7d04d.w1000.h666.jpg"
     ]
+  ],
+  "Orthopristis chrysoptera": [
+    "Orthopristis chrysoptera",
+    "",
+    null,
+    0,
+    []
   ],
   "Orthopristis forbesi": [
     "Orthopristis forbesi",
@@ -40351,6 +40491,20 @@
     2,
     []
   ],
+  "Paralichthys albigutta": [
+    "Paralichthys albigutta",
+    "",
+    null,
+    2,
+    []
+  ],
+  "Paralichthys lethostigma": [
+    "Paralichthys lethostigma",
+    "",
+    null,
+    2,
+    []
+  ],
   "Paralomis granulosa": [
     "Paralomis granulosa",
     "False king crab, False Southern King Crab",
@@ -42177,6 +42331,13 @@
     "Eelgrass isopod",
     "https://reeflifesurvey.com/species/pentidotea-resecata/",
     1,
+    []
+  ],
+  "Peprilus triacanthus": [
+    "Peprilus triacanthus",
+    "",
+    null,
+    0,
     []
   ],
   "Percidae spp.": [
@@ -48859,6 +49020,13 @@
     0,
     []
   ],
+  "Rhomboplites aurorubens": [
+    "Rhomboplites aurorubens",
+    "",
+    null,
+    0,
+    []
+  ],
   "Rhombosolea tapirina": [
     "Rhombosolea tapirina",
     "Greenback flounder",
@@ -51792,6 +51960,13 @@
     0,
     []
   ],
+  "Seriola zonata": [
+    "Seriola zonata",
+    "",
+    null,
+    0,
+    []
+  ],
   "Seriolella brama": [
     "Seriolella brama",
     "Snotty-nose trevally",
@@ -52451,6 +52626,13 @@
       "https://images.reeflifesurvey.com/0/species_92_59db405993d47.w1000.h666.jpg"
     ]
   ],
+  "Solasteridae spp.": [
+    "Solasteridae spp.",
+    "",
+    null,
+    1,
+    []
+  ],
   "Solea solea": [
     "Solea solea",
     "Dover sole",
@@ -52826,6 +53008,13 @@
       "https://images.reeflifesurvey.com/0/species_84_5772fe3f3c86d.w1000.h666.jpg"
     ]
   ],
+  "Sphyraena guachancho": [
+    "Sphyraena guachancho",
+    "",
+    null,
+    0,
+    []
+  ],
   "Sphyraena helleri": [
     "Sphyraena helleri",
     "Hellers barracuda",
@@ -53067,6 +53256,13 @@
       "https://images.reeflifesurvey.com/0/species_4b_5744f6a7cf04c.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_7c_5744f6a047384.w1000.h666.jpg"
     ]
+  ],
+  "Squilla empusa": [
+    "Squilla empusa",
+    "",
+    null,
+    1,
+    []
   ],
   "Stanulus talboti": [
     "Stanulus talboti",
@@ -53491,6 +53687,20 @@
       "https://images.reeflifesurvey.com/0/species_bc_57a0324a2a33b.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_7b_57e37307517c4.w1000.h666.jpg"
     ]
+  ],
+  "Stenotomus caprinus": [
+    "Stenotomus caprinus",
+    "",
+    null,
+    0,
+    []
+  ],
+  "Stenotomus chrysops": [
+    "Stenotomus chrysops",
+    "",
+    null,
+    0,
+    []
   ],
   "Stephanolepis cirrhifer": [
     "Stephanolepis cirrhifer",
@@ -58649,6 +58859,13 @@
     "Urophycis chuss",
     "",
     "https://reeflifesurvey.com/species/urophycis-chuss/",
+    0,
+    []
+  ],
+  "Urophycis earllii": [
+    "Urophycis earllii",
+    "",
+    null,
     0,
     []
   ],
