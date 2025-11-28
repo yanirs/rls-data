@@ -3937,6 +3937,13 @@
       "https://images.reeflifesurvey.com/1/species_29_5c89b4fca159b.w1000.h666.jpg"
     ]
   ],
+  "Ardeadoris cruenta": [
+    "Ardeadoris cruenta",
+    "",
+    null,
+    1,
+    []
+  ],
   "Ardeadoris egretta": [
     "Ardeadoris egretta",
     "[A slea slug]",
@@ -29174,6 +29181,13 @@
     "Hypselodoris decorata",
     "",
     "https://reeflifesurvey.com/species/hypselodoris-decorata/",
+    1,
+    []
+  ],
+  "Hypselodoris emma": [
+    "Hypselodoris emma",
+    "",
+    null,
     1,
     []
   ],
@@ -57043,6 +57057,13 @@
       "https://images.reeflifesurvey.com/1/species_26_6852365d9ebca.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_9f_6645a38d26b3f.w1000.h666.jpg"
     ]
+  ],
+  "Trapezia serenei": [
+    "Trapezia serenei",
+    "",
+    null,
+    1,
+    []
   ],
   "Trapezia spp.": [
     "Trapezia spp.",
