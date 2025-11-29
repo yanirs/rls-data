@@ -3939,8 +3939,8 @@
   ],
   "Ardeadoris cruenta": [
     "Ardeadoris cruenta",
-    "",
-    null,
+    "Bloody glossodoris",
+    "https://reeflifesurvey.com/species/ardeadoris-cruenta/",
     1,
     []
   ],
@@ -21652,6 +21652,13 @@
     2,
     []
   ],
+  "Eviota sp. [Osprey]": [
+    "Eviota sp. [Osprey]",
+    "",
+    "https://reeflifesurvey.com/species/eviota-sp-osprey/",
+    2,
+    []
+  ],
   "Eviota sp. [Snowflake]": [
     "Eviota sp. [Snowflake]",
     "",
@@ -29186,8 +29193,8 @@
   ],
   "Hypselodoris emma": [
     "Hypselodoris emma",
-    "",
-    null,
+    "Emmas Hypselodoris",
+    "https://reeflifesurvey.com/species/hypselodoris-emma/",
     1,
     []
   ],
@@ -38769,6 +38776,13 @@
     "Ostorhinchus sp. (angustatus)",
     "",
     null,
+    2,
+    []
+  ],
+  "Ostorhinchus sp. [cf cavitensis]": [
+    "Ostorhinchus sp. [cf cavitensis]",
+    "",
+    "https://reeflifesurvey.com/species/ostorhinchus-sp-cf-cavitensis/",
     2,
     []
   ],
@@ -57060,8 +57074,8 @@
   ],
   "Trapezia serenei": [
     "Trapezia serenei",
-    "",
-    null,
+    "Serenes guard crab",
+    "https://reeflifesurvey.com/species/trapezia-serenei/",
     1,
     []
   ],
