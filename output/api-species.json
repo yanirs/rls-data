@@ -35446,7 +35446,6 @@
     "https://reeflifesurvey.com/species/nardoa-variolata/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_4f_578f22bc92d14.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_0f_578f22c321644.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_2d_578f234c7e0b0.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_b7_578f247de4e98.w1000.h666.jpg"
@@ -55712,7 +55711,9 @@
     "Acropora crab",
     "https://reeflifesurvey.com/species/tetralia-nigrolineata/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_a4_693d2e2e1f514.w1000.h666.JPG"
+    ]
   ],
   "Tetralia rubridactyla": [
     "Tetralia rubridactyla",
