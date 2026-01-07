@@ -2829,7 +2829,8 @@
       "https://images.reeflifesurvey.com/0/species_97_578f4e0d8a94a.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_64_6493ce0d848f8.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_a8_578f4ded0c6f1.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_1a_578f4df55fba2.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_1a_578f4df55fba2.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_27_695db87823e18.w1000.h666.jpg"
     ]
   ],
   "Anoplarchus spp.": [
@@ -14020,18 +14021,14 @@
     "Comanthina nobilis",
     "https://reeflifesurvey.com/species/comaster-nobilis/",
     1,
-    [
-      "https://images.reeflifesurvey.com/0/species_2f_5784d8ba0d790.w1000.h666.jpg"
-    ]
+    []
   ],
   "Comaster schlegelii": [
     "Comaster schlegelii",
     "[a crinoid]",
     "https://reeflifesurvey.com/species/comaster-schlegelii/",
     1,
-    [
-      "https://images.reeflifesurvey.com/0/species_98_5784d94d715bd.w1000.h666.JPG"
-    ]
+    []
   ],
   "Comaster spp.": [
     "Comaster spp.",
