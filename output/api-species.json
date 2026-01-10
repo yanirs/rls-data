@@ -16277,6 +16277,7 @@
     0,
     [
       "https://images.reeflifesurvey.com/0/species_33_56fd004c2ccae.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_75_696087d8bd27f.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_1b_56fd003956c2b.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_02_56fd0050ef1fc.w1000.h666.jpg"
     ]
@@ -16558,6 +16559,8 @@
     2,
     [
       "https://images.reeflifesurvey.com/1/species_0d_64d5c061a97fb.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_26_69608855127f4.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_85_69608891cefc1.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/1/species_45_64d5c062ecd98.w1000.h666.jpg"
     ]
   ],
@@ -18000,6 +18003,7 @@
     "https://reeflifesurvey.com/species/diplodus-puntazzo/",
     0,
     [
+      "https://images.reeflifesurvey.com/1/species_c0_696089112371e.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_ac_56f26d950808b.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_03_56f26dbeaba99.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_fe_56f26dae953b9.w1000.h666.jpg"
@@ -20242,7 +20246,10 @@
     "Snake pipefish",
     "https://reeflifesurvey.com/species/entelurus-aequoreus/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_7d_696089458d38a.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_56_69608949cdd55.w1000.h666.JPG"
+    ]
   ],
   "Enteroctopus dofleini": [
     "Enteroctopus dofleini",
@@ -20579,6 +20586,7 @@
     2,
     [
       "https://images.reeflifesurvey.com/0/species_bb_5720a3cc67e48.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_9f_6960898a6e06a.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_c5_5736ef05dc0a4.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_b8_5788774b724bb.w1000.h666.JPG"
     ]
@@ -23032,6 +23040,7 @@
     1,
     [
       "https://images.reeflifesurvey.com/0/species_07_57370044515e6.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_b6_696089f7eb631.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_cc_5736ffc8230bd.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_86_5dd08140b7ccc.w1000.h666.jpg"
     ]
@@ -28697,6 +28706,7 @@
     "https://reeflifesurvey.com/species/homarus-gammarus/",
     1,
     [
+      "https://images.reeflifesurvey.com/1/species_81_69608a292847a.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/1/species_84_686220f39c0a3.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_97_686220b271ac3.w1000.h666.JPG"
     ]
@@ -31544,7 +31554,9 @@
     "",
     "https://reeflifesurvey.com/species/lithodes-maja/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_7f_69608a5949e38.w1000.h666.JPG"
+    ]
   ],
   "Lithodes santolla": [
     "Lithodes santolla",
@@ -34858,7 +34870,8 @@
     "https://reeflifesurvey.com/species/muraena-helena/",
     2,
     [
-      "https://images.reeflifesurvey.com/0/species_6a_57380c7515c6a.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_6a_57380c7515c6a.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_7e_69608abe76fd4.w1000.h666.JPG"
     ]
   ],
   "Muraena lentiginosa": [
@@ -43108,7 +43121,9 @@
     "",
     "https://reeflifesurvey.com/species/phrynorhombus-norvegicus/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_f3_69608b7ecf71a.w1000.h666.JPG"
+    ]
   ],
   "Phycis phycis": [
     "Phycis phycis",
@@ -48678,7 +48693,9 @@
     "Tadpole fish",
     "https://reeflifesurvey.com/species/raniceps-raninus/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_f1_69608ba4e308d.w1000.h666.JPG"
+    ]
   ],
   "Ranularia pyrum": [
     "Ranularia pyrum",
@@ -51720,7 +51737,10 @@
     "Norway redfish",
     "https://reeflifesurvey.com/species/sebastes-viviparus/",
     0,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_3d_69608be2c55f6.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_7f_69608be0ee599.w1000.h666.JPG"
+    ]
   ],
   "Sebastiscus albofasciatus": [
     "Sebastiscus albofasciatus",
@@ -52084,6 +52104,7 @@
     "https://reeflifesurvey.com/species/serranus-hepatus/",
     2,
     [
+      "https://images.reeflifesurvey.com/1/species_a7_69608c2662eef.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/1/species_10_5dd088d44a81e.w1000.h666.jpg"
     ]
   ],
