@@ -1282,6 +1282,13 @@
       "https://images.reeflifesurvey.com/0/species_28_57a44fb29c3e7.w1000.h666.jpg"
     ]
   ],
+  "Africofusus spp.": [
+    "Africofusus spp.",
+    "",
+    null,
+    1,
+    []
+  ],
   "Afurcagobius tamarensis": [
     "Afurcagobius tamarensis",
     "Tamar goby",
@@ -26655,6 +26662,13 @@
       "https://images.reeflifesurvey.com/0/species_f1_57916832034ed.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_ea_5791683750dde.w1000.h666.JPG"
     ]
+  ],
+  "Haploblepharus pictus": [
+    "Haploblepharus pictus",
+    "Dark Shyshark",
+    "https://reeflifesurvey.com/species/haploblepharus-pictus/",
+    2,
+    []
   ],
   "Haplocylix littoreus": [
     "Haplocylix littoreus",
