@@ -30776,6 +30776,13 @@
       "https://images.reeflifesurvey.com/0/species_42_577460b5bb881.w1000.h666.jpg"
     ]
   ],
+  "Leminda millecra": [
+    "Leminda millecra",
+    "Frilled nudibranch",
+    "https://reeflifesurvey.com/species/leminda-millecra/",
+    1,
+    []
+  ],
   "Lentigo lentiginosus": [
     "Lentigo lentiginosus",
     "",
@@ -40417,6 +40424,13 @@
       "https://images.reeflifesurvey.com/0/species_6c_5763634045806.w1000.h666.JPG"
     ]
   ],
+  "Paraflabellina funeka": [
+    "Paraflabellina funeka",
+    "Purple lady nudibranch",
+    "https://reeflifesurvey.com/species/paraflabellina-funeka/",
+    1,
+    []
+  ],
   "Paraflabellina ischitana": [
     "Paraflabellina ischitana",
     "Flabellina nudibranch, Flabellina ischitana",
@@ -47487,6 +47501,13 @@
       "https://images.reeflifesurvey.com/1/species_6f_5e8bf1ab62c65.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_fc_574e37fa4385a.w1000.h666.jpg"
     ]
+  ],
+  "Pseudodromia latens": [
+    "Pseudodromia latens",
+    "Sponge crab",
+    "https://reeflifesurvey.com/species/pseudodromia-latens/",
+    1,
+    []
   ],
   "Pseudogoniistius nigripes": [
     "Pseudogoniistius nigripes",
@@ -59797,6 +59818,13 @@
     "Cowrie, Cypraea venusta",
     "https://reeflifesurvey.com/species/zoila-venusta/",
     1,
+    []
+  ],
+  "Zoramia gilberti": [
+    "Zoramia gilberti",
+    "Gilberts cardinalfish",
+    "https://reeflifesurvey.com/species/zoramia-gilberti/",
+    2,
     []
   ],
   "Zoramia leptacanthus": [
