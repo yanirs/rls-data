@@ -1262,6 +1262,13 @@
       "https://images.reeflifesurvey.com/0/species_d3_571454cea7d11.w1000.h666.jpg"
     ]
   ],
+  "Aetobatus laticeps": [
+    "Aetobatus laticeps",
+    "",
+    null,
+    0,
+    []
+  ],
   "Aetobatus narinari": [
     "Aetobatus narinari",
     "White-spotted eagle ray",
@@ -1435,6 +1442,13 @@
     1,
     []
   ],
+  "Aldisa cooperi": [
+    "Aldisa cooperi",
+    "",
+    null,
+    1,
+    []
+  ],
   "Aldisa spp.": [
     "Aldisa spp.",
     "",
@@ -1602,6 +1616,13 @@
     "Alpheus immaculatus",
     "",
     "https://reeflifesurvey.com/species/alpheus-immaculatus/",
+    1,
+    []
+  ],
+  "Alpheus lottini": [
+    "Alpheus lottini",
+    "",
+    null,
     1,
     []
   ],
@@ -7329,6 +7350,13 @@
     1,
     []
   ],
+  "Calcinus obscurus": [
+    "Calcinus obscurus",
+    "",
+    null,
+    1,
+    []
+  ],
   "Calcinus pulcher": [
     "Calcinus pulcher",
     "",
@@ -8761,6 +8789,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_03_59c8606bd811f.w1000.h666.JPG"
     ]
+  ],
+  "Cassis spp.": [
+    "Cassis spp.",
+    "",
+    null,
+    1,
+    []
   ],
   "Cassis tuberosa": [
     "Cassis tuberosa",
@@ -12362,6 +12397,13 @@
     "",
     "https://reeflifesurvey.com/species/chromogobius-zebratus/",
     2,
+    []
+  ],
+  "Chromolaichma sedna": [
+    "Chromolaichma sedna",
+    "",
+    null,
+    1,
     []
   ],
   "Chrysaora africana": [
@@ -29648,6 +29690,13 @@
       "https://images.reeflifesurvey.com/0/species_a5_5a02af7f6c4c6.w1000.h666.jpg"
     ]
   ],
+  "Isostichopus maculatus": [
+    "Isostichopus maculatus",
+    "",
+    null,
+    1,
+    []
+  ],
   "Isostichopus spp.": [
     "Isostichopus spp.",
     "",
@@ -31373,6 +31422,13 @@
     "Leucozonia ocellata",
     "",
     "https://reeflifesurvey.com/species/leucozonia-ocellata/",
+    1,
+    []
+  ],
+  "Leucozonia spp.": [
+    "Leucozonia spp.",
+    "",
+    null,
     1,
     []
   ],
@@ -34775,6 +34831,13 @@
     "Mugil galapagensis",
     "Galapagos mullet",
     "https://reeflifesurvey.com/species/mugil-galapagensis/",
+    0,
+    []
+  ],
+  "Mugil rubrioculus": [
+    "Mugil rubrioculus",
+    "",
+    null,
     0,
     []
   ],
@@ -41492,6 +41555,13 @@
       "https://images.reeflifesurvey.com/0/species_96_577ae857d3a4d.w1000.h666.jpg"
     ]
   ],
+  "Parophrys vetulus": [
+    "Parophrys vetulus",
+    "",
+    null,
+    2,
+    []
+  ],
   "Parupeneus barberinoides": [
     "Parupeneus barberinoides",
     "Half-and-half goatfish, Swarthy-headed Goatfish",
@@ -47901,6 +47971,13 @@
     1,
     []
   ],
+  "Pseudosquillidae spp.": [
+    "Pseudosquillidae spp.",
+    "",
+    null,
+    1,
+    []
+  ],
   "Pseudosquillisma adiastalta": [
     "Pseudosquillisma adiastalta",
     "Pseudosquilla adiastalta",
@@ -51677,6 +51754,13 @@
       "https://images.reeflifesurvey.com/1/species_28_65010425b4628.w1000.h666.jpg"
     ]
   ],
+  "Sebastes entomelas": [
+    "Sebastes entomelas",
+    "",
+    null,
+    0,
+    []
+  ],
   "Sebastes flavidus": [
     "Sebastes flavidus",
     "Yellowtail rockfish",
@@ -54259,6 +54343,13 @@
   ],
   "Streptopinna spp.": [
     "Streptopinna spp.",
+    "",
+    null,
+    1,
+    []
+  ],
+  "Strianassa spp.": [
+    "Strianassa spp.",
     "",
     null,
     1,
@@ -57994,6 +58085,13 @@
     1,
     []
   ],
+  "Trizopagurus spp.": [
+    "Trizopagurus spp.",
+    "",
+    null,
+    1,
+    []
+  ],
   "Trochidae spp.": [
     "Trochidae spp.",
     "",
@@ -59241,6 +59339,13 @@
       "https://images.reeflifesurvey.com/0/species_90_582e420ceedd5.w1000.h666.jpg"
     ]
   ],
+  "Vasula melones": [
+    "Vasula melones",
+    "",
+    null,
+    1,
+    []
+  ],
   "Vasula speciosa": [
     "Vasula speciosa",
     "",
@@ -59466,6 +59571,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_cf_57fcd463653ea.w1000.h666.JPG"
     ]
+  ],
+  "Volutella caestus": [
+    "Volutella caestus",
+    "",
+    null,
+    1,
+    []
   ],
   "Volutella muricata": [
     "Volutella muricata",
