@@ -1264,8 +1264,8 @@
   ],
   "Aetobatus laticeps": [
     "Aetobatus laticeps",
-    "",
-    null,
+    "Pacific Eagle Ray",
+    "https://reeflifesurvey.com/species/aetobatus-laticeps/",
     0,
     []
   ],
@@ -1444,8 +1444,8 @@
   ],
   "Aldisa cooperi": [
     "Aldisa cooperi",
-    "",
-    null,
+    "Coopers Dorid",
+    "https://reeflifesurvey.com/species/aldisa-cooperi/",
     1,
     []
   ],
@@ -1621,8 +1621,8 @@
   ],
   "Alpheus lottini": [
     "Alpheus lottini",
-    "",
-    null,
+    "Coral snapping shrimp",
+    "https://reeflifesurvey.com/species/alpheus-lottini/",
     1,
     []
   ],
@@ -3973,7 +3973,9 @@
     "Bloody glossodoris",
     "https://reeflifesurvey.com/species/ardeadoris-cruenta/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_68_697ac6e9c9b61.w1000.h666.jpg"
+    ]
   ],
   "Ardeadoris egretta": [
     "Ardeadoris egretta",
@@ -6673,6 +6675,13 @@
       "https://images.reeflifesurvey.com/0/species_46_57678b51d38fd.w1000.h666.JPG"
     ]
   ],
+  "Bryx veleronis": [
+    "Bryx veleronis",
+    "Sailor pipefish",
+    "https://reeflifesurvey.com/species/bryx-veleronis/",
+    2,
+    []
+  ],
   "Buccinidae spp.": [
     "Buccinidae spp.",
     "",
@@ -7352,8 +7361,8 @@
   ],
   "Calcinus obscurus": [
     "Calcinus obscurus",
-    "",
-    null,
+    "Orange banded hermitcrab",
+    "https://reeflifesurvey.com/species/calcinus-obscurus/",
     1,
     []
   ],
@@ -12401,8 +12410,8 @@
   ],
   "Chromolaichma sedna": [
     "Chromolaichma sedna",
-    "",
-    null,
+    "Nudibranch",
+    "https://reeflifesurvey.com/species/chromolaichma-sedna/",
     1,
     []
   ],
@@ -21466,7 +21475,9 @@
     "Barred eviota",
     "https://reeflifesurvey.com/species/eviota-fasciola/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_8b_697ac7ffd2dea.w1000.h666.jpg"
+    ]
   ],
   "Eviota guttata": [
     "Eviota guttata",
@@ -29692,8 +29703,8 @@
   ],
   "Isostichopus maculatus": [
     "Isostichopus maculatus",
-    "",
-    null,
+    "Sea cucumber",
+    "https://reeflifesurvey.com/species/isostichopus-maculatus/",
     1,
     []
   ],
@@ -31620,6 +31631,13 @@
     "Liopropoma spp.",
     "",
     null,
+    2,
+    []
+  ],
+  "Liparis dennyi": [
+    "Liparis dennyi",
+    "Marbled snailfish",
+    "https://reeflifesurvey.com/species/liparis-dennyi/",
     2,
     []
   ],
@@ -34836,8 +34854,8 @@
   ],
   "Mugil rubrioculus": [
     "Mugil rubrioculus",
-    "",
-    null,
+    "Redeye mullet",
+    "https://reeflifesurvey.com/species/mugil-rubrioculus/",
     0,
     []
   ],
@@ -41557,8 +41575,8 @@
   ],
   "Parophrys vetulus": [
     "Parophrys vetulus",
-    "",
-    null,
+    "English sole",
+    "https://reeflifesurvey.com/species/parophrys-vetulus/",
     2,
     []
   ],
@@ -46443,6 +46461,13 @@
     "Protemblemaria bicirrus",
     "Warthead blenny, Protemblemaria bicirris",
     "https://reeflifesurvey.com/species/protemblemaria-bicirrus/",
+    2,
+    []
+  ],
+  "Protemblemaria perla": [
+    "Protemblemaria perla",
+    "Pearl tubeblenny",
+    "https://reeflifesurvey.com/species/protemblemaria-perla/",
     2,
     []
   ],
@@ -51756,8 +51781,8 @@
   ],
   "Sebastes entomelas": [
     "Sebastes entomelas",
-    "",
-    null,
+    "Widow Rockfish",
+    "https://reeflifesurvey.com/species/sebastes-entomelas/",
     0,
     []
   ],
@@ -57253,7 +57278,9 @@
     "Crab",
     "https://reeflifesurvey.com/species/trapezia-guttata/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_07_697ac6477f4ea.w1000.h666.jpg"
+    ]
   ],
   "Trapezia rufopunctata": [
     "Trapezia rufopunctata",
@@ -58996,6 +59023,13 @@
       "https://images.reeflifesurvey.com/0/species_c8_582c5517d6bcb.w1000.h666.jpg"
     ]
   ],
+  "Urobatis pardalis": [
+    "Urobatis pardalis",
+    "Leopard round stingray",
+    "https://reeflifesurvey.com/species/urobatis-pardalis/",
+    2,
+    []
+  ],
   "Urobatis tumbesensis": [
     "Urobatis tumbesensis",
     "Tumbes round stingray",
@@ -59341,8 +59375,8 @@
   ],
   "Vasula melones": [
     "Vasula melones",
-    "",
-    null,
+    "Gourd rock snail",
+    "https://reeflifesurvey.com/species/vasula-melones/",
     1,
     []
   ],
@@ -59574,8 +59608,8 @@
   ],
   "Volutella caestus": [
     "Volutella caestus",
-    "",
-    null,
+    "Gauntlet vase shell",
+    "https://reeflifesurvey.com/species/volutella-caestus/",
     1,
     []
   ],
