@@ -5479,6 +5479,13 @@
     1,
     []
   ],
+  "Axius spp.": [
+    "Axius spp.",
+    "",
+    null,
+    1,
+    []
+  ],
   "Axoclinus cocoensis": [
     "Axoclinus cocoensis",
     "Cocos triplefin",
@@ -15296,6 +15303,13 @@
       "https://images.reeflifesurvey.com/0/species_4a_578cad902f64a.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_06_578cad8aebf97.w1000.h666.jpg"
     ]
+  ],
+  "Coryphellina marcusorum": [
+    "Coryphellina marcusorum",
+    "",
+    null,
+    1,
+    []
   ],
   "Coryphellina poenicia": [
     "Coryphellina poenicia",
@@ -36163,6 +36177,13 @@
       "https://images.reeflifesurvey.com/0/species_13_574e89b54a9bb.w1000.h666.jpg"
     ]
   ],
+  "Nematistius pectoralis": [
+    "Nematistius pectoralis",
+    "",
+    null,
+    0,
+    []
+  ],
   "Nembrotha cristata": [
     "Nembrotha cristata",
     "",
@@ -43647,6 +43668,13 @@
       "https://images.reeflifesurvey.com/1/species_5a_664442dd80e61.w1000.h666.jpg"
     ]
   ],
+  "Phyllonotus erythrostomus": [
+    "Phyllonotus erythrostomus",
+    "",
+    null,
+    1,
+    []
+  ],
   "Phyllonotus pomum": [
     "Phyllonotus pomum",
     "",
@@ -49582,6 +49610,13 @@
       "https://images.reeflifesurvey.com/0/species_5a_579fea4e2114a.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_00_579fea56bf785.w1000.h666.JPG"
     ]
+  ],
+  "Rypticus spp.": [
+    "Rypticus spp.",
+    "",
+    null,
+    2,
+    []
   ],
   "Sabella spallanzanii": [
     "Sabella spallanzanii",
@@ -56839,6 +56874,13 @@
       "https://images.reeflifesurvey.com/0/species_cd_573bb0fac312f.w1000.h666.jpg"
     ]
   ],
+  "Titanostrombus galeatus": [
+    "Titanostrombus galeatus",
+    "",
+    null,
+    1,
+    []
+  ],
   "Tomiyamichthys oni": [
     "Tomiyamichthys oni",
     "",
@@ -57877,6 +57919,13 @@
     "Triplofusus giganteus",
     "Florida horse conch",
     "https://reeflifesurvey.com/species/triplofusus-giganteus/",
+    1,
+    []
+  ],
+  "Triplofusus princeps": [
+    "Triplofusus princeps",
+    "",
+    null,
     1,
     []
   ],
