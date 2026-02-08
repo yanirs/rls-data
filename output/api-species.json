@@ -15306,8 +15306,8 @@
   ],
   "Coryphellina marcusorum": [
     "Coryphellina marcusorum",
-    "",
-    null,
+    "Marcus Aeolid",
+    "https://reeflifesurvey.com/species/coryphellina-marcusorum/",
     1,
     []
   ],
@@ -36179,8 +36179,8 @@
   ],
   "Nematistius pectoralis": [
     "Nematistius pectoralis",
-    "",
-    null,
+    "Roosterfish",
+    "https://reeflifesurvey.com/species/nematistius-pectoralis/",
     0,
     []
   ],
@@ -43670,8 +43670,8 @@
   ],
   "Phyllonotus erythrostomus": [
     "Phyllonotus erythrostomus",
-    "",
-    null,
+    "Pink-mouth murex",
+    "https://reeflifesurvey.com/species/phyllonotus-erythrostomus/",
     1,
     []
   ],
@@ -56836,6 +56836,13 @@
     1,
     []
   ],
+  "Tigrigobius digueti": [
+    "Tigrigobius digueti",
+    "Banded cleaner goby",
+    "https://reeflifesurvey.com/species/tigrigobius-digueti/",
+    2,
+    []
+  ],
   "Tigrigobius dilepis": [
     "Tigrigobius dilepis",
     "",
@@ -56876,8 +56883,8 @@
   ],
   "Titanostrombus galeatus": [
     "Titanostrombus galeatus",
-    "",
-    null,
+    "Eastern Pacific giant conch",
+    "https://reeflifesurvey.com/species/titanostrombus-galeatus/",
     1,
     []
   ],
@@ -57924,8 +57931,8 @@
   ],
   "Triplofusus princeps": [
     "Triplofusus princeps",
-    "",
-    null,
+    "Panamanian tulip snail",
+    "https://reeflifesurvey.com/species/triplofusus-princeps/",
     1,
     []
   ],
