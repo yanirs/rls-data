@@ -7,6 +7,7 @@ on:
 jobs:
   update-data:
     runs-on: ubuntu-22.04
+    timeout-minutes: 30
     steps:
       # See https://github.com/marketplace/actions/add-commit#working-with-prs for why two steps are needed.
       - name: Check out repository code (scheduled)
