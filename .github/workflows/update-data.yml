@@ -2,8 +2,8 @@ name: Update Data
 on:
   pull_request:
   workflow_dispatch:
-  # schedule:
-  #  - cron: '23 0 * * *'  # Daily at 00:23 UTC.
+  schedule:
+   - cron: '23 0 * * *'  # Daily at 00:23 UTC.
 jobs:
   update-data:
     runs-on: ubuntu-22.04
