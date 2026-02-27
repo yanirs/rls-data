@@ -71,7 +71,7 @@ jobs:
           poetry run scrapy runspider rls/scraper.py \
             --overwrite-output data/rls-site-crawl.json \
             --loglevel INFO \
-            --set USER_AGENT="Scrapy-RLS-API (+https://reeflifesurvey.com/)"
+            --set USER_AGENT="scrapy-RLS-API"
 
       - name: Create text output files
         run: poetry run rls-data create-api-jsons data/rls-site-crawl.json data/rls-surveys/ output-tmp/
