@@ -467,6 +467,13 @@
       "https://images.reeflifesurvey.com/0/species_c5_57539a4792eac.w1000.h666.jpg"
     ]
   ],
+  "Acanthodoris atrogriseata": [
+    "Acanthodoris atrogriseata",
+    "",
+    null,
+    1,
+    []
+  ],
   "Acanthodoris hudsoni": [
     "Acanthodoris hudsoni",
     "",
@@ -1175,6 +1182,13 @@
       "https://images.reeflifesurvey.com/0/species_64_57a2c1a0531bc.w1000.h666.JPG"
     ]
   ],
+  "Aegires albopunctatus": [
+    "Aegires albopunctatus",
+    "",
+    null,
+    1,
+    []
+  ],
   "Aeolidia papillosa": [
     "Aeolidia papillosa",
     "Shag-rug nudibranch",
@@ -1350,6 +1364,13 @@
       "https://images.reeflifesurvey.com/0/species_08_574d5dbba1382.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_21_57a4198fe01cb.w1000.h666.JPG"
     ]
+  ],
+  "Agonomalus mozinoi": [
+    "Agonomalus mozinoi",
+    "",
+    null,
+    2,
+    []
   ],
   "Aioliops megastigma": [
     "Aioliops megastigma",
@@ -37802,6 +37823,13 @@
       "https://images.reeflifesurvey.com/0/species_7e_5797448c41bbf.w1000.h666.jpg"
     ]
   ],
+  "Oedignathus inermis": [
+    "Oedignathus inermis",
+    "",
+    null,
+    1,
+    []
+  ],
   "Ogcocephalus darwini": [
     "Ogcocephalus darwini",
     "Batfish, Gal\u00e1pagos Batfish",
@@ -38567,6 +38595,13 @@
       "https://images.reeflifesurvey.com/1/species_98_636b365465e1e.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_15_636b364e7d04d.w1000.h666.jpg"
     ]
+  ],
+  "Orthopagurus minimus": [
+    "Orthopagurus minimus",
+    "",
+    null,
+    1,
+    []
   ],
   "Orthopristis chrysoptera": [
     "Orthopristis chrysoptera",
@@ -39826,6 +39861,13 @@
     [
       "https://images.reeflifesurvey.com/1/species_ab_5d8aec6f36fe6.w1000.h666.jpg"
     ]
+  ],
+  "Pagurus granosimanus": [
+    "Pagurus granosimanus",
+    "",
+    null,
+    1,
+    []
   ],
   "Pagurus hemphilli": [
     "Pagurus hemphilli",
@@ -44795,6 +44837,13 @@
     "",
     null,
     2,
+    []
+  ],
+  "Pleocyemata spp.": [
+    "Pleocyemata spp.",
+    "",
+    null,
+    1,
     []
   ],
   "Plesiocolochirus ignavus": [
