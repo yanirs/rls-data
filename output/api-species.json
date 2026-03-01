@@ -469,8 +469,8 @@
   ],
   "Acanthodoris atrogriseata": [
     "Acanthodoris atrogriseata",
-    "",
-    null,
+    "Hairy horned Dorid",
+    "https://reeflifesurvey.com/species/acanthodoris-atrogriseata/",
     1,
     []
   ],
@@ -1184,8 +1184,8 @@
   ],
   "Aegires albopunctatus": [
     "Aegires albopunctatus",
-    "",
-    null,
+    "Salt-and-pepper Doris",
+    "https://reeflifesurvey.com/species/aegires-albopunctatus/",
     1,
     []
   ],
@@ -1367,8 +1367,8 @@
   ],
   "Agonomalus mozinoi": [
     "Agonomalus mozinoi",
-    "",
-    null,
+    "Kelp Poacher",
+    "https://reeflifesurvey.com/species/agonomalus-mozinoi/",
     2,
     []
   ],
@@ -2883,6 +2883,13 @@
       "https://images.reeflifesurvey.com/0/species_1a_578f4df55fba2.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/1/species_27_695db87823e18.w1000.h666.jpg"
     ]
+  ],
+  "Anoplarchus insignis": [
+    "Anoplarchus insignis",
+    "Slender cockscomb",
+    "https://reeflifesurvey.com/species/anoplarchus-insignis/",
+    2,
+    []
   ],
   "Anoplarchus spp.": [
     "Anoplarchus spp.",
@@ -37825,8 +37832,8 @@
   ],
   "Oedignathus inermis": [
     "Oedignathus inermis",
-    "",
-    null,
+    "Granular claw crab",
+    "https://reeflifesurvey.com/species/oedignathus-inermis/",
     1,
     []
   ],
@@ -38598,8 +38605,8 @@
   ],
   "Orthopagurus minimus": [
     "Orthopagurus minimus",
-    "",
-    null,
+    "Toothshell Hermit crab",
+    "https://reeflifesurvey.com/species/orthopagurus-minimus/",
     1,
     []
   ],
@@ -39864,8 +39871,8 @@
   ],
   "Pagurus granosimanus": [
     "Pagurus granosimanus",
-    "",
-    null,
+    "Grainy hermit crab",
+    "https://reeflifesurvey.com/species/pagurus-granosimanus/",
     1,
     []
   ],
@@ -59833,6 +59840,13 @@
       "https://images.reeflifesurvey.com/0/species_43_578ff01501762.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_8c_578ff15776db7.w1000.h666.JPG"
     ]
+  ],
+  "Xiphister atropurpureus": [
+    "Xiphister atropurpureus",
+    "Black prickleback",
+    "https://reeflifesurvey.com/species/xiphister-atropurpureus/",
+    2,
+    []
   ],
   "Xipholeptos notoides": [
     "Xipholeptos notoides",
