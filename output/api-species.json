@@ -42837,7 +42837,10 @@
     "",
     "https://reeflifesurvey.com/species/petricia-imperialis/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_a5_69a63d5eb69db.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_b2_69a63d8d0cd6f.w1000.h666.JPG"
+    ]
   ],
   "Petricia vernicina": [
     "Petricia vernicina",
