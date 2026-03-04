@@ -11309,6 +11309,116 @@
       2
     ],
     [
+      "ELIC1",
+      "Canada",
+      "Temperate Northern Pacific",
+      "Vancouver",
+      "Puget Trough/Georgia Basin",
+      "Jug Island",
+      -122.92,
+      49.33,
+      1
+    ],
+    [
+      "ELIC10",
+      "Canada",
+      "Temperate Northern Pacific",
+      "Vancouver",
+      "Puget Trough/Georgia Basin",
+      "Best Pt",
+      -122.88,
+      49.38,
+      1
+    ],
+    [
+      "ELIC2",
+      "Canada",
+      "Temperate Northern Pacific",
+      "Vancouver",
+      "Puget Trough/Georgia Basin",
+      "South Twin Islands",
+      -122.89,
+      49.35,
+      1
+    ],
+    [
+      "ELIC3",
+      "Canada",
+      "Temperate Northern Pacific",
+      "Vancouver",
+      "Puget Trough/Georgia Basin",
+      "Carraholly Pt",
+      -122.91,
+      49.29,
+      1
+    ],
+    [
+      "ELIC4",
+      "Canada",
+      "Temperate Northern Pacific",
+      "Vancouver",
+      "Puget Trough/Georgia Basin",
+      "Boulder Island",
+      -122.94,
+      49.31,
+      1
+    ],
+    [
+      "ELIC5",
+      "Canada",
+      "Temperate Northern Pacific",
+      "Vancouver",
+      "Puget Trough/Georgia Basin",
+      "Woodlands",
+      -122.92,
+      49.34,
+      1
+    ],
+    [
+      "ELIC6",
+      "Canada",
+      "Temperate Northern Pacific",
+      "Vancouver",
+      "Puget Trough/Georgia Basin",
+      "Croker Island N",
+      -122.87,
+      49.45,
+      1
+    ],
+    [
+      "ELIC7",
+      "Canada",
+      "Temperate Northern Pacific",
+      "Vancouver",
+      "Puget Trough/Georgia Basin",
+      "Old Buntzen PP",
+      -122.87,
+      49.37,
+      1
+    ],
+    [
+      "ELIC8",
+      "Canada",
+      "Temperate Northern Pacific",
+      "Vancouver",
+      "Puget Trough/Georgia Basin",
+      "Crocker Island S",
+      -122.87,
+      49.43,
+      1
+    ],
+    [
+      "ELIC9",
+      "Canada",
+      "Temperate Northern Pacific",
+      "Vancouver",
+      "Puget Trough/Georgia Basin",
+      "Johnson Bay S",
+      -122.87,
+      49.4,
+      1
+    ],
+    [
       "EMR1",
       "Australia",
       "Central Indo-Pacific",
@@ -12538,7 +12648,7 @@
       "El Arrecife",
       -81.6,
       4.0,
-      6
+      8
     ],
     [
       "ETP161",
@@ -12769,7 +12879,7 @@
       "La Nevera Sur",
       -81.61,
       4.0,
-      5
+      7
     ],
     [
       "ETP181",
@@ -12901,7 +13011,7 @@
       "Pared Fantasma",
       -81.6,
       4.01,
-      4
+      5
     ],
     [
       "ETP192",
@@ -12912,7 +13022,7 @@
       "Pared Naufrago",
       -81.61,
       4.01,
-      5
+      6
     ],
     [
       "ETP193",
@@ -12934,7 +13044,7 @@
       "Pared Naufrago Sur",
       -81.61,
       4.01,
-      4
+      5
     ],
     [
       "ETP195",
@@ -37332,7 +37442,7 @@
       "Seahorse gardens",
       152.15,
       -32.72,
-      32
+      33
     ],
     [
       "PS17",
@@ -37343,7 +37453,7 @@
       "Fly Point Nelson Bay",
       152.15,
       -32.71,
-      128
+      130
     ],
     [
       "PS18",
@@ -42689,7 +42799,7 @@
       "Cape Surville South Bay",
       147.99,
       -42.96,
-      4
+      6
     ],
     [
       "TAS217",
@@ -43492,7 +43602,7 @@
       "Fortescue Kelp Forest",
       147.97,
       -43.14,
-      21
+      24
     ],
     [
       "TAS290",
@@ -44955,7 +45065,7 @@
       "Lanterns Seal Haul-out",
       148.0,
       -43.14,
-      2
+      4
     ],
     [
       "TAS422",
@@ -45142,7 +45252,7 @@
       "Fortescue Bay North",
       147.97,
       -43.13,
-      6
+      9
     ],
     [
       "TAS438",
@@ -45596,6 +45706,17 @@
       8
     ],
     [
+      "TAS475",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - South East",
+      "Bassian",
+      "Cascade du Nord",
+      147.99,
+      -42.94,
+      2
+    ],
+    [
       "TAS48",
       "Australia",
       "Temperate Australasia",
@@ -45604,7 +45725,7 @@
       "Waterfall Bay",
       147.95,
       -43.06,
-      29
+      31
     ],
     [
       "TAS49",
@@ -48244,7 +48365,7 @@
       "Quathiaski Cove BC",
       -125.23,
       50.05,
-      6
+      8
     ],
     [
       "USWC21",

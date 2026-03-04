@@ -483,6 +483,13 @@
       "https://images.reeflifesurvey.com/1/species_32_64d5b720d0dd8.w1000.h666.jpg"
     ]
   ],
+  "Acanthodoris lutea": [
+    "Acanthodoris lutea",
+    "",
+    null,
+    1,
+    []
+  ],
   "Acanthodoris nanaimoensis": [
     "Acanthodoris nanaimoensis",
     "Nanaimo horned dorid",
@@ -5911,6 +5918,13 @@
     1,
     []
   ],
+  "Beroe spp.": [
+    "Beroe spp.",
+    "",
+    null,
+    1,
+    []
+  ],
   "Bertheliniinae spp.": [
     "Bertheliniinae spp.",
     "",
@@ -11256,6 +11270,13 @@
       "https://images.reeflifesurvey.com/0/species_54_57044f399cd02.w1000.h666.jpg"
     ]
   ],
+  "Chionoecetes bairdi": [
+    "Chionoecetes bairdi",
+    "",
+    null,
+    1,
+    []
+  ],
   "Chiridota pisanii": [
     "Chiridota pisanii",
     "",
@@ -11361,6 +11382,13 @@
       "https://images.reeflifesurvey.com/0/species_31_573b03497ca40.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_59_573b03584d759.w1000.h666.jpg"
     ]
+  ],
+  "Chitonotus pugetensis": [
+    "Chitonotus pugetensis",
+    "",
+    null,
+    2,
+    []
   ],
   "Chlamys farreri": [
     "Chlamys farreri",
@@ -27473,6 +27501,13 @@
       "https://images.reeflifesurvey.com/0/species_91_57a3f2601b05e.w1000.h666.JPG"
     ]
   ],
+  "Heptacarpus brevirostris": [
+    "Heptacarpus brevirostris",
+    "",
+    null,
+    1,
+    []
+  ],
   "Heptacarpus stylus": [
     "Heptacarpus stylus",
     "Stiletto shrimp",
@@ -33881,6 +33916,20 @@
       "https://images.reeflifesurvey.com/0/species_76_57a2d0d6df251.w1000.h666.JPG"
     ]
   ],
+  "Metacarcinus gracilis": [
+    "Metacarcinus gracilis",
+    "",
+    null,
+    1,
+    []
+  ],
+  "Metacarcinus magister": [
+    "Metacarcinus magister",
+    "",
+    null,
+    1,
+    []
+  ],
   "Metacarcinus novaezelandiae": [
     "Metacarcinus novaezelandiae",
     "Piecrust crab",
@@ -35603,6 +35652,13 @@
     "Nannosalarias nativitatis",
     "Pygmy blenny",
     "https://reeflifesurvey.com/species/nannosalarias-nativitatis/",
+    2,
+    []
+  ],
+  "Nanomia bijuga": [
+    "Nanomia bijuga",
+    "",
+    null,
     2,
     []
   ],
@@ -39807,6 +39863,13 @@
       "https://images.reeflifesurvey.com/0/species_b9_573813b260544.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_90_573813bed21d6.w1000.h666.jpg"
     ]
+  ],
+  "Pagurus armatus": [
+    "Pagurus armatus",
+    "",
+    null,
+    1,
+    []
   ],
   "Pagurus beringanus": [
     "Pagurus beringanus",
@@ -48676,6 +48739,13 @@
     "Pugnose pipefish",
     "https://reeflifesurvey.com/species/pugnaso-curtirostris/",
     2,
+    []
+  ],
+  "Puncturella cucullata": [
+    "Puncturella cucullata",
+    "",
+    null,
+    1,
     []
   ],
   "Pupillaea aperta": [
