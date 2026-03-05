@@ -485,8 +485,8 @@
   ],
   "Acanthodoris lutea": [
     "Acanthodoris lutea",
-    "",
-    null,
+    "Sandalwood dorid",
+    "https://reeflifesurvey.com/species/acanthodoris-lutea/",
     1,
     []
   ],
@@ -1376,6 +1376,13 @@
     "Agonomalus mozinoi",
     "Kelp Poacher",
     "https://reeflifesurvey.com/species/agonomalus-mozinoi/",
+    2,
+    []
+  ],
+  "Agonopsis vulsa": [
+    "Agonopsis vulsa",
+    "Northern spearnose poacher",
+    "https://reeflifesurvey.com/species/agonopsis-vulsa/",
     2,
     []
   ],
@@ -11272,8 +11279,8 @@
   ],
   "Chionoecetes bairdi": [
     "Chionoecetes bairdi",
-    "",
-    null,
+    "Tanner crab",
+    "https://reeflifesurvey.com/species/chionoecetes-bairdi/",
     1,
     []
   ],
@@ -11385,8 +11392,8 @@
   ],
   "Chitonotus pugetensis": [
     "Chitonotus pugetensis",
-    "",
-    null,
+    "Roughback sculpin",
+    "https://reeflifesurvey.com/species/chitonotus-pugetensis/",
     2,
     []
   ],
@@ -27503,8 +27510,8 @@
   ],
   "Heptacarpus brevirostris": [
     "Heptacarpus brevirostris",
-    "",
-    null,
+    "Stout coastal shrimp",
+    "https://reeflifesurvey.com/species/heptacarpus-brevirostris/",
     1,
     []
   ],
@@ -33918,15 +33925,15 @@
   ],
   "Metacarcinus gracilis": [
     "Metacarcinus gracilis",
-    "",
-    null,
+    "Graceful rock crab",
+    "https://reeflifesurvey.com/species/metacarcinus-gracilis/",
     1,
     []
   ],
   "Metacarcinus magister": [
     "Metacarcinus magister",
-    "",
-    null,
+    "Dungeness crab",
+    "https://reeflifesurvey.com/species/metacarcinus-magister/",
     1,
     []
   ],
@@ -37843,6 +37850,13 @@
     1,
     []
   ],
+  "Odontopyxis trispinosa": [
+    "Odontopyxis trispinosa",
+    "Pygmy poacher",
+    "https://reeflifesurvey.com/species/odontopyxis-trispinosa/",
+    2,
+    []
+  ],
   "Odontoscion dentex": [
     "Odontoscion dentex",
     "Reef croaker",
@@ -39866,8 +39880,8 @@
   ],
   "Pagurus armatus": [
     "Pagurus armatus",
-    "",
-    null,
+    "Armed hermit crab",
+    "https://reeflifesurvey.com/species/pagurus-armatus/",
     1,
     []
   ],
@@ -48744,7 +48758,7 @@
   "Puncturella cucullata": [
     "Puncturella cucullata",
     "",
-    null,
+    "https://reeflifesurvey.com/species/puncturella-cucullata/",
     1,
     []
   ],
