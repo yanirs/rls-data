@@ -256,7 +256,7 @@ def create_api_jsons(
     dst_dir: Path,
     min_expected_survey_rows: int = 810_000,
 ) -> None:
-    """Convert the species.json and survey data to the API JSONs used by the RLS tools."""
+    """Convert species.json and survey data to the API JSONs used by the RLS tools."""
     verify_empty_dir(dst_dir)
     _logger.info("Reading data.")
     with species_json_path.open() as fp:
@@ -387,7 +387,7 @@ def _get_df_map_area(
 def _create_static_map(
     df: pd.DataFrame,
     dst_file_path: Path,
-    central_longitude_to_ax: dict[int, plt.Axes],  # type: ignore[name-defined]
+    central_longitude_to_ax: dict[int, plt.Axes],
 ) -> str:
     """
     Save a static map containing all the sites in df to dst_file_path.
