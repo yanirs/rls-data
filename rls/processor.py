@@ -387,7 +387,7 @@ def _get_df_map_area(
 def _create_static_map(
     df: pd.DataFrame,
     dst_file_path: Path,
-    central_longitude_to_ax: dict[int, plt.Axes],
+    central_longitude_to_ax: dict[int, plt.Axes],  # type: ignore[name-defined]
 ) -> str:
     """
     Save a static map containing all the sites in df to dst_file_path.
