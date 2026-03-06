@@ -6,7 +6,7 @@ from scrapy.http import HtmlResponse
 from rls.scraper import ReefLifeSurveySpider
 
 
-@pytest.fixture()
+@pytest.fixture
 def spider() -> ReefLifeSurveySpider:
     return ReefLifeSurveySpider()
 

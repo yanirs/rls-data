@@ -49,7 +49,8 @@ def test_verify_nonexistent_dir() -> None:
 
 
 def test_verify_file_path_instead_of_dir() -> None:
-    with tempfile.NamedTemporaryFile() as tmp_file, pytest.raises(
-        OSError, match="File exists"
+    with (
+        tempfile.NamedTemporaryFile() as tmp_file,
+        pytest.raises(OSError, match="File exists"),
     ):
         verify_empty_dir(Path(tmp_file.name))
