@@ -1,5 +1,4 @@
 """Data processing functionality."""
-
 import json
 import logging
 from collections import Counter, OrderedDict, defaultdict
@@ -69,9 +68,9 @@ def _read_survey_data(
     survey_data.dropna(subset=["species_name"], inplace=True)
     survey_data.sort_values(["survey_id", "species_name"], inplace=True)
     survey_data["data_type_code"] = None
-    survey_data.loc[survey_data["class"].isin(M1_CLASSES), "data_type_code"] = (
-        _DataTypeCode.M1
-    )
+    survey_data.loc[
+        survey_data["class"].isin(M1_CLASSES), "data_type_code"
+    ] = _DataTypeCode.M1
     survey_data.loc[
         (
             survey_data["family"].isin(CRYPTIC_FAMILIES)
@@ -82,9 +81,9 @@ def _read_survey_data(
         | survey_data["class"].isin(M1_INVERT_CLASSES),
         "data_type_code",
     ] = _DataTypeCode.BOTH
-    survey_data.loc[survey_data["data_type_code"].isna(), "data_type_code"] = (
-        _DataTypeCode.M2
-    )
+    survey_data.loc[
+        survey_data["data_type_code"].isna(), "data_type_code"
+    ] = _DataTypeCode.M2
     return survey_data
 
 
@@ -257,7 +256,7 @@ def create_api_jsons(
     dst_dir: Path,
     min_expected_survey_rows: int = 810_000,
 ) -> None:
-    """Convert species.json and survey data to the API JSONs used by the RLS tools."""
+    """Convert the species.json and survey data to the API JSONs used by the RLS tools."""
     verify_empty_dir(dst_dir)
     _logger.info("Reading data.")
     with species_json_path.open() as fp:

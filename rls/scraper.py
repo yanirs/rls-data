@@ -1,5 +1,4 @@
 """Scrapy-based scraper for the RLS website."""
-
 import re
 from collections.abc import Generator
 from typing import Any
