@@ -5338,6 +5338,13 @@
     2,
     []
   ],
+  "Aurelia labiata": [
+    "Aurelia labiata",
+    "",
+    null,
+    2,
+    []
+  ],
   "Aurelia spp.": [
     "Aurelia spp.",
     "",
@@ -11281,6 +11288,13 @@
     "Chionoecetes bairdi",
     "Tanner crab",
     "https://reeflifesurvey.com/species/chionoecetes-bairdi/",
+    1,
+    []
+  ],
+  "Chiridota albatrossii": [
+    "Chiridota albatrossii",
+    "",
+    null,
     1,
     []
   ],
@@ -36828,7 +36842,7 @@
     "Neosebastes scorpaenoides",
     "Common gurnard perch",
     "https://reeflifesurvey.com/species/neosebastes-scorpaenoides/",
-    0,
+    2,
     [
       "https://images.reeflifesurvey.com/0/species_1b_5a056cd91c78d.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_d8_574e61d93c460.w1000.h666.jpg",
