@@ -214,9 +214,9 @@ def _create_species_file(
             f"https://reeflifesurvey.com/species/{slug}/" if slug is not None else None
         )
         image_urls = [
-            photo["medium_url"]
+            photo["large_url"]
             for photo in species_entry.get("photos", [])
-            if "medium_url" in photo
+            if "large_url" in photo
         ]
         api_species[species_name] = [
             species_name,

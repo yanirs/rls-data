@@ -27,7 +27,7 @@ def species_json_data() -> list:
             "main_common_name": "Cleaner wrasse",
             "photos": [
                 {
-                    "medium_url": "https://images.reeflifesurvey.com/cleaner-wrasse.w400.jpg",
+                    "large_url": "https://images.reeflifesurvey.com/cleaner-wrasse.w1000.jpg",
                 }
             ],
         },
@@ -47,20 +47,8 @@ def test_create_species_file_with_photos(
         result = json.loads((dst_dir / "api-species.json").read_text())
 
     assert set(result.keys()) == {"Labroides dimidiatus", "Acanthurus nigrofuscus"}
-
-    ld = result["Labroides dimidiatus"]
-    assert ld[0] == "Labroides dimidiatus"
-    assert ld[1] == "Cleaner wrasse"
-    assert ld[2] == "https://reeflifesurvey.com/species/labroides-dimidiatus/"
-    assert ld[3] == 0
-    assert ld[4] == ["https://images.reeflifesurvey.com/cleaner-wrasse.w400.jpg"]
-
-    an = result["Acanthurus nigrofuscus"]
-    assert an[0] == "Acanthurus nigrofuscus"
-    assert an[1] == ""
-    assert an[2] == "https://reeflifesurvey.com/species/acanthurus-nigrofuscus/"
-    assert an[3] == 1
-    assert an[4] == []
+    assert result["Labroides dimidiatus"] == ["Labroides dimidiatus", "Cleaner wrasse", "https://reeflifesurvey.com/species/labroides-dimidiatus/", 0, ["https://images.reeflifesurvey.com/cleaner-wrasse.w1000.jpg"]]
+    assert result["Acanthurus nigrofuscus"] == ["Acanthurus nigrofuscus", "", "https://reeflifesurvey.com/species/acanthurus-nigrofuscus/", 1, []]
 
 
 def test_create_species_file_missing_species(survey_data: pd.DataFrame) -> None:
@@ -69,9 +57,5 @@ def test_create_species_file_missing_species(survey_data: pd.DataFrame) -> None:
         _create_species_file(survey_data, [], dst_dir)
         result = json.loads((dst_dir / "api-species.json").read_text())
 
-    for species_name in ("Labroides dimidiatus", "Acanthurus nigrofuscus"):
-        entry = result[species_name]
-        assert entry[0] == species_name
-        assert entry[1] == ""
-        assert entry[2] is None
-        assert entry[4] == []
+    assert result["Labroides dimidiatus"] == ["Labroides dimidiatus", "", None, 0, []]
+    assert result["Acanthurus nigrofuscus"] == ["Acanthurus nigrofuscus", "", None, 1, []]
