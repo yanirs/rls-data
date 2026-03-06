@@ -67,15 +67,8 @@ jobs:
             | sort -n \
             > output/raw_species.csv
 
-      - name: Crawl RLS species data
-        run: |
-          poetry run scrapy runspider rls/scraper.py \
-            --overwrite-output data/rls-site-crawl.json \
-            --loglevel INFO \
-            --set USER_AGENT="Scrapy-RLS-API"
-
       - name: Create text output files
-        run: poetry run rls-data create-api-jsons data/rls-site-crawl.json data/rls-surveys/ output-tmp/
+        run: poetry run rls-data create-api-jsons output/species.json data/rls-surveys/ output-tmp/
 
       - name: Commit text output files
         id: commit-text-output-files

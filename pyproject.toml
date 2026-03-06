@@ -89,6 +89,10 @@ ignore_missing_imports = true
 show_error_codes = true
 strict = true
 
+[[tool.mypy.overrides]]
+module = "tests.*"
+disallow_untyped_decorators = false
+
 [tool.pytest.ini_options]
 # Directories that are not visited by pytest collector:
 norecursedirs = "*.egg .eggs dist build docs .tox .git __pycache__"
