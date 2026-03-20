@@ -53,7 +53,7 @@ jobs:
       - name: Download species.json
         run: |
           curl -sS --compressed --fail \
-            "https://reeflifesurvey.com/species/api/species.json?v=$(date --utc +%s)" \
+            "https://images.reeflifesurvey.com/data/species.json" \
             | jq \
             > output/species.json
 
