@@ -21845,7 +21845,9 @@
     "",
     "https://reeflifesurvey.com/species/eviota-sp-osprey/",
     2,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_38_69e97e14ebd8b.w1000.h666.JPG"
+    ]
   ],
   "Eviota sp. [Snowflake]": [
     "Eviota sp. [Snowflake]",
@@ -24393,8 +24395,8 @@
     1,
     [
       "https://images.reeflifesurvey.com/0/species_fa_57de1834a686f.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_77_57998c505ee0e.w1000.h666.JPG",
-      "https://images.reeflifesurvey.com/0/species_d1_57998c4bf349d.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/0/species_d1_57998c4bf349d.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_4b_69e97e8a586b6.w1000.h666.JPG"
     ]
   ],
   "Goniobranchus collingwoodi": [
@@ -29416,7 +29418,9 @@
     "Emmas Hypselodoris",
     "https://reeflifesurvey.com/species/hypselodoris-emma/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/1/species_59_69e97eec36251.w1000.h666.JPG"
+    ]
   ],
   "Hypselodoris imperialis": [
     "Hypselodoris imperialis",
@@ -34832,7 +34836,8 @@
     "https://reeflifesurvey.com/species/moridilla-fifo/",
     1,
     [
-      "https://images.reeflifesurvey.com/1/species_ea_6493c4eded6f1.w1000.h666.JPG"
+      "https://images.reeflifesurvey.com/1/species_ea_6493c4eded6f1.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_cf_69e97fc9abf47.w1000.h666.JPG"
     ]
   ],
   "Moridilla spp.": [
@@ -41972,7 +41977,8 @@
     "https://reeflifesurvey.com/species/pastinachus-ater/",
     2,
     [
-      "https://images.reeflifesurvey.com/0/species_97_5705a322538f8.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_97_5705a322538f8.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_42_69e983830d451.w1000.h666.JPG"
     ]
   ],
   "Pastinachus sephen": [
@@ -43617,6 +43623,7 @@
     "https://reeflifesurvey.com/species/phyllidiella-lizae/",
     1,
     [
+      "https://images.reeflifesurvey.com/1/species_c4_69e983b8a9d37.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/1/species_ce_5b148ade394c2.w1000.h666.JPG"
     ]
   ],
@@ -56847,7 +56854,8 @@
     "https://reeflifesurvey.com/species/thuridilla-sp-colemans-thuridilla/",
     1,
     [
-      "https://images.reeflifesurvey.com/0/species_2b_5757d17a4807d.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/0/species_2b_5757d17a4807d.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_3c_69e9846f7e6e0.w1000.h666.JPG"
     ]
   ],
   "Thuridilla splendens": [
@@ -56975,8 +56983,9 @@
     "https://reeflifesurvey.com/species/thysanozoon-nigropapillosum/",
     1,
     [
-      "https://images.reeflifesurvey.com/1/species_7a_5ed70c8c14c2c.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/1/species_cb_5ed70c909b7ed.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_84_69e9815b4c43d.w1000.h666.JPG",
+      "https://images.reeflifesurvey.com/1/species_cb_5ed70c909b7ed.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_7a_5ed70c8c14c2c.w1000.h666.jpg"
     ]
   ],
   "Thysanozoon sp. [sp. 1 Humann]": [
