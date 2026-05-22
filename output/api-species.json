@@ -27910,6 +27910,13 @@
       "https://images.reeflifesurvey.com/0/species_08_577f1c0ac763e.w1000.h666.JPG"
     ]
   ],
+  "Heteromycteris capensis": [
+    "Heteromycteris capensis",
+    "Cape Sole",
+    "https://reeflifesurvey.com/species/heteromycteris-capensis/",
+    2,
+    []
+  ],
   "Heteropilumnus fimbriatus": [
     "Heteropilumnus fimbriatus",
     "Bearded Crab",
@@ -42197,6 +42204,13 @@
       "https://images.reeflifesurvey.com/0/species_2b_599a484275219.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_81_599a483cd2372.w1000.h666.JPG"
     ]
+  ],
+  "Pavoclinus pavo": [
+    "Pavoclinus pavo",
+    "Peacock klipfish",
+    "https://reeflifesurvey.com/species/pavoclinus-pavo/",
+    2,
+    []
   ],
   "Pawsonia saxicola": [
     "Pawsonia saxicola",
