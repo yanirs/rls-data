@@ -25133,7 +25133,7 @@
       "Deal Island (Garden Cove, mid East Shore)",
       147.33,
       -39.45,
-      32
+      36
     ],
     [
       "KG-S15",
@@ -27575,7 +27575,7 @@
       "Painted Cliffs South (Four Mile Reef)",
       148.05,
       -42.6,
-      162
+      165
     ],
     [
       "MIR-S3",
@@ -44383,7 +44383,7 @@
       "Cape Portland",
       147.94,
       -40.76,
-      8
+      10
     ],
     [
       "TAS367",
@@ -45717,6 +45717,50 @@
       2
     ],
     [
+      "TAS476",
+      "Australia",
+      "Temperate Australasia",
+      "Maria Island",
+      "Bassian",
+      "Long Pt, South",
+      148.01,
+      -42.66,
+      3
+    ],
+    [
+      "TAS477",
+      "Australia",
+      "Temperate Australasia",
+      "Flinders Island",
+      "Cape Howe",
+      "Tongue Point",
+      148.16,
+      -40.27,
+      3
+    ],
+    [
+      "TAS478",
+      "Australia",
+      "Temperate Australasia",
+      "Flinders Island",
+      "Cape Howe",
+      "Trousers Point",
+      148.03,
+      -40.23,
+      1
+    ],
+    [
+      "TAS479",
+      "Australia",
+      "Temperate Australasia",
+      "Tasmania - North East ",
+      "Bassian",
+      "Sleepy Bay NW",
+      148.32,
+      -42.13,
+      3
+    ],
+    [
       "TAS48",
       "Australia",
       "Temperate Australasia",
@@ -45726,6 +45770,50 @@
       147.95,
       -43.06,
       31
+    ],
+    [
+      "TAS480",
+      "Australia",
+      "Temperate Australasia",
+      "Flinders Island",
+      "Cape Howe",
+      "Long Island West",
+      147.99,
+      -40.37,
+      2
+    ],
+    [
+      "TAS481",
+      "Australia",
+      "Temperate Australasia",
+      "Flinders Island",
+      "Cape Howe",
+      "Cape Sir John, Cape Barren Island",
+      147.99,
+      -40.42,
+      4
+    ],
+    [
+      "TAS482",
+      "Australia",
+      "Temperate Australasia",
+      "Flinders Island",
+      "Cape Howe",
+      "Bass Pyramid South",
+      147.24,
+      -39.82,
+      2
+    ],
+    [
+      "TAS483",
+      "Australia",
+      "Temperate Australasia",
+      "Flinders Island",
+      "Cape Howe",
+      "Trousers Point North",
+      148.02,
+      -40.22,
+      2
     ],
     [
       "TAS49",
@@ -46055,7 +46143,7 @@
       "PortDavies3",
       147.87,
       -40.0,
-      2
+      4
     ],
     [
       "TAS79",
