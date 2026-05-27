@@ -2233,6 +2233,13 @@
     0,
     []
   ],
+  "Amphiprion biaculeatus": [
+    "Amphiprion biaculeatus",
+    "Maroon clownfish",
+    "https://reeflifesurvey.com/species/amphiprion-biaculeatus/",
+    0,
+    []
+  ],
   "Amphiprion bicinctus": [
     "Amphiprion bicinctus",
     "Twoband anemonefish",
@@ -18432,6 +18439,13 @@
     1,
     []
   ],
+  "Distorsio anus": [
+    "Distorsio anus",
+    "Triton",
+    "https://reeflifesurvey.com/species/distorsio-anus/",
+    1,
+    []
+  ],
   "Diversidoris crocea": [
     "Diversidoris crocea",
     "",
@@ -18481,6 +18495,13 @@
     "Domecia hispida",
     "Hairy Domecia",
     "https://reeflifesurvey.com/species/domecia-hispida/",
+    1,
+    []
+  ],
+  "Domecia spp.": [
+    "Domecia spp.",
+    "",
+    null,
     1,
     []
   ],
@@ -19504,6 +19525,13 @@
     "Ecsenius sp. [black]",
     "",
     "https://reeflifesurvey.com/species/ecsenius-sp-black/",
+    2,
+    []
+  ],
+  "Ecsenius sp. [lividanalis]": [
+    "Ecsenius sp. [lividanalis]",
+    "",
+    "https://reeflifesurvey.com/species/ecsenius-sp-lividanalis/",
     2,
     []
   ],
@@ -21117,6 +21145,13 @@
     "Euapta lappa",
     "",
     "https://reeflifesurvey.com/species/euapta-lappa/",
+    1,
+    []
+  ],
+  "Euapta spp.": [
+    "Euapta spp.",
+    "",
+    null,
     1,
     []
   ],
@@ -27257,6 +27292,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_27_57200b354aed9.w1000.h666.JPG"
     ]
+  ],
+  "Hemiscyllium hallstromi": [
+    "Hemiscyllium hallstromi",
+    "Papuan epaulette shark",
+    "https://reeflifesurvey.com/species/hemiscyllium-hallstromi/",
+    2,
+    []
   ],
   "Hemiscyllium ocellatum": [
     "Hemiscyllium ocellatum",
@@ -35947,6 +35989,13 @@
       "https://images.reeflifesurvey.com/0/species_c6_578f2579a0631.w1000.h666.jpg"
     ]
   ],
+  "Nassarius pauperatus": [
+    "Nassarius pauperatus",
+    "Dog whelk",
+    "https://reeflifesurvey.com/species/nassarius-pauperatus/",
+    1,
+    []
+  ],
   "Nassarius spiratus": [
     "Nassarius spiratus",
     "Spired dog whelk",
@@ -40758,6 +40807,13 @@
     2,
     []
   ],
+  "Paragobiodon sp. [xanthosoma]": [
+    "Paragobiodon sp. [xanthosoma]",
+    "Emerald coral goby",
+    "https://reeflifesurvey.com/species/paragobiodon-sp-xanthosoma/",
+    2,
+    []
+  ],
   "Paragobiodon spp.": [
     "Paragobiodon spp.",
     "",
@@ -43741,6 +43797,13 @@
     "Phyllidiopsis gemmata",
     "",
     "https://reeflifesurvey.com/species/phyllidiopsis-gemmata/",
+    1,
+    []
+  ],
+  "Phyllidiopsis krempfi": [
+    "Phyllidiopsis krempfi",
+    "Krempfis Phyllidiopsis",
+    "https://reeflifesurvey.com/species/phyllidiopsis-krempfi/",
     1,
     []
   ],

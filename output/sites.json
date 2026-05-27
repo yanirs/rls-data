@@ -21085,7 +21085,7 @@
       "Proudfoot Shoal",
       141.47,
       -10.53,
-      2
+      4
     ],
     [
       "GC16",
@@ -21118,7 +21118,7 @@
       "Carpentaria Shoal West",
       141.05,
       -10.74,
-      1
+      3
     ],
     [
       "GC2",
@@ -30732,7 +30732,7 @@
       "Money Shoal NW",
       132.71,
       -10.32,
-      7
+      9
     ],
     [
       "NT21",
@@ -30743,7 +30743,7 @@
       "Money Shoal S",
       132.71,
       -10.33,
-      4
+      6
     ],
     [
       "NT22",
@@ -30754,7 +30754,7 @@
       "Money Shoal E",
       132.71,
       -10.32,
-      6
+      8
     ],
     [
       "NT23",
@@ -30765,7 +30765,7 @@
       "Money Shoal SE",
       132.71,
       -10.33,
-      3
+      5
     ],
     [
       "NT24",
@@ -30820,7 +30820,7 @@
       "New Year Island light",
       133.03,
       -10.9,
-      2
+      4
     ],
     [
       "NT29",
@@ -30831,7 +30831,7 @@
       "New Year Island South West",
       133.03,
       -10.91,
-      2
+      4
     ],
     [
       "NT3",
@@ -31018,7 +31018,7 @@
       "East Bremer Islet bay",
       136.87,
       -12.09,
-      2
+      4
     ],
     [
       "NT45",
@@ -31040,7 +31040,7 @@
       "East Bremer Islet SW",
       136.87,
       -12.09,
-      2
+      4
     ],
     [
       "NT47",
@@ -31073,7 +31073,7 @@
       "Bonner Rocks NE",
       136.61,
       -12.06,
-      4
+      6
     ],
     [
       "NT5",
@@ -31095,7 +31095,7 @@
       "Bonner Rocks NW",
       136.61,
       -12.06,
-      4
+      6
     ],
     [
       "NT51",
@@ -31260,6 +31260,28 @@
       "North Sargassum Reef",
       136.18,
       -11.47,
+      2
+    ],
+    [
+      "NT66",
+      "Australia",
+      "Central Indo-Pacific",
+      "Arafura",
+      "Arnhem Coast to Gulf of Carpenteria",
+      "Hogmany Shoal North",
+      133.15,
+      -10.97,
+      2
+    ],
+    [
+      "NT67",
+      "Australia",
+      "Central Indo-Pacific",
+      "Arafura",
+      "Arnhem Coast to Gulf of Carpenteria",
+      "Hogmany Shoal South",
+      133.16,
+      -10.98,
       2
     ],
     [
@@ -33980,6 +34002,28 @@
       1
     ],
     [
+      "OS18",
+      "Australia",
+      "Central Indo-Pacific",
+      "Oceanic Shoals",
+      "Bonaparte Coast",
+      "Lynedoch Bank South",
+      130.81,
+      -10.03,
+      2
+    ],
+    [
+      "OS19",
+      "Australia",
+      "Central Indo-Pacific",
+      "Oceanic Shoals",
+      "Bonaparte Coast",
+      "Lynedoch Bank",
+      130.81,
+      -10.03,
+      2
+    ],
+    [
       "OS2",
       "Australia",
       "Central Indo-Pacific",
@@ -33989,6 +34033,17 @@
       129.29,
       -9.88,
       4
+    ],
+    [
+      "OS20",
+      "Australia",
+      "Central Indo-Pacific",
+      "Oceanic Shoals",
+      "Bonaparte Coast",
+      "Lynedoch Bank NW",
+      130.81,
+      -10.03,
+      1
     ],
     [
       "OS3",
@@ -34043,7 +34098,7 @@
       "Marie Shoal",
       130.1,
       -10.89,
-      2
+      4
     ],
     [
       "OS8",
@@ -34054,7 +34109,7 @@
       "Marie Shoal South",
       130.1,
       -10.91,
-      4
+      6
     ],
     [
       "OS9",
@@ -36617,7 +36672,7 @@
       "P.S.Ozone",
       144.71,
       -38.14,
-      9
+      11
     ],
     [
       "PPB25",
@@ -36884,6 +36939,17 @@
       1
     ],
     [
+      "PPB65",
+      "Australia",
+      "Temperate Australasia",
+      "Port Phillip Bay",
+      "Bassian",
+      "Calhoun Road Cobbles",
+      144.68,
+      -38.12,
+      1
+    ],
+    [
       "PPB7",
       "Australia",
       "Temperate Australasia",
@@ -36903,7 +36969,7 @@
       "St.Leonards Pier-Rock wall",
       144.72,
       -38.17,
-      5
+      6
     ],
     [
       "PPH-S1",
@@ -37387,7 +37453,7 @@
       "Fingal Bay Point - West",
       152.17,
       -32.75,
-      13
+      14
     ],
     [
       "PS11",
@@ -37420,7 +37486,7 @@
       "Pipeline",
       152.14,
       -32.72,
-      85
+      88
     ],
     [
       "PS15",
@@ -37442,7 +37508,7 @@
       "Seahorse gardens",
       152.15,
       -32.72,
-      33
+      34
     ],
     [
       "PS17",
@@ -37453,7 +37519,7 @@
       "Fly Point Nelson Bay",
       152.15,
       -32.71,
-      130
+      133
     ],
     [
       "PS18",
@@ -37486,7 +37552,7 @@
       "Halifax Park",
       152.16,
       -32.71,
-      133
+      135
     ],
     [
       "PS21",
@@ -37563,7 +37629,7 @@
       "Boat Harbour South",
       152.11,
       -32.79,
-      35
+      37
     ],
     [
       "PS28",
@@ -37596,7 +37662,7 @@
       "Cabbage Tree Island West",
       152.22,
       -32.69,
-      43
+      46
     ],
     [
       "PS30",
@@ -37684,7 +37750,7 @@
       "Governers Wharf (Fingal Island)",
       152.19,
       -32.74,
-      52
+      55
     ],
     [
       "PS40",
@@ -37827,7 +37893,7 @@
       "Little Beach West",
       152.16,
       -32.71,
-      102
+      106
     ],
     [
       "PS8",
@@ -46363,7 +46429,7 @@
       "Central Tinderbox",
       147.33,
       -43.06,
-      159
+      160
     ],
     [
       "TI-S2",
@@ -47166,7 +47232,7 @@
       "Nagir Islet NW",
       142.48,
       -10.25,
-      2
+      4
     ],
     [
       "TS11",
@@ -47441,7 +47507,7 @@
       "Sixth Reef Bommie",
       143.7,
       -10.33,
-      2
+      4
     ],
     [
       "TS34",
@@ -47463,7 +47529,7 @@
       "Seven Reefs Dropoff",
       143.71,
       -10.29,
-      2
+      4
     ],
     [
       "TS36",
@@ -47496,6 +47562,17 @@
       "Sixth Reef Lagoon",
       143.7,
       -10.33,
+      3
+    ],
+    [
+      "TS39",
+      "Australia",
+      "Central Indo-Pacific",
+      "Torres Strait",
+      "Torres Strait Northern Great Barrier Reef",
+      "Fourth Reef Dropoff",
+      143.79,
+      -10.28,
       2
     ],
     [
@@ -47508,6 +47585,17 @@
       143.09,
       -10.52,
       6
+    ],
+    [
+      "TS40",
+      "Australia",
+      "Central Indo-Pacific",
+      "Torres Strait",
+      "Torres Strait Northern Great Barrier Reef",
+      "Fourth Reef East",
+      143.79,
+      -10.28,
+      2
     ],
     [
       "TS5",
@@ -47540,7 +47628,7 @@
       "Seven Reefs east",
       143.72,
       -10.29,
-      12
+      14
     ],
     [
       "TS8",
@@ -47551,7 +47639,7 @@
       "Seven Reefs Anchorage",
       143.71,
       -10.29,
-      12
+      14
     ],
     [
       "TS9",
@@ -47562,7 +47650,7 @@
       "Nagir Islet W",
       142.47,
       -10.25,
-      2
+      4
     ],
     [
       "TZN1",
@@ -50719,7 +50807,7 @@
       "Hall Bank",
       115.71,
       -32.03,
-      2
+      4
     ],
     [
       "WA186",
@@ -50730,7 +50818,7 @@
       "Minden Reefs",
       115.73,
       -32.07,
-      2
+      4
     ],
     [
       "WA187",
