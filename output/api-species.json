@@ -21533,7 +21533,8 @@
     "https://reeflifesurvey.com/species/eviota-bacata/",
     2,
     [
-      "https://images.reeflifesurvey.com/1/species_d1_685244d28d07f.w1000.h666.jpg"
+      "https://images.reeflifesurvey.com/1/species_d1_685244d28d07f.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/1/species_e1_6a18d1b2896bf.w1000.h666.jpg"
     ]
   ],
   "Eviota bifasciata": [
@@ -37153,13 +37154,6 @@
     [
       "https://images.reeflifesurvey.com/1/species_30_65011b44a4eda.w1000.h666.jpg"
     ]
-  ],
-  "New bovichthyid": [
-    "New bovichthyid",
-    "",
-    null,
-    2,
-    []
   ],
   "Nexilosus latifrons": [
     "Nexilosus latifrons",
