@@ -7445,7 +7445,9 @@
     "",
     "https://reeflifesurvey.com/species/calcinus-seurati/",
     1,
-    []
+    [
+      "https://images.reeflifesurvey.com/0/species_51_58928fad21d4a.w1000.h666.JPG"
+    ]
   ],
   "Calcinus sp. (St Kilda colored)": [
     "Calcinus sp. (St Kilda colored)",
@@ -13488,15 +13490,6 @@
     1,
     []
   ],
-  "Clibanarius seurati": [
-    "Clibanarius seurati",
-    "",
-    "https://reeflifesurvey.com/species/clibanarius-seurati/",
-    1,
-    [
-      "https://images.reeflifesurvey.com/0/species_51_58928fad21d4a.w1000.h666.JPG"
-    ]
-  ],
   "Clibanarius spp.": [
     "Clibanarius spp.",
     "",
@@ -16745,6 +16738,23 @@
       "https://images.reeflifesurvey.com/0/species_01_58ef09fb20aef.w1000.h666.jpg"
     ]
   ],
+  "Cymatiella sexcostata": [
+    "Cymatiella sexcostata",
+    "Trumpet shell",
+    "https://reeflifesurvey.com/species/cymatiella-sexcostata/",
+    1,
+    []
+  ],
+  "Cymatiella verrucosa": [
+    "Cymatiella verrucosa",
+    "",
+    "https://reeflifesurvey.com/species/cymatiella-verrucosa/",
+    1,
+    [
+      "https://images.reeflifesurvey.com/0/species_b8_5794994c3d397.w1000.h666.jpg",
+      "https://images.reeflifesurvey.com/0/species_f3_57949930ccc5d.w1000.h666.jpg"
+    ]
+  ],
   "Cymatium spp.": [
     "Cymatium spp.",
     "",
@@ -19825,10 +19835,10 @@
     1,
     []
   ],
-  "Electroma georgiana": [
-    "Electroma georgiana",
+  "Electroma papilionacea": [
+    "Electroma papilionacea",
     "Delicate wing shell",
-    "https://reeflifesurvey.com/species/electroma-georgiana/",
+    "https://reeflifesurvey.com/species/electroma-papilionacea/",
     1,
     []
   ],
@@ -50319,29 +50329,12 @@
       "https://images.reeflifesurvey.com/0/species_f5_57948ddc998a4.w1000.h666.jpg"
     ]
   ],
-  "Sassia sexcostata": [
-    "Sassia sexcostata",
-    "Trumpet shell",
-    "https://reeflifesurvey.com/species/sassia-sexcostata/",
-    1,
-    []
-  ],
   "Sassia spp.": [
     "Sassia spp.",
     "",
     null,
     1,
     []
-  ],
-  "Sassia verrucosa": [
-    "Sassia verrucosa",
-    "Verrucose triton",
-    "https://reeflifesurvey.com/species/sassia-verrucosa/",
-    1,
-    [
-      "https://images.reeflifesurvey.com/0/species_b8_5794994c3d397.w1000.h666.jpg",
-      "https://images.reeflifesurvey.com/0/species_f3_57949930ccc5d.w1000.h666.jpg"
-    ]
   ],
   "Saurida gracilis": [
     "Saurida gracilis",
@@ -56294,13 +56287,6 @@
       "https://images.reeflifesurvey.com/0/species_ae_57f71e6a719fb.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_05_57f71e7f87198.w1000.h666.jpg"
     ]
-  ],
-  "Thais bicostalis": [
-    "Thais bicostalis",
-    "",
-    "https://reeflifesurvey.com/species/thais-bicostalis/",
-    1,
-    []
   ],
   "Thais bitubercularis": [
     "Thais bitubercularis",
