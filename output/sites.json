@@ -7929,7 +7929,7 @@
       "Pullen Island",
       138.69,
       -35.54,
-      16
+      20
     ],
     [
       "COO19",
@@ -21558,7 +21558,7 @@
       "Marino Rocks",
       138.5,
       -35.05,
-      12
+      16
     ],
     [
       "GSV106",
@@ -21602,7 +21602,7 @@
       "Outer Harbor breakwater south inside",
       138.47,
       -34.79,
-      4
+      8
     ],
     [
       "GSV11",
@@ -21701,7 +21701,7 @@
       "Cape Jervis South",
       138.09,
       -35.6,
-      12
+      16
     ],
     [
       "GSV118",
@@ -21789,7 +21789,7 @@
       "Horseshoe inner",
       138.46,
       -35.14,
-      34
+      38
     ],
     [
       "GSV125",
@@ -21866,7 +21866,7 @@
       "Horseshoe outer",
       138.46,
       -35.14,
-      22
+      26
     ],
     [
       "GSV132",
@@ -21910,7 +21910,7 @@
       "Pt Noarlunga inside",
       138.46,
       -35.15,
-      12
+      16
     ],
     [
       "GSV136",
@@ -21921,7 +21921,7 @@
       "Noarlunga North Outside",
       138.46,
       -35.15,
-      24
+      28
     ],
     [
       "GSV137",
@@ -21943,7 +21943,7 @@
       "Moana outside",
       138.46,
       -35.21,
-      28
+      32
     ],
     [
       "GSV139",
@@ -21976,7 +21976,7 @@
       "Hallett Cove",
       138.49,
       -35.07,
-      12
+      16
     ],
     [
       "GSV141",
@@ -22537,7 +22537,7 @@
       "Port Julia",
       137.89,
       -34.66,
-      4
+      8
     ],
     [
       "GSV195",
@@ -22779,7 +22779,7 @@
       "Moana inside",
       138.46,
       -35.21,
-      16
+      20
     ],
     [
       "GSV55",
@@ -24729,6 +24729,17 @@
       8
     ],
     [
+      "JMP-S1",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "North Head 1",
+      115.0,
+      -30.23,
+      52
+    ],
+    [
       "JMP-S10",
       "Australia",
       "Temperate Australasia",
@@ -24737,7 +24748,260 @@
       "North Tail",
       114.98,
       -30.26,
-      6
+      54
+    ],
+    [
+      "JMP-S11",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "Australia Lump",
+      114.99,
+      -30.2,
+      44
+    ],
+    [
+      "JMP-S12",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "Sandy Cape",
+      114.99,
+      -30.18,
+      52
+    ],
+    [
+      "JMP-S13",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "North Head Island",
+      114.99,
+      -30.23,
+      48
+    ],
+    [
+      "JMP-S14",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "North Lumps",
+      115.0,
+      -30.16,
+      52
+    ],
+    [
+      "JMP-S15",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "Middle Lumps",
+      114.97,
+      -30.16,
+      56
+    ],
+    [
+      "JMP-S16",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "Longman Reef (off Grey)",
+      115.12,
+      -30.67,
+      44
+    ],
+    [
+      "JMP-S17",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "Flat Rock",
+      115.16,
+      -30.76,
+      44
+    ],
+    [
+      "JMP-S18",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "Flat Rock Reef",
+      115.17,
+      -30.75,
+      48
+    ],
+    [
+      "JMP-S19",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "Gazely Reef",
+      115.12,
+      -30.71,
+      48
+    ],
+    [
+      "JMP-S2",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "Sandland Island",
+      114.99,
+      -30.22,
+      52
+    ],
+    [
+      "JMP-S20",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "Kearn Reef",
+      115.15,
+      -30.72,
+      52
+    ],
+    [
+      "JMP-S21",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "Cavenagh Reef 2",
+      115.1,
+      -30.62,
+      44
+    ],
+    [
+      "JMP-S22",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "Inner Seven Foot Reef",
+      115.06,
+      -30.59,
+      48
+    ],
+    [
+      "JMP-S23",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "Sams Reef",
+      115.03,
+      -30.49,
+      48
+    ],
+    [
+      "JMP-S24",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "No Name Reef",
+      115.04,
+      -30.44,
+      52
+    ],
+    [
+      "JMP-S25",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "Fishermans Island",
+      114.95,
+      -30.12,
+      56
+    ],
+    [
+      "JMP-S26",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "Outer Green Islands",
+      115.1,
+      -30.68,
+      40
+    ],
+    [
+      "JMP-S27",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "Cavanagh Reef",
+      115.11,
+      -30.63,
+      36
+    ],
+    [
+      "JMP-S28",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "Outer Seven Foot Rocks",
+      115.05,
+      -30.59,
+      36
+    ],
+    [
+      "JMP-S29",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "Inshore Grey",
+      115.14,
+      -30.67,
+      36
+    ],
+    [
+      "JMP-S3",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "Outer Rocks, Inner Coffins",
+      115.0,
+      -30.42,
+      52
+    ],
+    [
+      "JMP-S30",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "Inshore Grey North",
+      115.12,
+      -30.65,
+      36
+    ],
+    [
+      "JMP-S31",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "Main Reef",
+      114.94,
+      -30.17,
+      32
     ],
     [
       "JMP-S32",
@@ -24748,7 +25012,40 @@
       "Offshore Hill River",
       114.98,
       -30.41,
-      5
+      45
+    ],
+    [
+      "JMP-S33",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "Offshore Outer Rocks",
+      114.99,
+      -30.45,
+      36
+    ],
+    [
+      "JMP-S34",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "Big Wave Reef",
+      115.01,
+      -30.51,
+      32
+    ],
+    [
+      "JMP-S35",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "Midshore Boullanger Island",
+      115.0,
+      -30.35,
+      44
     ],
     [
       "JMP-S36",
@@ -24759,7 +25056,73 @@
       "Inshore Boullanger Island",
       115.04,
       -30.35,
-      9
+      49
+    ],
+    [
+      "JMP-S37",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "Wedge Island",
+      115.19,
+      -30.83,
+      32
+    ],
+    [
+      "JMP-S38",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "North Wedge",
+      115.19,
+      -30.8,
+      36
+    ],
+    [
+      "JMP-S39",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "South East Green Island",
+      115.11,
+      -30.68,
+      32
+    ],
+    [
+      "JMP-S4",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "Outer Rocks (North) 2",
+      115.0,
+      -30.43,
+      52
+    ],
+    [
+      "JMP-S40",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "Offshore Target Rocks",
+      115.14,
+      -30.77,
+      32
+    ],
+    [
+      "JMP-S41",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "Offshore Outer Gazaly Reef",
+      115.11,
+      -30.71,
+      36
     ],
     [
       "JMP-S42",
@@ -24770,7 +25133,18 @@
       "Outer Seaward Ledge",
       114.97,
       -30.29,
-      5
+      49
+    ],
+    [
+      "JMP-S44",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "Inner Sams Reef",
+      115.05,
+      -30.48,
+      4
     ],
     [
       "JMP-S5",
@@ -24781,7 +25155,29 @@
       "Escape Island",
       114.99,
       -30.33,
-      6
+      62
+    ],
+    [
+      "JMP-S6",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "Inner Seaward Ledge",
+      114.97,
+      -30.29,
+      52
+    ],
+    [
+      "JMP-S62",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "Near Sandland Island",
+      114.99,
+      -30.22,
+      4
     ],
     [
       "JMP-S63",
@@ -24792,7 +25188,40 @@
       "Essex Rock",
       115.0,
       -30.35,
-      6
+      10
+    ],
+    [
+      "JMP-S7",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "Juddy Reef",
+      114.96,
+      -30.17,
+      52
+    ],
+    [
+      "JMP-S8",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "Fishermans Island 1",
+      114.95,
+      -30.13,
+      56
+    ],
+    [
+      "JMP-S9",
+      "Australia",
+      "Temperate Australasia",
+      "Jurien",
+      "Houtman",
+      "Fishermans Island 2",
+      114.95,
+      -30.13,
+      52
     ],
     [
       "KAP1",
@@ -28271,6 +28700,61 @@
       1
     ],
     [
+      "NCMP-S1",
+      "Australia",
+      "Temperate Australasia",
+      "Ngari Capes",
+      "Leeuwin",
+      "Cape Naturalist East, 10m",
+      115.01,
+      -33.53,
+      16
+    ],
+    [
+      "NCMP-S10",
+      "Australia",
+      "Temperate Australasia",
+      "Ngari Capes",
+      "Leeuwin",
+      "Cape Leeuwin",
+      115.13,
+      -34.38,
+      16
+    ],
+    [
+      "NCMP-S11",
+      "Australia",
+      "Temperate Australasia",
+      "Ngari Capes",
+      "Leeuwin",
+      "Cape Leeuwin Inshore",
+      115.13,
+      -34.37,
+      16
+    ],
+    [
+      "NCMP-S12",
+      "Australia",
+      "Temperate Australasia",
+      "Ngari Capes",
+      "Leeuwin",
+      "Seal Isle West",
+      115.16,
+      -34.38,
+      16
+    ],
+    [
+      "NCMP-S13",
+      "Australia",
+      "Temperate Australasia",
+      "Ngari Capes",
+      "Leeuwin",
+      "Cosy Corner",
+      115.02,
+      -34.26,
+      16
+    ],
+    [
       "NCMP-S14",
       "Australia",
       "Temperate Australasia",
@@ -28279,7 +28763,161 @@
       "Cosy Corner Outer",
       115.02,
       -34.26,
-      2
+      18
+    ],
+    [
+      "NCMP-S15",
+      "Australia",
+      "Temperate Australasia",
+      "Ngari Capes",
+      "Leeuwin",
+      "Cosy Corner North",
+      115.03,
+      -34.25,
+      16
+    ],
+    [
+      "NCMP-S16",
+      "Australia",
+      "Temperate Australasia",
+      "Ngari Capes",
+      "Leeuwin",
+      "Cape Freycinet",
+      114.99,
+      -34.1,
+      16
+    ],
+    [
+      "NCMP-S17",
+      "Australia",
+      "Temperate Australasia",
+      "Ngari Capes",
+      "Leeuwin",
+      "Cape Freycinet Inshore",
+      114.99,
+      -34.1,
+      16
+    ],
+    [
+      "NCMP-S18",
+      "Australia",
+      "Temperate Australasia",
+      "Ngari Capes",
+      "Leeuwin",
+      "Prevelly",
+      114.98,
+      -33.99,
+      16
+    ],
+    [
+      "NCMP-S19",
+      "Australia",
+      "Temperate Australasia",
+      "Ngari Capes",
+      "Leeuwin",
+      "Canal Rocks",
+      114.99,
+      -33.67,
+      12
+    ],
+    [
+      "NCMP-S2",
+      "Australia",
+      "Temperate Australasia",
+      "Ngari Capes",
+      "Leeuwin",
+      "Cape Naturalist East, 5m",
+      115.02,
+      -33.53,
+      16
+    ],
+    [
+      "NCMP-S20",
+      "Australia",
+      "Temperate Australasia",
+      "Ngari Capes",
+      "Leeuwin",
+      "Bunkers Offshore",
+      115.02,
+      -33.53,
+      8
+    ],
+    [
+      "NCMP-S3",
+      "Australia",
+      "Temperate Australasia",
+      "Ngari Capes",
+      "Leeuwin",
+      "Bunker Bay (WA)",
+      115.03,
+      -33.53,
+      16
+    ],
+    [
+      "NCMP-S4",
+      "Australia",
+      "Temperate Australasia",
+      "Ngari Capes",
+      "Leeuwin",
+      "Cape Naturalist West",
+      115.0,
+      -33.53,
+      16
+    ],
+    [
+      "NCMP-S5",
+      "Australia",
+      "Temperate Australasia",
+      "Ngari Capes",
+      "Leeuwin",
+      "Cape Naturalist Island, Bommie",
+      115.01,
+      -33.53,
+      12
+    ],
+    [
+      "NCMP-S6",
+      "Australia",
+      "Temperate Australasia",
+      "Ngari Capes",
+      "Leeuwin",
+      "Cape Naturalist North East",
+      115.01,
+      -33.53,
+      16
+    ],
+    [
+      "NCMP-S7",
+      "Australia",
+      "Temperate Australasia",
+      "Ngari Capes",
+      "Leeuwin",
+      "Cape Clairault",
+      114.97,
+      -33.7,
+      12
+    ],
+    [
+      "NCMP-S8",
+      "Australia",
+      "Temperate Australasia",
+      "Ngari Capes",
+      "Leeuwin",
+      "Cape Clairault North East",
+      114.98,
+      -33.7,
+      12
+    ],
+    [
+      "NCMP-S9",
+      "Australia",
+      "Temperate Australasia",
+      "Ngari Capes",
+      "Leeuwin",
+      "Wyadup",
+      114.99,
+      -33.68,
+      12
     ],
     [
       "NFLD1",
@@ -42216,7 +42854,7 @@
       "Variety Bay South ",
       147.42,
       -43.2,
-      4
+      8
     ],
     [
       "TAS159",
@@ -42260,7 +42898,7 @@
       "Variety Bay",
       147.41,
       -43.19,
-      4
+      22
     ],
     [
       "TAS162",
@@ -42271,7 +42909,7 @@
       "Trumpeter Bay South",
       147.4,
       -43.17,
-      10
+      14
     ],
     [
       "TAS163",
@@ -42293,7 +42931,7 @@
       "Trumpeter Bay North",
       147.39,
       -43.15,
-      4
+      8
     ],
     [
       "TAS165",
@@ -42370,7 +43008,7 @@
       "Apex Point",
       147.72,
       -43.11,
-      12
+      18
     ],
     [
       "TAS171",
@@ -42403,7 +43041,7 @@
       "Bull Bay South",
       147.37,
       -43.09,
-      4
+      8
     ],
     [
       "TAS174",
@@ -42414,7 +43052,7 @@
       "Bull Bay North",
       147.37,
       -43.07,
-      4
+      8
     ],
     [
       "TAS176",
@@ -42458,7 +43096,7 @@
       "Iron Pot",
       147.42,
       -43.06,
-      4
+      12
     ],
     [
       "TAS18",
@@ -42513,7 +43151,7 @@
       "Betsy Island North West",
       147.47,
       -43.04,
-      4
+      12
     ],
     [
       "TAS186",
@@ -45054,7 +45692,7 @@
       "South of One Tree Point",
       147.39,
       -43.11,
-      4
+      8
     ],
     [
       "TAS416",

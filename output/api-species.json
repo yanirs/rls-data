@@ -5814,6 +5814,13 @@
       "https://images.reeflifesurvey.com/0/species_47_57a46d1b4a96c.w1000.h666.jpg"
     ]
   ],
+  "Batrachomoeus rubricephalus": [
+    "Batrachomoeus rubricephalus",
+    "Pinkheaded frogfish",
+    "https://reeflifesurvey.com/species/batrachomoeus-rubricephalus/",
+    2,
+    []
+  ],
   "Bedeva baileyana": [
     "Bedeva baileyana",
     "Baileys rock shell",
@@ -6039,6 +6046,13 @@
     "Blenniid sp. [cheek patch]",
     "",
     "https://reeflifesurvey.com/species/blenniid-sp-cheek-patch/",
+    2,
+    []
+  ],
+  "Blenniid spp. (Jurien)": [
+    "Blenniid spp. (Jurien)",
+    "",
+    null,
     2,
     []
   ],
@@ -7911,6 +7925,13 @@
       "https://images.reeflifesurvey.com/0/species_2a_57a126588a9ad.w1000.h666.JPG"
     ]
   ],
+  "Canarium mutabile": [
+    "Canarium mutabile",
+    "",
+    "https://reeflifesurvey.com/species/canarium-mutabile/",
+    1,
+    []
+  ],
   "Canarium urceus": [
     "Canarium urceus",
     "",
@@ -8759,6 +8780,13 @@
       "https://images.reeflifesurvey.com/0/species_11_59c85f2f4f161.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_72_59c85f74c49eb.w1000.h666.JPG"
     ]
+  ],
+  "Cardita crassicosta": [
+    "Cardita crassicosta",
+    "",
+    null,
+    1,
+    []
   ],
   "Caretta caretta": [
     "Caretta caretta",
@@ -10651,6 +10679,13 @@
       "https://images.reeflifesurvey.com/0/species_4a_57845f8abdc79.w1000.h666.jpg"
     ]
   ],
+  "Charonia powelli": [
+    "Charonia powelli",
+    "Trumpet shell",
+    "https://reeflifesurvey.com/species/charonia-powelli/",
+    1,
+    []
+  ],
   "Charonia tritonis": [
     "Charonia tritonis",
     "trumpet triton",
@@ -10814,6 +10849,13 @@
     [
       "https://images.reeflifesurvey.com/0/species_a1_578822ca01bc6.w1000.h666.JPG"
     ]
+  ],
+  "Cheilodactylus gibbosus": [
+    "Cheilodactylus gibbosus",
+    "",
+    null,
+    0,
+    []
   ],
   "Cheilodactylus pixi": [
     "Cheilodactylus pixi",
@@ -17570,6 +17612,13 @@
     1,
     []
   ],
+  "Dendrodoris tuberculosa": [
+    "Dendrodoris tuberculosa",
+    "Nudibranch",
+    "https://reeflifesurvey.com/species/dendrodoris-tuberculosa/",
+    1,
+    []
+  ],
   "Dendronotus albus": [
     "Dendronotus albus",
     "White frond-aeolis",
@@ -20917,6 +20966,13 @@
       "https://images.reeflifesurvey.com/0/species_61_5727f3e979d7d.w1000.h666.jpg"
     ]
   ],
+  "Epinephelus septemfasciatus": [
+    "Epinephelus septemfasciatus",
+    "Bar rockcod",
+    "https://reeflifesurvey.com/species/epinephelus-septemfasciatus/",
+    0,
+    []
+  ],
   "Epinephelus socialis": [
     "Epinephelus socialis",
     "Surge grouper",
@@ -21372,6 +21428,13 @@
     "Euplica turturina",
     "",
     "https://reeflifesurvey.com/species/euplica-turturina/",
+    1,
+    []
+  ],
+  "Euprotomus vomer": [
+    "Euprotomus vomer",
+    "",
+    "https://reeflifesurvey.com/species/euprotomus-vomer/",
     1,
     []
   ],
@@ -28394,6 +28457,13 @@
     0,
     []
   ],
+  "Hirundichthys spp.": [
+    "Hirundichthys spp.",
+    "",
+    null,
+    0,
+    []
+  ],
   "Histiophryne cryptacanthus": [
     "Histiophryne cryptacanthus",
     "Rodless anglerfish",
@@ -28582,6 +28652,13 @@
   ],
   "Holopneustes spp.": [
     "Holopneustes spp.",
+    "",
+    null,
+    1,
+    []
+  ],
+  "Holopneustes spp. (flattened test)": [
+    "Holopneustes spp. (flattened test)",
     "",
     null,
     1,
@@ -30755,6 +30832,13 @@
       "https://images.reeflifesurvey.com/0/species_53_57c254ea61123.w1000.h666.JPG",
       "https://images.reeflifesurvey.com/0/species_30_57293721ee088.w1000.h666.jpg"
     ]
+  ],
+  "Lagocephalus sceleratus": [
+    "Lagocephalus sceleratus",
+    "Silver toadfish",
+    "https://reeflifesurvey.com/species/lagocephalus-sceleratus/",
+    0,
+    []
   ],
   "Lagodon rhomboides": [
     "Lagodon rhomboides",
@@ -41549,6 +41633,15 @@
     1,
     []
   ],
+  "Parazanclistius hutchinsi": [
+    "Parazanclistius hutchinsi",
+    "Short boarfish",
+    "https://reeflifesurvey.com/species/parazanclistius-hutchinsi/",
+    0,
+    [
+      "https://images.reeflifesurvey.com/1/species_10_6488046b6321d.w1000.h666.jpg"
+    ]
+  ],
   "Parechinus angulosus": [
     "Parechinus angulosus",
     "Angulate Urchin",
@@ -43368,6 +43461,13 @@
       "https://images.reeflifesurvey.com/0/species_f7_57929db75e83d.w1000.h666.jpg",
       "https://images.reeflifesurvey.com/0/species_2b_57929dbacb17d.w1000.h666.JPG"
     ]
+  ],
+  "Philinopsis troubridgensis": [
+    "Philinopsis troubridgensis",
+    "",
+    "https://reeflifesurvey.com/species/philinopsis-troubridgensis/",
+    1,
+    []
   ],
   "Philippia lutea": [
     "Philippia lutea",
@@ -45498,6 +45598,13 @@
     2,
     []
   ],
+  "Polyspina piosae": [
+    "Polyspina piosae",
+    "Orange-barred puffer",
+    "https://reeflifesurvey.com/species/polyspina-piosae/",
+    0,
+    []
+  ],
   "Pomacanthidae spp.": [
     "Pomacanthidae spp.",
     "",
@@ -46757,6 +46864,13 @@
     "Prothalotia lehmanni",
     "Lehmanns top shell",
     "https://reeflifesurvey.com/species/prothalotia-lehmanni/",
+    1,
+    []
+  ],
+  "Prothalotia pulcherrima": [
+    "Prothalotia pulcherrima",
+    "",
+    "https://reeflifesurvey.com/species/prothalotia-pulcherrima/",
     1,
     []
   ],
@@ -52999,6 +53113,13 @@
       "https://images.reeflifesurvey.com/0/species_19_57ad7d471e5ff.w1000.h666.jpg"
     ]
   ],
+  "Siphamia cuneiceps": [
+    "Siphamia cuneiceps",
+    "",
+    "https://reeflifesurvey.com/species/siphamia-cuneiceps/",
+    2,
+    []
+  ],
   "Siphamia roseigaster": [
     "Siphamia roseigaster",
     "Pinkbreast Siphonfish",
@@ -57127,6 +57248,13 @@
       "https://images.reeflifesurvey.com/0/species_cd_573bb0fac312f.w1000.h666.jpg"
     ]
   ],
+  "Timbellus bednalli": [
+    "Timbellus bednalli",
+    "",
+    "https://reeflifesurvey.com/species/timbellus-bednalli/",
+    1,
+    []
+  ],
   "Titanostrombus galeatus": [
     "Titanostrombus galeatus",
     "Eastern Pacific giant conch",
@@ -59094,6 +59222,13 @@
     1,
     []
   ],
+  "Unidentified crinoid (black)": [
+    "Unidentified crinoid (black)",
+    "",
+    null,
+    1,
+    []
+  ],
   "Unidentified eel": [
     "Unidentified eel",
     "",
@@ -59117,6 +59252,27 @@
   ],
   "Unidentified flatworm": [
     "Unidentified flatworm",
+    "",
+    null,
+    1,
+    []
+  ],
+  "Unidentified flatworm (black)": [
+    "Unidentified flatworm (black)",
+    "",
+    null,
+    1,
+    []
+  ],
+  "Unidentified flatworm (black-orange)": [
+    "Unidentified flatworm (black-orange)",
+    "",
+    null,
+    1,
+    []
+  ],
+  "Unidentified flatworm (purple)": [
+    "Unidentified flatworm (purple)",
     "",
     null,
     1,
